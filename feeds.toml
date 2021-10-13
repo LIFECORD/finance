@@ -63,8 +63,8 @@ linkSelector = "a"
 waitUntil = "networkidle"
 
 
-[naver_news_exchange]
-title = "네이버 금융 ─ 뉴스 ─ 환율"
+[naver_news_rank]
+title = "네이버 금융 ─ 뉴스 ─ 많이 본 뉴스"
 url = "https://finance.naver.com/news/news_list.naver?mode=RANK"
 entrySelector = "ul.simpleNewsList li"
 titleSelector = "a"
