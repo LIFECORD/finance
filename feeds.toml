@@ -1,0 +1,7 @@
+[news_breaking ]
+title = "네이버 금융 ─ 뉴스 ─ 실시간 속보"
+url = "https://finance.naver.com/news/news_list.naver?mode=LSS2D&section_id=101&section_id2=258"
+entrySelector = "ul.realtimeNewsList li.newsList.top dl dd.articleSubject"
+titleSelector = "dl dd"
+linkSelector = "a"
+waitUntil = "networkidle"
