@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-10-13T21:04:13.870Z</updated>
+    <updated>2021-10-13T21:08:11.959Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -125,13 +125,6 @@
         <content type="html"><![CDATA[서울경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2조원 팔아치운 외국인 '이 종목' 샀다…증권가도 "사라"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004656238&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004656238&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-14T05:18:00.000Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[자산시장 거품 빠지기 시작하나…벼랑 끝 몰리는 '빚투']]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0012720502&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012720502&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
@@ -179,5 +172,12 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000743248&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-14T05:46:00.000Z</updated>
         <content type="html"><![CDATA[머니S]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[속보] 비트코인 2.69% 상승한 5만6925달러에 거래돼]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005655944&amp;office_id=421&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005655944&amp;office_id=421&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-14T05:57:00.000Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
