@@ -10,3 +10,5 @@ https://lifecord.github.io/finance/all.xml
 - 채권·선물: https://lifecord.github.io/finance/naver_news_bond.xml
 - 공시·메모: https://lifecord.github.io/finance/naver_news_announce.xml
 - 환율: https://lifecord.github.io/finance/naver_news_exchange.xml
+- 많이 본 뉴스: https://lifecord.github.io/finance/naver_news_rank.xml
+- 포토뉴스: https://lifecord.github.io/finance/naver_news_photo.xml
