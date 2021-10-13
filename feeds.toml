@@ -95,17 +95,6 @@ dateSelector = "span.wdate"
 dateFormat = "yyyy-MM-dd hh:mm"
 waitUntil = "networkidle"
 
-[naver_news_tv]
-title = "네이버 금융 ─ 뉴스 ─ TV뉴스"
-url = "https://finance.naver.com/news/news_list.naver?mode=TV&section_id=tv"
-entrySelector = "ul.newsList li.block1"
-titleSelector = "dl dd.articleSubject a"
-linkSelector = "dl dd.articleSubject a"
-contentSelector = "span.press"
-dateSelector = "span.wdate"
-dateFormat = "yyyy-MM-dd hh:mm"
-waitUntil = "networkidle"
-
 [naver_market_notice]
 title = "네이버 금융 ─ 투자정보 ─ 공시정보"
 url = "https://finance.naver.com/news/market_notice.naver"
