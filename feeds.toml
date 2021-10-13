@@ -125,3 +125,11 @@ titleSelector = "a"
 linkSelector = "a"
 waitUntil = "networkidle"
 
+[naver_research_company]
+title = "네이버 금융 ─ 리서치 ─ 종목분석 리포트"
+url = "https://finance.naver.com/research/company_list.naver"
+entrySelector = "table.type_1 tbody tr:nth-child(n+3)"
+titleSelector = "td:nth-child(2) a"
+linkSelector = "tr:nth-child(3) td.file a"
+contentSelector = "td:nth-child(1) a"
+waitUntil = "networkidle"
