@@ -62,7 +62,6 @@ titleSelector = "a"
 linkSelector = "a"
 waitUntil = "networkidle"
 
-
 [naver_news_rank]
 title = "네이버 금융 ─ 뉴스 ─ 많이 본 뉴스"
 url = "https://finance.naver.com/news/news_list.naver?mode=RANK"
@@ -73,3 +72,15 @@ contentSelector = "span.press"
 dateSelector = "span.wdate"
 dateFormat = "yyyy-MM-dd hh:mm"
 waitUntil = "networkidle"
+
+[naver_news_photo]
+title = "네이버 금융 ─ 뉴스 ─ 포토뉴스"
+url = "https://finance.naver.com/news/news_list.naver?mode=LSTD&section_id=101&section_id2=258&type=1"
+entrySelector = "ul.newsList li.block1"
+titleSelector = "dl dd.articleSubject a"
+linkSelector = "dl dd.articleSubject a"
+contentSelector = "span.press"
+dateSelector = "span.wdate"
+dateFormat = "yyyy-MM-dd hh:mm"
+waitUntil = "networkidle"
+
