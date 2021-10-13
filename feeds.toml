@@ -127,3 +127,12 @@ contentSelector = "td.press"
 dateSelector = "td.wdate"
 dateFormat = "yy.MM.dd hh:mm"
 waitUntil = "networkidle"
+
+[naver_schedule]
+title = "네이버 금융 ─ 오늘의 증시일정"
+url = "https://finance.naver.com/news/news_search.naver?rcdate=&q=%BF%C0%B4%C3%C0%C7+%C1%F5%BD%C3%C0%CF%C1%A4&sm=title.basic&pd=1&stDateStart="
+entrySelector = "dl.newsList dt.articleSubject"
+titleSelector = "a"
+linkSelector = "a"
+waitUntil = "networkidle"
+
