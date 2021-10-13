@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS2D&amp;section_id=101&amp;section_id2=258</id>
     <title>네이버 금융 ─ 뉴스 ─ 실시간 속보</title>
-    <updated>2021-10-13T22:31:46.163Z</updated>
+    <updated>2021-10-13T22:34:56.451Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[클릭e종목]"현대글로비스, 글로벌 물류대란 수혜로 실적 호조"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004982772&amp;office_id=277&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211014&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004982772&amp;office_id=277&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211014&amp;page=1"/>
+        <updated>2021-10-13T22:33:43.392Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004982772&amp;office_id=277&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211014&amp;page=1" title="[클릭e종목]&quot;현대글로비스, 글로벌 물류대란 수혜로 실적 호조&quot;">[클릭e종목]"현대글로비스, 글로벌 물류대란 수혜로 실적 호조"</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제일기획, 국내외 성장세…실적 개선 흐름 지속 전망-키움]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005059623&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211014&amp;page=1</id>
@@ -53,12 +60,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004616030&amp;office_id=015&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211014&amp;page=1"/>
         <updated>2021-10-13T22:20:18.599Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004616030&amp;office_id=015&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211014&amp;page=1" title="“몰누피라비르, 시장 판도 바꾸나”… 비코로나株에 주목할 때">“몰누피라비르, 시장 판도 바꾸나”… 비코로나株에 주목할 때</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[일일펀드동향] 韓 주식형펀드 9거래일간 5846억원 순유입]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004982757&amp;office_id=277&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211014&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004982757&amp;office_id=277&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211014&amp;page=1"/>
-        <updated>2021-10-13T22:20:18.599Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004982757&amp;office_id=277&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211014&amp;page=1" title="[일일펀드동향] 韓 주식형펀드 9거래일간 5846억원 순유입">[일일펀드동향] 韓 주식형펀드 9거래일간 5846억원 순유입</a>]]></content>
     </entry>
 </feed>
