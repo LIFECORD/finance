@@ -132,4 +132,7 @@ entrySelector = "table.type_1 tbody tr:nth-child(n+3)"
 titleSelector = "td:nth-child(2) a"
 linkSelector = "tr:nth-child(3) td.file a"
 contentSelector = "td:nth-child(1) a"
+dateSelector = "td:nth-child(5)"
+dateFormat = "yy.MM.dd"
 waitUntil = "networkidle"
+
