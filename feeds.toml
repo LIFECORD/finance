@@ -106,9 +106,20 @@ dateSelector = "span.wdate"
 dateFormat = "yyyy-MM-dd hh:mm"
 waitUntil = "networkidle"
 
-[naver_marketnotice]
+[naver_market_notice]
 title = "네이버 금융 ─ 투자정보 ─ 공시정보"
 url = "https://finance.naver.com/news/market_notice.naver"
+entrySelector = "table tbody tr"
+titleSelector = "td.publicSubject > a"
+linkSelector = "td.publicSubject > a"
+contentSelector = "td.press"
+dateSelector = "td.wdate"
+dateFormat = "yy.MM.dd hh:mm"
+waitUntil = "networkidle"
+
+[naver_market_special]
+title = "네이버 금융 ─ 투자정보 ─ 장중특징주"
+url = "https://finance.naver.com/news/market_special.naver"
 entrySelector = "table tbody tr"
 titleSelector = "td.publicSubject > a"
 linkSelector = "td.publicSubject > a"
