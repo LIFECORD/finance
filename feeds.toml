@@ -53,3 +53,11 @@ entrySelector = "ul.realtimeNewsList li.newsList.top dl dd.articleSubject"
 titleSelector = "a"
 linkSelector = "a"
 waitUntil = "networkidle"
+
+[naver_news_exchange]
+title = "네이버 금융 ─ 뉴스 ─ 환율"
+url = "https://finance.naver.com/news/news_list.naver?mode=LSS3D&section_id=101&section_id2=258&section_id3=429"
+entrySelector = "ul.realtimeNewsList li.newsList.top dl dd.articleSubject"
+titleSelector = "a"
+linkSelector = "a"
+waitUntil = "networkidle"
