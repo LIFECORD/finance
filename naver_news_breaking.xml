@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS2D&amp;section_id=101&amp;section_id2=258</id>
     <title>네이버 금융 ─ 뉴스 ─ 실시간 속보</title>
-    <updated>2021-10-13T21:00:38.652Z</updated>
+    <updated>2021-10-13T21:04:13.882Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[속보] 비트코인 2.69% 상승한 5만6925달러에 거래돼]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005655944&amp;office_id=421&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211014&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005655944&amp;office_id=421&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211014&amp;page=1"/>
+        <updated>2021-10-13T21:03:22.940Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005655944&amp;office_id=421&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211014&amp;page=1" title="[속보] 비트코인 2.69% 상승한 5만6925달러에 거래돼">[속보] 비트코인 2.69% 상승한 5만6925달러에 거래돼</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[회계처리 위반 혐의 심사해보니… 기업 10곳 중 9곳 적발]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000743248&amp;office_id=417&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211014&amp;page=1</id>
@@ -60,12 +67,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004656238&amp;office_id=008&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211014&amp;page=1"/>
         <updated>2021-10-13T20:35:03.953Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004656238&amp;office_id=008&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211014&amp;page=1" title="2조원 팔아치운 외국인 '이 종목' 샀다…증권가도 &quot;사라&quot;">2조원 팔아치운 외국인 '이 종목' 샀다…증권가도 "사라"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내 주식 떨어지는데 세금만 쑥..."'증권거래세' 완전 폐지돼야"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004656237&amp;office_id=008&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211014&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004656237&amp;office_id=008&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211014&amp;page=1"/>
-        <updated>2021-10-13T20:59:58.821Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004656237&amp;office_id=008&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211014&amp;page=1" title="내 주식 떨어지는데 세금만 쑥...&quot;'증권거래세' 완전 폐지돼야&quot;">내 주식 떨어지는데 세금만 쑥..."'증권거래세' 완전 폐지돼야"</a>]]></content>
     </entry>
 </feed>
