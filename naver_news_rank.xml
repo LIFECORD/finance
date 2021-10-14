@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-10-14T02:23:30.339Z</updated>
+    <updated>2021-10-14T03:06:57.932Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 뉴인텍, 전기기기용 커패시터 부각에 강세… 20%↑]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000743410&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000743410&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-14T10:53:00.000Z</updated>
+        <content type="html"><![CDATA[머니S]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴욕유가] 공급 부족·수요 부진 우려에 하락]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0012720486&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
@@ -18,6 +25,13 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003646208&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-14T03:06:00.000Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 위메이드, '블록체인 적용' 미르4 흥행에 장중 25..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012721312&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012721312&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-14T11:09:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[고점서 35% 빠진 LG전자…볼트 리콜 악재 이젠 벗어날까]]></title>
@@ -90,6 +104,20 @@
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[특징주]아연 값 강세에 한일화학 상한가]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005060006&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005060006&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-14T11:27:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주]LG화학, 외국계 매수세에 강세…배터리 리콜 불확실성 ..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001899056&amp;office_id=016&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001899056&amp;office_id=016&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-14T10:34:00.000Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[홍남기 "원달러환율 빠른 속도로 상승…필요시 안정화 조치"]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005059612&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005059612&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
@@ -132,13 +160,6 @@
         <content type="html"><![CDATA[한국경제TV]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[특징주]LG화학, 외국계 매수세에 강세…배터리 리콜 불확실성 ..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001899056&amp;office_id=016&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001899056&amp;office_id=016&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-14T10:34:00.000Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[비트코인 숨 고르기 들어가자 '하락장 전망']]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0010768340&amp;office_id=003&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0010768340&amp;office_id=003&amp;mode=RANK&amp;typ=0"/>
@@ -158,26 +179,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004616025&amp;office_id=015&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-14T07:01:00.000Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[클릭 e종목]레이, 저점 매수 유효…확실한 실적 모멘텀]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004982762&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004982762&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-14T07:11:00.000Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[결정적 한끗]⑤참이슬 맛의 비밀 '1%'에 있었다]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000004212&amp;office_id=648&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000004212&amp;office_id=648&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-14T07:00:00.000Z</updated>
-        <content type="html"><![CDATA[비즈니스워치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비상장사 전자증권제 참여율 14.7% 그쳐…"유인책 필요"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0012720558&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012720558&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-14T07:00:00.000Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
