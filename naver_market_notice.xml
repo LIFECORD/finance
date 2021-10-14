@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/market_notice.naver</id>
     <title>네이버 금융 ─ 투자정보 ─ 공시정보</title>
-    <updated>2021-10-14T22:05:44.334Z</updated>
+    <updated>2021-10-14T23:06:13.435Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(주)영풍 (정정)생산중단]]></title>
+        <id>https://finance.naver.com/news/market_notice_read.naver?no=1181243&amp;type=&amp;keyword=</id>
+        <link href="https://finance.naver.com/news/market_notice_read.naver?no=1181243&amp;type=&amp;keyword="/>
+        <updated>2021-10-15T07:38:00.000Z</updated>
+        <content type="html"><![CDATA[KOSCOM]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에스지에이(주) 유형자산 양수 결정]]></title>
+        <id>https://finance.naver.com/news/market_notice_read.naver?no=1181242&amp;type=&amp;keyword=</id>
+        <link href="https://finance.naver.com/news/market_notice_read.naver?no=1181242&amp;type=&amp;keyword="/>
+        <updated>2021-10-15T07:32:00.000Z</updated>
+        <content type="html"><![CDATA[KOSCOM]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이노뎁(주) 기타 주요경영사항(입찰절차 중지 가처분 인용 결정)]]></title>
         <id>https://finance.naver.com/news/market_notice_read.naver?no=1181241&amp;type=&amp;keyword=</id>
@@ -27,6 +41,13 @@
         <content type="html"><![CDATA[KOSCOM]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[5]]></title>
+        <id>https://finance.naver.com/news/market_notice.naver</id>
+        <link href="https://finance.naver.com/news/market_notice.naver"/>
+        <updated>2021-10-14T23:05:15.640Z</updated>
+        <content type="html"><![CDATA[<td colspan="3" class="bdr"><hr></td>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[윙입푸드홀딩스 외국지주회사의 자회사 편입ㆍ탈퇴]]></title>
         <id>https://finance.naver.com/news/market_notice_read.naver?no=1181238&amp;type=&amp;keyword=</id>
         <link href="https://finance.naver.com/news/market_notice_read.naver?no=1181238&amp;type=&amp;keyword="/>
@@ -39,13 +60,6 @@
         <link href="https://finance.naver.com/news/market_notice_read.naver?no=1181237&amp;type=&amp;keyword="/>
         <updated>2021-10-14T10:05:46.781Z</updated>
         <content type="html"><![CDATA[KOSCOM]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5]]></title>
-        <id>https://finance.naver.com/news/market_notice.naver</id>
-        <link href="https://finance.naver.com/news/market_notice.naver"/>
-        <updated>2021-10-14T22:04:52.070Z</updated>
-        <content type="html"><![CDATA[<td colspan="3" class="bdr"><hr></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[주식회사 티움바이오 투자판단 관련 주요경영사항(면역항암제 TU2..]]></title>
@@ -69,6 +83,13 @@
         <content type="html"><![CDATA[KOSCOM]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[11]]></title>
+        <id>https://finance.naver.com/news/market_notice.naver</id>
+        <link href="https://finance.naver.com/news/market_notice.naver"/>
+        <updated>2021-10-14T23:05:15.646Z</updated>
+        <content type="html"><![CDATA[<td colspan="3" class="bdr"><hr></td>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[주식워런트증권 상장폐지조치(전부보유 1개월에 의한 상장폐지)]]></title>
         <id>https://finance.naver.com/news/market_notice_read.naver?no=1181233&amp;type=&amp;keyword=</id>
         <link href="https://finance.naver.com/news/market_notice_read.naver?no=1181233&amp;type=&amp;keyword="/>
@@ -81,13 +102,6 @@
         <link href="https://finance.naver.com/news/market_notice_read.naver?no=1181232&amp;type=&amp;keyword="/>
         <updated>2021-10-14T10:05:46.785Z</updated>
         <content type="html"><![CDATA[KOSCOM]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[11]]></title>
-        <id>https://finance.naver.com/news/market_notice.naver</id>
-        <link href="https://finance.naver.com/news/market_notice.naver"/>
-        <updated>2021-10-14T22:04:52.078Z</updated>
-        <content type="html"><![CDATA[<td colspan="3" class="bdr"><hr></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[자기주식매매신청내역(코스닥시장)]]></title>
@@ -111,6 +125,13 @@
         <content type="html"><![CDATA[KOSCOM]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[17]]></title>
+        <id>https://finance.naver.com/news/market_notice.naver</id>
+        <link href="https://finance.naver.com/news/market_notice.naver"/>
+        <updated>2021-10-14T23:05:15.647Z</updated>
+        <content type="html"><![CDATA[<td colspan="3" class="bdr"><hr></td>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[직전1개월 일평균대비 거래량 증가율 상위 10종목(코스닥시장)]]></title>
         <id>https://finance.naver.com/news/market_notice_read.naver?no=1181228&amp;type=&amp;keyword=</id>
         <link href="https://finance.naver.com/news/market_notice_read.naver?no=1181228&amp;type=&amp;keyword="/>
@@ -123,13 +144,6 @@
         <link href="https://finance.naver.com/news/market_notice_read.naver?no=1181227&amp;type=&amp;keyword="/>
         <updated>2021-10-14T10:05:46.790Z</updated>
         <content type="html"><![CDATA[KOSCOM]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[17]]></title>
-        <id>https://finance.naver.com/news/market_notice.naver</id>
-        <link href="https://finance.naver.com/news/market_notice.naver"/>
-        <updated>2021-10-14T22:04:52.082Z</updated>
-        <content type="html"><![CDATA[<td colspan="3" class="bdr"><hr></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[대량매매내역(코스닥시장)]]></title>
@@ -153,31 +167,17 @@
         <content type="html"><![CDATA[KOSCOM]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[대량매매내역(유가증권시장)]]></title>
-        <id>https://finance.naver.com/news/market_notice_read.naver?no=1181223&amp;type=&amp;keyword=</id>
-        <link href="https://finance.naver.com/news/market_notice_read.naver?no=1181223&amp;type=&amp;keyword="/>
-        <updated>2021-10-14T10:05:46.793Z</updated>
-        <content type="html"><![CDATA[KOSCOM]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일일 회전율 상위 20종목-ELW포함(유가증권시장)]]></title>
-        <id>https://finance.naver.com/news/market_notice_read.naver?no=1181222&amp;type=&amp;keyword=</id>
-        <link href="https://finance.naver.com/news/market_notice_read.naver?no=1181222&amp;type=&amp;keyword="/>
-        <updated>2021-10-14T10:05:46.795Z</updated>
-        <content type="html"><![CDATA[KOSCOM]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[23]]></title>
         <id>https://finance.naver.com/news/market_notice.naver</id>
         <link href="https://finance.naver.com/news/market_notice.naver"/>
-        <updated>2021-10-14T22:04:52.082Z</updated>
+        <updated>2021-10-14T23:05:15.664Z</updated>
         <content type="html"><![CDATA[<td colspan="3" class="bdr"><hr></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[24]]></title>
         <id>https://finance.naver.com/news/market_notice.naver</id>
         <link href="https://finance.naver.com/news/market_notice.naver"/>
-        <updated>2021-10-14T22:04:52.083Z</updated>
+        <updated>2021-10-14T23:05:15.666Z</updated>
         <content type="html"><![CDATA[<td>
 					<table cellspacing="0" cellpadding="0" border="0">
 					<tbody><tr align="center">
@@ -227,7 +227,7 @@
         <title type="html"><![CDATA[25]]></title>
         <id>https://finance.naver.com/news/market_notice.naver</id>
         <link href="https://finance.naver.com/news/market_notice.naver"/>
-        <updated>2021-10-14T22:04:52.083Z</updated>
+        <updated>2021-10-14T23:05:15.668Z</updated>
         <content type="html"><![CDATA[<td class="on">
 				<a href="/news/market_notice.naver?&amp;page=1">1</a>
 				</td>
@@ -266,50 +266,50 @@
         <title type="html"><![CDATA[26]]></title>
         <id>https://finance.naver.com/news/market_notice.naver</id>
         <link href="https://finance.naver.com/news/market_notice.naver"/>
-        <updated>2021-10-14T22:04:52.083Z</updated>
+        <updated>2021-10-14T23:05:15.670Z</updated>
         <content type="html"><![CDATA[<td class="tr" align="right"><img src="https://ssl.pstatic.net/imgstock/images5/news/ico_n01.gif" alt="01" width="11" height="11"></td>
 						<td><a href="/item/main.naver?code=005930" class="company">삼성전자</a></td>
 						<td class="number">69,400</td>
-						<td class="tc"><img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" alt="상승" class="updown" width="7" height="6"></td>]]></content>
+						<td class="tc"><img src="https://ssl.pstatic.net/imgstock/images5/ico_nobar.gif" alt="보합" class="steady" width="7" height="2"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[27]]></title>
         <id>https://finance.naver.com/news/market_notice.naver</id>
         <link href="https://finance.naver.com/news/market_notice.naver"/>
-        <updated>2021-10-14T22:04:52.083Z</updated>
+        <updated>2021-10-14T23:05:15.672Z</updated>
         <content type="html"><![CDATA[<td class="tr" align="right"><img src="https://ssl.pstatic.net/imgstock/images5/news/ico_n02.gif" alt="01" width="11" height="11"></td>
-						<td><a href="/item/main.naver?code=139260" class="company">TIGER 200 IT</a></td>
-						<td class="number">33,225</td>
+						<td><a href="/item/main.naver?code=211900" class="company">KODEX 배당성장</a></td>
+						<td class="number">15,980</td>
 						<td class="tc"><img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" alt="상승" class="updown" width="7" height="6"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[28]]></title>
         <id>https://finance.naver.com/news/market_notice.naver</id>
         <link href="https://finance.naver.com/news/market_notice.naver"/>
-        <updated>2021-10-14T22:04:52.097Z</updated>
+        <updated>2021-10-14T23:05:15.698Z</updated>
         <content type="html"><![CDATA[<td class="tr" align="right"><img src="https://ssl.pstatic.net/imgstock/images5/news/ico_n03.gif" alt="01" width="11" height="11"></td>
 						<td><a href="/item/main.naver?code=005380" class="company">현대차</a></td>
 						<td class="number">209,000</td>
-						<td class="tc"><img src="https://ssl.pstatic.net/imgstock/images/images4/ico_down.gif" alt="하락" class="updown" width="7" height="6"></td>]]></content>
+						<td class="tc"><img src="https://ssl.pstatic.net/imgstock/images5/ico_nobar.gif" alt="보합" class="steady" width="7" height="2"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[29]]></title>
         <id>https://finance.naver.com/news/market_notice.naver</id>
         <link href="https://finance.naver.com/news/market_notice.naver"/>
-        <updated>2021-10-14T22:04:52.097Z</updated>
+        <updated>2021-10-14T23:05:15.699Z</updated>
         <content type="html"><![CDATA[<td class="tr" align="right"><img src="https://ssl.pstatic.net/imgstock/images5/news/ico_n04.gif" alt="01" width="11" height="11"></td>
-						<td><a href="/item/main.naver?code=051910" class="company">LG화학</a></td>
-						<td class="number">848,000</td>
-						<td class="tc"><img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" alt="상승" class="updown" width="7" height="6"></td>]]></content>
+						<td><a href="/item/main.naver?code=012330" class="company">현대모비스</a></td>
+						<td class="number">273,000</td>
+						<td class="tc"><img src="https://ssl.pstatic.net/imgstock/images5/ico_nobar.gif" alt="보합" class="steady" width="7" height="2"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[30]]></title>
         <id>https://finance.naver.com/news/market_notice.naver</id>
         <link href="https://finance.naver.com/news/market_notice.naver"/>
-        <updated>2021-10-14T22:04:52.116Z</updated>
+        <updated>2021-10-14T23:05:15.700Z</updated>
         <content type="html"><![CDATA[<td class="tr" align="right"><img src="https://ssl.pstatic.net/imgstock/images5/news/ico_n05.gif" alt="01" width="11" height="11"></td>
-						<td><a href="/item/main.naver?code=035720" class="company">카카오</a></td>
-						<td class="number">121,500</td>
-						<td class="tc"><img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" alt="상승" class="updown" width="7" height="6"></td>]]></content>
+						<td><a href="/item/main.naver?code=009540" class="company">한국조선해양</a></td>
+						<td class="number">96,000</td>
+						<td class="tc"><img src="https://ssl.pstatic.net/imgstock/images5/ico_nobar.gif" alt="보합" class="steady" width="7" height="2"></td>]]></content>
     </entry>
 </feed>
