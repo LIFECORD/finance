@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-10-14T16:08:26.939Z</updated>
+    <updated>2021-10-14T17:13:50.778Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대출 받으려 밤샘 100m 줄…"대기번호 200번"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000927185&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211015&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000927185&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211015&amp;page=1"/>
+        <updated>2021-10-15T01:47:00.000Z</updated>
+        <content type="html"><![CDATA[SBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['고유가'로 수입물가 7년 7개월 만에 최고치..."소비자 물가 영향 우려"]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001652464&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211015&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001614173&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211015&amp;page=1"/>
         <updated>2021-10-14T15:05:13.405Z</updated>
         <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신세계백화점 강남점 물난리…"노후 상수도관 파열"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000278375&amp;office_id=437&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211015&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000278375&amp;office_id=437&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211015&amp;page=1"/>
-        <updated>2021-10-14T15:05:13.406Z</updated>
-        <content type="html"><![CDATA[JTBC]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-10-14T16:08:26.936Z</updated>
+    <updated>2021-10-14T17:13:50.799Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -39,5 +39,19 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012723426&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-14T16:07:15.285Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[모건스탠리 CEO "Fed 내년에 금리 올릴 것…시장 이미 소화..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004616507&amp;office_id=015&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004616507&amp;office_id=015&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-15T01:10:00.000Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[마켓인]"건축업 혁신 꾀한 하우빌드…VC가 알아봤죠"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005060779&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005060779&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-15T01:31:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
