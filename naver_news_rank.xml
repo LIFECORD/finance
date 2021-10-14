@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-10-14T08:09:00.260Z</updated>
+    <updated>2021-10-14T09:06:48.716Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -146,6 +146,13 @@
         <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[지앤비에스엔지니어링, 28일 코스닥 입성…"글로벌 파트너십 강점..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004616305&amp;office_id=015&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004616305&amp;office_id=015&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-14T09:05:34.271Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[특징주]아연 값 강세에 한일화학 상한가]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005060006&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005060006&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
@@ -172,12 +179,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004723222&amp;office_id=014&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-14T06:05:43.608Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[유가증권 메모] (14일) 변경상장=한라(주식소각)]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004616009&amp;office_id=015&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004616009&amp;office_id=015&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-14T02:40:00.000Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
