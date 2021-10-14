@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=429</id>
     <title>네이버 금융 ─ 뉴스 ─ 환율</title>
-    <updated>2021-10-14T09:06:48.706Z</updated>
+    <updated>2021-10-14T10:06:38.524Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정부 입맛 맞추려···공기업은 해외 '수소' 개발만]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003973282&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211014&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003973282&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211014&amp;page=1"/>
+        <updated>2021-10-14T10:05:20.846Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003973282&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211014&amp;page=1" title="정부 입맛 맞추려···공기업은 해외 '수소' 개발만">정부 입맛 맞추려···공기업은 해외 '수소' 개발만</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["고성장 가상자산 시장에 '증권규제 틀' 도입해야"]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0012722831&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211014&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012719317&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211014&amp;page=1"/>
         <updated>2021-10-13T20:55:38.155Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012719317&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211014&amp;page=1" title="[그래픽] 시중 통화량 증가액 추이">[그래픽] 시중 통화량 증가액 추이</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[온통대전 배달플랫폼 무료배달 성과…가입자 수·매출액 증가]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0012718394&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211014&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012718394&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211014&amp;page=1"/>
-        <updated>2021-10-13T20:55:38.156Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012718394&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211014&amp;page=1" title="온통대전 배달플랫폼 무료배달 성과…가입자 수·매출액 증가">온통대전 배달플랫폼 무료배달 성과…가입자 수·매출액 증가</a>]]></content>
     </entry>
 </feed>
