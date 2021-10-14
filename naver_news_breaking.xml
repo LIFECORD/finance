@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS2D&amp;section_id=101&amp;section_id2=258</id>
     <title>네이버 금융 ─ 뉴스 ─ 실시간 속보</title>
-    <updated>2021-10-14T00:09:39.282Z</updated>
+    <updated>2021-10-14T00:13:17.086Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신영證, 문학동네와 협업해 여의도에 복합문화공간 조성]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005059723&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211014&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005059723&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211014&amp;page=1"/>
+        <updated>2021-10-14T00:11:25.507Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005059723&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211014&amp;page=1" title="신영證, 문학동네와 협업해 여의도에 복합문화공간 조성">신영證, 문학동네와 협업해 여의도에 복합문화공간 조성</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[K-콘텐츠 크리에이터 연합회 초대회장에 송재룡 트레져헌터 대표 선출]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003972811&amp;office_id=011&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211014&amp;page=1</id>
@@ -25,12 +32,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004722918&amp;office_id=014&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211014&amp;page=1"/>
         <updated>2021-10-14T00:06:02.461Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004722918&amp;office_id=014&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211014&amp;page=1" title="천보, 호실적 전망에 목표주가 23% ↑-한국투자증권">천보, 호실적 전망에 목표주가 23% ↑-한국투자증권</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[달러/원] 환율 5.3원 내린 1188.5원 출발]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005656155&amp;office_id=421&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211014&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005656155&amp;office_id=421&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211014&amp;page=1"/>
-        <updated>2021-10-14T00:07:53.626Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005656155&amp;office_id=421&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211014&amp;page=1" title="[달러/원] 환율 5.3원 내린 1188.5원 출발">[달러/원] 환율 5.3원 내린 1188.5원 출발</a>]]></content>
     </entry>
 </feed>
