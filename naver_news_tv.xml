@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-10-14T20:06:41.208Z</updated>
+    <updated>2021-10-14T21:05:38.345Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어제 9시까지 1,512명…오늘 1,600명대 예상]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000509179&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211015&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000509179&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211015&amp;page=1"/>
+        <updated>2021-10-15T05:37:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이용객 외면 인천공항 자기부상철도..."차라리 철거를"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001652533&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211015&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001652533&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211015&amp;page=1"/>
+        <updated>2021-10-15T05:07:00.000Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대출 받으려 밤샘 100m 줄…"대기번호 200번"]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000927185&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211015&amp;page=1</id>
@@ -60,19 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000341453&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211015&amp;page=1"/>
         <updated>2021-10-14T15:05:13.401Z</updated>
         <content type="html"><![CDATA[TV조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[실수요자 피해 우려에 전세대출 중단 없을 듯]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0011137693&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211015&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011137693&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211015&amp;page=1"/>
-        <updated>2021-10-14T15:05:13.403Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[백운기의 뉴스와이드] "마음에 맺혀" 이낙연, 원팀 전망은? / 구속 갈림길에 선 김만배..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001614173&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211015&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001614173&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211015&amp;page=1"/>
-        <updated>2021-10-14T15:05:13.405Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
     </entry>
 </feed>
