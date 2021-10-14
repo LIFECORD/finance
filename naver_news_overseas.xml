@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-10-14T00:04:04.283Z</updated>
+    <updated>2021-10-14T00:07:46.263Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -60,5 +60,19 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004616035&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211014&amp;page=1"/>
         <updated>2021-10-13T23:04:29.988Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004616035&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211014&amp;page=1" title="美 증시, 물가상승 압력에도 소폭 올라…기업 실적 주시">美 증시, 물가상승 압력에도 소폭 올라…기업 실적 주시</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[표]미국 주요기업 주가(10/13)]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005059640&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211014&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005059640&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211014&amp;page=1"/>
+        <updated>2021-10-14T00:06:28.698Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005059640&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211014&amp;page=1" title="[표]미국 주요기업 주가(10/13)">[표]미국 주요기업 주가(10/13)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[테이퍼링 전략 내놓은 연준···속도에 주목 [글로벌마켓 A/S]]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000990087&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211014&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000990087&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211014&amp;page=1"/>
+        <updated>2021-10-14T00:06:28.702Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000990087&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211014&amp;page=1" title="테이퍼링 전략 내놓은 연준···속도에 주목 [글로벌마켓 A/S]">테이퍼링 전략 내놓은 연준···속도에 주목 [글로벌마켓 A/S]</a>]]></content>
     </entry>
 </feed>

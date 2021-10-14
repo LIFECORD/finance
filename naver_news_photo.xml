@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-10-14T00:04:04.285Z</updated>
+    <updated>2021-10-14T00:07:46.268Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 이구산업, 구리가격 폭등에 강세… 6%↑]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000743315&amp;office_id=417&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211014&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000743315&amp;office_id=417&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211014&amp;page=1"/>
+        <updated>2021-10-14T09:06:00.000Z</updated>
+        <content type="html"><![CDATA[머니S]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신영증권, 문학동네와 협업해 복합문화공간 개발]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004722923&amp;office_id=014&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211014&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004722923&amp;office_id=014&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211014&amp;page=1"/>
+        <updated>2021-10-14T09:06:00.000Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신영證, 문학동네와 협업해 여의도에 복합문화공간 조성]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005059723&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211014&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005059723&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211014&amp;page=1"/>
+        <updated>2021-10-14T09:05:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[K-콘텐츠 크리에이터 연합회 초대회장에 송재룡 트레져헌터 대표 선출]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003972811&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211014&amp;page=1</id>
@@ -34,6 +55,13 @@
         <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[코스닥] 7.11p(0.75%) 오른 960.58(개장)]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012720688&amp;office_id=001&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211014&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012720688&amp;office_id=001&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211014&amp;page=1"/>
+        <updated>2021-10-14T09:01:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[코스닥] 7.11p(0.75%) 오른 960.58 출발]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005656151&amp;office_id=421&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211014&amp;page=1</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005656151&amp;office_id=421&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211014&amp;page=1"/>
@@ -46,33 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005656150&amp;office_id=421&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211014&amp;page=1"/>
         <updated>2021-10-14T09:00:00.000Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[STOCK] 아이엘사이언스, 스마트 전기차 충전사업 확보… "내년 고성장 기대"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000743307&amp;office_id=417&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211014&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000743307&amp;office_id=417&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211014&amp;page=1"/>
-        <updated>2021-10-14T08:59:00.000Z</updated>
-        <content type="html"><![CDATA[머니S]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KTB證 “F&F, 중국MLB 3분기 매출 급성장…목표가↑”]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005656143&amp;office_id=421&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211014&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005656143&amp;office_id=421&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211014&amp;page=1"/>
-        <updated>2021-10-14T08:59:00.000Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[현대건설기계, 中 시장 점유율 하락 우려···목표가↓-NH투자증권]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004722915&amp;office_id=014&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211014&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004722915&amp;office_id=014&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211014&amp;page=1"/>
-        <updated>2021-10-14T08:58:00.000Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[네오엔프라 "친환경 복합소재 세계 진출…상용화 진행 중"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004656319&amp;office_id=008&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211014&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004656319&amp;office_id=008&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211014&amp;page=1"/>
-        <updated>2021-10-14T08:57:00.000Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
