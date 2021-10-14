@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-10-14T19:05:35.794Z</updated>
+    <updated>2021-10-14T20:06:41.205Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[반려동물 늘자 '펫 산업' 규모도 쑥쑥…직접 투자하려면]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004656845&amp;office_id=008&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211015&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004656845&amp;office_id=008&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211015&amp;page=1"/>
+        <updated>2021-10-15T04:52:00.000Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["K금융 '오징어게임'처럼 되려면"…금투업계가 말하는 '이것']]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004656843&amp;office_id=008&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211015&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004656843&amp;office_id=008&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211015&amp;page=1"/>
+        <updated>2021-10-15T04:47:00.000Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[유럽증시] 미 월가 대형은행들 실적 호조에 상승]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0012723451&amp;office_id=001&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211015&amp;page=1</id>
@@ -60,19 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005060775&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211015&amp;page=1"/>
         <updated>2021-10-14T16:07:21.027Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MS, 중국에 남은 마지막 美 SNS '링크드인' 중단한다]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004616495&amp;office_id=015&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211015&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004616495&amp;office_id=015&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211015&amp;page=1"/>
-        <updated>2021-10-14T16:07:21.028Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[金담벼락] 사라진 `퇴직연금 랩어카운트`...퇴직급여법 개정안 뭐길래]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0002701032&amp;office_id=029&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211015&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0002701032&amp;office_id=029&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211015&amp;page=1"/>
-        <updated>2021-10-14T16:07:21.029Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
 </feed>
