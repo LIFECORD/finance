@@ -2,22 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-10-14T11:05:30.434Z</updated>
+    <updated>2021-10-14T12:09:57.726Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[천재교과서 밀크티, 중학교 내신 마무리 위한 기말고사 인강 콘텐..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003973316&amp;office_id=011&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003973316&amp;office_id=011&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-14T11:04:21.467Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴욕유가] 공급 부족·수요 부진 우려에 하락]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0012720486&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012720486&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-14T04:14:00.000Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
+        <title type="html"><![CDATA[티움바이오, 식약처에 면역항암제 임상 1·2상 신청]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005060735&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005060735&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-14T11:04:21.473Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[거래소, 코드네이처 불성실공시법인 지정 예고]]></title>
@@ -27,11 +20,39 @@
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[티움바이오, 식약처에 면역항암제 임상 1·2상 신청]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005060735&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005060735&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-14T11:04:21.473Z</updated>
+        <title type="html"><![CDATA[양지사, 오는 15일 불성실공시법인 지정]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005060727&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005060727&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-14T12:08:43.911Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[천재교과서 밀크티, 중학교 내신 마무리 위한 기말고사 인강 콘텐..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003973316&amp;office_id=011&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003973316&amp;office_id=011&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-14T11:04:21.467Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[거래소, SNK 불성실공시법인 지정 예고]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005060725&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005060725&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-14T11:04:21.478Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[거래소, 연이비앤티 불성실공시법인 지정 예고]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005060728&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005060728&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-14T11:04:21.483Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[은행들, 다음주부터 전세대출 재개·한도 완화(종합2보)]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012723144&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012723144&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-14T11:04:21.489Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ISC, 김정렬 단독 대표이사 체제 변경]]></title>
@@ -48,10 +69,10 @@
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[거래소, SNK 불성실공시법인 지정 예고]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005060725&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005060725&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-14T11:04:21.478Z</updated>
+        <title type="html"><![CDATA[거래소, CBI 불성실공시법인 지정 예고]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005060729&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005060729&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-14T11:04:21.484Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
@@ -62,18 +83,46 @@
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[거래소, 연이비앤티 불성실공시법인 지정 예고]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005060728&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005060728&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-14T11:04:21.483Z</updated>
+        <title type="html"><![CDATA[오스코텍, 오는 15일 불성실공시법인 지정]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005060732&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005060732&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-14T11:04:21.505Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[거래소, CBI 불성실공시법인 지정 예고]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005060729&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005060729&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-14T11:04:21.484Z</updated>
+        <title type="html"><![CDATA[[마켓인]홈플러스, 옛주인 테스코로부터 2000억원 돌려받는다]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005060745&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005060745&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-14T12:08:43.931Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[당국 규제 완화 방침에...NH농협은행, 전세대출 재개]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000635070&amp;office_id=469&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000635070&amp;office_id=469&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-14T12:08:43.932Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[`6만전자` 잡은 개미들, D램 가격 하락세 한숨]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0002700983&amp;office_id=029&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0002700983&amp;office_id=029&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-14T12:08:43.933Z</updated>
+        <content type="html"><![CDATA[디지털타임스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뉴욕유가] 공급 부족·수요 부진 우려에 하락]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012720486&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012720486&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-14T04:14:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[투자, 알고합시다… AI가 역량 진단·기초 교육]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0002700984&amp;office_id=029&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0002700984&amp;office_id=029&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-14T12:08:43.936Z</updated>
+        <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[주식 매매 상위 종목 및 환율] 2021년 10월 13일자]]></title>
@@ -81,13 +130,6 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003646208&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-14T03:06:00.000Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[은행들, 다음주부터 전세대출 재개·한도 완화(종합2보)]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0012723144&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012723144&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-14T11:04:21.489Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[특징주] 위메이드, '미르4' 흥행 돌풍에 주가 28%대 급등]]></title>
@@ -137,47 +179,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003973276&amp;office_id=011&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-14T10:05:27.067Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[외국인, 지난달 韓주식 2조5000억원 순매수 전환···채권은 ..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004722842&amp;office_id=014&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004722842&amp;office_id=014&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-14T06:01:00.000Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지난달 외국인 상장주식 2.5조 순매수]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004616018&amp;office_id=015&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004616018&amp;office_id=015&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-14T06:01:00.000Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지난달 외국인 국내주식 2.5조 사들여…4개월만에 순매수 전환]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005059598&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005059598&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-14T06:01:00.000Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이제는 중국이 아니라 미국이 비트코인 채굴 성지]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005656003&amp;office_id=421&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005656003&amp;office_id=421&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-14T06:58:00.000Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오스코텍, 오는 15일 불성실공시법인 지정]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005060732&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005060732&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-14T11:04:21.505Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[돈 대줬던 하나은행, 대장동 초과수익 포기]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003646130&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003646130&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-14T03:01:00.000Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
