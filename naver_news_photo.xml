@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-10-14T18:06:46.119Z</updated>
+    <updated>2021-10-14T19:05:35.794Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[유럽증시] 미 월가 대형은행들 실적 호조에 상승]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012723451&amp;office_id=001&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211015&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012723451&amp;office_id=001&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211015&amp;page=1"/>
+        <updated>2021-10-15T03:43:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주식 매매 상위 종목 및 환율] 2021년 10월 14일자]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003646401&amp;office_id=023&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211015&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0002701032&amp;office_id=029&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211015&amp;page=1"/>
         <updated>2021-10-14T16:07:21.029Z</updated>
         <content type="html"><![CDATA[디지털타임스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공모가 불신 커지나…NH증권, 올해 희망범위 하회 '최다']]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000110685&amp;office_id=629&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211015&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000110685&amp;office_id=629&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211015&amp;page=1"/>
-        <updated>2021-10-14T15:05:06.785Z</updated>
-        <content type="html"><![CDATA[더팩트]]></content>
     </entry>
 </feed>
