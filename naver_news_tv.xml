@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-10-14T07:06:55.779Z</updated>
+    <updated>2021-10-14T08:09:00.242Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[이슈체크] 해결 기미 안 보이는 ‘공급망 병목현상’…기업실적 영향은?]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000260774&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211014&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000260774&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211014&amp;page=1"/>
+        <updated>2021-10-14T08:07:57.378Z</updated>
+        <content type="html"><![CDATA[SBS Biz]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["서울 아파트 35%는 가격 하락 거래"...추세 바뀔까]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001652322&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211014&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001652322&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211014&amp;page=1"/>
+        <updated>2021-10-14T08:07:57.379Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['마지막 거리두기 방안' 내일 발표…모임 제한 완화 예상]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000509098&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211014&amp;page=1</id>
@@ -59,20 +73,6 @@
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001614089&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211014&amp;page=1</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001614089&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211014&amp;page=1"/>
         <updated>2021-10-14T07:05:52.426Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MBN 프레스룸] 김정은 옆 '쫄쫄이맨'?]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001614086&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211014&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001614086&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211014&amp;page=1"/>
-        <updated>2021-10-14T07:05:52.428Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MBN 프레스룸] 아들 집에서 일어난 비극]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001614084&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211014&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001614084&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211014&amp;page=1"/>
-        <updated>2021-10-14T07:05:52.430Z</updated>
         <content type="html"><![CDATA[MBN]]></content>
     </entry>
 </feed>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=404</id>
     <title>네이버 금융 ─ 뉴스 ─ 채권 선물</title>
-    <updated>2021-10-14T07:06:55.776Z</updated>
+    <updated>2021-10-14T08:09:00.231Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[표]거래소주가지수선물·옵션시세표(10/14)]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005060579&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211014&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005060579&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211014&amp;page=1"/>
+        <updated>2021-10-14T08:07:23.009Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005060579&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211014&amp;page=1" title="[표]거래소주가지수선물·옵션시세표(10/14)">[표]거래소주가지수선물·옵션시세표(10/14)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[표]주가지수선물 투자자별 매매동향(10/14)]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005060578&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211014&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005060578&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211014&amp;page=1"/>
+        <updated>2021-10-14T08:07:23.010Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005060578&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211014&amp;page=1" title="[표]주가지수선물 투자자별 매매동향(10/14)">[표]주가지수선물 투자자별 매매동향(10/14)</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[게시판] KB국민은행, 5억유로 규모 '그린본드' 발행]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0012721006&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211014&amp;page=1</id>
@@ -32,12 +46,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012720020&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211014&amp;page=1"/>
         <updated>2021-10-13T20:48:54.397Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012720020&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211014&amp;page=1" title="국고채 금리 대체로 하락…3년물 연 1.824%(종합)">국고채 금리 대체로 하락…3년물 연 1.824%(종합)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[표]주가지수선물 투자자별 매매동향(10/13)]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005059351&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211014&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005059351&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211014&amp;page=1"/>
-        <updated>2021-10-13T20:48:54.398Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005059351&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211014&amp;page=1" title="[표]주가지수선물 투자자별 매매동향(10/13)">[표]주가지수선물 투자자별 매매동향(10/13)</a>]]></content>
     </entry>
 </feed>

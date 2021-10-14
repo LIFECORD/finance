@@ -2,30 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-10-14T07:06:55.794Z</updated>
+    <updated>2021-10-14T08:09:00.260Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[[특징주] 한일화학, 아연 가격 최고치 경신에 상한가]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003973059&amp;office_id=011&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003973059&amp;office_id=011&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-14T06:05:43.608Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[특징주] 현대사료, 中전력난 국제 농산물 시장 연쇄 타격 우려..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004723222&amp;office_id=014&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004723222&amp;office_id=014&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-14T06:05:43.608Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[특징주] 동일철강, 무상증자 소식에 18% 급등]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003973072&amp;office_id=011&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003973072&amp;office_id=011&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-14T06:05:43.623Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴욕유가] 공급 부족·수요 부진 우려에 하락]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0012720486&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
@@ -146,6 +125,13 @@
         <content type="html"><![CDATA[머니S]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[특징주] 동일철강, 무상증자 소식에 18% 급등]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003973072&amp;office_id=011&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003973072&amp;office_id=011&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-14T06:05:43.623Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[동학개미, '6만전자' 줍줍…10일간 3조 순매수]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000990077&amp;office_id=215&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000990077&amp;office_id=215&amp;mode=RANK&amp;typ=0"/>
@@ -179,5 +165,19 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003972783&amp;office_id=011&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-14T07:02:00.000Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 현대사료, 中전력난 국제 농산물 시장 연쇄 타격 우려..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004723222&amp;office_id=014&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004723222&amp;office_id=014&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-14T06:05:43.608Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[유가증권 메모] (14일) 변경상장=한라(주식소각)]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004616009&amp;office_id=015&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004616009&amp;office_id=015&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-14T02:40:00.000Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
