@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-10-14T00:16:21.047Z</updated>
+    <updated>2021-10-14T00:19:48.228Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[환율, 6거래일 만에 1180원대 중후반 등락]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005059739&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211014&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005059739&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211014&amp;page=1"/>
+        <updated>2021-10-14T00:17:57.180Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005059739&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211014&amp;page=1" title="환율, 6거래일 만에 1180원대 중후반 등락">환율, 6거래일 만에 1180원대 중후반 등락</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[표]해외DR 가격(10월 13일)]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003972799&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211014&amp;page=1</id>
@@ -46,12 +53,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000990093&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211014&amp;page=1"/>
         <updated>2021-10-13T23:04:29.985Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000990093&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211014&amp;page=1" title="베트남, 코로나 4차 확산 석달 만에 진정세 뚜렷 [KVINA]">베트남, 코로나 4차 확산 석달 만에 진정세 뚜렷 [KVINA]</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[표]해외 한국 DR(10/13)]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005059647&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211014&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005059647&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211014&amp;page=1"/>
-        <updated>2021-10-13T23:04:29.986Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005059647&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211014&amp;page=1" title="[표]해외 한국 DR(10/13)">[표]해외 한국 DR(10/13)</a>]]></content>
     </entry>
 </feed>
