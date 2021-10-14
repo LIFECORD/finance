@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-10-14T00:13:17.085Z</updated>
+    <updated>2021-10-14T00:16:21.056Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[디지털배움터 “어려운 소상공인들 디지털 역량강화 교육 통해 심폐소생”]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003972823&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211014&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003972823&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211014&amp;page=1"/>
+        <updated>2021-10-14T09:15:00.000Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[환율, 6거래일 만에 1180원대 중후반 등락]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005059739&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211014&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005059739&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211014&amp;page=1"/>
+        <updated>2021-10-14T09:15:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주] LS, 차세대 초전도 케이블 개발에 '강세']]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0002537953&amp;office_id=119&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211014&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0002537953&amp;office_id=119&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211014&amp;page=1"/>
+        <updated>2021-10-14T09:14:00.000Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[다나와, 소상공인 제품 특가 판매 이벤트 진행한다]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003972820&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211014&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003972820&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211014&amp;page=1"/>
+        <updated>2021-10-14T09:14:00.000Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코스피, 개인 매수세에 상승 출발…2960선 회복]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005059735&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211014&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005059735&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211014&amp;page=1"/>
+        <updated>2021-10-14T09:13:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 고려아연, 아연가격 폭등에 강세]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000743322&amp;office_id=417&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211014&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000743322&amp;office_id=417&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211014&amp;page=1"/>
+        <updated>2021-10-14T09:11:00.000Z</updated>
+        <content type="html"><![CDATA[머니S]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[코스닥, 개인 ‘사자’ 속 1% 가까이 상승 출발…‘960선’]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005059732&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211014&amp;page=1</id>
@@ -32,47 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004982856&amp;office_id=277&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211014&amp;page=1"/>
         <updated>2021-10-14T09:10:00.000Z</updated>
         <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[특징주]LG화학, 외국계 러브콜에 2%대 강세…4일째 ‘상승]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005059729&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211014&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005059729&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211014&amp;page=1"/>
-        <updated>2021-10-14T09:09:00.000Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[개미들 3조 뭉칫돈에도 '6만전자' 지금이라도 팔까요?…증권가, 목표가 줄줄이 ..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004864551&amp;office_id=009&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211014&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004864551&amp;office_id=009&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211014&amp;page=1"/>
-        <updated>2021-10-14T09:09:00.000Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[택배비 인상됐는데 주가는 왜?…CJ대한통운 연일 '신저가']]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004616061&amp;office_id=015&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211014&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004616061&amp;office_id=015&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211014&amp;page=1"/>
-        <updated>2021-10-14T09:09:00.000Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[예탁결제원, 비상장사 홀대?…"전자증권제도 참여 유인책 마련해야"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000628685&amp;office_id=031&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211014&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000628685&amp;office_id=031&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211014&amp;page=1"/>
-        <updated>2021-10-14T09:08:00.000Z</updated>
-        <content type="html"><![CDATA[아이뉴스24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["美9월 CPI 예상치 쑥 10년물 뚝…스태그플레이션 우려 않는 이유"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005059728&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211014&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005059728&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211014&amp;page=1"/>
-        <updated>2021-10-14T09:08:00.000Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국투자증권, 초고액자산가 전용 ‘VIP 라운지’ 앱 출시]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0002537950&amp;office_id=119&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211014&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0002537950&amp;office_id=119&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211014&amp;page=1"/>
-        <updated>2021-10-14T09:07:00.000Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
     </entry>
 </feed>
