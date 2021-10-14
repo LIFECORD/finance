@@ -2,6 +2,7 @@
 https://lifecord.github.io/finance/all.xml
 
 ## 네이버 금융
+### 뉴스
 - 실시간 속보: https://lifecord.github.io/finance/naver_news_breaking.xml
 - 주요뉴스: https://lifecord.github.io/finance/naver_news_main.xml
 - 시황·전망: https://lifecord.github.io/finance/naver_news_marketconditions.xml
@@ -16,3 +17,5 @@ https://lifecord.github.io/finance/all.xml
 - 공시정보: https://lifecord.github.io/finance/naver_market_notice.xml
 - 장중특징주: https://lifecord.github.io/finance/naver_market_special.xml
 - 오늘의 증시일정: https://lifecord.github.io/finance/naver_schedule.xml 
+### 리서치
+- 종목분석 리포트: https://lifecord.github.io/finance/naver_research_company.xml
