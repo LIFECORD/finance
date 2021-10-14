@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/research/invest_list.naver</id>
     <title>네이버 금융 ─ 리서치 ─ 투자정보 리포트</title>
-    <updated>2021-10-14T01:54:36.478Z</updated>
+    <updated>2021-10-14T02:23:30.345Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/research/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[ETF로 투자하는 메가트렌드]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/invest/1634177352045.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/invest/1634177352045.pdf"/>
+        <updated>2021-10-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[교보증권]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Global Issue & News]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/invest/1634176910904.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/invest/1634176910904.pdf"/>
+        <updated>2021-10-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[하나금융투자]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[케이프 모닝브리프]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/invest/1634176827850.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/invest/1634176827850.pdf"/>
+        <updated>2021-10-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[케이프투자증권]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미래에셋증권 Daily 종합]]></title>
         <id>https://ssl.pstatic.net/imgstock/upload/research/invest/1634090239324.pdf</id>
@@ -193,26 +214,5 @@
         <link href="https://ssl.pstatic.net/imgstock/upload/research/invest/1633397824421.pdf"/>
         <updated>2021-10-14T00:12:52.805Z</updated>
         <content type="html"><![CDATA[하나금융투자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시장트렌드 & ETF포트폴리오: 불확실성 소화 국면]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/invest/1633397659369.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/invest/1633397659369.pdf"/>
-        <updated>2021-10-14T00:12:52.807Z</updated>
-        <content type="html"><![CDATA[하나금융투자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[4분기 증시 이슈 전망] 백신 맞으셨나요?]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/invest/1633397590356.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/invest/1633397590356.pdf"/>
-        <updated>2021-10-14T00:12:52.809Z</updated>
-        <content type="html"><![CDATA[하나금융투자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[케이프 모닝브리프]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/invest/1633397419567.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/invest/1633397419567.pdf"/>
-        <updated>2021-10-14T00:12:52.810Z</updated>
-        <content type="html"><![CDATA[케이프투자증권]]></content>
     </entry>
 </feed>

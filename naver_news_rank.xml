@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-10-14T01:54:36.488Z</updated>
+    <updated>2021-10-14T02:23:30.339Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -132,6 +132,13 @@
         <content type="html"><![CDATA[한국경제TV]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[특징주]LG화학, 외국계 매수세에 강세…배터리 리콜 불확실성 ..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001899056&amp;office_id=016&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001899056&amp;office_id=016&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-14T10:34:00.000Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[비트코인 숨 고르기 들어가자 '하락장 전망']]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0010768340&amp;office_id=003&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0010768340&amp;office_id=003&amp;mode=RANK&amp;typ=0"/>
@@ -172,12 +179,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012720558&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-14T07:00:00.000Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9월 외국인 매도세, 5개월만에 잠시 '스톱']]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004656248&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004656248&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-14T06:00:00.000Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>

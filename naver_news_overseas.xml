@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-10-14T01:54:36.469Z</updated>
+    <updated>2021-10-14T02:23:30.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[외화증권 보관금액 897억달러 '최대'…거래는 줄어]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012721251&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211014&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012721251&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211014&amp;page=1"/>
+        <updated>2021-10-14T02:21:55.901Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012721251&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211014&amp;page=1" title="외화증권 보관금액 897억달러 '최대'…거래는 줄어">외화증권 보관금액 897억달러 '최대'…거래는 줄어</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가치평가의 대가, "테슬라·아마존 보다 알리바바 사라"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000990175&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211014&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000990175&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211014&amp;page=1"/>
+        <updated>2021-10-14T02:21:55.901Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000990175&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211014&amp;page=1" title="가치평가의 대가, &quot;테슬라·아마존 보다 알리바바 사라&quot;">가치평가의 대가, "테슬라·아마존 보다 알리바바 사라"</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美 억만장자 투자자 "멍청한 비트코인에 내가 투자하는 이유"]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000990156&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211014&amp;page=1</id>
@@ -46,12 +60,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000990125&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211014&amp;page=1"/>
         <updated>2021-10-14T01:52:58.968Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000990125&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211014&amp;page=1" title="피델리티 &quot;비트코인 2년 내 10만달러대 돌파 가능&quot;">피델리티 "비트코인 2년 내 10만달러대 돌파 가능"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[환율, 6거래일 만에 1180원대 중후반 등락]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005059739&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211014&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005059739&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211014&amp;page=1"/>
-        <updated>2021-10-14T00:17:57.180Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005059739&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211014&amp;page=1" title="환율, 6거래일 만에 1180원대 중후반 등락">환율, 6거래일 만에 1180원대 중후반 등락</a>]]></content>
     </entry>
 </feed>
