@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-10-15T15:06:43.386Z</updated>
+    <updated>2021-10-15T16:08:45.786Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -20,11 +20,60 @@
         <content type="html"><![CDATA[한국일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[시그널] 디피씨, 스틱인베스트먼트 흡수합병···제조사업은 매각]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003973768&amp;office_id=011&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003973768&amp;office_id=011&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-15T10:05:12.281Z</updated>
+        <title type="html"><![CDATA[[시그널] 서울 성수동 이마트 본사, 1兆 넘는 가격으로 크래프..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003973777&amp;office_id=011&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003973777&amp;office_id=011&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-15T16:07:28.208Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이패밀리에스씨, 공모가 2만5000원으로 확정]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004983963&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004983963&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-15T16:07:28.210Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뉴욕증시, 소매판매·실적 호조에 상승 출발]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012725789&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012725789&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-15T16:07:28.211Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[예상 뒤집은 미국 소매판매···3대 지수 상승 출발 [뉴욕증시 ..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000990614&amp;office_id=215&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000990614&amp;office_id=215&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-15T16:07:28.213Z</updated>
+        <content type="html"><![CDATA[한국경제TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[캔서롭, 30억 규모 백신 유전체분석 용역 수주]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005061587&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005061587&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-15T10:05:12.247Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[메테우스자산운용, 리츠부문장에 강경윤 인마크 전 부사장]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0010773286&amp;office_id=003&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0010773286&amp;office_id=003&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-15T16:07:28.221Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[돌아온 삼천피·7만전자···개인 투심은 여전히 ‘싸늘’]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003973756&amp;office_id=011&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003973756&amp;office_id=011&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-15T15:05:25.870Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CJ CGV, CJ올리브네트웍스 광고사업 흡수 합병 결정]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004983958&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004983958&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-15T16:07:28.224Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[주식 매매 상위 종목 및 환율] 2021년 10월 14일자]]></title>
@@ -32,6 +81,34 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003646401&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-15T03:02:00.000Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이패밀리에스씨 공모가 2만5천원 확정]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012725514&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012725514&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-15T16:07:28.228Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[더블유게임즈, 최대 1000억 회사채 발행…19일 수요예측]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0010773289&amp;office_id=003&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0010773289&amp;office_id=003&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-15T16:07:28.229Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대우건설, 김해푸르지오하이엔드2차 수분양자에 720억원 규모 채..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004983955&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004983955&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-15T16:07:28.234Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[시그널] 디피씨, 스틱인베스트먼트 흡수합병···제조사업은 매각]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003973768&amp;office_id=011&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003973768&amp;office_id=011&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-15T10:05:12.281Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[주요경제지표] 2021년 10월 14일자]]></title>
@@ -46,13 +123,6 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004616510&amp;office_id=015&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-15T02:26:00.000Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[캔서롭, 30억 규모 백신 유전체분석 용역 수주]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005061587&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005061587&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-15T10:05:12.247Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[특징주] 비트코인 7200만 원 돌파…관련株 비덴트 8%↑]]></title>
@@ -90,13 +160,6 @@
         <content type="html"><![CDATA[머니S]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[돌아온 삼천피·7만전자···개인 투심은 여전히 ‘싸늘’]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003973756&amp;office_id=011&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003973756&amp;office_id=011&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-15T15:05:25.870Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[특징주] 광명전기, 세아 STX 엔테크와 80억 규모 공급계약..]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000743995&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000743995&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
@@ -116,68 +179,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0002538309&amp;office_id=119&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-15T05:30:00.000Z</updated>
         <content type="html"><![CDATA[데일리안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[특징주]시스웍, 글로벌 수소연료전지 업체에 부품 공급 기대감↑]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004983822&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004983822&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-15T15:05:25.876Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[특징주] 카겜 자회사 넵튠, 메타버스 게임개발업체 지분 확보에..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000744037&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000744037&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-15T15:05:25.877Z</updated>
-        <content type="html"><![CDATA[머니S]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[창고업 본격화하는 태웅로직스…"국내 대표 종합물류회사 도약"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0010771247&amp;office_id=003&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0010771247&amp;office_id=003&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-15T07:00:00.000Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['7만전자' 귀환…'삼천피'도 탈환]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004865472&amp;office_id=009&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004865472&amp;office_id=009&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-15T15:05:25.879Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[특징주] 국보, 美물류대란 삼성에 물류지원 요청...삼성전자 ..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004723824&amp;office_id=014&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004723824&amp;office_id=014&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-15T15:05:25.881Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[마켓인]"건축업 혁신 꾀한 하우빌드…VC가 알아봤죠"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005060779&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005060779&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-15T01:31:00.000Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에프엔에스테크, 57억 규모 FPD 제조용 장치 공급계약]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005061105&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005061105&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-15T11:35:00.000Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[광명전기, 77억 규모 환경설비 공급 계약]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004983712&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004983712&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-15T11:34:00.000Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[e공시 눈에 띄네]코스피-14일]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004983423&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004983423&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-15T07:15:00.000Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
 </feed>

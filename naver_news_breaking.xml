@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS2D&amp;section_id=101&amp;section_id2=258</id>
     <title>네이버 금융 ─ 뉴스 ─ 실시간 속보</title>
-    <updated>2021-10-15T15:06:43.395Z</updated>
+    <updated>2021-10-15T16:08:45.772Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주간사모펀드] 청약 주주 애간장 녹인 케이카…체면 구긴 한앤컴퍼니]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000110899&amp;office_id=629&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211016&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000110899&amp;office_id=629&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211016&amp;page=1"/>
+        <updated>2021-10-15T16:06:36.110Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000110899&amp;office_id=629&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211016&amp;page=1" title="[주간사모펀드] 청약 주주 애간장 녹인 케이카…체면 구긴 한앤컴퍼니">[주간사모펀드] 청약 주주 애간장 녹인 케이카…체면 구긴 한앤컴퍼니</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[예상 뒤집은 미국 소매판매···3대 지수 상승 출발 [뉴욕증시 나우]]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000990614&amp;office_id=215&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211016&amp;page=1</id>
@@ -60,12 +67,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004983963&amp;office_id=277&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211016&amp;page=1"/>
         <updated>2021-10-15T15:04:33.828Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004983963&amp;office_id=277&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211016&amp;page=1" title="아이패밀리에스씨, 공모가 2만5000원으로 확정">아이패밀리에스씨, 공모가 2만5000원으로 확정</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더블유게임즈, 최대 1000억 회사채 발행…19일 수요예측]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0010773289&amp;office_id=003&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211016&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0010773289&amp;office_id=003&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211016&amp;page=1"/>
-        <updated>2021-10-15T15:04:33.831Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0010773289&amp;office_id=003&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211016&amp;page=1" title="더블유게임즈, 최대 1000억 회사채 발행…19일 수요예측">더블유게임즈, 최대 1000억 회사채 발행…19일 수요예측</a>]]></content>
     </entry>
 </feed>
