@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-10-15T22:05:49.973Z</updated>
+    <updated>2021-10-15T23:06:36.102Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[19일부터 중개수수료 인하‥임대차 3법도 보완]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001154136&amp;office_id=214&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211016&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001154136&amp;office_id=214&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211016&amp;page=1"/>
+        <updated>2021-10-16T07:16:00.000Z</updated>
+        <content type="html"><![CDATA[MBC]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[중고차시장 개방 결정 '제자리걸음'...중기부 시간끌기 비판]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001652995&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211016&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001652995&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211016&amp;page=1"/>
+        <updated>2021-10-16T07:03:00.000Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MZ세대를 잡아라!..."메타버스에서 대출 상담"]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001652990&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211016&amp;page=1</id>
@@ -60,19 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001652924&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211016&amp;page=1"/>
         <updated>2021-10-15T15:05:39.147Z</updated>
         <content type="html"><![CDATA[YTN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["코로나 백신 후 탈모…이상반응 신고 240건"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000509360&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211016&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000509360&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211016&amp;page=1"/>
-        <updated>2021-10-15T15:05:39.147Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전세대출 다음주 재개…‘증액범위 한도’는 유지될 듯]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0011138400&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211016&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011138400&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211016&amp;page=1"/>
-        <updated>2021-10-15T15:05:39.148Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
