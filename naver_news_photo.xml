@@ -2,77 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-10-15T06:07:40.591Z</updated>
+    <updated>2021-10-15T07:06:50.550Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[KTX 역세권, 리조트를 품은 아파트 주목]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003973634&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211015&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003973634&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211015&amp;page=1"/>
-        <updated>2021-10-15T06:06:30.368Z</updated>
+        <title type="html"><![CDATA[7만전자 회복, SK하이닉스 5% 급등…코스피 3000선 복귀]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004865342&amp;office_id=009&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211015&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004865342&amp;office_id=009&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211015&amp;page=1"/>
+        <updated>2021-10-15T07:05:39.992Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[원/달러 환율, 1,182.4원 마감…사흘간 16.3원 하락]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012725135&amp;office_id=001&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211015&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012725135&amp;office_id=001&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211015&amp;page=1"/>
+        <updated>2021-10-15T07:05:39.994Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[삼천피 재돌파.. 외인 9거래일만에 순매수]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004983882&amp;office_id=277&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211015&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004983882&amp;office_id=277&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211015&amp;page=1"/>
+        <updated>2021-10-15T07:05:39.995Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하이브, BTS LA콘서트로 날아오르나 [허란의 경제한끼]]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004616728&amp;office_id=015&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211015&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004616728&amp;office_id=015&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211015&amp;page=1"/>
+        <updated>2021-10-15T07:05:39.997Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[시황] 코스피, 외국인·기관 매수에 3000선 회복]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000110855&amp;office_id=629&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211015&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000110855&amp;office_id=629&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211015&amp;page=1"/>
+        <updated>2021-10-15T07:05:40.001Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘무야홍’ 홍준표 테마주 고공 행진… 두 달 상승률 150% 넘어]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000766909&amp;office_id=366&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211015&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000766909&amp;office_id=366&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211015&amp;page=1"/>
+        <updated>2021-10-15T07:05:40.003Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 삼성전자 '7만전자' 회복…SK하이닉스 5% 급등(종합2보)]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012725115&amp;office_id=001&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211015&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012725115&amp;office_id=001&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211015&amp;page=1"/>
+        <updated>2021-10-15T07:05:40.004Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[시황] 코스피, 보름 만에 3000P 복귀…삼전 다시 '7만전자']]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0002538607&amp;office_id=119&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211015&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0002538607&amp;office_id=119&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211015&amp;page=1"/>
+        <updated>2021-10-15T07:05:40.005Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[표]IPO장외 주요 종목 시세(10월 15일)]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003973670&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211015&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003973670&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211015&amp;page=1"/>
+        <updated>2021-10-15T07:05:40.007Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[산업은행, 구조조정한다더니 제 주머니 채우기 '급급']]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000004255&amp;office_id=648&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211015&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000004255&amp;office_id=648&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211015&amp;page=1"/>
-        <updated>2021-10-15T06:06:30.373Z</updated>
-        <content type="html"><![CDATA[비즈니스워치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘2021 한국 온라인 조선해양산업 로드쇼(KOMIR 2021)’ 15일까지 진행]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003973630&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211015&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003973630&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211015&amp;page=1"/>
-        <updated>2021-10-15T06:06:30.374Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전세대출은 풀고, 신용은 묶고...  대출절벽서 시중은행 '투트랙' 전략]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000635230&amp;office_id=469&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211015&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000635230&amp;office_id=469&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211015&amp;page=1"/>
-        <updated>2021-10-15T06:06:30.385Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['D-1 온라인 생방송 개최'... 에듀윌, 주택관리사 시험 대비 합격 노하우 공개]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003973629&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211015&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003973629&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211015&amp;page=1"/>
-        <updated>2021-10-15T06:06:30.386Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국예탁결제원, 시니어 녹색드림지킴이 일자리 지원 업무협약 체결]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005061242&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211015&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005061242&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211015&amp;page=1"/>
-        <updated>2021-10-15T06:06:30.388Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[증시이슈] 녹십자웰빙, 암 악액질 치료제 기술 수출 기대에 29.92%↑]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000017236&amp;office_id=243&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211015&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000017236&amp;office_id=243&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211015&amp;page=1"/>
-        <updated>2021-10-15T06:06:30.389Z</updated>
-        <content type="html"><![CDATA[이코노미스트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비트코인 7000만원 등락세 지속]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0010772625&amp;office_id=003&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211015&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0010772625&amp;office_id=003&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211015&amp;page=1"/>
-        <updated>2021-10-15T06:06:30.391Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비트코인 7000만원 등락세 지속]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0010772624&amp;office_id=003&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211015&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0010772624&amp;office_id=003&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211015&amp;page=1"/>
-        <updated>2021-10-15T06:06:30.393Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7000만원대 등락세 이어가는 비트코인]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0010772623&amp;office_id=003&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211015&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0010772623&amp;office_id=003&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211015&amp;page=1"/>
-        <updated>2021-10-15T06:06:30.394Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
+        <title type="html"><![CDATA[코스피 3천선·'7만전자' 탈환…기관투자자 '일등공신']]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000990545&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211015&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000990545&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211015&amp;page=1"/>
+        <updated>2021-10-15T07:05:40.008Z</updated>
+        <content type="html"><![CDATA[한국경제TV]]></content>
     </entry>
 </feed>
