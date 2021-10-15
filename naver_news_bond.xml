@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=404</id>
     <title>네이버 금융 ─ 뉴스 ─ 채권 선물</title>
-    <updated>2021-10-15T08:07:59.898Z</updated>
+    <updated>2021-10-15T09:07:19.780Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전력난·에너지값 상승에 우라늄ETF 두배 올랐다]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004865439&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211015&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004865439&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211015&amp;page=1"/>
+        <updated>2021-10-15T09:05:23.689Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004865439&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211015&amp;page=1" title="전력난·에너지값 상승에 우라늄ETF 두배 올랐다">전력난·에너지값 상승에 우라늄ETF 두배 올랐다</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[표]주가지수선물 투자자별 매매동향(10/15)]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005061523&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211015&amp;page=1</id>
@@ -32,12 +39,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012723826&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211015&amp;page=1"/>
         <updated>2021-10-15T01:54:04.573Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012723826&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211015&amp;page=1" title="주식 시장 조정 국면에 3분기 증권결제대금 소폭 줄어">주식 시장 조정 국면에 3분기 증권결제대금 소폭 줄어</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국내 주식형 펀드 자금, 10거래일 연속 순유입]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005060837&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211015&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005060837&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211015&amp;page=1"/>
-        <updated>2021-10-14T23:04:36.040Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005060837&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211015&amp;page=1" title="국내 주식형 펀드 자금, 10거래일 연속 순유입">국내 주식형 펀드 자금, 10거래일 연속 순유입</a>]]></content>
     </entry>
 </feed>

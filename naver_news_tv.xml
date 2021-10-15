@@ -2,77 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-10-15T08:07:59.875Z</updated>
+    <updated>2021-10-15T09:07:19.781Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[YTN 실시간뉴스] 물가상승 3% 넘나..."공공요금 최대한 동결"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001652848&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211015&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001652848&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211015&amp;page=1"/>
+        <updated>2021-10-15T09:06:03.272Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코스피 3,015.06 코스닥 990.54]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0011138294&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211015&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011138294&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211015&amp;page=1"/>
+        <updated>2021-10-15T09:06:03.272Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코스피 8거래일 만에 3,000선…3,015.06]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000509304&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211015&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000509304&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211015&amp;page=1"/>
+        <updated>2021-10-15T09:06:03.273Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이주열 "11월 기준금리 올려도 어려움 없을 듯"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000509303&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211015&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000509303&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211015&amp;page=1"/>
+        <updated>2021-10-15T09:06:03.274Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이달 물가 3% 넘을 전망..."금리 인상·공공요금 동결"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001652833&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211015&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001652833&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211015&amp;page=1"/>
+        <updated>2021-10-15T09:06:03.275Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[다음달 1일 '위드 코로나' 가능성…일주일째 2천명 아래]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000509300&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211015&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000509300&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211015&amp;page=1"/>
+        <updated>2021-10-15T09:06:03.276Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하나은행, 20일부터 연말까지 부동산·신용대출 중단]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0011138286&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211015&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011138286&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211015&amp;page=1"/>
+        <updated>2021-10-15T09:06:03.278Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한은 “집값 상승·가계 부채 증가 속도, 주요국보다 빨라”]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0011138285&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211015&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011138285&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211015&amp;page=1"/>
+        <updated>2021-10-15T09:06:03.280Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[부동산 중개보수 요율 19일부터 인하…‘복비’ 얼마나 내리나?]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0011138284&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211015&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011138284&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211015&amp;page=1"/>
+        <updated>2021-10-15T09:06:03.281Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사사건건 플러스] 동시다발 악재 세계 경제 위협, ‘퍼펙트 스톰’ 한국도 촉각]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0011138276&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211015&amp;page=1</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0011138276&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211015&amp;page=1"/>
         <updated>2021-10-15T08:07:01.165Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부동산 중개수수료, 19일부터 인하‥절반 수준]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001154063&amp;office_id=214&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211015&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001154063&amp;office_id=214&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211015&amp;page=1"/>
-        <updated>2021-10-15T08:07:01.176Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전국 아파트값 평균 5억 첫 돌파...오피스텔도 '들썩']]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001652817&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211015&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001652817&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211015&amp;page=1"/>
-        <updated>2021-10-15T08:07:01.176Z</updated>
-        <content type="html"><![CDATA[YTN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] 천화동인 주주명단·후원내역 공개 못한다는 국세청]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000509287&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211015&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000509287&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211015&amp;page=1"/>
-        <updated>2021-10-15T07:05:46.353Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MBN 프레스룸] 울분 토한 이낙연]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001614350&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211015&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001614350&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211015&amp;page=1"/>
-        <updated>2021-10-15T07:05:46.357Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MBN 프레스룸] 김만배 구속영장 기각]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001614347&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211015&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001614347&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211015&amp;page=1"/>
-        <updated>2021-10-15T07:05:46.358Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삼성전자 나흘만 ‘7만전자’…SK하이닉스, 3일째 상승]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000260922&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211015&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000260922&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211015&amp;page=1"/>
-        <updated>2021-10-15T07:05:46.360Z</updated>
-        <content type="html"><![CDATA[SBS Biz]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[경제 토론] ‘전세대출 중단 안한다’…한발 물러선 금융위]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000260921&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211015&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000260921&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211015&amp;page=1"/>
-        <updated>2021-10-15T07:05:46.361Z</updated>
-        <content type="html"><![CDATA[SBS Biz]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MBN 프레스룸] "징계 정당" 윤석열 당혹?]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001614346&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211015&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001614346&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211015&amp;page=1"/>
-        <updated>2021-10-15T07:05:46.362Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MBN 프레스룸] '尹 vs 조국' 주목한 日]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001614344&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211015&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001614344&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211015&amp;page=1"/>
-        <updated>2021-10-15T07:05:46.365Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
     </entry>
 </feed>
