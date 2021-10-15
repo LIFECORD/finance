@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-10-15T01:55:35.321Z</updated>
+    <updated>2021-10-15T02:24:16.403Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -125,6 +125,13 @@
         <content type="html"><![CDATA[한국경제]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[특징주] 코스모신소재, 양극재 생산능력 증설 효과 기대감에 주..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001899592&amp;office_id=016&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001899592&amp;office_id=016&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-15T10:37:00.000Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[손동식 미래에셋자산운용 대표 “반도체 섹터 매도보다 더 담아야 ..]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000017209&amp;office_id=243&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000017209&amp;office_id=243&amp;mode=RANK&amp;typ=0"/>
@@ -160,24 +167,17 @@
         <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[특징주] 태광, 에너지 대란 원자력 대체재 부상..원자력 발전..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004723725&amp;office_id=014&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004723725&amp;office_id=014&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-15T10:40:00.000Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[승계본색]이수 오너 3세 경영자 김세민 깃발 꽂다]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000004241&amp;office_id=648&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000004241&amp;office_id=648&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-15T07:10:00.000Z</updated>
         <content type="html"><![CDATA[비즈니스워치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[마켓인]‘오징어게임? 우린 스우파 있다!’…실탄 채우는 티빙]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005060780&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005060780&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-15T02:01:00.000Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[와이지엔터테인먼트, 본업·투자 호조로 호실적 전망 -한국]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005060832&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005060832&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-15T07:38:00.000Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>

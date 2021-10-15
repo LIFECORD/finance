@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/research/debenture_list.naver</id>
     <title>네이버 금융 ─ 리서치 ─ 채권분석 리포트</title>
-    <updated>2021-10-15T01:55:35.315Z</updated>
+    <updated>2021-10-15T02:24:16.402Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/research/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인플레이션의 역습]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/debenture/1634264279756.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/debenture/1634264279756.pdf"/>
+        <updated>2021-10-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[교보증권]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지역별 대표지수 ETF 비교]]></title>
         <id>https://ssl.pstatic.net/imgstock/upload/research/debenture/1634178641045.pdf</id>
@@ -206,13 +213,6 @@
         <id>https://ssl.pstatic.net/imgstock/upload/research/debenture/1627442116089.pdf</id>
         <link href="https://ssl.pstatic.net/imgstock/upload/research/debenture/1627442116089.pdf"/>
         <updated>2021-10-14T00:13:16.421Z</updated>
-        <content type="html"><![CDATA[유안타증권]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유안타 채권 Daily]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/debenture/1627350793714.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/debenture/1627350793714.pdf"/>
-        <updated>2021-10-14T00:13:16.424Z</updated>
         <content type="html"><![CDATA[유안타증권]]></content>
     </entry>
 </feed>
