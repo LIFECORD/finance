@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-10-15T18:06:55.009Z</updated>
+    <updated>2021-10-15T19:06:03.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -11,5 +11,26 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012725820&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-16T02:22:00.000Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주식 매매 상위 종목 및 환율] 2021년 10월 15일자]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003646641&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003646641&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-16T03:02:00.000Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코스피 3000선 회복]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003646647&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003646647&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-16T03:02:00.000Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[부꾸미]'착한 투자'로 4배 수익 낸다? '탄소배출권'의 마법]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004657351&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004657351&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-16T03:30:00.000Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
