@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-10-15T02:24:16.403Z</updated>
+    <updated>2021-10-15T03:06:25.078Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 동방, 삼성엔지니어링과 480억 규모 해상운송 계약 ..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000743913&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000743913&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-15T11:05:00.000Z</updated>
+        <content type="html"><![CDATA[머니S]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주식 매매 상위 종목 및 환율] 2021년 10월 14일자]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003646401&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
@@ -55,11 +62,25 @@
         <content type="html"><![CDATA[데일리안]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[특징주] 코스모신소재, 양극재 생산능력 증설 효과 기대감에 주..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001899592&amp;office_id=016&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001899592&amp;office_id=016&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-15T10:37:00.000Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[창고업 본격화하는 태웅로직스…"국내 대표 종합물류회사 도약"]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0010771247&amp;office_id=003&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0010771247&amp;office_id=003&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-15T07:00:00.000Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 태광, 에너지 대란 원자력 대체재 부상..원자력 발전..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004723725&amp;office_id=014&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004723725&amp;office_id=014&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-15T10:40:00.000Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[마켓인]"건축업 혁신 꾀한 하우빌드…VC가 알아봤죠"]]></title>
@@ -125,13 +146,6 @@
         <content type="html"><![CDATA[한국경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[특징주] 코스모신소재, 양극재 생산능력 증설 효과 기대감에 주..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001899592&amp;office_id=016&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001899592&amp;office_id=016&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-15T10:37:00.000Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[손동식 미래에셋자산운용 대표 “반도체 섹터 매도보다 더 담아야 ..]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000017209&amp;office_id=243&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000017209&amp;office_id=243&amp;mode=RANK&amp;typ=0"/>
@@ -165,19 +179,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005658882&amp;office_id=421&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-15T07:10:00.000Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[특징주] 태광, 에너지 대란 원자력 대체재 부상..원자력 발전..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004723725&amp;office_id=014&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004723725&amp;office_id=014&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-15T10:40:00.000Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[승계본색]이수 오너 3세 경영자 김세민 깃발 꽂다]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000004241&amp;office_id=648&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000004241&amp;office_id=648&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-15T07:10:00.000Z</updated>
-        <content type="html"><![CDATA[비즈니스워치]]></content>
     </entry>
 </feed>
