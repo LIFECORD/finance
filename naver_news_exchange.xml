@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=429</id>
     <title>네이버 금융 ─ 뉴스 ─ 환율</title>
-    <updated>2021-10-15T03:06:25.065Z</updated>
+    <updated>2021-10-15T04:07:32.752Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["북한, 경제 최악이라는데 원화 가치는 급등 지속?"…추측 난무]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012724377&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211015&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012724377&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211015&amp;page=1"/>
+        <updated>2021-10-15T04:06:09.601Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012724377&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211015&amp;page=1" title="&quot;북한, 경제 최악이라는데 원화 가치는 급등 지속?&quot;…추측 난무">"북한, 경제 최악이라는데 원화 가치는 급등 지속?"…추측 난무</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[원/달러 환율, 장 초반 1,180원대 초반서 등락]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0012723773&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211015&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012720490&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211015&amp;page=1"/>
         <updated>2021-10-14T15:04:53.951Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012720490&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211015&amp;page=1" title="미 연준, 11월 중순 또는 12월 중순 테이퍼링 시작 관측">미 연준, 11월 중순 또는 12월 중순 테이퍼링 시작 관측</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이종환 서울경제신문 부회장 “인구 쇼크 대비할 중장기 전략 필요”]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003972609&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211015&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003972609&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211015&amp;page=1"/>
-        <updated>2021-10-14T15:04:53.953Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003972609&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211015&amp;page=1" title="이종환 서울경제신문 부회장 “인구 쇼크 대비할 중장기 전략 필요”">이종환 서울경제신문 부회장 “인구 쇼크 대비할 중장기 전략 필요”</a>]]></content>
     </entry>
 </feed>
