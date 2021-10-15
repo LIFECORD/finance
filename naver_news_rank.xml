@@ -2,23 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-10-15T21:06:08.108Z</updated>
+    <updated>2021-10-15T22:05:49.987Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[[부꾸미]'착한 투자'로 4배 수익 낸다? '탄소배출권'의 마법]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004657351&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004657351&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-16T03:30:00.000Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코스피 3000선 회복]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003646647&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003646647&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-16T03:02:00.000Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴욕유가] 석탄·가스 공급 부족에 유가 상승세 지속]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0012725828&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
@@ -27,18 +13,18 @@
         <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[유럽증시] 실적호조에 오름세…금융주가 상승 주도]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0012725820&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012725820&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-16T02:22:00.000Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
+        <title type="html"><![CDATA[베트남산 섬유 · 의류 제품, 유라시아 시장 수입우선관세 쿼터 ..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000990626&amp;office_id=215&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000990626&amp;office_id=215&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-16T05:13:00.000Z</updated>
+        <content type="html"><![CDATA[한국경제TV]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[주식 매매 상위 종목 및 환율] 2021년 10월 15일자]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003646641&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003646641&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-16T03:02:00.000Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
+        <title type="html"><![CDATA[[부꾸미]'착한 투자'로 4배 수익 낸다? '탄소배출권'의 마법]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004657351&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004657351&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-16T03:30:00.000Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[속보]월가 3분기 실적 낙관론…뉴욕증시 일제히 강세]]></title>
@@ -48,10 +34,38 @@
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[주식 매매 상위 종목 및 환율] 2021년 10월 15일자]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003646641&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003646641&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-16T03:02:00.000Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코스피 3000선 회복]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003646647&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003646647&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-16T03:02:00.000Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[베트남 9월 무역수지 3억6천만달러 흑자 기록 [KVINA]]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000990624&amp;office_id=215&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000990624&amp;office_id=215&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-16T05:11:00.000Z</updated>
+        <content type="html"><![CDATA[한국경제TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[유럽증시] 실적호조에 오름세…금융주가 상승 주도]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012725820&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012725820&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-16T02:22:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[호찌민시 코로나 확진자수 이틀째 1천명대로 진정세 [KVINA]]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000990628&amp;office_id=215&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000990628&amp;office_id=215&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-16T05:16:00.000Z</updated>
         <content type="html"><![CDATA[한국경제TV]]></content>
     </entry>
     <entry>
@@ -62,25 +76,18 @@
         <content type="html"><![CDATA[한국경제TV]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[베트남산 섬유 · 의류 제품, 유라시아 시장 수입우선관세 쿼터 ..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000990626&amp;office_id=215&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000990626&amp;office_id=215&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-16T05:13:00.000Z</updated>
-        <content type="html"><![CDATA[한국경제TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[호찌민시 코로나 확진자수 이틀째 1천명대로 진정세 [KVINA]]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000990628&amp;office_id=215&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000990628&amp;office_id=215&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-16T05:16:00.000Z</updated>
-        <content type="html"><![CDATA[한국경제TV]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[월스트리트저널, 美증시 '15일, 오늘 주목할 종목들' 선정]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000990623&amp;office_id=215&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000990623&amp;office_id=215&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-16T05:04:00.000Z</updated>
         <content type="html"><![CDATA[한국경제TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[다가오는 연말, 증시 반등 초입 주목할 종목은?]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000744171&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000744171&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-16T05:43:00.000Z</updated>
+        <content type="html"><![CDATA[머니S]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뉴욕증시, 소매판매·실적 호조에 상승…다우 1.09%↑ 마감]]></title>
@@ -90,10 +97,31 @@
         <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[다가오는 연말, 증시 반등 초입 주목할 종목은?]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000744171&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000744171&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-16T05:43:00.000Z</updated>
-        <content type="html"><![CDATA[머니S]]></content>
+        <title type="html"><![CDATA[[뉴욕증시]3분기도 월가 '어닝 서프라이즈'…주가 또 뛰었다]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005061644&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005061644&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-16T06:19:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10년간 주가 840% 뛴 애플…더 오를까]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005061643&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005061643&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-16T06:09:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뉴욕증시, 소매판매 실적 호조에 상승 마감...다우 1.09%↑]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004865558&amp;office_id=009&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004865558&amp;office_id=009&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-16T06:41:00.000Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뉴욕증시, 소매판매·기업실적 호조에 상승...다우 1.09% 올..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000766995&amp;office_id=366&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000766995&amp;office_id=366&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-16T06:33:00.000Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>
