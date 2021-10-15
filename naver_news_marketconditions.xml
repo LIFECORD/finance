@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=401</id>
     <title>네이버 금융 ─ 뉴스 ─ 시황·전망</title>
-    <updated>2021-10-15T10:06:23.254Z</updated>
+    <updated>2021-10-15T11:05:29.173Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아이패밀리에스씨 공모가 2만5천원 확정]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012725514&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211015&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012725514&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211015&amp;page=1"/>
+        <updated>2021-10-15T11:03:41.203Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012725514&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211015&amp;page=1" title="아이패밀리에스씨 공모가 2만5천원 확정">아이패밀리에스씨 공모가 2만5천원 확정</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[표]유가증권 코스닥 투자주체별 매매동향(10월 15일-최종치)]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003973773&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211015&amp;page=1</id>
@@ -46,12 +53,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004865435&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211015&amp;page=1"/>
         <updated>2021-10-15T09:04:57.058Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004865435&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211015&amp;page=1" title="[표] 주간 수익률 베스트&amp;워스트">[표] 주간 수익률 베스트&amp;워스트</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[표] 주요 증시 지표 (10월 15일)]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004865434&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211015&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004865434&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211015&amp;page=1"/>
-        <updated>2021-10-15T09:04:57.061Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004865434&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211015&amp;page=1" title="[표] 주요 증시 지표 (10월 15일)">[표] 주요 증시 지표 (10월 15일)</a>]]></content>
     </entry>
 </feed>

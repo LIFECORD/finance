@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=402</id>
     <title>네이버 금융 ─ 뉴스 ─ 기업 종목분석</title>
-    <updated>2021-10-15T10:06:23.253Z</updated>
+    <updated>2021-10-15T11:05:29.297Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -60,5 +60,12 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005061532&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211015&amp;page=1"/>
         <updated>2021-10-15T08:06:16.635Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005061532&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211015&amp;page=1" title="[표]장외주식 거래현황(10/15)">[표]장외주식 거래현황(10/15)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['SW개발 플랫폼' 깃랩, 첫날 35% 급등]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004616769&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211015&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004616769&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211015&amp;page=1"/>
+        <updated>2021-10-15T11:03:47.558Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004616769&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211015&amp;page=1" title="'SW개발 플랫폼' 깃랩, 첫날 35% 급등">'SW개발 플랫폼' 깃랩, 첫날 35% 급등</a>]]></content>
     </entry>
 </feed>
