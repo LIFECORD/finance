@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-10-15T19:06:03.041Z</updated>
+    <updated>2021-10-15T20:06:46.160Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -32,5 +32,12 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004657351&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-16T03:30:00.000Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뉴욕유가] 석탄·가스 공급 부족에 유가 상승세 지속]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012725828&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012725828&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-16T04:03:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
