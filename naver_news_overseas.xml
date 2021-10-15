@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-10-15T09:07:19.779Z</updated>
+    <updated>2021-10-15T10:06:23.246Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[표]아시아 주요 증시 동향(10월 15일)]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003973784&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211015&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003973784&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211015&amp;page=1"/>
+        <updated>2021-10-15T10:04:47.119Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003973784&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211015&amp;page=1" title="[표]아시아 주요 증시 동향(10월 15일)">[표]아시아 주요 증시 동향(10월 15일)</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나녹스 "AI·원격의료 스타트업 인수 마무리 단계" [글로벌마켓 THE CEO]]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000990592&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211015&amp;page=1</id>
@@ -46,12 +53,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005061340&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211015&amp;page=1"/>
         <updated>2021-10-15T07:05:08.904Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005061340&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211015&amp;page=1" title="[외환마감]외국인 순매수…환율, 사흘째 하락 1180원 초반 기록">[외환마감]외국인 순매수…환율, 사흘째 하락 1180원 초반 기록</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["비행기에서 기가급 인터넷을" 머스크 위성 사업에 충격받은 주식은?]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004865299&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211015&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004865299&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211015&amp;page=1"/>
-        <updated>2021-10-15T06:05:57.675Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004865299&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211015&amp;page=1" title="&quot;비행기에서 기가급 인터넷을&quot; 머스크 위성 사업에 충격받은 주식은?">"비행기에서 기가급 인터넷을" 머스크 위성 사업에 충격받은 주식은?</a>]]></content>
     </entry>
 </feed>
