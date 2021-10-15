@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-10-15T13:15:15.794Z</updated>
+    <updated>2021-10-15T14:06:24.802Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["대면서비스에 불확실성…10월 물가 3%대 가능성"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000509361&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211015&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000509361&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211015&amp;page=1"/>
+        <updated>2021-10-15T14:05:24.356Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['반값 복비' 19일부터 시행...6억 전세 수수료 480만→240만]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001652925&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211015&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001652925&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211015&amp;page=1"/>
+        <updated>2021-10-15T14:05:24.358Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전국 아파트값 평균 5억 첫 돌파...오피스텔도 '들썩']]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001652924&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211015&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001652924&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211015&amp;page=1"/>
+        <updated>2021-10-15T14:05:24.363Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["코로나 백신 후 탈모…이상반응 신고 240건"]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000509360&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211015&amp;page=1</id>
@@ -53,26 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000341548&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211015&amp;page=1"/>
         <updated>2021-10-15T13:14:18.043Z</updated>
         <content type="html"><![CDATA[TV조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[백운기의 뉴스와이드] 김만배 영장 기각, 이유는? / 이재명 vs 윤석열 전면전? / 민..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001614426&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211015&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001614426&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211015&amp;page=1"/>
-        <updated>2021-10-15T13:14:18.044Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[종합뉴스 날씨] 내일 곳곳 가을비…찬바람 불며 기온 '뚝']]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001614425&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211015&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001614425&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211015&amp;page=1"/>
-        <updated>2021-10-15T13:14:18.046Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오늘의 핫클립] '덴마크 꺾고 포효' 안세영 "일본 기다려!"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001614424&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211015&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001614424&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211015&amp;page=1"/>
-        <updated>2021-10-15T13:14:18.048Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
     </entry>
 </feed>
