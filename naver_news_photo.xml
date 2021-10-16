@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-10-16T19:05:48.035Z</updated>
+    <updated>2021-10-16T20:06:02.485Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['다시 찾아온 비트코인의 시간'…선물 ETF 승인에 이달에만 30% 상승]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001899973&amp;office_id=016&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211017&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001899973&amp;office_id=016&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211017&amp;page=1"/>
+        <updated>2021-10-17T05:02:00.000Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인력 이탈에 임금개편·채용확대 나선 '빅4' 회계법인들]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0010773946&amp;office_id=003&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211017&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0010773946&amp;office_id=003&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211017&amp;page=1"/>
+        <updated>2021-10-17T05:00:00.000Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['돈 잃지 마라' VIP 자산관리 전문가가 알려주는 투자 노하우는?]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004724125&amp;office_id=014&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211017&amp;page=1</id>
@@ -60,19 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005061750&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211017&amp;page=1"/>
         <updated>2021-10-16T15:04:58.141Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CJ그룹 이재환 전 부회장, 1심서 집행유예 3년 선고]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003973880&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211017&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003973880&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211017&amp;page=1"/>
-        <updated>2021-10-16T15:04:58.142Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“서른살에 월급 노예 탈출” 日 파이어족 은퇴 자산 얼마였길래?]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003646753&amp;office_id=023&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211017&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003646753&amp;office_id=023&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211017&amp;page=1"/>
-        <updated>2021-10-16T15:04:58.144Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
