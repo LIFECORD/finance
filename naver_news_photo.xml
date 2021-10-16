@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-10-16T11:05:25.128Z</updated>
+    <updated>2021-10-16T12:09:09.874Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[나신평, 현대제철 신용등급 AA 평가]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004724119&amp;office_id=014&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211016&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004724119&amp;office_id=014&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211016&amp;page=1"/>
+        <updated>2021-10-16T12:08:00.458Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[델타항공, 3분기 실적 날았지만…"보수적 접근 필요"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004984148&amp;office_id=277&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211016&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004984148&amp;office_id=277&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211016&amp;page=1"/>
+        <updated>2021-10-16T12:08:00.462Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['인공인간 전문기업' 마인즈랩, 증권신고서 제출…내달 코스닥 상장]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004724111&amp;office_id=014&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211016&amp;page=1</id>
@@ -60,19 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004616930&amp;office_id=015&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211016&amp;page=1"/>
         <updated>2021-10-16T05:04:08.713Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국내 M&A 트렌드 변화…바이오·의약→부품·소재·화학]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005061740&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211016&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005061740&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211016&amp;page=1"/>
-        <updated>2021-10-16T05:04:08.713Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오락가락 증시에도 자동차주는 왜 끄떡없을까]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000004264&amp;office_id=648&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211016&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000004264&amp;office_id=648&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211016&amp;page=1"/>
-        <updated>2021-10-16T04:06:07.392Z</updated>
-        <content type="html"><![CDATA[비즈니스워치]]></content>
     </entry>
 </feed>
