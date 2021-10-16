@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-10-16T09:05:51.751Z</updated>
+    <updated>2021-10-16T10:06:07.588Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[발품뉴스] "살 사람이 없다"…자영업 중고품 '무너진 흔적들']]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000278516&amp;office_id=437&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211016&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000278516&amp;office_id=437&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211016&amp;page=1"/>
+        <updated>2021-10-16T10:05:09.860Z</updated>
+        <content type="html"><![CDATA[JTBC]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[8일 연속 2천명 아래…확진자 발생 추이 주목]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000509445&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211016&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000509390&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211016&amp;page=1"/>
         <updated>2021-10-16T10:30:00.000Z</updated>
         <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가스공사 "연료비 상승 감안 도시가스 요금 인상 필요"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001653031&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211016&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001653031&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211016&amp;page=1"/>
-        <updated>2021-10-16T10:27:00.000Z</updated>
-        <content type="html"><![CDATA[YTN]]></content>
     </entry>
 </feed>
