@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=401</id>
     <title>네이버 금융 ─ 뉴스 ─ 시황·전망</title>
-    <updated>2021-10-16T03:06:14.468Z</updated>
+    <updated>2021-10-16T04:07:14.835Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[실적 부진에 꺾인 제약·바이오주...실적 모멘텀 타고 반등하나]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004724083&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211016&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004724083&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211016&amp;page=1"/>
+        <updated>2021-10-16T04:05:25.010Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004724083&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211016&amp;page=1" title="실적 부진에 꺾인 제약·바이오주...실적 모멘텀 타고 반등하나">실적 부진에 꺾인 제약·바이오주...실적 모멘텀 타고 반등하나</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["카카오, 최악 지났다…추가 하락 제한적"]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001899905&amp;office_id=016&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211016&amp;page=1</id>
@@ -46,12 +53,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003973773&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211016&amp;page=1"/>
         <updated>2021-10-15T15:04:47.128Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003973773&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211016&amp;page=1" title="[표]유가증권 코스닥 투자주체별 매매동향(10월 15일-최종치)">[표]유가증권 코스닥 투자주체별 매매동향(10월 15일-최종치)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[돌아온 삼천피·7만전자···개인 투심은 여전히 ‘싸늘’]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003973756&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211016&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003973756&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211016&amp;page=1"/>
-        <updated>2021-10-15T15:04:47.129Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003973756&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211016&amp;page=1" title="돌아온 삼천피·7만전자···개인 투심은 여전히 ‘싸늘’">돌아온 삼천피·7만전자···개인 투심은 여전히 ‘싸늘’</a>]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-10-16T03:06:14.481Z</updated>
+    <updated>2021-10-16T04:07:16.514Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서울아파트 분양가 전년대비 17%↑…3.3㎡당 3135만원]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000278501&amp;office_id=437&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211016&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000278501&amp;office_id=437&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211016&amp;page=1"/>
+        <updated>2021-10-16T00:09:00.000Z</updated>
+        <content type="html"><![CDATA[JTBC]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신문브리핑3 "윤석열 "홍준표 잘했으면 내가 나왔겠나" 홍준표 "윤석열-이재명 도덕성 피장..]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001614490&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211016&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001614450&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211016&amp;page=1"/>
         <updated>2021-10-16T09:29:00.000Z</updated>
         <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴스해설] 유가·원자잿값 급등 ‘빨간불’…중소기업 충격 최소화해야]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0011138587&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211016&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011138587&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211016&amp;page=1"/>
-        <updated>2021-10-16T09:27:00.000Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
