@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS2D&amp;section_id=101&amp;section_id2=258</id>
     <title>네이버 금융 ─ 뉴스 ─ 실시간 속보</title>
-    <updated>2021-10-16T10:06:07.608Z</updated>
+    <updated>2021-10-16T11:05:25.127Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['인공인간 전문기업' 마인즈랩, 증권신고서 제출…내달 코스닥 상장]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004724111&amp;office_id=014&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211016&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004724111&amp;office_id=014&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211016&amp;page=1"/>
+        <updated>2021-10-16T11:03:19.806Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004724111&amp;office_id=014&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211016&amp;page=1" title="'인공인간 전문기업' 마인즈랩, 증권신고서 제출…내달 코스닥 상장">'인공인간 전문기업' 마인즈랩, 증권신고서 제출…내달 코스닥 상장</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[승인 임박 '비트코인 ETF'…게임체인저 될까]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0010773735&amp;office_id=003&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211016&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000004264&amp;office_id=648&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211016&amp;page=1"/>
         <updated>2021-10-16T05:03:14.442Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000004264&amp;office_id=648&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211016&amp;page=1" title="오락가락 증시에도 자동차주는 왜 끄떡없을까">오락가락 증시에도 자동차주는 왜 끄떡없을까</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간 추천주] 실적 가시성 주목…삼성SDS·골프존·에이프로 '러브콜']]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000629130&amp;office_id=031&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211016&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000629130&amp;office_id=031&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211016&amp;page=1"/>
-        <updated>2021-10-16T04:05:12.396Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000629130&amp;office_id=031&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211016&amp;page=1" title="[주간 추천주] 실적 가시성 주목…삼성SDS·골프존·에이프로 '러브콜'">[주간 추천주] 실적 가시성 주목…삼성SDS·골프존·에이프로 '러브콜'</a>]]></content>
     </entry>
 </feed>
