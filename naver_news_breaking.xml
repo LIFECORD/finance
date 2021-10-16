@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS2D&amp;section_id=101&amp;section_id2=258</id>
     <title>네이버 금융 ─ 뉴스 ─ 실시간 속보</title>
-    <updated>2021-10-16T08:07:13.757Z</updated>
+    <updated>2021-10-16T09:05:51.727Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[승인 임박 '비트코인 ETF'…게임체인저 될까]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0010773735&amp;office_id=003&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211016&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0010773735&amp;office_id=003&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211016&amp;page=1"/>
+        <updated>2021-10-16T09:03:47.407Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0010773735&amp;office_id=003&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211016&amp;page=1" title="승인 임박 '비트코인 ETF'…게임체인저 될까">승인 임박 '비트코인 ETF'…게임체인저 될까</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['NFT'에 꽂힌 산업계…새로운 성장성에 주목]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0010773717&amp;office_id=003&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211016&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000629130&amp;office_id=031&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211016&amp;page=1"/>
         <updated>2021-10-16T04:05:12.396Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000629130&amp;office_id=031&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211016&amp;page=1" title="[주간 추천주] 실적 가시성 주목…삼성SDS·골프존·에이프로 '러브콜'">[주간 추천주] 실적 가시성 주목…삼성SDS·골프존·에이프로 '러브콜'</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[실적 부진에 꺾인 제약·바이오주...실적 모멘텀 타고 반등하나]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004724083&amp;office_id=014&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211016&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004724083&amp;office_id=014&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211016&amp;page=1"/>
-        <updated>2021-10-16T04:05:12.403Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004724083&amp;office_id=014&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211016&amp;page=1" title="실적 부진에 꺾인 제약·바이오주...실적 모멘텀 타고 반등하나">실적 부진에 꺾인 제약·바이오주...실적 모멘텀 타고 반등하나</a>]]></content>
     </entry>
 </feed>
