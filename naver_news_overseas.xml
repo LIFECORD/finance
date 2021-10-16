@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-10-16T22:05:23.392Z</updated>
+    <updated>2021-10-16T23:05:57.747Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인플레·공급난·中부동산…쌓인 걱정들을 녹인 '해독제' [월가시각]]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004657485&amp;office_id=008&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211017&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004657485&amp;office_id=008&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211017&amp;page=1"/>
+        <updated>2021-10-16T23:04:21.463Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004657485&amp;office_id=008&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211017&amp;page=1" title="인플레·공급난·中부동산…쌓인 걱정들을 녹인 '해독제' [월가시각]">인플레·공급난·中부동산…쌓인 걱정들을 녹인 '해독제' [월가시각]</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[표]해외 한국 DR 주간등락률]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005061673&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211017&amp;page=1</id>
@@ -53,12 +60,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000766995&amp;office_id=366&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211017&amp;page=1"/>
         <updated>2021-10-16T15:04:28.448Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000766995&amp;office_id=366&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211017&amp;page=1" title="뉴욕증시, 소매판매·기업실적 호조에 상승...다우 1.09% 올라">뉴욕증시, 소매판매·기업실적 호조에 상승...다우 1.09% 올라</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴욕증시]3분기도 월가 '어닝 서프라이즈'…주가 또 뛰었다]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005061644&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211017&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005061644&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211017&amp;page=1"/>
-        <updated>2021-10-16T15:04:28.450Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005061644&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211017&amp;page=1" title="[뉴욕증시]3분기도 월가 '어닝 서프라이즈'…주가 또 뛰었다">[뉴욕증시]3분기도 월가 '어닝 서프라이즈'…주가 또 뛰었다</a>]]></content>
     </entry>
 </feed>
