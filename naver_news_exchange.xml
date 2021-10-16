@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=429</id>
     <title>네이버 금융 ─ 뉴스 ─ 환율</title>
-    <updated>2021-10-16T21:05:29.685Z</updated>
+    <updated>2021-10-16T22:05:23.399Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코스피 전망치 하향 잇따라…"하단 2,850∼2,900"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012726483&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211017&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012726483&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211017&amp;page=1"/>
+        <updated>2021-10-16T22:04:04.562Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012726483&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211017&amp;page=1" title="코스피 전망치 하향 잇따라…&quot;하단 2,850∼2,900&quot;">코스피 전망치 하향 잇따라…"하단 2,850∼2,900"</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘자원 대란’인데...해외 광구 내다 팔기 바쁜 공기업[뒷북경제]]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003973857&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211017&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012722483&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211017&amp;page=1"/>
         <updated>2021-10-16T15:04:45.635Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012722483&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211017&amp;page=1" title="싱가포르 중앙은행, 3년만에 통화정책 전격 긴축">싱가포르 중앙은행, 3년만에 통화정책 전격 긴축</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[그래픽] 외국인 국내 주식 투자자금 추이]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0012722317&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211017&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012722317&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211017&amp;page=1"/>
-        <updated>2021-10-16T15:04:45.642Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012722317&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211017&amp;page=1" title="[그래픽] 외국인 국내 주식 투자자금 추이">[그래픽] 외국인 국내 주식 투자자금 추이</a>]]></content>
     </entry>
 </feed>
