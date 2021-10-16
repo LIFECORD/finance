@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS2D&amp;section_id=101&amp;section_id2=258</id>
     <title>네이버 금융 ─ 뉴스 ─ 실시간 속보</title>
-    <updated>2021-10-16T07:06:17.949Z</updated>
+    <updated>2021-10-16T08:07:13.757Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['NFT'에 꽂힌 산업계…새로운 성장성에 주목]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0010773717&amp;office_id=003&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211016&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0010773717&amp;office_id=003&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211016&amp;page=1"/>
+        <updated>2021-10-16T08:05:10.803Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0010773717&amp;office_id=003&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211016&amp;page=1" title="'NFT'에 꽂힌 산업계…새로운 성장성에 주목">'NFT'에 꽂힌 산업계…새로운 성장성에 주목</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[위드 코로나 기대감·인플레이션 우려에 횡보세 지속 [주간증시전망]]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004865618&amp;office_id=009&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211016&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004724083&amp;office_id=014&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211016&amp;page=1"/>
         <updated>2021-10-16T04:05:12.403Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004724083&amp;office_id=014&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211016&amp;page=1" title="실적 부진에 꺾인 제약·바이오주...실적 모멘텀 타고 반등하나">실적 부진에 꺾인 제약·바이오주...실적 모멘텀 타고 반등하나</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["델타 변이 우려, 길게 가진 않을 것…장기 기대 인플레이션이 관건"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004984091&amp;office_id=277&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211016&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004984091&amp;office_id=277&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211016&amp;page=1"/>
-        <updated>2021-10-16T04:05:12.410Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004984091&amp;office_id=277&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211016&amp;page=1" title="&quot;델타 변이 우려, 길게 가진 않을 것…장기 기대 인플레이션이 관건&quot;">"델타 변이 우려, 길게 가진 않을 것…장기 기대 인플레이션이 관건"</a>]]></content>
     </entry>
 </feed>
