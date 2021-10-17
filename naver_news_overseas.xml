@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-10-17T00:20:55.954Z</updated>
+    <updated>2021-10-17T01:53:04.114Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[日 증시, 2024년에 폐장시간 3시→ 3시30분]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005062017&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211017&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005062017&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211017&amp;page=1"/>
+        <updated>2021-10-17T01:51:23.050Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005062017&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211017&amp;page=1" title="日 증시, 2024년에 폐장시간 3시→ 3시30분">日 증시, 2024년에 폐장시간 3시→ 3시30분</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[표]해외 주요 증시 동향(10월 15일)]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003973947&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211017&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003973947&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211017&amp;page=1"/>
+        <updated>2021-10-17T01:51:23.051Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003973947&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211017&amp;page=1" title="[표]해외 주요 증시 동향(10월 15일)">[표]해외 주요 증시 동향(10월 15일)</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024년 도쿄증시 폐장 시간, 오후 3시 반으로 30분 연장]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0012726629&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211017&amp;page=1</id>
@@ -53,12 +67,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005061654&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211017&amp;page=1"/>
         <updated>2021-10-16T15:04:28.445Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005061654&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211017&amp;page=1" title="[표]미국 주요기업 주가(10/15)">[표]미국 주요기업 주가(10/15)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴욕증시, 기업 호실적에 일제히 상승…다우 1.09%↑]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004616892&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211017&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004616892&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211017&amp;page=1"/>
-        <updated>2021-10-16T15:04:28.445Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004616892&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211017&amp;page=1" title="뉴욕증시, 기업 호실적에 일제히 상승…다우 1.09%↑">뉴욕증시, 기업 호실적에 일제히 상승…다우 1.09%↑</a>]]></content>
     </entry>
 </feed>
