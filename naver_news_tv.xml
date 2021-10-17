@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-10-17T06:06:39.843Z</updated>
+    <updated>2021-10-17T07:06:14.412Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스타벅스, 트럭 시위에 신규 채용·임금 개편 추진]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000509539&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211017&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000509539&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211017&amp;page=1"/>
+        <updated>2021-10-17T07:05:12.678Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[현장연결] 중대본 "10월 남은 2주, 단계적 일상회복의 마지막 고비"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000509536&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211017&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000509536&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211017&amp;page=1"/>
+        <updated>2021-10-17T07:05:12.678Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10대 이하 주택 구입 급증…8월까지만 재작년 3배]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000509522&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211017&amp;page=1</id>
@@ -60,19 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001614619&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211017&amp;page=1"/>
         <updated>2021-10-17T10:51:00.000Z</updated>
         <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['첫 희망퇴직' 롯데백화점…대규모 인력구조 재편]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000509484&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211017&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000509484&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211017&amp;page=1"/>
-        <updated>2021-10-17T10:10:00.000Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기업기상도] 막힌 길 뚫어 맑은 기업 vs 안팎 우환에 흐린 기업]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000509478&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211017&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000509478&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211017&amp;page=1"/>
-        <updated>2021-10-17T09:51:00.000Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
     </entry>
 </feed>
