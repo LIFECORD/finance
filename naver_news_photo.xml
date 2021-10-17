@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-10-17T19:08:28.985Z</updated>
+    <updated>2021-10-17T20:08:11.310Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[찬바람 부는 증시...메타버스 ETF도 옥석 가리기]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0002538922&amp;office_id=119&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211018&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0002538922&amp;office_id=119&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211018&amp;page=1"/>
+        <updated>2021-10-18T05:01:00.000Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[중국 오늘 3분기 성장률 발표…5% 턱걸이 전망]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012727859&amp;office_id=001&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211018&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012727859&amp;office_id=001&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211018&amp;page=1"/>
+        <updated>2021-10-18T05:00:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023년 금투세 도입… 내년 종가 활용하면, 세금 아낄 수 있어요]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003646923&amp;office_id=023&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211018&amp;page=1</id>
@@ -60,19 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003974136&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211018&amp;page=1"/>
         <updated>2021-10-17T15:08:10.630Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이번주 추천주]친환경 정책 모멘텀 '한화솔루션'...한파에 '한섬'도 눈길]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003974135&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211018&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003974135&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211018&amp;page=1"/>
-        <updated>2021-10-17T15:08:10.634Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전세대출, 막지는 않는다지만... 한도 '줄고', 심사 '깐깐', 금리도 '인상']]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000635529&amp;office_id=469&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211018&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000635529&amp;office_id=469&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211018&amp;page=1"/>
-        <updated>2021-10-17T15:08:10.635Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
 </feed>

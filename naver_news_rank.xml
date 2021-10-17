@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-10-17T19:08:28.981Z</updated>
+    <updated>2021-10-17T20:08:11.334Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -13,13 +13,6 @@
         <content type="html"><![CDATA[서울경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[50종목 10년 주가 보니… 우량주 장투의 대반전]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001477529&amp;office_id=005&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001477529&amp;office_id=005&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-17T16:06:28.829Z</updated>
-        <content type="html"><![CDATA[국민일보]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[코스피 3000 다시 회복했지만…"현금비중 높여라"]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005062394&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005062394&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
@@ -27,10 +20,31 @@
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[50종목 10년 주가 보니… 우량주 장투의 대반전]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001477529&amp;office_id=005&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001477529&amp;office_id=005&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-17T16:06:28.829Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023년 금투세 도입… 내년 종가 활용하면, 세금 아낄 수 있..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003646923&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003646923&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-18T03:04:00.000Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[공모주 청약증거금 50%, 바뀔 수 있을까]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005062395&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005062395&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-18T01:31:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국내 배당株 투자는 어떻게?]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005062399&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005062399&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-18T02:31:00.000Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
@@ -41,11 +55,11 @@
         <content type="html"><![CDATA[서울경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[국내 배당株 투자는 어떻게?]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005062399&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005062399&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-18T02:31:00.000Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
+        <title type="html"><![CDATA[[주간경제지표] 2021년 10월 15일자]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003646922&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003646922&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-18T03:04:00.000Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[세금부터 배당락일까지…美배당주, 이건 알고 투자해야]]></title>
@@ -53,19 +67,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005062398&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-18T02:01:00.000Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023년 금투세 도입… 내년 종가 활용하면, 세금 아낄 수 있..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003646923&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003646923&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-18T03:04:00.000Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간경제지표] 2021년 10월 15일자]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003646922&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003646922&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-18T03:04:00.000Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>

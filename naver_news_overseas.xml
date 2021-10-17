@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-10-17T19:08:28.980Z</updated>
+    <updated>2021-10-17T20:08:11.311Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[중국 오늘 3분기 성장률 발표…5% 턱걸이 전망]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012727859&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211018&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012727859&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211018&amp;page=1"/>
+        <updated>2021-10-17T20:06:10.481Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012727859&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211018&amp;page=1" title="중국 오늘 3분기 성장률 발표…5% 턱걸이 전망">중국 오늘 3분기 성장률 발표…5% 턱걸이 전망</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[베트남 3분기 고용률 65.6%...10년 만에 최저 [KVINA]]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000990756&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211018&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000990732&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211018&amp;page=1"/>
         <updated>2021-10-17T15:07:31.713Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000990732&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211018&amp;page=1" title="베트남석유연구소, 전기차 지수 최초 발표 [KVINA]">베트남석유연구소, 전기차 지수 최초 발표 [KVINA]</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["245억 투자해 1조 벌었다"...'오겜' 대박난 넷플릭스]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000990729&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211018&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000990729&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211018&amp;page=1"/>
-        <updated>2021-10-17T15:07:31.715Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000990729&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211018&amp;page=1" title="&quot;245억 투자해 1조 벌었다&quot;...'오겜' 대박난 넷플릭스">"245억 투자해 1조 벌었다"...'오겜' 대박난 넷플릭스</a>]]></content>
     </entry>
 </feed>
