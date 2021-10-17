@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-10-17T20:08:11.334Z</updated>
+    <updated>2021-10-17T21:05:42.889Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[이번주 추천주]친환경 정책 모멘텀 '한화솔루션'...한파에 '..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003974135&amp;office_id=011&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003974135&amp;office_id=011&amp;mode=RANK&amp;typ=0"/>
+        <title type="html"><![CDATA[50종목 10년 주가 보니… 우량주 장투의 대반전]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001477529&amp;office_id=005&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001477529&amp;office_id=005&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-17T16:06:28.829Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
+        <content type="html"><![CDATA[국민일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코스피 3000 다시 회복했지만…"현금비중 높여라"]]></title>
@@ -20,20 +20,6 @@
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[50종목 10년 주가 보니… 우량주 장투의 대반전]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001477529&amp;office_id=005&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001477529&amp;office_id=005&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-17T16:06:28.829Z</updated>
-        <content type="html"><![CDATA[국민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023년 금투세 도입… 내년 종가 활용하면, 세금 아낄 수 있..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003646923&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003646923&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-18T03:04:00.000Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[공모주 청약증거금 50%, 바뀔 수 있을까]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005062395&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005062395&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
@@ -41,17 +27,10 @@
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[국내 배당株 투자는 어떻게?]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005062399&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005062399&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-18T02:31:00.000Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디즈니+, 韓상륙 임박···제이콘텐트리·NEW '방긋']]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003974136&amp;office_id=011&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003974136&amp;office_id=011&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-17T16:06:28.828Z</updated>
+        <title type="html"><![CDATA[[이번주 추천주]친환경 정책 모멘텀 '한화솔루션'...한파에 '..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003974135&amp;office_id=011&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003974135&amp;office_id=011&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-17T16:06:28.829Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
     </entry>
     <entry>
@@ -62,10 +41,66 @@
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[디즈니+, 韓상륙 임박···제이콘텐트리·NEW '방긋']]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003974136&amp;office_id=011&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003974136&amp;office_id=011&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-17T16:06:28.828Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[세금부터 배당락일까지…美배당주, 이건 알고 투자해야]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005062398&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005062398&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-18T02:01:00.000Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국내 배당株 투자는 어떻게?]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005062399&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005062399&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-18T02:31:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023년 금투세 도입… 내년 종가 활용하면, 세금 아낄 수 있..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003646923&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003646923&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-18T03:04:00.000Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[찬바람 부는 증시...메타버스 ETF도 옥석 가리기]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0002538922&amp;office_id=119&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0002538922&amp;office_id=119&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-18T05:01:00.000Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[중국 오늘 3분기 성장률 발표…5% 턱걸이 전망]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012727859&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012727859&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-18T05:00:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이마트, 3분기 악재 끝…쓱닷컴 시너지로 날아오른다]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004657642&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004657642&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-18T05:25:00.000Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[스타애널]이혜인 유안타證 연구원 '자이언트스텝'으로 주간 1위]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005062414&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005062414&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-18T05:31:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[속보] 비트코인 2.26% 하락한 5만9558달러에 거래돼]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005662543&amp;office_id=421&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005662543&amp;office_id=421&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-18T05:53:00.000Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
