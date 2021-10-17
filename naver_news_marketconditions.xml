@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=401</id>
     <title>네이버 금융 ─ 뉴스 ─ 시황·전망</title>
-    <updated>2021-10-17T05:05:03.677Z</updated>
+    <updated>2021-10-17T06:06:39.840Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[3000선 회복한 코스피, 증권가 "급한 불 껐지만 반등은 아직"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004657566&amp;office_id=008&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211017&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004657566&amp;office_id=008&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211017&amp;page=1"/>
+        <updated>2021-10-17T06:04:52.636Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004657566&amp;office_id=008&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211017&amp;page=1" title="3000선 회복한 코스피, 증권가 &quot;급한 불 껐지만 반등은 아직&quot;">3000선 회복한 코스피, 증권가 "급한 불 껐지만 반등은 아직"</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[시험대 위에선 동학개미...주요證 "코스피 하단 2,850~2,900선"]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003973954&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211017&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012726483&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211017&amp;page=1"/>
         <updated>2021-10-16T22:03:33.946Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012726483&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211017&amp;page=1" title="코스피 전망치 하향 잇따라…&quot;하단 2,850∼2,900&quot;">코스피 전망치 하향 잇따라…"하단 2,850∼2,900"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[위드 코로나 기대감·인플레이션 우려에 횡보세 지속 [주간증시전망]]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004865618&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211017&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004865618&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211017&amp;page=1"/>
-        <updated>2021-10-16T15:04:15.629Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004865618&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211017&amp;page=1" title="위드 코로나 기대감·인플레이션 우려에 횡보세 지속 [주간증시전망]">위드 코로나 기대감·인플레이션 우려에 횡보세 지속 [주간증시전망]</a>]]></content>
     </entry>
 </feed>
