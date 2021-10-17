@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-10-17T17:12:27.615Z</updated>
+    <updated>2021-10-17T18:06:12.879Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[디즈니+, 韓상륙 임박···제이콘텐트리·NEW '방긋']]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003974136&amp;office_id=011&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003974136&amp;office_id=011&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-17T16:06:28.828Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[50종목 10년 주가 보니… 우량주 장투의 대반전]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001477529&amp;office_id=005&amp;mode=RANK&amp;typ=0</id>
@@ -34,10 +27,31 @@
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[디즈니+, 韓상륙 임박···제이콘텐트리·NEW '방긋']]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003974136&amp;office_id=011&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003974136&amp;office_id=011&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-17T16:06:28.828Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[공모주 청약증거금 50%, 바뀔 수 있을까]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005062395&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005062395&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-18T01:31:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[세금부터 배당락일까지…美배당주, 이건 알고 투자해야]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005062398&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005062398&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-18T02:01:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국내 배당株 투자는 어떻게?]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005062399&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005062399&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-18T02:31:00.000Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
