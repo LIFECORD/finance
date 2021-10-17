@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-10-17T15:09:36.149Z</updated>
+    <updated>2021-10-17T16:07:40.438Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대출금리 5% 육박...이자 부담 '급증']]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001653523&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211018&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001653523&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211018&amp;page=1"/>
+        <updated>2021-10-17T16:06:42.195Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[반도체 부족에 국내 자동차 생산 13년 만에 최소]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001653500&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211018&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0011138846&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211018&amp;page=1"/>
         <updated>2021-10-17T15:08:18.672Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["2030 전용 백화점 VIP룸"…'부의 세습' '빚투' 양극화]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000927629&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211018&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000927629&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211018&amp;page=1"/>
-        <updated>2021-10-17T15:08:18.673Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>
