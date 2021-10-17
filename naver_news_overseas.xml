@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-10-17T22:06:03.654Z</updated>
+    <updated>2021-10-17T23:08:57.920Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[외환브리핑]경기개선 기대, 위험선호 지속…환율, 1180원대 초반 하락 전망]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005062523&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211018&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005062523&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211018&amp;page=1"/>
+        <updated>2021-10-17T23:06:58.033Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005062523&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211018&amp;page=1" title="[외환브리핑]경기개선 기대, 위험선호 지속…환율, 1180원대 초반 하락 전망">[외환브리핑]경기개선 기대, 위험선호 지속…환율, 1180원대 초반 하락 전망</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[표]주간 해외 주요 증시 동향(10월 11일~15일)]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003974147&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211018&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004865757&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211018&amp;page=1"/>
         <updated>2021-10-17T15:07:31.709Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004865757&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211018&amp;page=1" title="[표] 주요국 증시 주간 동향">[표] 주요국 증시 주간 동향</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[표]해외 DR 가격(10월 15일)]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003973995&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211018&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003973995&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211018&amp;page=1"/>
-        <updated>2021-10-17T15:07:31.709Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003973995&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211018&amp;page=1" title="[표]해외 DR 가격(10월 15일)">[표]해외 DR 가격(10월 15일)</a>]]></content>
     </entry>
 </feed>
