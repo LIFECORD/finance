@@ -2,21 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-10-18T17:15:49.179Z</updated>
+    <updated>2021-10-18T18:07:07.044Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA['오징어게임' 이은 '마이네임' 인기에 콘텐츠株 순풍…전망은?]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000111260&amp;office_id=629&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000111260&amp;office_id=629&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-18T16:10:40.052Z</updated>
-        <content type="html"><![CDATA[더팩트]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA['업무 과중, 혼란 가중'…어정쩡한 국민연금 상근전문위원]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005063286&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005063286&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-18T16:10:40.055Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전문위 생기니 애매해진 실평위…복지부는 회의 지옥]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005063289&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005063289&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-18T16:10:40.056Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
@@ -27,11 +27,11 @@
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[전문위 생기니 애매해진 실평위…복지부는 회의 지옥]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005063289&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005063289&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-18T16:10:40.056Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
+        <title type="html"><![CDATA['오징어게임' 이은 '마이네임' 인기에 콘텐츠株 순풍…전망은?]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000111260&amp;office_id=629&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000111260&amp;office_id=629&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-18T16:10:40.052Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["국민연금 전문위 권한·지위 명확해야"…안팎 지적 솔솔]]></title>
@@ -48,6 +48,13 @@
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[유럽증시] 중국 경기 둔화 우려 속 하락세]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012730568&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012730568&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-19T01:53:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['SKT 분할·카카오페이 상장'…변동장에 코스피200 편입株 '..]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005063293&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005063293&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
@@ -55,10 +62,10 @@
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[유럽증시] 중국 경기 둔화 우려 속 하락세]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0012730568&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012730568&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-19T01:53:00.000Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
+        <title type="html"><![CDATA[[마켓인]야놀자가 막판에 인터파크 인수한 이유]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005063294&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005063294&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-19T02:31:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>

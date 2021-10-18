@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-10-18T17:15:49.215Z</updated>
+    <updated>2021-10-18T18:07:07.020Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주식 매매 상위 종목 및 환율] 2021년 10월 18일자]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003647117&amp;office_id=023&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211019&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003647117&amp;office_id=023&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211019&amp;page=1"/>
+        <updated>2021-10-19T03:03:00.000Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[마켓인]야놀자가 막판에 인터파크 인수한 이유]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005063294&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211019&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005063294&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211019&amp;page=1"/>
+        <updated>2021-10-19T02:31:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[유럽증시] 중국 경기 둔화 우려 속 하락세]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0012730568&amp;office_id=001&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211019&amp;page=1</id>
@@ -60,19 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000111260&amp;office_id=629&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211019&amp;page=1"/>
         <updated>2021-10-18T15:05:05.282Z</updated>
         <content type="html"><![CDATA[더팩트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3대 지수 하락 출발에도 오르는 페이스북···메타버스가 뭐길래 [뉴욕증시 나..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000991059&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211019&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000991059&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211019&amp;page=1"/>
-        <updated>2021-10-18T15:05:05.283Z</updated>
-        <content type="html"><![CDATA[한국경제TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수요예측 흥행 실패 공모주, 상장 후 수익률 마이너스]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005063279&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211019&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005063279&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211019&amp;page=1"/>
-        <updated>2021-10-18T15:05:05.284Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
