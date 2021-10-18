@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=401</id>
     <title>네이버 금융 ─ 뉴스 ─ 시황·전망</title>
-    <updated>2021-10-18T16:11:50.377Z</updated>
+    <updated>2021-10-18T17:15:49.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['SKT 분할·카카오페이 상장'…변동장에 코스피200 편입株 '주목']]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005063293&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211019&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005063293&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211019&amp;page=1"/>
+        <updated>2021-10-18T17:13:52.625Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005063293&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211019&amp;page=1" title="'SKT 분할·카카오페이 상장'…변동장에 코스피200 편입株 '주목'">'SKT 분할·카카오페이 상장'…변동장에 코스피200 편입株 '주목'</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 예보 보유 우리금융지주 소수지분 숏리스트에 18곳 포함]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004866370&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211019&amp;page=1</id>
@@ -46,12 +53,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004866313&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211019&amp;page=1"/>
         <updated>2021-10-18T15:04:22.312Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004866313&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211019&amp;page=1" title="[표] 주요 증시 지표 (10월 18일)">[표] 주요 증시 지표 (10월 18일)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이슈진단] 삼천피 회복은 반등 아닌 '되돌림']]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004866311&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211019&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004866311&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211019&amp;page=1"/>
-        <updated>2021-10-18T15:04:22.313Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004866311&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211019&amp;page=1" title="[이슈진단] 삼천피 회복은 반등 아닌 '되돌림'">[이슈진단] 삼천피 회복은 반등 아닌 '되돌림'</a>]]></content>
     </entry>
 </feed>
