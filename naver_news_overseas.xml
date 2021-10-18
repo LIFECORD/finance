@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-10-18T20:06:43.574Z</updated>
+    <updated>2021-10-18T21:05:32.028Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[UBS, 버진갤럭틱 투자의견 하향..."주가 25% 하락 예상"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000991067&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211019&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000991067&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211019&amp;page=1"/>
+        <updated>2021-10-18T21:03:54.249Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000991067&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211019&amp;page=1" title="UBS, 버진갤럭틱 투자의견 하향...&quot;주가 25% 하락 예상&quot;">UBS, 버진갤럭틱 투자의견 하향..."주가 25% 하락 예상"</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[속보]기업 실적 낙관론…뉴욕증시 소폭 강세 기울어]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005063309&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211019&amp;page=1</id>
@@ -46,19 +53,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000991054&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211019&amp;page=1"/>
         <updated>2021-10-18T15:04:34.620Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000991054&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211019&amp;page=1" title="마세라티, 반도체 품귀로 신형 SUV 그리칼레 출시 연기">마세라티, 반도체 품귀로 신형 SUV 그리칼레 출시 연기</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[모건스탠리, US스틸 투자의견 비중축소로 두 단계 하향]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000991053&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211019&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000991053&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211019&amp;page=1"/>
-        <updated>2021-10-18T15:04:34.628Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000991053&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211019&amp;page=1" title="모건스탠리, US스틸 투자의견 비중축소로 두 단계 하향">모건스탠리, US스틸 투자의견 비중축소로 두 단계 하향</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[표]일본 주요기업 주가(10/18)]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005063266&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211019&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005063266&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211019&amp;page=1"/>
-        <updated>2021-10-18T15:04:34.628Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005063266&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211019&amp;page=1" title="[표]일본 주요기업 주가(10/18)">[표]일본 주요기업 주가(10/18)</a>]]></content>
     </entry>
 </feed>

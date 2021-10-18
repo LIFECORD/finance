@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-10-18T20:06:43.561Z</updated>
+    <updated>2021-10-18T21:05:32.051Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[얀센 접종자 147만명 추가접종…다음주 전문위 논의]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000509752&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000509752&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1"/>
+        <updated>2021-10-19T05:53:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[16~17세 어제 첫 백신 접종…"백신 맞으니 안심"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000509751&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000509751&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1"/>
+        <updated>2021-10-19T05:52:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어제 오후 9시까지 1,039명 확진…전날과 비슷]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000509750&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000509750&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1"/>
+        <updated>2021-10-19T05:49:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[여전히 높은 대출 문턱..."집값 정상화가 우선"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001654015&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001654015&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1"/>
+        <updated>2021-10-19T05:06:00.000Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['반값 복비' 오늘부터 시행...소비자 '반색'·중개사'울상']]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001654014&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001654014&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1"/>
+        <updated>2021-10-19T05:04:00.000Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[중개수수료 오늘부터 인하...9억 주택 810만→450만 원]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001654002&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1</id>
@@ -39,40 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001653947&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1"/>
         <updated>2021-10-18T15:05:12.049Z</updated>
         <content type="html"><![CDATA[YTN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울 휘발윳값 1ℓ에 1,800원 돌파...추가 물가상승 우려]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001653946&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001653946&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1"/>
-        <updated>2021-10-18T15:05:12.052Z</updated>
-        <content type="html"><![CDATA[YTN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유럽 등 해외여행 문의 빗발...사이판 여행 상품 완판]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001653941&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001653941&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1"/>
-        <updated>2021-10-18T15:05:12.053Z</updated>
-        <content type="html"><![CDATA[YTN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주담대 금리 5% 코앞까지 치솟아…대출자들 '허덕']]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000341728&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000341728&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1"/>
-        <updated>2021-10-18T15:05:12.054Z</updated>
-        <content type="html"><![CDATA[TV조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[CSI] "텀블러, 200번 이상 써야 '친환경' 효과 있다"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000341725&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000341725&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1"/>
-        <updated>2021-10-18T15:05:12.054Z</updated>
-        <content type="html"><![CDATA[TV조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[물류대란에 '소·돼지고기' 金값…서울 휘발유값은 1800원대]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000341724&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000341724&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1"/>
-        <updated>2021-10-18T15:05:12.055Z</updated>
-        <content type="html"><![CDATA[TV조선]]></content>
     </entry>
 </feed>
