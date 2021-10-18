@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=406</id>
     <title>네이버 금융 ─ 뉴스 ─ 공시 메모</title>
-    <updated>2021-10-18T02:01:10.521Z</updated>
+    <updated>2021-10-18T02:32:33.119Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[삼성중공업, 2조원대 수주 '잭팟'…올해 목표도 다 채웠다(종합)]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012728752&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=406&amp;date=20211018&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012728752&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=406&amp;date=20211018&amp;page=1"/>
+        <updated>2021-10-18T02:30:54.698Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012728752&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=406&amp;date=20211018&amp;page=1" title="삼성중공업, 2조원대 수주 '잭팟'…올해 목표도 다 채웠다(종합)">삼성중공업, 2조원대 수주 '잭팟'…올해 목표도 다 채웠다(종합)</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[삼성중공업, 셔틀탱커 7척 2조원에 수주…올해 목표 초과달성]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0012728593&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=406&amp;date=20211018&amp;page=1</id>
@@ -18,12 +25,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004617291&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=406&amp;date=20211018&amp;page=1"/>
         <updated>2021-10-18T01:59:39.320Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004617291&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=406&amp;date=20211018&amp;page=1" title="라온피플, 광주지방조달청과 15억 규모 공급계약 체결[주목 e공시]">라온피플, 광주지방조달청과 15억 규모 공급계약 체결[주목 e공시]</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한화투자증권, 현대차증권의 중국 CERCG 소송 기각[주목 e공시]]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004617280&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=406&amp;date=20211018&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004617280&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=406&amp;date=20211018&amp;page=1"/>
-        <updated>2021-10-18T01:59:39.322Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004617280&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=406&amp;date=20211018&amp;page=1" title="한화투자증권, 현대차증권의 중국 CERCG 소송 기각[주목 e공시]">한화투자증권, 현대차증권의 중국 CERCG 소송 기각[주목 e공시]</a>]]></content>
     </entry>
 </feed>

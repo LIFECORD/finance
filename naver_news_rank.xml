@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-10-18T02:01:11.946Z</updated>
+    <updated>2021-10-18T02:32:33.107Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -46,6 +46,13 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005662543&amp;office_id=421&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-18T05:53:00.000Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주]고려아연, 아연 가격 급등 기대에 장 초반 강세]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003974226&amp;office_id=011&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003974226&amp;office_id=011&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-18T09:49:00.000Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[세금부터 배당락일까지…美배당주, 이건 알고 투자해야]]></title>
@@ -104,11 +111,11 @@
         <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[대신증권 "카카오페이, 공모가 대비 순이익 상당히 높은 수준"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0010775112&amp;office_id=003&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0010775112&amp;office_id=003&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-18T08:43:00.000Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
+        <title type="html"><![CDATA[[특징주] 라온피플, 노지 스마트농업 생산단지 구축 참여에 상승..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000744526&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000744526&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-18T10:41:00.000Z</updated>
+        <content type="html"><![CDATA[머니S]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[국내 배당株 투자는 어떻게?]]></title>
@@ -139,6 +146,13 @@
         <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[특징주]디즈니+ 국내 서비스 시작 기대감...제이콘텐트리 강세]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003974244&amp;office_id=011&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003974244&amp;office_id=011&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-18T10:03:00.000Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[공모주 청약증거금 50%, 바뀔 수 있을까]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005062395&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005062395&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
@@ -165,19 +179,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005662594&amp;office_id=421&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-18T06:32:00.000Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[위기의 지방은행] ② 생존 몸부림치지만 곳곳서 발목]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0012728004&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012728004&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-18T07:00:00.000Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지방금융이 더 '열일'…우리·하나 일회성 손익 주목②]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000004276&amp;office_id=648&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000004276&amp;office_id=648&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-18T07:21:00.000Z</updated>
-        <content type="html"><![CDATA[비즈니스워치]]></content>
     </entry>
 </feed>
