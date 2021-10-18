@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-10-18T18:07:07.023Z</updated>
+    <updated>2021-10-18T19:06:05.519Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스콧 마이너드 "금융시장, 연준 부양책에 중독돼 있다"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005063298&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211019&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005063298&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211019&amp;page=1"/>
+        <updated>2021-10-18T19:04:17.311Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005063298&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211019&amp;page=1" title="스콧 마이너드 &quot;금융시장, 연준 부양책에 중독돼 있다&quot;">스콧 마이너드 "금융시장, 연준 부양책에 중독돼 있다"</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[유럽증시] 중국 경기 둔화 우려 속 하락세]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0012730568&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211019&amp;page=1</id>
@@ -60,12 +67,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003974588&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211019&amp;page=1"/>
         <updated>2021-10-18T15:04:34.628Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003974588&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211019&amp;page=1" title="[표]아시아 주요 증시 동향(10월 18일)">[표]아시아 주요 증시 동향(10월 18일)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['만년적자' 우버, 910억달러 기업가치 지켜낼 수 있을까]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004617579&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211019&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004617579&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211019&amp;page=1"/>
-        <updated>2021-10-18T15:04:34.628Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004617579&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211019&amp;page=1" title="'만년적자' 우버, 910억달러 기업가치 지켜낼 수 있을까">'만년적자' 우버, 910억달러 기업가치 지켜낼 수 있을까</a>]]></content>
     </entry>
 </feed>
