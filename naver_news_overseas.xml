@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-10-18T10:06:25.507Z</updated>
+    <updated>2021-10-18T11:05:24.002Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[표]아시아 주요 증시 동향(10월 18일)]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003974588&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211018&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003974588&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211018&amp;page=1"/>
+        <updated>2021-10-18T11:03:49.730Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003974588&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211018&amp;page=1" title="[표]아시아 주요 증시 동향(10월 18일)">[표]아시아 주요 증시 동향(10월 18일)</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['만년적자' 우버, 910억달러 기업가치 지켜낼 수 있을까]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004617579&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211018&amp;page=1</id>
@@ -46,12 +53,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012730109&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211018&amp;page=1"/>
         <updated>2021-10-18T08:06:15.354Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012730109&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211018&amp;page=1" title="중국 주택시장 위축 지속…9월 판매액 17% ↓">중국 주택시장 위축 지속…9월 판매액 17% ↓</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[골드만삭스, 중국서 지분 100% 보유한 자회사 확보]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004617452&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211018&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004617452&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211018&amp;page=1"/>
-        <updated>2021-10-18T08:06:15.362Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004617452&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211018&amp;page=1" title="골드만삭스, 중국서 지분 100% 보유한 자회사 확보">골드만삭스, 중국서 지분 100% 보유한 자회사 확보</a>]]></content>
     </entry>
 </feed>
