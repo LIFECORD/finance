@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/research/company_list.naver</id>
     <title>네이버 금융 ─ 리서치 ─ 종목분석 리포트</title>
-    <updated>2021-10-18T00:19:56.867Z</updated>
+    <updated>2021-10-18T02:01:10.519Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/research/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[3Q21 Preview: 바닥, 소외, 성장]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/company/1634521934497.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1634521934497.pdf"/>
+        <updated>2021-10-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[제이브이엠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[분할 전 마지막 매수 기회]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/company/1634521809569.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1634521809569.pdf"/>
+        <updated>2021-10-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[SK텔레콤]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[반도체 범핑 및 테스트 전문기업, CIS(CMOS I..]]></title>
         <id>https://ssl.pstatic.net/imgstock/upload/research/company/1634265039331.pdf</id>
@@ -200,19 +214,5 @@
         <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1634088864326.pdf"/>
         <updated>2021-10-13T00:00:00.000Z</updated>
         <content type="html"><![CDATA[다나와]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3분기 전기동가격 조정으로 다소 아쉬운 실적..]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/company/1634018800692.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1634018800692.pdf"/>
-        <updated>2021-10-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[풍산]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사이다처럼 시원한 성장세]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/company/1634010404851.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1634010404851.pdf"/>
-        <updated>2021-10-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[롯데칠성]]></content>
     </entry>
 </feed>

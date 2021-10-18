@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-10-18T00:19:56.861Z</updated>
+    <updated>2021-10-18T02:01:11.946Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -104,11 +104,25 @@
         <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[대신증권 "카카오페이, 공모가 대비 순이익 상당히 높은 수준"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0010775112&amp;office_id=003&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0010775112&amp;office_id=003&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-18T08:43:00.000Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[국내 배당株 투자는 어떻게?]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005062399&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005062399&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-18T02:31:00.000Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[해성디에스, 3Q 영업익 280억…전년比 124.9%↑[주목 e..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004617210&amp;office_id=015&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004617210&amp;office_id=015&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-18T08:40:00.000Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[베트남 토종車 빈패스트, 연말 미국 판매 개시 [KVINA]]]></title>
@@ -118,32 +132,11 @@
         <content type="html"><![CDATA[한국경제TV]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[클릭 e종목] "카카오뱅크, 어쨌든 은행…규제와 보호예수 해제..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004984466&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004984466&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-18T07:44:00.000Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카카오페이, 세 번째 상장 시도…이번엔 웃을까?]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000111051&amp;office_id=629&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000111051&amp;office_id=629&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-18T07:49:00.000Z</updated>
-        <content type="html"><![CDATA[더팩트]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA['위드 코로나' 시대 여행 수요↑…"내년 여행사 흑자전환"]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0012727901&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012727901&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-18T06:01:00.000Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해성디에스, 3Q 영업익 280억…전년比 124.9%↑[주목 e..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004617210&amp;office_id=015&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004617210&amp;office_id=015&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-18T08:40:00.000Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[공모주 청약증거금 50%, 바뀔 수 있을까]]></title>
@@ -160,13 +153,6 @@
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[e공시 눈에 띄네] 코스닥-15일]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004984468&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004984468&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-18T07:46:00.000Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[비트코인 2% 이상 하락, 6만 달러 하회(상보)]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005662574&amp;office_id=421&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005662574&amp;office_id=421&amp;mode=RANK&amp;typ=0"/>
@@ -179,5 +165,19 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005662594&amp;office_id=421&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-18T06:32:00.000Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[위기의 지방은행] ② 생존 몸부림치지만 곳곳서 발목]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012728004&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012728004&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-18T07:00:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지방금융이 더 '열일'…우리·하나 일회성 손익 주목②]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000004276&amp;office_id=648&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000004276&amp;office_id=648&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-18T07:21:00.000Z</updated>
+        <content type="html"><![CDATA[비즈니스워치]]></content>
     </entry>
 </feed>

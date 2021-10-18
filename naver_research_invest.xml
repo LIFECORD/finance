@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/research/invest_list.naver</id>
     <title>네이버 금융 ─ 리서치 ─ 투자정보 리포트</title>
-    <updated>2021-10-18T00:19:56.868Z</updated>
+    <updated>2021-10-18T02:01:10.525Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/research/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[에너지 대란]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/invest/1634522216319.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/invest/1634522216319.pdf"/>
+        <updated>2021-10-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[이베스트증권]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미래에셋증권 Daily 종합]]></title>
         <id>https://ssl.pstatic.net/imgstock/upload/research/invest/1634264335502.pdf</id>
@@ -206,13 +213,6 @@
         <id>https://ssl.pstatic.net/imgstock/upload/research/invest/1633486280663.pdf</id>
         <link href="https://ssl.pstatic.net/imgstock/upload/research/invest/1633486280663.pdf"/>
         <updated>2021-10-14T00:12:52.794Z</updated>
-        <content type="html"><![CDATA[하나금융투자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4분기 미국 증시는 어떨까]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/invest/1633485989161.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/invest/1633485989161.pdf"/>
-        <updated>2021-10-14T00:12:52.796Z</updated>
         <content type="html"><![CDATA[하나금융투자]]></content>
     </entry>
 </feed>
