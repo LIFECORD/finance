@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-10-18T03:06:16.593Z</updated>
+    <updated>2021-10-18T04:06:51.033Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[산사태 취약지 늘었지만 사방댐 예산 준 이유]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0011139250&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211018&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011139250&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211018&amp;page=1"/>
+        <updated>2021-10-18T04:05:50.484Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[위기의 공항면세점, 선두 자리 ‘흔들’]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0011139249&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211018&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011139249&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211018&amp;page=1"/>
+        <updated>2021-10-18T04:05:50.485Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[분양가상한제 확대 등 개발이익 환수 제도 검토]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0011139238&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211018&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011139238&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211018&amp;page=1"/>
+        <updated>2021-10-18T00:34:00.000Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['반도체 부족 사태'…국내 자동차 생산량, 13년 만에 최저]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000927729&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211018&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000927729&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211018&amp;page=1"/>
+        <updated>2021-10-18T00:27:00.000Z</updated>
+        <content type="html"><![CDATA[SBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[홍남기 부총리 “미국의 반도체 정보 요청, 기업 자율성 등에 바탕두고 대응”]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0011139236&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211018&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011139236&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211018&amp;page=1"/>
+        <updated>2021-10-18T00:26:00.000Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코스피 약보 합세‥코스닥은 K콘텐츠 업종 강세에 소폭 상승]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001154407&amp;office_id=214&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211018&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001154407&amp;office_id=214&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211018&amp;page=1"/>
+        <updated>2021-10-18T00:15:00.000Z</updated>
+        <content type="html"><![CDATA[MBC]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최저 증거금률 상향에 수수료 전쟁 시작…CFD 수수료 줄줄이 내리나]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000261109&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211018&amp;page=1</id>
@@ -31,48 +73,6 @@
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000261105&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211018&amp;page=1</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000261105&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211018&amp;page=1"/>
         <updated>2021-10-18T11:49:00.000Z</updated>
-        <content type="html"><![CDATA[SBS Biz]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라면에, 우리금융지분까지…하림, 문어발? 사업다각화?]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000261103&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211018&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000261103&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211018&amp;page=1"/>
-        <updated>2021-10-18T11:46:00.000Z</updated>
-        <content type="html"><![CDATA[SBS Biz]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트럭시위에 놀란 스타벅스…채용 늘리고 임금 체계 바꾼다]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000261102&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211018&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000261102&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211018&amp;page=1"/>
-        <updated>2021-10-18T11:44:00.000Z</updated>
-        <content type="html"><![CDATA[SBS Biz]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[물난리로 체면 구긴 신세계강남百…문책성 인사로 마무리?]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000261101&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211018&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000261101&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211018&amp;page=1"/>
-        <updated>2021-10-18T11:43:00.000Z</updated>
-        <content type="html"><![CDATA[SBS Biz]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SK 최태원, 이달 말 美 출장…삼성 이재용도 조만간 해외행보 관측]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000261100&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211018&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000261100&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211018&amp;page=1"/>
-        <updated>2021-10-18T11:42:00.000Z</updated>
-        <content type="html"><![CDATA[SBS Biz]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한풀 꺾인 주택매수심리…다섯 달 만에 하락]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000261099&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211018&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000261099&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211018&amp;page=1"/>
-        <updated>2021-10-18T11:40:00.000Z</updated>
-        <content type="html"><![CDATA[SBS Biz]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정부, 다음 달 소비쿠폰 재개 검토…상생소비지원금 1401만 명 신청]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000261097&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211018&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000261097&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211018&amp;page=1"/>
-        <updated>2021-10-18T11:39:00.000Z</updated>
         <content type="html"><![CDATA[SBS Biz]]></content>
     </entry>
 </feed>
