@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-10-18T12:09:56.721Z</updated>
+    <updated>2021-10-18T13:15:44.066Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마세라티, 반도체 품귀로 신형 SUV 그리칼레 출시 연기]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000991054&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211018&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000991054&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211018&amp;page=1"/>
+        <updated>2021-10-18T13:14:34.461Z</updated>
+        <content type="html"><![CDATA[한국경제TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[모건스탠리, US스틸 투자의견 비중축소로 두 단계 하향]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000991053&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211018&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000991053&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211018&amp;page=1"/>
+        <updated>2021-10-18T13:14:34.462Z</updated>
+        <content type="html"><![CDATA[한국경제TV]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[표]일본 주요기업 주가(10/18)]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005063266&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211018&amp;page=1</id>
@@ -60,19 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004866370&amp;office_id=009&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211018&amp;page=1"/>
         <updated>2021-10-18T11:04:19.568Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[셀트리온스킨큐어 빠진 셀트리온그룹 비상장 3사 합병]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003974591&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211018&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003974591&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211018&amp;page=1"/>
-        <updated>2021-10-18T11:04:19.569Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[채권·양도성예금증서 약 112조원 등록 발행]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0002701477&amp;office_id=029&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211018&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0002701477&amp;office_id=029&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211018&amp;page=1"/>
-        <updated>2021-10-18T11:04:19.569Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
 </feed>
