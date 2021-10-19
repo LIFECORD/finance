@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-10-19T16:10:18.794Z</updated>
+    <updated>2021-10-19T17:13:38.294Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['반값 복비' 시행…소비자는 웃고 중개사는 울었다]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000928112&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211020&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000928112&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211020&amp;page=1"/>
+        <updated>2021-10-20T01:23:00.000Z</updated>
+        <content type="html"><![CDATA[SBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오후 9시까지 1,501명 확진…전날보다 462명↑]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000509928&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211020&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000509917&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211020&amp;page=1"/>
         <updated>2021-10-19T15:06:05.102Z</updated>
         <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스쿨존 사고 막으려면]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0011140323&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211020&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011140323&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211020&amp;page=1"/>
-        <updated>2021-10-19T15:06:05.104Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
