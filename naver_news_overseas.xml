@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-10-19T15:07:09.401Z</updated>
+    <updated>2021-10-19T16:10:18.750Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[기업 호실적에 증시 오름세지만…공급망 문제 살펴야 [뉴욕증시 나우]]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000991327&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211020&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000991327&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211020&amp;page=1"/>
+        <updated>2021-10-19T16:08:37.524Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000991327&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211020&amp;page=1" title="기업 호실적에 증시 오름세지만…공급망 문제 살펴야 [뉴욕증시 나우]">기업 호실적에 증시 오름세지만…공급망 문제 살펴야 [뉴욕증시 나우]</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뉴욕 증시, 3분기 실적 ‘파란불’에 상승 출발]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000767696&amp;office_id=366&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211020&amp;page=1</id>
@@ -53,12 +60,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000991301&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211020&amp;page=1"/>
         <updated>2021-10-19T15:05:26.545Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000991301&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211020&amp;page=1" title="비트코인·이더리움 ETP 상품, 독일 최대 지역 증권거래소 상장">비트코인·이더리움 ETP 상품, 독일 최대 지역 증권거래소 상장</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[표]일본 주요기업 주가(10/19)]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005064038&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211020&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005064038&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211020&amp;page=1"/>
-        <updated>2021-10-19T15:05:26.546Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005064038&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211020&amp;page=1" title="[표]일본 주요기업 주가(10/19)">[표]일본 주요기업 주가(10/19)</a>]]></content>
     </entry>
 </feed>
