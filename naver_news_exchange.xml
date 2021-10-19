@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=429</id>
     <title>네이버 금융 ─ 뉴스 ─ 환율</title>
-    <updated>2021-10-19T08:07:38.279Z</updated>
+    <updated>2021-10-19T09:06:15.494Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[쪼개진 자원안보 법안···급변하는 해외상황 대처 불가능]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003975027&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211019&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003975027&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211019&amp;page=1"/>
+        <updated>2021-10-19T09:04:58.951Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003975027&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211019&amp;page=1" title="쪼개진 자원안보 법안···급변하는 해외상황 대처 불가능">쪼개진 자원안보 법안···급변하는 해외상황 대처 불가능</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[亞증시 강세에 '환율 하락'…1,170원대 마감]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0012732596&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211019&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012729942&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211019&amp;page=1"/>
         <updated>2021-10-18T15:04:52.544Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012729942&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211019&amp;page=1" title="원/달러 환율, 1,187.6원에 마감…5.2원 상승">원/달러 환율, 1,187.6원에 마감…5.2원 상승</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독]문닫은 공장 작년에만 711곳...정부 지원은 3년간 15곳뿐]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003974424&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211019&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003974424&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211019&amp;page=1"/>
-        <updated>2021-10-18T15:04:52.545Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003974424&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211019&amp;page=1" title="[단독]문닫은 공장 작년에만 711곳...정부 지원은 3년간 15곳뿐">[단독]문닫은 공장 작년에만 711곳...정부 지원은 3년간 15곳뿐</a>]]></content>
     </entry>
 </feed>

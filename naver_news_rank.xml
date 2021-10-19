@@ -2,21 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-10-19T08:07:38.284Z</updated>
+    <updated>2021-10-19T09:06:15.491Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[[특징주] 엘앤에프, 테슬라 강세에 신고가 경신(종합)]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0012732492&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012732492&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-19T08:06:24.768Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[특징주] 온실가스 배출량 40% 감축에 '탄소배출권주' 강세(..]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0012732508&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012732508&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-19T08:06:24.769Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 엘앤에프, 테슬라 강세에 신고가 경신(종합)]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012732492&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012732492&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-19T08:06:24.768Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
