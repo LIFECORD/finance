@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS2D&amp;section_id=101&amp;section_id2=258</id>
     <title>네이버 금융 ─ 뉴스 ─ 실시간 속보</title>
-    <updated>2021-10-19T17:13:38.279Z</updated>
+    <updated>2021-10-19T18:06:50.406Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["회계사 구합니다"…新외감법 3년, 인력난 가중]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005064206&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211020&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005064206&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211020&amp;page=1"/>
+        <updated>2021-10-19T18:04:52.424Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005064206&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211020&amp;page=1" title="&quot;회계사 구합니다&quot;…新외감법 3년, 인력난 가중">"회계사 구합니다"…新외감법 3년, 인력난 가중</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[유럽증시] 3분기 호실적에 대부분 소폭 상승]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0012733299&amp;office_id=001&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211020&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003975134&amp;office_id=011&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211020&amp;page=1"/>
         <updated>2021-10-19T16:08:12.299Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003975134&amp;office_id=011&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211020&amp;page=1" title="[시그널] '주차장 왕' 휴맥스, 車정비업체 카123 인수 추진">[시그널] '주차장 왕' 휴맥스, 車정비업체 카123 인수 추진</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['홈플러스 시너지 어디로?' MBK파트너스, 모던하우스 엑시트 시동]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000111449&amp;office_id=629&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211020&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000111449&amp;office_id=629&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211020&amp;page=1"/>
-        <updated>2021-10-19T15:05:01.504Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000111449&amp;office_id=629&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211020&amp;page=1" title="'홈플러스 시너지 어디로?' MBK파트너스, 모던하우스 엑시트 시동">'홈플러스 시너지 어디로?' MBK파트너스, 모던하우스 엑시트 시동</a>]]></content>
     </entry>
 </feed>

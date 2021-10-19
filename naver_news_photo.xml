@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-10-19T17:13:38.275Z</updated>
+    <updated>2021-10-19T18:06:50.379Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주요경제지표] 2021년 10월 19일자]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003647369&amp;office_id=023&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211020&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003647369&amp;office_id=023&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211020&amp;page=1"/>
+        <updated>2021-10-20T03:04:00.000Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘비트코인 ETF’ 뉴욕증시 데뷔… “가상화폐, 제도권 편입 다가서”]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003388339&amp;office_id=020&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211020&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003388339&amp;office_id=020&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211020&amp;page=1"/>
+        <updated>2021-10-20T03:03:00.000Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[월가 황소 노려보는 고릴라]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003647366&amp;office_id=023&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211020&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003647366&amp;office_id=023&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211020&amp;page=1"/>
+        <updated>2021-10-20T03:03:00.000Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주식 매매 상위 종목 및 환율] 2021년 10월 19일자]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003647363&amp;office_id=023&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211020&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003647363&amp;office_id=023&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211020&amp;page=1"/>
+        <updated>2021-10-20T03:03:00.000Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["회계사 구합니다"…新외감법 3년, 인력난 가중]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005064206&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211020&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005064206&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211020&amp;page=1"/>
+        <updated>2021-10-20T02:31:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[유럽증시] 3분기 호실적에 대부분 소폭 상승]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0012733299&amp;office_id=001&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211020&amp;page=1</id>
@@ -39,40 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005064202&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211020&amp;page=1"/>
         <updated>2021-10-20T01:01:00.000Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에너지 강세인데…신흥국 펀드의 뚜렷한 온도차]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005064201&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211020&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005064201&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211020&amp;page=1"/>
-        <updated>2021-10-19T16:09:08.526Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기업 호실적에 증시 오름세지만…공급망 문제 살펴야 [뉴욕증시 나우]]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000991327&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211020&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000991327&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211020&amp;page=1"/>
-        <updated>2021-10-19T16:09:08.529Z</updated>
-        <content type="html"><![CDATA[한국경제TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[마켓인]국내 증시 등장하는 스틱…‘고난의 길 vs 새 지평열 것’]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005064199&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211020&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005064199&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211020&amp;page=1"/>
-        <updated>2021-10-19T16:09:08.530Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[시그널] '주차장 왕' 휴맥스, 車정비업체 카123 인수 추진]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003975134&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211020&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003975134&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211020&amp;page=1"/>
-        <updated>2021-10-19T16:09:08.531Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['홈플러스 시너지 어디로?' MBK파트너스, 모던하우스 엑시트 시동]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000111449&amp;office_id=629&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211020&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000111449&amp;office_id=629&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211020&amp;page=1"/>
-        <updated>2021-10-19T15:05:58.253Z</updated>
-        <content type="html"><![CDATA[더팩트]]></content>
     </entry>
 </feed>

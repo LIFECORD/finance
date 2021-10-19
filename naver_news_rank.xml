@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-10-19T17:13:38.276Z</updated>
+    <updated>2021-10-19T18:06:50.475Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA['홈플러스 시너지 어디로?' MBK파트너스, 모던하우스 엑시트 ..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000111449&amp;office_id=629&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000111449&amp;office_id=629&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-19T16:09:02.407Z</updated>
-        <content type="html"><![CDATA[더팩트]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[기업 호실적에 증시 오름세지만…공급망 문제 살펴야 [뉴욕증시 나..]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000991327&amp;office_id=215&amp;mode=RANK&amp;typ=0</id>
@@ -20,10 +13,24 @@
         <content type="html"><![CDATA[한국경제TV]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA['홈플러스 시너지 어디로?' MBK파트너스, 모던하우스 엑시트 ..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000111449&amp;office_id=629&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000111449&amp;office_id=629&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-19T16:09:02.407Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[마켓인]국내 증시 등장하는 스틱…‘고난의 길 vs 새 지평열 ..]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005064199&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005064199&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-19T16:09:02.408Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["공급 병목 지나간다"…가장 먼저 오르는 주식은?]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005064202&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005064202&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-20T01:01:00.000Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
@@ -34,13 +41,6 @@
         <content type="html"><![CDATA[서울경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["공급 병목 지나간다"…가장 먼저 오르는 주식은?]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005064202&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005064202&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-20T01:01:00.000Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[마켓인]“맞춤형 의료 잡아라”…헬스케어 M&A 속도]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005064203&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005064203&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
@@ -48,10 +48,24 @@
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[유럽증시] 3분기 호실적에 대부분 소폭 상승]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012733299&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012733299&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-20T02:01:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[유럽 증시, 예상 뛰어넘은 기업 실적 호조에 상승 마감]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0010779645&amp;office_id=003&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0010779645&amp;office_id=003&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-20T01:55:00.000Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["회계사 구합니다"…新외감법 3년, 인력난 가중]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005064206&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005064206&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-20T02:31:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
