@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-10-19T18:06:50.475Z</updated>
+    <updated>2021-10-19T19:05:02.853Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -13,17 +13,17 @@
         <content type="html"><![CDATA[한국경제TV]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['홈플러스 시너지 어디로?' MBK파트너스, 모던하우스 엑시트 ..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000111449&amp;office_id=629&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000111449&amp;office_id=629&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-19T16:09:02.407Z</updated>
-        <content type="html"><![CDATA[더팩트]]></content>
+        <title type="html"><![CDATA[[유럽증시] 3분기 호실적에 대부분 소폭 상승]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012733299&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012733299&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-20T02:01:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[마켓인]국내 증시 등장하는 스틱…‘고난의 길 vs 새 지평열 ..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005064199&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005064199&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-19T16:09:02.408Z</updated>
+        <title type="html"><![CDATA[[마켓인]“맞춤형 의료 잡아라”…헬스케어 M&A 속도]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005064203&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005064203&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-20T01:31:00.000Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
@@ -41,18 +41,18 @@
         <content type="html"><![CDATA[서울경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[마켓인]“맞춤형 의료 잡아라”…헬스케어 M&A 속도]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005064203&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005064203&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-20T01:31:00.000Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
+        <title type="html"><![CDATA['홈플러스 시너지 어디로?' MBK파트너스, 모던하우스 엑시트 ..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000111449&amp;office_id=629&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000111449&amp;office_id=629&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-19T16:09:02.407Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[유럽증시] 3분기 호실적에 대부분 소폭 상승]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0012733299&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012733299&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-20T02:01:00.000Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
+        <title type="html"><![CDATA[[마켓인]국내 증시 등장하는 스틱…‘고난의 길 vs 새 지평열 ..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005064199&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005064199&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-19T16:09:02.408Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[유럽 증시, 예상 뛰어넘은 기업 실적 호조에 상승 마감]]></title>
@@ -67,5 +67,40 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005064206&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-20T02:31:00.000Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주요경제지표] 2021년 10월 19일자]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003647369&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003647369&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-20T03:04:00.000Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘비트코인 ETF’ 뉴욕증시 데뷔… “가상화폐, 제도권 편입 다..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003388339&amp;office_id=020&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003388339&amp;office_id=020&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-20T03:03:00.000Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주식 매매 상위 종목 및 환율] 2021년 10월 19일자]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003647363&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003647363&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-20T03:03:00.000Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[월가 황소 노려보는 고릴라]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003647366&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003647366&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-20T03:03:00.000Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[금리 인상에 배당 기대감까지…증시 혼란 속 보험주만 '훨훨']]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004658786&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004658786&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-20T03:50:00.000Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
