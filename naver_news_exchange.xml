@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=429</id>
     <title>네이버 금융 ─ 뉴스 ─ 환율</title>
-    <updated>2021-10-19T07:07:29.573Z</updated>
+    <updated>2021-10-19T08:07:38.279Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[亞증시 강세에 '환율 하락'…1,170원대 마감]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012732596&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211019&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012732596&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211019&amp;page=1"/>
+        <updated>2021-10-19T08:06:17.936Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012732596&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211019&amp;page=1" title="亞증시 강세에 '환율 하락'…1,170원대 마감">亞증시 강세에 '환율 하락'…1,170원대 마감</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[9월 외화예금 942억달러…한달 새 16억달러↑]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0012731672&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211019&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003974424&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211019&amp;page=1"/>
         <updated>2021-10-18T15:04:52.545Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003974424&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211019&amp;page=1" title="[단독]문닫은 공장 작년에만 711곳...정부 지원은 3년간 15곳뿐">[단독]문닫은 공장 작년에만 711곳...정부 지원은 3년간 15곳뿐</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코스피 하락에 달러 강세…원/달러 환율, 1,180원대 중반서 등락]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0012728208&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211019&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012728208&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211019&amp;page=1"/>
-        <updated>2021-10-18T15:04:52.546Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012728208&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211019&amp;page=1" title="코스피 하락에 달러 강세…원/달러 환율, 1,180원대 중반서 등락">코스피 하락에 달러 강세…원/달러 환율, 1,180원대 중반서 등락</a>]]></content>
     </entry>
 </feed>
