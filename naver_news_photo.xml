@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-10-19T10:06:49.879Z</updated>
+    <updated>2021-10-19T11:05:42.395Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[21일부터 일반투자자는 일반사모펀드에만 투자]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0002701670&amp;office_id=029&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211019&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0002701670&amp;office_id=029&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211019&amp;page=1"/>
+        <updated>2021-10-19T11:04:35.002Z</updated>
+        <content type="html"><![CDATA[디지털타임스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지아이텍, 21일 코스닥시장 상장]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0002539663&amp;office_id=119&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211019&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0002539663&amp;office_id=119&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211019&amp;page=1"/>
+        <updated>2021-10-19T11:04:35.002Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[표]아시아 주요 증시 동향(10월 19일)]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003975102&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211019&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003975102&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211019&amp;page=1"/>
+        <updated>2021-10-19T11:04:35.003Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[거래소 “KINDEX 미국고배당 등 ETF 2종목 21일 신규 상장”]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005064094&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211019&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005064094&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211019&amp;page=1"/>
+        <updated>2021-10-19T11:04:35.006Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[버핏에 "테슬라 주식 사라"…머스크 자신감 이유 봤더니]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004866889&amp;office_id=009&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211019&amp;page=1</id>
@@ -46,33 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004658717&amp;office_id=008&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211019&amp;page=1"/>
         <updated>2021-10-19T10:05:43.941Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[표]유가증권 코스닥 투자주체별 매매동향(10월 19일-최종치)]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003975084&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211019&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003975084&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211019&amp;page=1"/>
-        <updated>2021-10-19T10:05:43.942Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4개 금융투자회사, 금투협 정회원 신규 가입]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004658716&amp;office_id=008&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211019&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004658716&amp;office_id=008&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211019&amp;page=1"/>
-        <updated>2021-10-19T10:05:43.943Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[표]코스닥 기관·외국인·개인 순매수·도 상위종목(10월 19일-최종치)]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003975083&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211019&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003975083&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211019&amp;page=1"/>
-        <updated>2021-10-19T10:05:43.944Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[표]유가증권 기관·외국인·개인 순매수·도 상위종목(10월 19일-최종치)]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003975082&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211019&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003975082&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211019&amp;page=1"/>
-        <updated>2021-10-19T10:05:43.946Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
