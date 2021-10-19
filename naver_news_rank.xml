@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-10-19T13:15:09.053Z</updated>
+    <updated>2021-10-19T14:06:15.952Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -20,11 +20,32 @@
         <content type="html"><![CDATA[매일경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[KB증권, ‘유니스토리자산운용 리커버리 자문형랩’ 판매 개시]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000767680&amp;office_id=366&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000767680&amp;office_id=366&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-19T11:04:29.099Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
+        <title type="html"><![CDATA[거래소 “KINDEX 미국고배당 등 ETF 2종목 21일 신규 ..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005064094&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005064094&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-19T12:11:15.531Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[두번 연기됐던 ‘카카오페이’ 25일 공모 청약]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003647327&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003647327&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-19T13:13:59.537Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["하루 새 6원 껑충" 자고 나면 오르는 기름 값…유류세 안 내..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001615245&amp;office_id=057&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001615245&amp;office_id=057&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-19T13:13:59.541Z</updated>
+        <content type="html"><![CDATA[MBN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신차 한 달 만에 고장났는데…부품은 안 오고 환불하자니 손해]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001615243&amp;office_id=057&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001615243&amp;office_id=057&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-19T13:13:59.543Z</updated>
+        <content type="html"><![CDATA[MBN]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[세종텔레콤, ISMS 인증 토대로 블록체인 사업 속도]]></title>
@@ -41,25 +62,11 @@
         <content type="html"><![CDATA[데일리안]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[4개 금융투자회사, 금투협 정회원 신규 가입]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004658716&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004658716&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-19T11:04:29.096Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프롭테크社 리파인, 공모가 밴드 하단 2만1000원 결정]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004658717&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004658717&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-19T10:05:37.145Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[거래소 “KINDEX 미국고배당 등 ETF 2종목 21일 신규 ..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005064094&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005064094&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-19T12:11:15.531Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
+        <title type="html"><![CDATA[KB증권, ‘유니스토리자산운용 리커버리 자문형랩’ 판매 개시]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000767680&amp;office_id=366&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000767680&amp;office_id=366&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-19T11:04:29.099Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[올해 주가 39% 떨어진 셀트리온, 개미들 뿔났다]]></title>
@@ -69,11 +76,11 @@
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[두번 연기됐던 ‘카카오페이’ 25일 공모 청약]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003647327&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003647327&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-19T13:13:59.537Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
+        <title type="html"><![CDATA[프롭테크社 리파인, 공모가 밴드 하단 2만1000원 결정]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004658717&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004658717&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-19T10:05:37.145Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[특징주] 온실가스 배출량 40% 감축에 '탄소배출권주' 강세(..]]></title>
@@ -81,6 +88,13 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012732508&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-19T08:06:24.769Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4개 금융투자회사, 금투협 정회원 신규 가입]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004658716&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004658716&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-19T11:04:29.096Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[특징주] 엘앤에프, 테슬라 강세에 신고가 경신(종합)]]></title>
@@ -97,25 +111,11 @@
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["하루 새 6원 껑충" 자고 나면 오르는 기름 값…유류세 안 내..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001615245&amp;office_id=057&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001615245&amp;office_id=057&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-19T13:13:59.541Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[주식 ‘苦苦’ 코인 ‘好好’… 인플레 우려 속 탈동조화 지속]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001477888&amp;office_id=005&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001477888&amp;office_id=005&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-19T04:09:00.000Z</updated>
         <content type="html"><![CDATA[국민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신차 한 달 만에 고장났는데…부품은 안 오고 환불하자니 손해]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001615243&amp;office_id=057&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001615243&amp;office_id=057&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-19T13:13:59.543Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[투자 정하고 의결권 행사까지…국민연금의 특별한 직원 3명]]></title>

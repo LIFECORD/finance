@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-10-19T13:15:09.048Z</updated>
+    <updated>2021-10-19T14:06:15.938Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오후 9시까지 1,501명 확진…전날보다 462명↑]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000509928&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000509928&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1"/>
+        <updated>2021-10-19T14:05:06.601Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[북한, 동해로 탄도미사일 1발 발사…신형 SLBM 추정]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001615259&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001615259&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1"/>
+        <updated>2021-10-19T14:05:06.601Z</updated>
+        <content type="html"><![CDATA[MBN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['반값 복비' 오늘부터 시행...소비자 '반색'·중개사'울상']]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001654450&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001654450&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1"/>
+        <updated>2021-10-19T14:05:06.603Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[천 억 넘게 들인 수소연료전지…“70% 가동 중단”]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0011140341&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1</id>
@@ -53,26 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0011140323&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1"/>
         <updated>2021-10-19T13:14:12.152Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주담대 받은 10명중 4명은 신용대출도…이중채무 역대 최대]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000341820&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000341820&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1"/>
-        <updated>2021-10-19T13:14:12.153Z</updated>
-        <content type="html"><![CDATA[TV조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘민식이법 1년 반’…스쿨존 안전시설 여전히 부족]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0011140322&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011140322&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1"/>
-        <updated>2021-10-19T13:14:12.154Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5% 깨진 中 성장률…'수출 타격' '퍼펙트 스톰' 韓경제 먹구름]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000341822&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000341822&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1"/>
-        <updated>2021-10-19T13:14:12.155Z</updated>
-        <content type="html"><![CDATA[TV조선]]></content>
     </entry>
 </feed>
