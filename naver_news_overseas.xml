@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-10-19T09:06:15.508Z</updated>
+    <updated>2021-10-19T10:06:49.890Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[버핏에 "테슬라 주식 사라"…머스크 자신감 이유 봤더니]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004866889&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211019&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004866889&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211019&amp;page=1"/>
+        <updated>2021-10-19T10:05:12.094Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004866889&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211019&amp;page=1" title="버핏에 &quot;테슬라 주식 사라&quot;…머스크 자신감 이유 봤더니">버핏에 "테슬라 주식 사라"…머스크 자신감 이유 봤더니</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[비트코인·이더리움 ETP 상품, 독일 최대 지역 증권거래소 상장]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000991301&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211019&amp;page=1</id>
@@ -46,12 +53,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004618032&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211019&amp;page=1"/>
         <updated>2021-10-19T09:04:40.470Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004618032&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211019&amp;page=1" title="&quot;인플레 걱정 말라…오히려 내년 상반기엔 디플레 우려 커질 것&quot;">"인플레 걱정 말라…오히려 내년 상반기엔 디플레 우려 커질 것"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[클릭! 해외증시 이 종목] 美TV 스트리밍 이끄는 로쿠…캐시우드도 매수]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004866767&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211019&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004866767&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211019&amp;page=1"/>
-        <updated>2021-10-19T09:04:40.472Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004866767&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211019&amp;page=1" title="[클릭! 해외증시 이 종목] 美TV 스트리밍 이끄는 로쿠…캐시우드도 매수">[클릭! 해외증시 이 종목] 美TV 스트리밍 이끄는 로쿠…캐시우드도 매수</a>]]></content>
     </entry>
 </feed>

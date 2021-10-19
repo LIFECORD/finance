@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/research/invest_list.naver</id>
     <title>네이버 금융 ─ 리서치 ─ 투자정보 리포트</title>
-    <updated>2021-10-19T09:06:15.504Z</updated>
+    <updated>2021-10-19T10:06:49.887Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/research/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아시아 증시 전반, 위험 선호 심리 회복하며 상승]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/invest/1634636412299.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/invest/1634636412299.pdf"/>
+        <updated>2021-10-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[미래에셋증권]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미래에셋증권 Daily 종합]]></title>
         <id>https://ssl.pstatic.net/imgstock/upload/research/invest/1634610160735.pdf</id>
@@ -207,12 +214,5 @@
         <link href="https://ssl.pstatic.net/imgstock/upload/research/invest/1634017331012.pdf"/>
         <updated>2021-10-14T00:12:52.778Z</updated>
         <content type="html"><![CDATA[케이프투자증권]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인플레 압력 확대]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/invest/1634010182547.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/invest/1634010182547.pdf"/>
-        <updated>2021-10-14T00:12:52.779Z</updated>
-        <content type="html"><![CDATA[이베스트증권]]></content>
     </entry>
 </feed>
