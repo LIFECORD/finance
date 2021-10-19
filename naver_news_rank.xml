@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-10-19T02:25:30.314Z</updated>
+    <updated>2021-10-19T03:07:09.549Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[특징주]스튜디오산타, 마이네임 흥행몰이에 시즌2 기대 '모락모..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004985374&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004985374&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-19T11:11:00.000Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주]위메이드, 미르4 흥행에 급등]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001900912&amp;office_id=016&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001900912&amp;office_id=016&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-19T11:08:00.000Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스콧 마이너드 "금융시장, 연준 부양책에 중독돼 있다"]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005063298&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
@@ -39,6 +53,13 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005063291&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-18T16:10:40.060Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주]아이엠, 삼성전자 페이스북 메타버스칩 공급 양산…AR ..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001900844&amp;office_id=016&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001900844&amp;office_id=016&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-19T10:27:00.000Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단신]현대카드, 20곳 호텔 패키지 40% 할인행사 진행 外]]></title>
@@ -83,11 +104,18 @@
         <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[특징주]아이엠, 삼성전자 페이스북 메타버스칩 공급 양산…AR ..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001900844&amp;office_id=016&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001900844&amp;office_id=016&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-19T10:27:00.000Z</updated>
+        <title type="html"><![CDATA[[특징주] 제주맥주 5%대 급등]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001900866&amp;office_id=016&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001900866&amp;office_id=016&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-19T10:37:00.000Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주]삼진엘앤디, 스텔란티스 전기차 전환 41조 투자…삼성S..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004985307&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004985307&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-19T10:28:00.000Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뉴욕증시, 기업 실적 호조에 반등…AMD 3.8%↑ [출근전 꼭..]]></title>
@@ -116,13 +144,6 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004866451&amp;office_id=009&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-19T06:40:00.000Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[특징주] 제주맥주 5%대 급등]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001900866&amp;office_id=016&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001900866&amp;office_id=016&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-19T10:37:00.000Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[속보] 비트코인 3.35% 상승한 6만1394달러에 거래돼]]></title>
@@ -158,26 +179,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004985135&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-19T07:31:00.000Z</updated>
         <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[원유마감]WTI 0.2%↑…美 산업생산 부진에 상승폭 축소]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005665142&amp;office_id=421&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005665142&amp;office_id=421&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-19T07:06:00.000Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[특징주]삼진엘앤디, 스텔란티스 전기차 전환 41조 투자…삼성S..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004985307&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004985307&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-19T10:28:00.000Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['포경 수술까지 허위로'…보험사기 보험설계사 26명 무더기 제재]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0012730620&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012730620&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-19T06:15:00.000Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>

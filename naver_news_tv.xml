@@ -2,77 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-10-19T02:25:30.319Z</updated>
+    <updated>2021-10-19T03:07:09.556Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[뉴스포커스] 신규 확진자 1,073명…감소세에도 곳곳 집단감염]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000509794&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000509794&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1"/>
-        <updated>2021-10-19T11:15:00.000Z</updated>
+        <title type="html"><![CDATA[투자 범위 좁히고 감시 늘리고…사모펀드 개인 투자자 보호 강화]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000261262&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000261262&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1"/>
+        <updated>2021-10-19T11:51:00.000Z</updated>
+        <content type="html"><![CDATA[SBS Biz]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[소비자단체소송 문턱 확 낮춘다…재계 “소송남발 우려”]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000261261&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000261261&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1"/>
+        <updated>2021-10-19T11:49:00.000Z</updated>
+        <content type="html"><![CDATA[SBS Biz]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[삼성重 2조원대 선박수주…韓조선 ‘빅3’ 쾌속 순항]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000261259&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000261259&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1"/>
+        <updated>2021-10-19T11:47:00.000Z</updated>
+        <content type="html"><![CDATA[SBS Biz]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[40년 역사 힐튼호텔도 역사 속으로…결국 1조원에 팔린다]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000261257&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000261257&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1"/>
+        <updated>2021-10-19T11:45:00.000Z</updated>
+        <content type="html"><![CDATA[SBS Biz]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[현장연결] 중대본 "2주간 일평균 확진자 모두 감소 추세"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000509798&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000509798&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1"/>
+        <updated>2021-10-19T11:44:00.000Z</updated>
         <content type="html"><![CDATA[연합뉴스TV]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[신문브리핑 3 "국내 석탄발전 2050년까지 완전히 없앤다" 외 주요기사]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001615092&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001615092&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1"/>
-        <updated>2021-10-19T10:34:00.000Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
+        <title type="html"><![CDATA[주담대 받은 44%는 신용대출까지…이중채무 역대 최대]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000261251&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000261251&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1"/>
+        <updated>2021-10-19T11:38:00.000Z</updated>
+        <content type="html"><![CDATA[SBS Biz]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[신문브리핑 2 "홍준표 "비리 후보 탓 오징어 게임" 윤석열 "홍 후보도 해당"" 외 주요..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001615090&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001615090&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1"/>
-        <updated>2021-10-19T10:30:00.000Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신문브리핑 1 "이재명 "돈 받은 자가 범인" 野 "돈 지배한 자가 그분"" 외 주요기사]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001615086&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001615086&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1"/>
-        <updated>2021-10-19T10:23:00.000Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신규 확진자 1,073명…감소세에도 곳곳 집단감염]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000509789&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000509789&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1"/>
-        <updated>2021-10-19T10:10:00.000Z</updated>
+        <title type="html"><![CDATA[[30초뉴스] '반값 복비' 오늘부터 시행…중개사협, 가처분 대응]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000509797&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000509797&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1"/>
+        <updated>2021-10-19T11:37:00.000Z</updated>
         <content type="html"><![CDATA[연합뉴스TV]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[유동규 "대장동 개발, 관이 하는 건 협잡 없다" 주민 설득]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001615080&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001615080&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1"/>
-        <updated>2021-10-19T10:07:00.000Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
+        <title type="html"><![CDATA[‘은행에 직접 오세요’…전세대출 풀리지만 조건은 까다로워졌다]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000261250&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000261250&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1"/>
+        <updated>2021-10-19T11:36:00.000Z</updated>
+        <content type="html"><![CDATA[SBS Biz]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[10kg 볼링공, 안경점 덮쳐 '와장창'…"갖고 놀다 굴려"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001615075&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001615075&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1"/>
-        <updated>2021-10-19T09:46:00.000Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
+        <title type="html"><![CDATA[오늘부터 부동산 중개료, 최대 절반가량 낮아진다]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000261247&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000261247&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1"/>
+        <updated>2021-10-19T11:33:00.000Z</updated>
+        <content type="html"><![CDATA[SBS Biz]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독] 교통사고 내고 '외제차 뺑소니'…경찰 추적 중]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001615074&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001615074&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1"/>
-        <updated>2021-10-19T09:44:00.000Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] 유동규 녹음파일 입수…"이관되면 우리 방향으로 정리"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001615073&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001615073&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1"/>
-        <updated>2021-10-19T09:41:00.000Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경비원 대리주차·배달 금지…최대 1천만원 과태료]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000509782&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000509782&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1"/>
-        <updated>2021-10-19T09:37:00.000Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
+        <title type="html"><![CDATA[‘코스피 반등·천스닥’ 복귀…S&P·나스닥, 나흘째 상승]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000261246&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000261246&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1"/>
+        <updated>2021-10-19T11:31:00.000Z</updated>
+        <content type="html"><![CDATA[SBS Biz]]></content>
     </entry>
 </feed>
