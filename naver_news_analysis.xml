@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=402</id>
     <title>네이버 금융 ─ 뉴스 ─ 기업 종목분석</title>
-    <updated>2021-10-19T21:05:36.152Z</updated>
+    <updated>2021-10-19T22:05:47.360Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코스피 기업 3분기 실적 기대 낮아져…이익 전망치 한달새 34%↓]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012733391&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211020&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012733391&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211020&amp;page=1"/>
+        <updated>2021-10-19T22:04:04.218Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012733391&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211020&amp;page=1" title="코스피 기업 3분기 실적 기대 낮아져…이익 전망치 한달새 34%↓">코스피 기업 3분기 실적 기대 낮아져…이익 전망치 한달새 34%↓</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[넷플릭스, '오징어게임' 대박에 3분기 유료가입자 438만명↑]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0012733338&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211020&amp;page=1</id>
@@ -60,12 +67,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003975047&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211020&amp;page=1"/>
         <updated>2021-10-19T15:05:20.755Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003975047&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211020&amp;page=1" title="&quot;美기업 83% 깜짝실적&quot;···빅테크 노리는 서학개미">"美기업 83% 깜짝실적"···빅테크 노리는 서학개미</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['상장 3수생' 카카오페이…국민주 등극할까]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004866858&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211020&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004866858&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211020&amp;page=1"/>
-        <updated>2021-10-19T15:05:20.757Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004866858&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211020&amp;page=1" title="'상장 3수생' 카카오페이…국민주 등극할까">'상장 3수생' 카카오페이…국민주 등극할까</a>]]></content>
     </entry>
 </feed>
