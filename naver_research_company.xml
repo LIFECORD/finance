@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/research/company_list.naver</id>
     <title>네이버 금융 ─ 리서치 ─ 종목분석 리포트</title>
-    <updated>2021-10-19T01:55:30.152Z</updated>
+    <updated>2021-10-19T02:25:30.311Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/research/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[불안정한 거시환경에도 흔들리지 않는 실적]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/company/1634610127660.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1634610127660.pdf"/>
+        <updated>2021-10-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[LG이노텍]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[규제가 만들 구조적 성장]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/company/1634609341877.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1634609341877.pdf"/>
+        <updated>2021-10-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[SGC에너지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고공 행진]]></title>
         <id>https://ssl.pstatic.net/imgstock/upload/research/company/1634608342888.pdf</id>
@@ -200,19 +214,5 @@
         <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1634176238108.pdf"/>
         <updated>2021-10-14T00:00:00.000Z</updated>
         <content type="html"><![CDATA[KT]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3Q21 Preview: 유가 설명력 확대 구간]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/company/1634176142404.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1634176142404.pdf"/>
-        <updated>2021-10-14T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[삼성엔지니어링]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성수기 불구, 비용 증가로 실적 기대 낮아져]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/company/1634175861044.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1634175861044.pdf"/>
-        <updated>2021-10-14T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[롯데푸드]]></content>
     </entry>
 </feed>

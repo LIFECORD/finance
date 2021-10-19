@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-10-19T01:55:30.151Z</updated>
+    <updated>2021-10-19T02:25:30.314Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -83,6 +83,13 @@
         <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[특징주]아이엠, 삼성전자 페이스북 메타버스칩 공급 양산…AR ..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001900844&amp;office_id=016&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001900844&amp;office_id=016&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-19T10:27:00.000Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[뉴욕증시, 기업 실적 호조에 반등…AMD 3.8%↑ [출근전 꼭..]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000991071&amp;office_id=215&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000991071&amp;office_id=215&amp;mode=RANK&amp;typ=0"/>
@@ -109,6 +116,13 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004866451&amp;office_id=009&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-19T06:40:00.000Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 제주맥주 5%대 급등]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001900866&amp;office_id=016&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001900866&amp;office_id=016&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-19T10:37:00.000Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[속보] 비트코인 3.35% 상승한 6만1394달러에 거래돼]]></title>
@@ -153,31 +167,17 @@
         <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[특징주]삼진엘앤디, 스텔란티스 전기차 전환 41조 투자…삼성S..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004985307&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004985307&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-19T10:28:00.000Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['포경 수술까지 허위로'…보험사기 보험설계사 26명 무더기 제재]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0012730620&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012730620&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-19T06:15:00.000Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴욕 증시, 中 성장둔화에 혼조 마감...다우 0.10%↓ 나스..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0010777411&amp;office_id=003&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0010777411&amp;office_id=003&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-19T05:58:00.000Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3분기 ABS 발행액 13조…전년比 31.5% 감소]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0010777428&amp;office_id=003&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0010777428&amp;office_id=003&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-19T06:00:00.000Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["셀트리온이 어쩌다가"…주가 반토막에 개미들도 등 돌렸다]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004617642&amp;office_id=015&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004617642&amp;office_id=015&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-19T07:06:00.000Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>

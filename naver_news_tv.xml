@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-10-19T01:55:30.146Z</updated>
+    <updated>2021-10-19T02:25:30.319Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴스포커스] 신규 확진자 1,073명…감소세에도 곳곳 집단감염]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000509794&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000509794&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1"/>
+        <updated>2021-10-19T11:15:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신문브리핑 3 "국내 석탄발전 2050년까지 완전히 없앤다" 외 주요기사]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001615092&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000509782&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1"/>
         <updated>2021-10-19T09:37:00.000Z</updated>
         <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[핫이슈 키워드] ???????결정타는 없었다·성남시 변호사 수임료·남욱·이재명 ‘조폭 연..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000261222&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000261222&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211019&amp;page=1"/>
-        <updated>2021-10-19T09:34:00.000Z</updated>
-        <content type="html"><![CDATA[SBS Biz]]></content>
     </entry>
 </feed>
