@@ -2,28 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-10-19T04:07:32.202Z</updated>
+    <updated>2021-10-19T05:06:07.285Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[[특징주]스튜디오산타, 마이네임 흥행몰이에 시즌2 기대 '모락모..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004985374&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004985374&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-19T11:11:00.000Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[특징주]위메이드, 미르4 흥행에 급등]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001900912&amp;office_id=016&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001900912&amp;office_id=016&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-19T11:08:00.000Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[특징주]룽투코리아, 게임주 전성시대 올라탄 기대주…위메이드트리..]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004985431&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004985431&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-19T11:43:00.000Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주]스튜디오산타, 마이네임 흥행몰이에 시즌2 기대 '모락모..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004985374&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004985374&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-19T11:11:00.000Z</updated>
         <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
     <entry>
@@ -69,18 +62,18 @@
         <content type="html"><![CDATA[동아일보]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[특징주] 한솔홈데코, 탄소중립 수혜주로 급등세]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004725499&amp;office_id=014&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004725499&amp;office_id=014&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-19T00:42:00.000Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[주요경제지표] 2021년 10월 18일자]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003647155&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003647155&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-19T03:06:00.000Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[폐기물처리업 M&A 활발…"점유율 확보 경합 지속"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0010777430&amp;office_id=003&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0010777430&amp;office_id=003&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-19T06:00:00.000Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한국거래소, 내달 9일 ‘글로벌 ETP 컨퍼런스 서울’ 개최]]></title>
@@ -90,11 +83,11 @@
         <content type="html"><![CDATA[한국경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['업무 과중, 혼란 가중'…어정쩡한 국민연금 상근전문위원]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005063286&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005063286&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-18T23:04:56.658Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
+        <title type="html"><![CDATA[폐기물처리업 M&A 활발…"점유율 확보 경합 지속"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0010777430&amp;office_id=003&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0010777430&amp;office_id=003&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-19T06:00:00.000Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한국거래소, 내달 '2021 글로벌 ETP 컨퍼런스 서울' 개최]]></title>
@@ -102,6 +95,13 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004725485&amp;office_id=014&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-19T00:02:00.000Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['업무 과중, 혼란 가중'…어정쩡한 국민연금 상근전문위원]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005063286&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005063286&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-18T23:04:56.658Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[전문위 생기니 애매해진 실평위…복지부는 회의 지옥]]></title>
@@ -132,6 +132,13 @@
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[특징주]위메이드, 미르4 흥행에 급등]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001900912&amp;office_id=016&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001900912&amp;office_id=016&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-19T11:08:00.000Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[뉴욕증시, 기업 실적 호조에 반등…AMD 3.8%↑ [출근전 꼭..]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000991071&amp;office_id=215&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000991071&amp;office_id=215&amp;mode=RANK&amp;typ=0"/>
@@ -146,17 +153,17 @@
         <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3분기 ABS 발행 전년比 31.5%↓..."안심전환대출 종료·..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004985107&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004985107&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-19T06:00:00.000Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[대유플러스, 현대기아차에 대유합금 LPI사업부 양수]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004985457&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004985457&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-19T00:04:00.000Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3분기 ABS 발행 전년比 31.5%↓..."안심전환대출 종료·..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004985107&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004985107&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-19T06:00:00.000Z</updated>
         <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
     <entry>
@@ -172,12 +179,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004866451&amp;office_id=009&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-19T06:40:00.000Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대유플러스, 현대기아차에 대유합금 LPI사업부 양수]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005063694&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005063694&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-19T11:54:00.000Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
