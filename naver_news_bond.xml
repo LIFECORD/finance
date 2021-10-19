@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=404</id>
     <title>네이버 금융 ─ 뉴스 ─ 채권 선물</title>
-    <updated>2021-10-19T00:20:21.262Z</updated>
+    <updated>2021-10-19T01:55:30.139Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[3분기 ELS 발행 11조원…전분기보다 30% 감소]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012731011&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211019&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012731011&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211019&amp;page=1"/>
+        <updated>2021-10-19T01:53:57.978Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012731011&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211019&amp;page=1" title="3분기 ELS 발행 11조원…전분기보다 30% 감소">3분기 ELS 발행 11조원…전분기보다 30% 감소</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[올해 3분기 ABS 발행액 12.8조원…31.5% 줄어]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0012730604&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211019&amp;page=1</id>
@@ -46,12 +53,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005063162&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211019&amp;page=1"/>
         <updated>2021-10-18T15:04:40.759Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005063162&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211019&amp;page=1" title="[표]주가지수선물 투자자별 매매동향(10/18)">[표]주가지수선물 투자자별 매매동향(10/18)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중국, 통화완화 기대감 약화에 국채금리 3개월새 최고치]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0012730001&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211019&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012730001&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211019&amp;page=1"/>
-        <updated>2021-10-18T15:04:40.760Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012730001&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211019&amp;page=1" title="중국, 통화완화 기대감 약화에 국채금리 3개월새 최고치">중국, 통화완화 기대감 약화에 국채금리 3개월새 최고치</a>]]></content>
     </entry>
 </feed>
