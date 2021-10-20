@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-10-20T03:06:36.850Z</updated>
+    <updated>2021-10-20T04:07:35.777Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["고개 들어 Z세대 보라…암호화폐, 올해 제도권 진입할 것"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000991444&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211020&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000991444&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211020&amp;page=1"/>
+        <updated>2021-10-20T04:06:01.895Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000991444&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211020&amp;page=1" title="&quot;고개 들어 Z세대 보라…암호화폐, 올해 제도권 진입할 것&quot;">"고개 들어 Z세대 보라…암호화폐, 올해 제도권 진입할 것"</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[위워크, 21일 美 증시 상장…기업가치 10조6000억원]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005064632&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211020&amp;page=1</id>
@@ -53,12 +60,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004618363&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211020&amp;page=1"/>
         <updated>2021-10-20T01:55:37.016Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004618363&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211020&amp;page=1" title="'전기 항공기 배터리' 모비우스에너지, 5000만달러 투자 유치했다">'전기 항공기 배터리' 모비우스에너지, 5000만달러 투자 유치했다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英 40대이하 투자자들 "비트코인은 도박 가운데 하나"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000991392&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211020&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000991392&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211020&amp;page=1"/>
-        <updated>2021-10-20T01:55:37.018Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000991392&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211020&amp;page=1" title="英 40대이하 투자자들 &quot;비트코인은 도박 가운데 하나&quot;">英 40대이하 투자자들 "비트코인은 도박 가운데 하나"</a>]]></content>
     </entry>
 </feed>

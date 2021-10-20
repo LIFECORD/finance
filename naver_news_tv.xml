@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-10-20T03:06:36.855Z</updated>
+    <updated>2021-10-20T04:07:35.771Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[시한폭탄 이중 채무 '10명 중 4명' 역대 최대]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000928223&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211020&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000928223&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211020&amp;page=1"/>
+        <updated>2021-10-20T00:35:00.000Z</updated>
+        <content type="html"><![CDATA[SBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[홍남기 부총리 “유류세 인하 검토, 다음주 중 조치 예상”]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0011140818&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211020&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011140818&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211020&amp;page=1"/>
+        <updated>2021-10-20T00:23:00.000Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[민주노총 오늘 총파업…서울 등 전국 14곳서 파업대회]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0011140817&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211020&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011140817&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211020&amp;page=1"/>
+        <updated>2021-10-20T00:23:00.000Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[중국 증시 부진에 코스피 하락세‥코스닥도 상승 탄력 둔화]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001154903&amp;office_id=214&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211020&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001154903&amp;office_id=214&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211020&amp;page=1"/>
+        <updated>2021-10-20T00:15:00.000Z</updated>
+        <content type="html"><![CDATA[MBC]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[누리호, 본격 발사 준비‥발사대로 이송]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001154898&amp;office_id=214&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211020&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001154898&amp;office_id=214&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211020&amp;page=1"/>
+        <updated>2021-10-20T00:10:00.000Z</updated>
+        <content type="html"><![CDATA[MBC]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[홍남기 "유류세 인하 검토‥다음 주 중 조치"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001154897&amp;office_id=214&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211020&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001154897&amp;office_id=214&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211020&amp;page=1"/>
+        <updated>2021-10-20T00:09:00.000Z</updated>
+        <content type="html"><![CDATA[MBC]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방통위 “인앱결제 강제 매출액 2% 과징금”…애플·구글에 ‘옐로카드’]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000261430&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211020&amp;page=1</id>
@@ -31,48 +73,6 @@
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000261425&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211020&amp;page=1</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000261425&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211020&amp;page=1"/>
         <updated>2021-10-20T11:48:00.000Z</updated>
-        <content type="html"><![CDATA[SBS Biz]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CJ, CGV 구하기…알짜사업 몰아주기 ‘눈길’]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000261424&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211020&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000261424&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211020&amp;page=1"/>
-        <updated>2021-10-20T11:46:00.000Z</updated>
-        <content type="html"><![CDATA[SBS Biz]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[명품 보석매장 VIP 고객정보 유출…어디일까?]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000261421&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211020&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000261421&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211020&amp;page=1"/>
-        <updated>2021-10-20T11:42:00.000Z</updated>
-        <content type="html"><![CDATA[SBS Biz]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정의선, 다음 주 인니행 추진…이재용, 내달 미국행 관측]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000261419&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211020&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000261419&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211020&amp;page=1"/>
-        <updated>2021-10-20T11:41:00.000Z</updated>
-        <content type="html"><![CDATA[SBS Biz]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IMF, 올해 아시아·태평양 성장률 6.5% 하향 조정…한국은 4.3% ‘유지’]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000261418&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211020&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000261418&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211020&amp;page=1"/>
-        <updated>2021-10-20T11:41:00.000Z</updated>
-        <content type="html"><![CDATA[SBS Biz]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍남기 “유류세 인하 검토 중…다음 주 조치할 듯”]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000261413&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211020&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000261413&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211020&amp;page=1"/>
-        <updated>2021-10-20T11:36:00.000Z</updated>
-        <content type="html"><![CDATA[SBS Biz]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비트코인 선물 ETF 데뷔 첫날 4.8% 급등…비트코인 가격 최고치 근접]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000261411&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211020&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000261411&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211020&amp;page=1"/>
-        <updated>2021-10-20T11:34:00.000Z</updated>
         <content type="html"><![CDATA[SBS Biz]]></content>
     </entry>
 </feed>

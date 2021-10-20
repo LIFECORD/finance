@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/research/invest_list.naver</id>
     <title>네이버 금융 ─ 리서치 ─ 투자정보 리포트</title>
-    <updated>2021-10-20T03:06:36.851Z</updated>
+    <updated>2021-10-20T04:07:35.778Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/research/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Global Fintech & Payment : Weekly Brief]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/invest/1634699426866.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/invest/1634699426866.pdf"/>
+        <updated>2021-10-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[미래에셋증권]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미래에셋증권 Daily 종합]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/invest/1634699226874.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/invest/1634699226874.pdf"/>
+        <updated>2021-10-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[미래에셋증권]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Global Issue & News]]></title>
         <id>https://ssl.pstatic.net/imgstock/upload/research/invest/1634698258160.pdf</id>
@@ -200,19 +214,5 @@
         <link href="https://ssl.pstatic.net/imgstock/upload/research/invest/1634089369757.pdf"/>
         <updated>2021-10-14T00:12:52.773Z</updated>
         <content type="html"><![CDATA[케이프투자증권]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미래에셋증권 Daily 종합]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/invest/1634019213017.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/invest/1634019213017.pdf"/>
-        <updated>2021-10-14T00:12:52.773Z</updated>
-        <content type="html"><![CDATA[미래에셋증권]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Global Issue & News]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/invest/1634017764463.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/invest/1634017764463.pdf"/>
-        <updated>2021-10-14T00:12:52.773Z</updated>
-        <content type="html"><![CDATA[하나금융투자]]></content>
     </entry>
 </feed>

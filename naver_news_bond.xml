@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=404</id>
     <title>네이버 금융 ─ 뉴스 ─ 채권 선물</title>
-    <updated>2021-10-20T03:06:36.883Z</updated>
+    <updated>2021-10-20T04:07:35.761Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[헝다, 위안화 채권 이자 겨우 막았지만 23일 또 디폴트 고비]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012734672&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211020&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012734672&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211020&amp;page=1"/>
+        <updated>2021-10-20T04:06:08.138Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012734672&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211020&amp;page=1" title="헝다, 위안화 채권 이자 겨우 막았지만 23일 또 디폴트 고비">헝다, 위안화 채권 이자 겨우 막았지만 23일 또 디폴트 고비</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[화승소재, 산업은행 녹색채권 300억원 발행 성공]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0012733894&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211020&amp;page=1</id>
@@ -46,12 +53,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004866863&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211020&amp;page=1"/>
         <updated>2021-10-19T15:05:33.004Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004866863&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211020&amp;page=1" title="美·中·인도 투자한 펀드 '우수'…상위 10개 중 8개가 해외펀드">美·中·인도 투자한 펀드 '우수'…상위 10개 중 8개가 해외펀드</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[증시 출렁여도 안심…올해 4조 늘어난 이 펀드는]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004866862&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211020&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004866862&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211020&amp;page=1"/>
-        <updated>2021-10-19T15:05:33.004Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004866862&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211020&amp;page=1" title="증시 출렁여도 안심…올해 4조 늘어난 이 펀드는">증시 출렁여도 안심…올해 4조 늘어난 이 펀드는</a>]]></content>
     </entry>
 </feed>
