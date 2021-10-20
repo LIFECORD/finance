@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-10-20T06:09:16.102Z</updated>
+    <updated>2021-10-20T07:06:17.364Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[특징주]이연제약, 큐로셀 세계최초 ‘기적의 항암제’ 개발 소식..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000745554&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000745554&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-20T06:08:06.134Z</updated>
+        <content type="html"><![CDATA[머니S]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주]비덴트, 비트코인 8000만원 육박…역대 최고가 돌파 ..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004986186&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004986186&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-20T06:08:06.145Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['홈플러스 시너지 어디로?' MBK파트너스, 모던하우스 엑시트 ..]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000111449&amp;office_id=629&amp;mode=RANK&amp;typ=0</id>
@@ -18,13 +32,6 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012733322&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-20T04:16:00.000Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[특징주]이연제약, 큐로셀 세계최초 ‘기적의 항암제’ 개발 소식..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000745554&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000745554&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-20T06:08:06.134Z</updated>
-        <content type="html"><![CDATA[머니S]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[특징주]하이브, 오프라인 콘서트 재개 기대감...52주 신고가]]></title>
@@ -60,13 +67,6 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012733362&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-20T06:01:00.000Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[특징주]비덴트, 비트코인 8000만원 육박…역대 최고가 돌파 ..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004986186&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004986186&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-20T06:08:06.145Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[미국 비트코인 선물 ETF 첫 등장… 국내 관련주 찾기 분주]]></title>
@@ -160,13 +160,6 @@
         <content type="html"><![CDATA[파이낸셜뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[특징주] 청담러닝, 교육 메타버스 플랫폼 기업으로 진화… 5%..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000745516&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000745516&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-20T06:08:06.164Z</updated>
-        <content type="html"><![CDATA[머니S]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA["AI, 너만 믿어" 개미들의 '슬투생']]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004986088&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004986088&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
@@ -179,5 +172,12 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004986085&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-20T11:48:00.000Z</updated>
         <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 아주스틸, 아주이지엘 흡수합병 소식에 7%↑]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000745484&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000745484&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-20T07:05:05.626Z</updated>
+        <content type="html"><![CDATA[머니S]]></content>
     </entry>
 </feed>
