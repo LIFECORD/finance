@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/research/invest_list.naver</id>
     <title>네이버 금융 ─ 리서치 ─ 투자정보 리포트</title>
-    <updated>2021-10-20T00:21:24.819Z</updated>
+    <updated>2021-10-20T01:57:18.461Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/research/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[비트코인 선물 ETF 상장, 앞으로는? (BITO)]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/invest/1634694811644.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/invest/1634694811644.pdf"/>
+        <updated>2021-10-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[IBK투자증권]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아시아 증시 전반, 위험 선호 심리 회복하며 상승]]></title>
         <id>https://ssl.pstatic.net/imgstock/upload/research/invest/1634636412299.pdf</id>
@@ -207,12 +214,5 @@
         <link href="https://ssl.pstatic.net/imgstock/upload/research/invest/1634017439199.pdf"/>
         <updated>2021-10-14T00:12:52.776Z</updated>
         <content type="html"><![CDATA[하나금융투자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[케이프 모닝브리프]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/invest/1634017331012.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/invest/1634017331012.pdf"/>
-        <updated>2021-10-14T00:12:52.778Z</updated>
-        <content type="html"><![CDATA[케이프투자증권]]></content>
     </entry>
 </feed>

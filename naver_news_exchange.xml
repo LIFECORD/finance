@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=429</id>
     <title>네이버 금융 ─ 뉴스 ─ 환율</title>
-    <updated>2021-10-20T00:21:24.793Z</updated>
+    <updated>2021-10-20T01:57:18.439Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[위험선호 심리 지속에 환율 하락 출발…1,177원대]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012733594&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211020&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012733594&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211020&amp;page=1"/>
+        <updated>2021-10-20T01:55:55.523Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012733594&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211020&amp;page=1" title="위험선호 심리 지속에 환율 하락 출발…1,177원대">위험선호 심리 지속에 환율 하락 출발…1,177원대</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[쪼개진 자원안보 법안···급변하는 해외상황 대처 불가능]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003975027&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211020&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003974453&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211020&amp;page=1"/>
         <updated>2021-10-19T15:05:45.126Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003974453&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211020&amp;page=1" title="“2050년 석탄발전 중단”···브레이크 없는 탄소중립">“2050년 석탄발전 중단”···브레이크 없는 탄소중립</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원/달러 환율, 1,187.6원에 마감…5.2원 상승]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0012729942&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211020&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012729942&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211020&amp;page=1"/>
-        <updated>2021-10-19T15:05:45.127Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012729942&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211020&amp;page=1" title="원/달러 환율, 1,187.6원에 마감…5.2원 상승">원/달러 환율, 1,187.6원에 마감…5.2원 상승</a>]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=404</id>
     <title>네이버 금융 ─ 뉴스 ─ 채권 선물</title>
-    <updated>2021-10-20T00:21:24.807Z</updated>
+    <updated>2021-10-20T01:57:18.444Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[화승소재, 산업은행 녹색채권 300억원 발행 성공]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012733894&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211020&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012733894&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211020&amp;page=1"/>
+        <updated>2021-10-20T01:55:43.595Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012733894&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211020&amp;page=1" title="화승소재, 산업은행 녹색채권 300억원 발행 성공">화승소재, 산업은행 녹색채권 300억원 발행 성공</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LH, 4천400억원 사회적 채권 저금리로 발행 성공]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0012733568&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211020&amp;page=1</id>
@@ -46,12 +53,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004866862&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211020&amp;page=1"/>
         <updated>2021-10-19T15:05:33.004Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004866862&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211020&amp;page=1" title="증시 출렁여도 안심…올해 4조 늘어난 이 펀드는">증시 출렁여도 안심…올해 4조 늘어난 이 펀드는</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["펀드 2730개 난립, 옥석 가리기 필요"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004866860&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211020&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004866860&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211020&amp;page=1"/>
-        <updated>2021-10-19T15:05:33.005Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004866860&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211020&amp;page=1" title="&quot;펀드 2730개 난립, 옥석 가리기 필요&quot;">"펀드 2730개 난립, 옥석 가리기 필요"</a>]]></content>
     </entry>
 </feed>
