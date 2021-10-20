@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-10-20T01:57:18.437Z</updated>
+    <updated>2021-10-20T02:26:48.068Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -139,6 +139,20 @@
         <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[특징주] NEW, 디즈니플러스 수혜주 되나...주가 급등세]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004726082&amp;office_id=014&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004726082&amp;office_id=014&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-20T10:27:00.000Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주]오프라인 공연 재개 기대감에 엔터株 강세]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001901440&amp;office_id=016&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001901440&amp;office_id=016&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-20T10:23:00.000Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[공매도 폐지론 재점화?] 전문가 “순기능 더 우세” vs "제..]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0002539710&amp;office_id=119&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0002539710&amp;office_id=119&amp;mode=RANK&amp;typ=0"/>
@@ -165,19 +179,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003975153&amp;office_id=011&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-20T07:01:00.000Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[e공시 눈에 띄네]코스피-19일]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004985779&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004985779&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-20T07:10:00.000Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[승계본색]시몬느 박은관 일가는 이미 2.7억달러 쥐었다]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000004318&amp;office_id=648&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000004318&amp;office_id=648&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-20T07:11:00.000Z</updated>
-        <content type="html"><![CDATA[비즈니스워치]]></content>
     </entry>
 </feed>

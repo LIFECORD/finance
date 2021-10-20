@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/research/market_info_list.naver</id>
     <title>네이버 금융 ─ 리서치 ─ 시황정보 리포트</title>
-    <updated>2021-10-20T01:57:18.441Z</updated>
+    <updated>2021-10-20T02:26:48.066Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/research/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[eBest Quant Daily]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/market/1634695715225.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/market/1634695715225.pdf"/>
+        <updated>2021-10-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[이베스트증권]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Start with IBKS] KOSPI는 기업 실적 기대로 상승함]]></title>
         <id>https://ssl.pstatic.net/imgstock/upload/research/market/1634694051991.pdf</id>
@@ -207,12 +214,5 @@
         <link href="https://ssl.pstatic.net/imgstock/upload/research/market/1633485869949.pdf"/>
         <updated>2021-10-14T00:12:46.958Z</updated>
         <content type="html"><![CDATA[이베스트증권]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Start with IBKS] KOSPI는 글로벌 시장 리스크 우려..]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/market/1633484388184.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/market/1633484388184.pdf"/>
-        <updated>2021-10-14T00:12:46.958Z</updated>
-        <content type="html"><![CDATA[IBK투자증권]]></content>
     </entry>
 </feed>
