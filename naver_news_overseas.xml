@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-10-20T16:08:50.464Z</updated>
+    <updated>2021-10-20T17:14:57.570Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[유럽증시] 기업 호실적 주시하며 일제히 상승]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012736635&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211021&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012736635&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211021&amp;page=1"/>
+        <updated>2021-10-20T17:13:13.265Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012736635&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211021&amp;page=1" title="[유럽증시] 기업 호실적 주시하며 일제히 상승">[유럽증시] 기업 호실적 주시하며 일제히 상승</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["페이팔, 핀터레스트 인수 추진...주당 70달러"-블룸버그]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004618771&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211021&amp;page=1</id>
@@ -53,12 +60,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005065014&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211021&amp;page=1"/>
         <updated>2021-10-20T15:04:38.885Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005065014&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211021&amp;page=1" title="[표]일본 주요기업 주가(10/20)">[표]일본 주요기업 주가(10/20)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[퀀텀스케이프 주가 5분의 1토막, "전고체 배터리 대장…매수 찬스"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004618667&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211021&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004618667&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211021&amp;page=1"/>
-        <updated>2021-10-20T15:04:38.886Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004618667&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211021&amp;page=1" title="퀀텀스케이프 주가 5분의 1토막, &quot;전고체 배터리 대장…매수 찬스&quot;">퀀텀스케이프 주가 5분의 1토막, "전고체 배터리 대장…매수 찬스"</a>]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-10-20T16:08:50.474Z</updated>
+    <updated>2021-10-20T17:14:57.597Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -18,5 +18,40 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000111695&amp;office_id=629&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-20T16:07:25.820Z</updated>
         <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["페이팔, 핀터레스트 인수 추진...주당 70달러"-블룸버그]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004618771&amp;office_id=015&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004618771&amp;office_id=015&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-21T01:01:00.000Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[속보] 최고치 경신한 비트코인 6만6000달러마저 돌파]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005670556&amp;office_id=421&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005670556&amp;office_id=421&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-21T01:38:00.000Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[속보] 비트코인 국내거래소에서 8000만원 돌파]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005670558&amp;office_id=421&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005670558&amp;office_id=421&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-21T01:46:00.000Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[유럽증시] 기업 호실적 주시하며 일제히 상승]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012736635&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012736635&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-21T01:54:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[속보] 비트코인 ETF 9% 급등해 43.48달러 기록중]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005670559&amp;office_id=421&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005670559&amp;office_id=421&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-21T01:52:00.000Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>

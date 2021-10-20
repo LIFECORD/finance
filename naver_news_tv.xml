@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-10-20T16:08:50.468Z</updated>
+    <updated>2021-10-20T17:14:57.598Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['유류세 인하' 카드 꺼낸 정부…"다음 주 발표 예정"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000928375&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211021&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000928375&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211021&amp;page=1"/>
+        <updated>2021-10-21T01:50:00.000Z</updated>
+        <content type="html"><![CDATA[SBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[남양유업 여직원 평가표에만 들어있던 황당한 문항]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000928370&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211021&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000928370&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211021&amp;page=1"/>
+        <updated>2021-10-21T01:35:00.000Z</updated>
+        <content type="html"><![CDATA[SBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[홍남기 "유류세 인하 검토"...이르면 26일 발표]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001655032&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211021&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001655032&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211021&amp;page=1"/>
+        <updated>2021-10-21T01:29:00.000Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오후 9시까지 1,256명 확진…1,300명대 전망]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000510108&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211021&amp;page=1</id>
@@ -53,26 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001615529&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211021&amp;page=1"/>
         <updated>2021-10-20T15:05:13.342Z</updated>
         <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[근무시간 '이상한 셈법'…맥도날드 임금체불 논란]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000278828&amp;office_id=437&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211021&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000278828&amp;office_id=437&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211021&amp;page=1"/>
-        <updated>2021-10-20T15:05:13.343Z</updated>
-        <content type="html"><![CDATA[JTBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쌍용차 '에디슨모터스' 품으로...매각 과정 '험로' 예상]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001654965&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211021&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001654965&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211021&amp;page=1"/>
-        <updated>2021-10-20T15:05:13.344Z</updated>
-        <content type="html"><![CDATA[YTN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍남기 "유류세 인하 검토"...이르면 26일 발표]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001654959&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211021&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001654959&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211021&amp;page=1"/>
-        <updated>2021-10-20T15:05:13.346Z</updated>
-        <content type="html"><![CDATA[YTN]]></content>
     </entry>
 </feed>
