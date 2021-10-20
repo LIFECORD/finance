@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-10-20T18:06:13.105Z</updated>
+    <updated>2021-10-20T19:05:38.028Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["노바백스, 백신 품질 제대로 증명못해"…주가 24% 급락]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012736642&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211021&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012736642&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211021&amp;page=1"/>
+        <updated>2021-10-20T19:03:56.184Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012736642&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211021&amp;page=1" title="&quot;노바백스, 백신 품질 제대로 증명못해&quot;…주가 24% 급락">"노바백스, 백신 품질 제대로 증명못해"…주가 24% 급락</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[유럽증시] 기업 호실적 주시하며 일제히 상승]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0012736635&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211021&amp;page=1</id>
