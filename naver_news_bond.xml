@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=404</id>
     <title>네이버 금융 ─ 뉴스 ─ 채권 선물</title>
-    <updated>2021-10-20T20:05:41.578Z</updated>
+    <updated>2021-10-20T21:05:31.001Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[충남도 내년 2천억원 안팎 지방채 발행…3년새 재정적자 4배로]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012736675&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211021&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012736675&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211021&amp;page=1"/>
+        <updated>2021-10-20T21:04:00.791Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012736675&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211021&amp;page=1" title="충남도 내년 2천억원 안팎 지방채 발행…3년새 재정적자 4배로">충남도 내년 2천억원 안팎 지방채 발행…3년새 재정적자 4배로</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전 세계 치솟는 '금리'…어디까지 오르나(종합)]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0012736032&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211021&amp;page=1</id>
@@ -46,12 +53,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012734672&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211021&amp;page=1"/>
         <updated>2021-10-20T15:04:45.081Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012734672&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211021&amp;page=1" title="헝다, 위안화 채권 이자 겨우 막았지만 23일 또 디폴트 고비">헝다, 위안화 채권 이자 겨우 막았지만 23일 또 디폴트 고비</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[화승소재, 산업은행 녹색채권 300억원 발행 성공]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0012733894&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211021&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012733894&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211021&amp;page=1"/>
-        <updated>2021-10-20T15:04:45.082Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012733894&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211021&amp;page=1" title="화승소재, 산업은행 녹색채권 300억원 발행 성공">화승소재, 산업은행 녹색채권 300억원 발행 성공</a>]]></content>
     </entry>
 </feed>
