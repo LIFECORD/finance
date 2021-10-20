@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-10-20T13:16:44.058Z</updated>
+    <updated>2021-10-20T14:10:30.505Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[英, 공정거래 위반 혐의로 페이스북에 7천만달러 벌금]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000991586&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211020&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000991586&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211020&amp;page=1"/>
+        <updated>2021-10-20T14:08:52.192Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000991586&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211020&amp;page=1" title="英, 공정거래 위반 혐의로 페이스북에 7천만달러 벌금">英, 공정거래 위반 혐의로 페이스북에 7천만달러 벌금</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[노바백스, 코로나19 백신 생산 차질 소식에 시간외 22% 폭락]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004618739&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211020&amp;page=1</id>
@@ -53,12 +60,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004618621&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211020&amp;page=1"/>
         <updated>2021-10-20T09:04:37.802Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004618621&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211020&amp;page=1" title="&quot;美 저금리 정책으로 달러 기축통화 지위 위협…대체투자 관심을&quot;">"美 저금리 정책으로 달러 기축통화 지위 위협…대체투자 관심을"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["비트코인 선물 ETF 상장 긍정효과…올해가 암호화폐 제도권 진입 원년"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004618612&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211020&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004618612&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211020&amp;page=1"/>
-        <updated>2021-10-20T09:04:37.803Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004618612&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211020&amp;page=1" title="&quot;비트코인 선물 ETF 상장 긍정효과…올해가 암호화폐 제도권 진입 원년&quot;">"비트코인 선물 ETF 상장 긍정효과…올해가 암호화폐 제도권 진입 원년"</a>]]></content>
     </entry>
 </feed>

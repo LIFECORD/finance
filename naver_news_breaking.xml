@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS2D&amp;section_id=101&amp;section_id2=258</id>
     <title>네이버 금융 ─ 뉴스 ─ 실시간 속보</title>
-    <updated>2021-10-20T13:16:44.035Z</updated>
+    <updated>2021-10-20T14:10:30.527Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[英, 공정거래 위반 혐의로 페이스북에 7천만달러 벌금]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000991586&amp;office_id=215&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211020&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000991586&amp;office_id=215&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211020&amp;page=1"/>
+        <updated>2021-10-20T14:08:28.443Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000991586&amp;office_id=215&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211020&amp;page=1" title="英, 공정거래 위반 혐의로 페이스북에 7천만달러 벌금">英, 공정거래 위반 혐의로 페이스북에 7천만달러 벌금</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[노바백스, 코로나19 백신 생산 차질 소식에 시간외 22% 폭락]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004618739&amp;office_id=015&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211020&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003647579&amp;office_id=023&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211020&amp;page=1"/>
         <updated>2021-10-20T11:03:20.536Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003647579&amp;office_id=023&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211020&amp;page=1" title="기재부, 내년 코스피 3470 전망하고 예산 짰다... “너무 낙관적”">기재부, 내년 코스피 3470 전망하고 예산 짰다... “너무 낙관적”</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카카오페이 수요예측 첫날...공모가 최상단 가능성↑]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0002540084&amp;office_id=119&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211020&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0002540084&amp;office_id=119&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211020&amp;page=1"/>
-        <updated>2021-10-20T11:03:20.538Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0002540084&amp;office_id=119&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211020&amp;page=1" title="카카오페이 수요예측 첫날...공모가 최상단 가능성↑">카카오페이 수요예측 첫날...공모가 최상단 가능성↑</a>]]></content>
     </entry>
 </feed>
