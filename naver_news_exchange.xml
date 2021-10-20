@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=429</id>
     <title>네이버 금융 ─ 뉴스 ─ 환율</title>
-    <updated>2021-10-20T08:09:20.718Z</updated>
+    <updated>2021-10-20T09:06:26.959Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전 세계 치솟는 '금리'…어디까지 오르나(종합)]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012736032&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211020&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012736032&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211020&amp;page=1"/>
+        <updated>2021-10-20T09:04:56.647Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012736032&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211020&amp;page=1" title="전 세계 치솟는 '금리'…어디까지 오르나(종합)">전 세계 치솟는 '금리'…어디까지 오르나(종합)</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[원/달러 환율, 4.5원 하락한 1,174.2원 마감]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0012735624&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211020&amp;page=1</id>
@@ -13,11 +20,11 @@
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012735624&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211020&amp;page=1" title="원/달러 환율, 4.5원 하락한 1,174.2원 마감">원/달러 환율, 4.5원 하락한 1,174.2원 마감</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3년물 국채금리 연 1.9% 넘어…어디까지 오르나]]></title>
+        <title type="html"><![CDATA[3년물 금리 장중 연 1.9% 넘어…어디까지 오르나]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0012734988&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211020&amp;page=1</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012734988&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211020&amp;page=1"/>
         <updated>2021-10-20T05:04:44.823Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012734988&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211020&amp;page=1" title="3년물 국채금리 연 1.9% 넘어…어디까지 오르나">3년물 국채금리 연 1.9% 넘어…어디까지 오르나</a>]]></content>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012734988&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211020&amp;page=1" title="3년물 금리 장중 연 1.9% 넘어…어디까지 오르나">3년물 금리 장중 연 1.9% 넘어…어디까지 오르나</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[문승욱 산업부 장관 "유류세 인하·LNG 할당관세 관계부처 협의 중"]]></title>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003974806&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211020&amp;page=1"/>
         <updated>2021-10-19T15:05:45.121Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003974806&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211020&amp;page=1" title="탄소 중립 위해 전략광물 등 해외자원 안정 공급 필수">탄소 중립 위해 전략광물 등 해외자원 안정 공급 필수</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[환율, 위험선호 심리 회복에 하락 출발…1,184원대]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0012730833&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211020&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012730833&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211020&amp;page=1"/>
-        <updated>2021-10-19T15:05:45.122Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012730833&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211020&amp;page=1" title="환율, 위험선호 심리 회복에 하락 출발…1,184원대">환율, 위험선호 심리 회복에 하락 출발…1,184원대</a>]]></content>
     </entry>
 </feed>
