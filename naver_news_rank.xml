@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-10-20T02:26:48.068Z</updated>
+    <updated>2021-10-20T03:06:36.859Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 비덴트, 美 비트코인 ETF 인기에 강세]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004726130&amp;office_id=014&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004726130&amp;office_id=014&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-20T11:01:00.000Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주]하이브, 오프라인 콘서트 재개 기대감...52주 신고가]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004986032&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004986032&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-20T11:09:00.000Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['홈플러스 시너지 어디로?' MBK파트너스, 모던하우스 엑시트 ..]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000111449&amp;office_id=629&amp;mode=RANK&amp;typ=0</id>
@@ -32,6 +46,13 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003647366&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-20T03:03:00.000Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주] K-드라마 인기·디즈니+ 상륙에 콘텐츠주 '신고가']]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012734120&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012734120&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-20T10:51:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[네이버·카카오 동반 상승 이어지나]]></title>
@@ -158,26 +179,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0002539710&amp;office_id=119&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-20T07:01:00.000Z</updated>
         <content type="html"><![CDATA[데일리안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부동산 권리조사 전문기업 리파인, 오늘부터 일반청약 돌입]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000745265&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000745265&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-20T05:16:00.000Z</updated>
-        <content type="html"><![CDATA[머니S]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴욕증시]3분기 잇단 '깜짝 실적'…S&P, 어느덧 최고가 근..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005064237&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005064237&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-20T06:56:00.000Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기업공시 10월 19일]유니슨, 143억 규모 풍력발전사업 유..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003975153&amp;office_id=011&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003975153&amp;office_id=011&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-20T07:01:00.000Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>

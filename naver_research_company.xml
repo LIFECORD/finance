@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/research/company_list.naver</id>
     <title>네이버 금융 ─ 리서치 ─ 종목분석 리포트</title>
-    <updated>2021-10-20T02:26:48.075Z</updated>
+    <updated>2021-10-20T03:06:36.869Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/research/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신작 출시 임박과 3분기 실적 모멘텀 확인]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/company/1634699002236.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1634699002236.pdf"/>
+        <updated>2021-10-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[크래프톤]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3Q21 Preview: 본격적인 영업레버리지]]></title>
         <id>https://ssl.pstatic.net/imgstock/upload/research/company/1634694915074.pdf</id>
@@ -207,12 +214,5 @@
         <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1634177655184.pdf"/>
         <updated>2021-10-14T00:00:00.000Z</updated>
         <content type="html"><![CDATA[한국가스공사]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가벼워지는 자본. 높아지는 PBR]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/company/1634177427876.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1634177427876.pdf"/>
-        <updated>2021-10-14T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[한국전력]]></content>
     </entry>
 </feed>
