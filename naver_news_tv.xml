@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-10-20T05:06:10.564Z</updated>
+    <updated>2021-10-20T06:09:16.188Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[누리호 발사 하루 앞으로…미리 보는 누리호 발사]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000510017&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211020&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000510017&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211020&amp;page=1"/>
+        <updated>2021-10-20T06:08:18.110Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[홍남기 "유류세 인하 방안 검토 중...다음 주 조치"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001654751&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211020&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001654751&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211020&amp;page=1"/>
+        <updated>2021-10-20T06:08:18.111Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[김대호의 경제읽기] 누리호 발사 D-1…'뉴 스페이스' 시대 연다]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000510008&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211020&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000510008&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211020&amp;page=1"/>
+        <updated>2021-10-20T06:08:18.112Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이슈& 직설] ‘집값 급등·대출조이기’ 부동산 시장 거품 빼기…“집값 안정세” vs “일..]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000261442&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211020&amp;page=1</id>
@@ -53,26 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000509996&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211020&amp;page=1"/>
         <updated>2021-10-20T05:05:05.514Z</updated>
         <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시한폭탄 이중 채무 '10명 중 4명' 역대 최대]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000928223&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211020&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000928223&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211020&amp;page=1"/>
-        <updated>2021-10-20T00:35:00.000Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍남기 부총리 “유류세 인하 검토, 다음주 중 조치 예상”]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0011140818&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211020&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011140818&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211020&amp;page=1"/>
-        <updated>2021-10-20T00:23:00.000Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[민주노총 오늘 총파업…서울 등 전국 14곳서 파업대회]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0011140817&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211020&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011140817&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211020&amp;page=1"/>
-        <updated>2021-10-20T00:23:00.000Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
