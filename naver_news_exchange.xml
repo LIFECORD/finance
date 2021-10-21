@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=429</id>
     <title>네이버 금융 ─ 뉴스 ─ 환율</title>
-    <updated>2021-10-21T06:11:58.091Z</updated>
+    <updated>2021-10-21T07:07:16.864Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[원/달러 환율, 헝다 디폴트 우려에 상승…1,177.2원 마감]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012738584&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211021&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012738584&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211021&amp;page=1"/>
+        <updated>2021-10-21T07:05:44.194Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012738584&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211021&amp;page=1" title="원/달러 환율, 헝다 디폴트 우려에 상승…1,177.2원 마감">원/달러 환율, 헝다 디폴트 우려에 상승…1,177.2원 마감</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전 세계 치솟는 '금리'…어디까지 오르나(종합)]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0012736032&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211021&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012731672&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211021&amp;page=1"/>
         <updated>2021-10-20T15:04:55.675Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012731672&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211021&amp;page=1" title="9월 외화예금 942억달러…한달 새 16억달러↑">9월 외화예금 942억달러…한달 새 16억달러↑</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[탄소 중립 위해 전략광물 등 해외자원 안정 공급 필수]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003974806&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211021&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003974806&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211021&amp;page=1"/>
-        <updated>2021-10-20T15:04:55.676Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003974806&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211021&amp;page=1" title="탄소 중립 위해 전략광물 등 해외자원 안정 공급 필수">탄소 중립 위해 전략광물 등 해외자원 안정 공급 필수</a>]]></content>
     </entry>
 </feed>

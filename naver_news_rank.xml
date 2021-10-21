@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-10-21T06:11:58.125Z</updated>
+    <updated>2021-10-21T07:07:16.873Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -13,11 +13,18 @@
         <content type="html"><![CDATA[파이낸셜뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[특징주]신성이엔지, 탄소중립·비트코인 테마에 강세]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0002976894&amp;office_id=030&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0002976894&amp;office_id=030&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-21T06:10:48.928Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
+        <title type="html"><![CDATA[[특징주] "역대 최대 영업이익 찍는다" F&F 등 의류株 동반..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003975926&amp;office_id=011&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003975926&amp;office_id=011&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-21T06:10:48.947Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 한신기계, 한국수력원자력 수조원 규모 원전 수주 '콤..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000746038&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000746038&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-21T06:10:48.944Z</updated>
+        <content type="html"><![CDATA[머니S]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[특징주] 박셀바이오, 간암치료제 임상 2a상 진행 가속화에 상..]]></title>
@@ -38,13 +45,6 @@
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000745718&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000745718&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-21T05:30:00.000Z</updated>
-        <content type="html"><![CDATA[머니S]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[특징주] 컴투스, 글로벌 기업 '애니모카 브랜즈'에 전략 투자..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000745999&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000745999&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-21T06:10:48.932Z</updated>
         <content type="html"><![CDATA[머니S]]></content>
     </entry>
     <entry>
@@ -104,11 +104,11 @@
         <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[특징주] 한신기계, 한국수력원자력 수조원 규모 원전 수주 '콤..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000746038&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000746038&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-21T06:10:48.944Z</updated>
-        <content type="html"><![CDATA[머니S]]></content>
+        <title type="html"><![CDATA[[특징주]신성이엔지, 탄소중립·비트코인 테마에 강세]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0002976894&amp;office_id=030&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0002976894&amp;office_id=030&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-21T06:10:48.928Z</updated>
+        <content type="html"><![CDATA[전자신문]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[속보] 비트코인 ETF 3.20% 급등한 43.28달러에 마감]]></title>
@@ -116,13 +116,6 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005670606&amp;office_id=421&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-21T05:19:00.000Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[특징주] "역대 최대 영업이익 찍는다" F&F 등 의류株 동반..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003975926&amp;office_id=011&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003975926&amp;office_id=011&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-21T06:10:48.947Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[정은지의 차이나路] 마이바흐 타던 中기업인, '훙치'로 갈아탄..]]></title>
@@ -179,5 +172,12 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000745855&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-21T10:16:00.000Z</updated>
         <content type="html"><![CDATA[머니S]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[테슬라, 반도체 공급난에도 3분기 순익 1.9조원 사상 최대(종..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012736735&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012736735&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-21T07:05:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
