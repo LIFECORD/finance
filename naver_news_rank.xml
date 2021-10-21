@@ -2,99 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-10-21T21:05:43.504Z</updated>
+    <updated>2021-10-21T22:06:02.524Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[“해외주식 투자 잡아라”… 수수료 면제 잇따라]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003647937&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003647937&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-22T03:05:00.000Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
+        <title type="html"><![CDATA["차세대 백신 개발 전문기업" 차백신연구소, 오늘 코스닥 입성]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000746196&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000746196&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-22T05:17:00.000Z</updated>
+        <content type="html"><![CDATA[머니S]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[주요경제지표] 2021년 10월 21일자]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003647926&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003647926&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-22T03:05:00.000Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
+        <title type="html"><![CDATA[S&P500지수 0.3% 상승…7일 연속 올라 사상 최고 경신]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005673461&amp;office_id=421&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005673461&amp;office_id=421&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-22T05:25:00.000Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[주식 매매 상위 종목 및 환율] 2021년 10월 21일자]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003647928&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003647928&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-22T03:05:00.000Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
+        <title type="html"><![CDATA[뉴욕증시, S&P 사상 최고 마감…7거래일 연속 상승]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0010785211&amp;office_id=003&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0010785211&amp;office_id=003&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-22T05:17:00.000Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[트럼프 소셜미디어 합병 소식에…하루 다섯 배 폭등한 스팩]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004619272&amp;office_id=015&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004619272&amp;office_id=015&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-22T04:01:00.000Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[각종 규제·증시 하방압력… ‘대어’ 카카오페이, 파고 넘을까]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001478765&amp;office_id=005&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001478765&amp;office_id=005&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-22T04:07:00.000Z</updated>
-        <content type="html"><![CDATA[국민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴욕유가] 천연가스 재고증가와 차익실현에 하락]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0012739571&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012739571&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-22T04:25:00.000Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[유럽증시] 헝다 위기 우려 속 일제히 하락]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0012739559&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012739559&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-22T01:36:00.000Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[마켓인]돈방석 앉은 VC들…운용자산 '1조 클럽' 속속]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005066276&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005066276&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-22T01:31:00.000Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공급發 인플레 충격 현실화…더 팔아도 덜 남아]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005066274&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005066274&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-21T16:19:16.079Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PER도 하향…“밸류 부담 덜었다, 저평가株 발굴 기회”]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005066275&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005066275&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-21T16:19:16.080Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원자재값 상승·물류대란 이중고…실적 고점 찍었나]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005066272&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005066272&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-21T16:19:16.077Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우상향 훈풍 타던 기업실적 꺾이나…증시도 '먹구름']]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005066271&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005066271&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-21T16:19:16.073Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비트코인 연내 1억원 돌파?…관련주도 '상한가']]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004660047&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004660047&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-22T04:53:00.000Z</updated>
+        <title type="html"><![CDATA[F&F '황제주' 등극할까…中법인 성장에 MSCI 편입 전망까지]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004660061&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004660061&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-22T05:14:00.000Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뉴욕증시, 실적 호조·고점 부담 속에 혼조…S&P500 최고치로..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012739581&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012739581&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-22T05:32:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[테슬라 주가 장중 900달러 터치…'천슬라' 가능할까]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005066290&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005066290&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-22T05:05:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[속보]경이로운 테슬라 '최대 실적'…뉴욕증시 강세 압력]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005066289&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005066289&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-22T05:02:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['라임·옵티머스 재발방지법' 시행..운용업계 "문 닫을판"]]></title>
@@ -104,11 +62,18 @@
         <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AT&T, 3분기 순이익 59억 달러...전년비 110.7%↑]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000991881&amp;office_id=215&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000991881&amp;office_id=215&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-22T04:53:00.000Z</updated>
-        <content type="html"><![CDATA[한국경제TV]]></content>
+        <title type="html"><![CDATA[[뉴욕유가] 천연가스 재고증가와 차익실현에 하락]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012739571&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012739571&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-22T04:25:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뉴욕증시, S&P 신고점 마감…비트코인 ETF 5.6%↓(종합)]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0010785241&amp;office_id=003&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0010785241&amp;office_id=003&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-22T06:01:00.000Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['증권거래세 근거' 코스피 3470선 전망, 멀어지나]]></title>
@@ -125,38 +90,17 @@
         <content type="html"><![CDATA[데일리안]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[속보]경이로운 테슬라 '최대 실적'…뉴욕증시 강세 압력]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005066289&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005066289&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-22T05:02:00.000Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
+        <title type="html"><![CDATA[트럼프 소셜미디어 합병 소식에…하루 다섯 배 폭등한 스팩]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004619272&amp;office_id=015&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004619272&amp;office_id=015&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-22T04:01:00.000Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[테슬라 주가 장중 900달러 터치…'천슬라' 가능할까]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005066290&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005066290&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-22T05:05:00.000Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[F&F '황제주' 등극할까…中법인 성장에 MSCI 편입 전망까지]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004660061&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004660061&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-22T05:14:00.000Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["차세대 백신 개발 전문기업" 차백신연구소, 오늘 코스닥 입성]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000746196&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000746196&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-22T05:17:00.000Z</updated>
-        <content type="html"><![CDATA[머니S]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴욕증시, S&P 사상 최고 마감…7거래일 연속 상승]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0010785211&amp;office_id=003&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0010785211&amp;office_id=003&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-22T05:17:00.000Z</updated>
+        <title type="html"><![CDATA[또 무너진 '천스닥'....2차전지주 급락 배경은]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0010785225&amp;office_id=003&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0010785225&amp;office_id=003&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-22T06:00:00.000Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
     <entry>
@@ -167,17 +111,73 @@
         <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[증권업계, CFD 수수료 전쟁 시작되나… 삼성 이어 메리츠도 인..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000746192&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000746192&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-22T05:04:00.000Z</updated>
+        <title type="html"><![CDATA[AT&T, 3분기 순이익 59억 달러...전년비 110.7%↑]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000991881&amp;office_id=215&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000991881&amp;office_id=215&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-22T04:53:00.000Z</updated>
+        <content type="html"><![CDATA[한국경제TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KB증권, 3분기 영업이익 2361억원… 전년比 1.5%↑]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000746204&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000746204&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-22T05:47:00.000Z</updated>
         <content type="html"><![CDATA[머니S]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뉴욕증시, 실적 호조·고점 부담 속에 혼조…S&P500 최고치로..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0012739581&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012739581&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-22T05:32:00.000Z</updated>
+        <title type="html"><![CDATA[[비트코in ETF]③'후끈 달아오른' 코인시장…누가 웃고 있을..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000004356&amp;office_id=648&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000004356&amp;office_id=648&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-22T06:06:00.000Z</updated>
+        <content type="html"><![CDATA[비즈니스워치]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[비트코인 연내 1억원 돌파?…관련주도 '상한가']]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004660047&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004660047&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-22T04:53:00.000Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[각종 규제·증시 하방압력… ‘대어’ 카카오페이, 파고 넘을까]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001478765&amp;office_id=005&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001478765&amp;office_id=005&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-22T04:07:00.000Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“해외주식 투자 잡아라”… 수수료 면제 잇따라]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003647937&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003647937&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-22T03:05:00.000Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['트럼프가 새 소셜미디어 만든다' 소식에 관련주 357% 폭등]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012739616&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012739616&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-22T06:04:00.000Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주식 매매 상위 종목 및 환율] 2021년 10월 21일자]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003647928&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003647928&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-22T03:05:00.000Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[공모주보다 핫한 오징어 게임 체육복… 한정판 ‘리셀테크’가 뭐기..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000768371&amp;office_id=366&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000768371&amp;office_id=366&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-22T06:02:00.000Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['영업익 1조 클럽' 증권사 올해 5곳 전망…내년엔 실적 둔화 ..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005673496&amp;office_id=421&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005673496&amp;office_id=421&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-22T06:15:00.000Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
