@@ -2,21 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-10-21T16:20:30.196Z</updated>
+    <updated>2021-10-21T17:18:04.841Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[원자재값 상승·물류대란 이중고…실적 고점 찍었나]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005066272&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005066272&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-21T16:19:16.077Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우상향 훈풍 타던 기업실적 꺾이나…증시도 '먹구름']]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005066271&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005066271&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-21T16:19:16.073Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원자재값 상승·물류대란 이중고…'비용 전가력' 관건]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005066272&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005066272&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-21T16:19:16.077Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
@@ -31,6 +31,20 @@
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005066275&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005066275&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-21T16:19:16.080Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[유럽증시] 헝다 위기 우려 속 일제히 하락]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012739559&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012739559&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-22T01:36:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[마켓인]돈방석 앉은 VC들…운용자산 '1조 클럽' 속속]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005066276&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005066276&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-22T01:31:00.000Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>

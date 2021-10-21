@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-10-21T16:20:30.190Z</updated>
+    <updated>2021-10-21T17:18:04.814Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[유럽증시] 헝다 위기 우려 속 일제히 하락]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012739559&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211022&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012739559&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211022&amp;page=1"/>
+        <updated>2021-10-21T17:16:26.539Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012739559&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211022&amp;page=1" title="[유럽증시] 헝다 위기 우려 속 일제히 하락">[유럽증시] 헝다 위기 우려 속 일제히 하락</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[절치부심 위워크, IPO 좌절 2년만에 상장]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000991874&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211022&amp;page=1</id>
@@ -53,12 +60,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005066235&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211022&amp;page=1"/>
         <updated>2021-10-21T15:04:42.308Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005066235&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211022&amp;page=1" title="[표]일본 주요기업 주가(10/21)">[표]일본 주요기업 주가(10/21)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[퀄스 "美 금리인상 앞당길 수도"…러몬도 "법인세 인상 불가피"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004619242&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211022&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004619242&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211022&amp;page=1"/>
-        <updated>2021-10-21T15:04:42.310Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004619242&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211022&amp;page=1" title="퀄스 &quot;美 금리인상 앞당길 수도&quot;…러몬도 &quot;법인세 인상 불가피&quot;">퀄스 "美 금리인상 앞당길 수도"…러몬도 "법인세 인상 불가피"</a>]]></content>
     </entry>
 </feed>
