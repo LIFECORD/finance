@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-10-21T02:34:37.397Z</updated>
+    <updated>2021-10-21T03:07:03.247Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 씨아이에스, 테슬라 LFP배터리 中 CATL 전량공급..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001902179&amp;office_id=016&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001902179&amp;office_id=016&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-21T11:26:00.000Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 메타버스·위드코로나 업고 JYP·하이브 등 연일 강세]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003975774&amp;office_id=011&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003975774&amp;office_id=011&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-21T10:42:00.000Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[광화문]동학개미와 동학농민]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004659396&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
@@ -48,11 +62,25 @@
         <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[특징주] 코윈테크, 테슬라 리튬인산철 배터리 전량 교체...자..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004726784&amp;office_id=014&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004726784&amp;office_id=014&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-21T10:56:00.000Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[기업공시 10월 20일]하이로닉, 레이저 의료기기 피코하이(P..]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003975650&amp;office_id=011&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003975650&amp;office_id=011&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-21T07:01:00.000Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 더블유게임즈, 오랜만에 주가 강세]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001902084&amp;office_id=016&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001902084&amp;office_id=016&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-21T10:50:00.000Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[슬금슬금 오르는 금값, 3주만에 2.8% 상승]]></title>
@@ -139,13 +167,6 @@
         <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[특징주] 메타버스·위드코로나 업고 JYP·하이브 등 연일 강세]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003975774&amp;office_id=011&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003975774&amp;office_id=011&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-21T10:42:00.000Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[실적 호조·비트코인 최고가...다우 장중 최고 경신 [출근전 꼭..]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000991609&amp;office_id=215&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000991609&amp;office_id=215&amp;mode=RANK&amp;typ=0"/>
@@ -158,26 +179,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001902037&amp;office_id=016&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-21T10:23:00.000Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴욕마감]S&P500지수 엿새째 상승…다우 장중 최고 경신]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005670659&amp;office_id=421&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005670659&amp;office_id=421&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-21T06:39:00.000Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["국감 전엔 다 끝낼 줄 알았는데" 빗썸·코인원 신고수리는 언제..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004659411&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004659411&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-21T05:20:00.000Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴욕증시]기업 호실적 업고 또 랠리 조짐…다우, 장중 최고치]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005065123&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005065123&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-21T06:29:00.000Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
