@@ -2,21 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-10-21T18:06:59.986Z</updated>
+    <updated>2021-10-21T19:05:24.047Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[원자재값 상승·물류대란 이중고…실적 고점 찍었나]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005066272&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005066272&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-21T16:19:16.077Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PER도 하향…“밸류 부담 덜었다, 저평가株 발굴 기회”]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005066275&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005066275&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-21T16:19:16.080Z</updated>
+        <title type="html"><![CDATA[우상향 훈풍 타던 기업실적 꺾이나…증시도 '먹구름']]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005066271&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005066271&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-21T16:19:16.073Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
@@ -27,10 +20,10 @@
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[우상향 훈풍 타던 기업실적 꺾이나…증시도 '먹구름']]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005066271&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005066271&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-21T16:19:16.073Z</updated>
+        <title type="html"><![CDATA[PER도 하향…“밸류 부담 덜었다, 저평가株 발굴 기회”]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005066275&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005066275&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-21T16:19:16.080Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
@@ -46,5 +39,33 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012739559&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-22T01:36:00.000Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[원자재값 상승·물류대란 이중고…실적 고점 찍었나]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005066272&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005066272&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-21T16:19:16.077Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주식 매매 상위 종목 및 환율] 2021년 10월 21일자]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003647928&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003647928&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-22T03:05:00.000Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주요경제지표] 2021년 10월 21일자]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003647926&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003647926&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-22T03:05:00.000Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“해외주식 투자 잡아라”… 수수료 면제 잇따라]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003647937&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003647937&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-22T03:05:00.000Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
