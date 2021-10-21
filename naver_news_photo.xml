@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-10-21T13:16:15.175Z</updated>
+    <updated>2021-10-21T14:06:49.034Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[페이팔, 핀터레스트 450억 달러에 인수 추진]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000991869&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211021&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000991869&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211021&amp;page=1"/>
+        <updated>2021-10-21T14:05:41.219Z</updated>
+        <content type="html"><![CDATA[한국경제TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[듀폰에서 독립한 다우, 3분기 순영업이익 20.7억달러…전년비 22.1%↑]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000991868&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211021&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000991868&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211021&amp;page=1"/>
+        <updated>2021-10-21T14:05:41.219Z</updated>
+        <content type="html"><![CDATA[한국경제TV]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美 주간 실업수당 청구 29만건…코로나 사태 이후 최저치]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004619259&amp;office_id=015&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211021&amp;page=1</id>
@@ -60,19 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003647866&amp;office_id=023&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211021&amp;page=1"/>
         <updated>2021-10-21T12:11:27.847Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[거래소 등 가상자산 사업자 수입 9조원]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0002702164&amp;office_id=029&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211021&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0002702164&amp;office_id=029&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211021&amp;page=1"/>
-        <updated>2021-10-21T12:11:27.849Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[`또 나만 몰랐네` 떡상 비트코인...테슬라는 1.4조원 어치 보유 중]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0002702163&amp;office_id=029&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211021&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0002702163&amp;office_id=029&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211021&amp;page=1"/>
-        <updated>2021-10-21T12:11:27.851Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
 </feed>
