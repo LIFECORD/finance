@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-10-21T04:07:02.449Z</updated>
+    <updated>2021-10-21T05:06:16.420Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["머스크가 비트코인에 지속 투자할지는 불투명"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000991721&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211021&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000991721&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211021&amp;page=1"/>
+        <updated>2021-10-21T05:04:27.617Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000991721&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211021&amp;page=1" title="&quot;머스크가 비트코인에 지속 투자할지는 불투명&quot;">"머스크가 비트코인에 지속 투자할지는 불투명"</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[결국 헝다 23일 디폴트 위기…3조 자회사 매각 무산(종합)]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0012737681&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211021&amp;page=1</id>
@@ -53,12 +60,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012737118&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211021&amp;page=1"/>
         <updated>2021-10-21T02:00:30.200Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012737118&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211021&amp;page=1" title="IBM, 3분기 매출 20조7천억원…시장 기대 밑돌아">IBM, 3분기 매출 20조7천억원…시장 기대 밑돌아</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[결국 헝다 23일 디폴트 위기…3조 자회사 매각 무산]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0012737061&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211021&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012737061&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211021&amp;page=1"/>
-        <updated>2021-10-21T02:00:30.202Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012737061&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211021&amp;page=1" title="결국 헝다 23일 디폴트 위기…3조 자회사 매각 무산">결국 헝다 23일 디폴트 위기…3조 자회사 매각 무산</a>]]></content>
     </entry>
 </feed>

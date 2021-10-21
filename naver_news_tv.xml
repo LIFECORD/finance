@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-10-21T04:07:02.495Z</updated>
+    <updated>2021-10-21T05:06:16.450Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[김대호의 경제읽기] 국제유가 '고공행진'…홍남기 "유류세 인하 검토"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000510193&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211021&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000510193&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211021&amp;page=1"/>
+        <updated>2021-10-21T05:05:10.249Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[경제 톡톡톡]‘완판 행진’ 서울 분양 아파트 미계약 속출]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000216630&amp;office_id=449&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211021&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000216630&amp;office_id=449&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211021&amp;page=1"/>
+        <updated>2021-10-21T05:05:10.249Z</updated>
+        <content type="html"><![CDATA[채널A]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고승범 "전세대출 DSR 산출에 직접 적용 않기로"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000510188&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211021&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000510188&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211021&amp;page=1"/>
+        <updated>2021-10-21T05:05:10.250Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["25일 일상회복 방역의료 공청회…위드코로나 준비"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000510187&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211021&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000510187&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211021&amp;page=1"/>
+        <updated>2021-10-21T05:05:10.256Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[오늘의 경제지표] 장중 최고치 기록한 美 다우...국내 증시는?]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001655232&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211021&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001655232&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211021&amp;page=1"/>
+        <updated>2021-10-21T05:05:10.257Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“브로콜리는 익은 듯 안 익은 듯”…관저요리사 갑질 여전]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0011141673&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211021&amp;page=1</id>
@@ -38,41 +73,6 @@
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000510174&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211021&amp;page=1</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000510174&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211021&amp;page=1"/>
         <updated>2021-10-21T00:44:00.000Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘코로나에도 호황’ 유튜버 등 탈루 혐의 세무조사]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0011141661&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211021&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011141661&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211021&amp;page=1"/>
-        <updated>2021-10-21T00:27:00.000Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[계란 · LNG 등 90여 개 품목 할당관세 연장 요청]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000928479&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211021&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000928479&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211021&amp;page=1"/>
-        <updated>2021-10-21T00:27:00.000Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[11년여만의 결실…‘누리호’ 오늘 우주로 첫 걸음]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000216620&amp;office_id=449&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211021&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000216620&amp;office_id=449&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211021&amp;page=1"/>
-        <updated>2021-10-21T00:23:00.000Z</updated>
-        <content type="html"><![CDATA[채널A]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코스피 상승·코스닥 하락‥우주항공 관련주 상승]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001155150&amp;office_id=214&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211021&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001155150&amp;office_id=214&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211021&amp;page=1"/>
-        <updated>2021-10-21T00:16:00.000Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[확진 1,441명…접종완료 70% 135만 명 남아]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000510169&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211021&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000510169&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211021&amp;page=1"/>
-        <updated>2021-10-21T00:07:00.000Z</updated>
         <content type="html"><![CDATA[연합뉴스TV]]></content>
     </entry>
 </feed>
