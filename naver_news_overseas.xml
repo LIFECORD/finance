@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-10-21T02:02:24.772Z</updated>
+    <updated>2021-10-21T02:34:37.386Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["中 기업 반등 믿으면 안돼...향후 급락 가능"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000991696&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211021&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000991696&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211021&amp;page=1"/>
+        <updated>2021-10-21T02:32:42.479Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000991696&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211021&amp;page=1" title="&quot;中 기업 반등 믿으면 안돼...향후 급락 가능&quot;">"中 기업 반등 믿으면 안돼...향후 급락 가능"</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[샤오펑 협력 플라잉카업체 HT에어로, 5억 달러 투자 유치]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000991692&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211021&amp;page=1</id>
@@ -60,12 +67,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012736952&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211021&amp;page=1"/>
         <updated>2021-10-21T02:00:30.206Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012736952&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211021&amp;page=1" title="[그래픽] 테슬라 순이익 추이">[그래픽] 테슬라 순이익 추이</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[환율, 1170원대 중후반 상승…달러 강세 전환]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005065274&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211021&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005065274&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211021&amp;page=1"/>
-        <updated>2021-10-21T00:19:52.579Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005065274&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211021&amp;page=1" title="환율, 1170원대 중후반 상승…달러 강세 전환">환율, 1170원대 중후반 상승…달러 강세 전환</a>]]></content>
     </entry>
 </feed>

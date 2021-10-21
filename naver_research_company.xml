@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/research/company_list.naver</id>
     <title>네이버 금융 ─ 리서치 ─ 종목분석 리포트</title>
-    <updated>2021-10-21T02:02:24.805Z</updated>
+    <updated>2021-10-21T02:34:37.430Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/research/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[반등의 하반기]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/company/1634782190708.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1634782190708.pdf"/>
+        <updated>2021-10-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[오리온]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3Q21 Preview: 영업이익 +36.7% YoY 전망]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/company/1634782001399.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1634782001399.pdf"/>
+        <updated>2021-10-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[삼영전자]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3Q21 Preview: 서서히 회복 중]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/company/1634781936763.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1634781936763.pdf"/>
+        <updated>2021-10-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[BGF리테일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신작/실적모멘텀은 공백기. 최근 콘텐츠 투자..]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/company/1634781855975.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1634781855975.pdf"/>
+        <updated>2021-10-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[컴투스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[다시 주목할 시점]]></title>
         <id>https://ssl.pstatic.net/imgstock/upload/research/company/1634781633377.pdf</id>
@@ -186,33 +214,5 @@
         <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1634263862895.pdf"/>
         <updated>2021-10-15T00:00:00.000Z</updated>
         <content type="html"><![CDATA[코리안리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[컨텐츠 경쟁력은 어디 안갑니다]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/company/1634262888241.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1634262888241.pdf"/>
-        <updated>2021-10-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[스튜디오드래곤]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[보험손익 개선이 호실적을 지속 견인]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/company/1634262669672.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1634262669672.pdf"/>
-        <updated>2021-10-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[현대해상]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3Q21 Preview: 영업이익률 개선세 지속]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/company/1634262591328.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1634262591328.pdf"/>
-        <updated>2021-10-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[덴티움]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올해까지 실적으론 고평가, 내년 실적부턴 저..]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/company/1634262511565.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1634262511565.pdf"/>
-        <updated>2021-10-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[넷마블]]></content>
     </entry>
 </feed>
