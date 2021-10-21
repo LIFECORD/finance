@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-10-21T08:07:54.315Z</updated>
+    <updated>2021-10-21T09:06:09.612Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -10,6 +10,13 @@
         <id>https://finance.naver.com/news/news_read.naver?article_id=0012738556&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012738556&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-21T08:06:32.258Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 엔터주 강세 속 하이브·JYP, 상장 후 최고가 마감..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012738903&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012738903&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-21T09:04:53.144Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
@@ -172,12 +179,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000991610&amp;office_id=215&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-21T07:14:00.000Z</updated>
         <content type="html"><![CDATA[한국경제TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[특징주] 이수페타시스, 하반기 실적 개선 전망에 강세]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000745855&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000745855&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-21T10:16:00.000Z</updated>
-        <content type="html"><![CDATA[머니S]]></content>
     </entry>
 </feed>

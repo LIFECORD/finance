@@ -2,9 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-10-21T08:07:54.334Z</updated>
+    <updated>2021-10-21T09:06:09.574Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[현장연결] 한국형 우주발사체 누리호 발사 순간]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000510223&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211021&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000510223&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211021&amp;page=1"/>
+        <updated>2021-10-21T09:05:06.150Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[현장연결] '우리기술' 누리호 발사…11년여 결실 하늘 위로]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000510222&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211021&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000510222&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211021&amp;page=1"/>
+        <updated>2021-10-21T09:05:06.151Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[브리핑] "'누리호' 비행 마쳐…약 30분간 데이터 분석"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000928546&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211021&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000928546&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211021&amp;page=1"/>
+        <updated>2021-10-21T09:05:06.152Z</updated>
+        <content type="html"><![CDATA[SBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[현장연결] "누리호 비행 종료…데이터 분석중"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000510221&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211021&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000510221&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211021&amp;page=1"/>
+        <updated>2021-10-21T09:05:06.153Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[속보] 누리호 모사체 위성 분리 성공]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000510220&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211021&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000510220&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211021&amp;page=1"/>
+        <updated>2021-10-21T09:05:06.154Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[속보] 누리호 정상 비행…고도 650km 통과]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000510219&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211021&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000510219&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211021&amp;page=1"/>
+        <updated>2021-10-21T09:05:06.156Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[속보] 5시 누리호 발사…페어링 분리 확인]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000510217&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211021&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000510217&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211021&amp;page=1"/>
+        <updated>2021-10-21T09:05:06.158Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[영상] 한국형 첫 우주발사체 '누리호' 발사 순간]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000342004&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211021&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000342004&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211021&amp;page=1"/>
+        <updated>2021-10-21T09:05:06.160Z</updated>
+        <content type="html"><![CDATA[TV조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[속보] 누리호 오후 5시 발사돼…이륙해 하늘로]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000510216&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211021&amp;page=1</id>
@@ -18,61 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001615755&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211021&amp;page=1"/>
         <updated>2021-10-21T08:06:46.112Z</updated>
         <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이슈체크] K로켓 ‘누리호’ 우주 향해 준비완료…성공 기준은?]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000261660&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211021&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000261660&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211021&amp;page=1"/>
-        <updated>2021-10-21T08:06:46.113Z</updated>
-        <content type="html"><![CDATA[SBS Biz]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["가자 우주로" 11년 준비 마친 누리호, 오후 5시 발사]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000278892&amp;office_id=437&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211021&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000278892&amp;office_id=437&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211021&amp;page=1"/>
-        <updated>2021-10-21T08:06:46.114Z</updated>
-        <content type="html"><![CDATA[JTBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[누리호 발사 카운트다운…성패 가를 운명의 '16분 7초']]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000278891&amp;office_id=437&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211021&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000278891&amp;office_id=437&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211021&amp;page=1"/>
-        <updated>2021-10-21T08:06:46.116Z</updated>
-        <content type="html"><![CDATA[JTBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴스1번지] 한국형 발사체 누리호 오늘 우주로…오후 5시 발사]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000510215&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211021&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000510215&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211021&amp;page=1"/>
-        <updated>2021-10-21T08:06:46.118Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[속보] 누리호 발사 10분 전 카운트다운…자동운용 돌입]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000510214&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211021&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000510214&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211021&amp;page=1"/>
-        <updated>2021-10-21T08:06:46.119Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최종 발사 준비 마쳐가는 '누리호', '나로호'와 차이점?]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000928533&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211021&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000928533&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211021&amp;page=1"/>
-        <updated>2021-10-21T08:06:46.121Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[발사 막바지 돌입한 누리호…성패 가를 '16분' 과정은]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000928530&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211021&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000928530&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211021&amp;page=1"/>
-        <updated>2021-10-21T08:06:46.122Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[누리호 발사 카운트다운…30분내 성공 판가름]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000341988&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211021&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000341988&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211021&amp;page=1"/>
-        <updated>2021-10-21T08:06:46.124Z</updated>
-        <content type="html"><![CDATA[TV조선]]></content>
     </entry>
 </feed>
