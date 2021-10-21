@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-10-21T20:06:42.847Z</updated>
+    <updated>2021-10-21T21:05:43.501Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴욕증시]잇단 깜짝 실적에 S&P 역대 최고치…변수는 헝다]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005066295&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211022&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005066295&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211022&amp;page=1"/>
+        <updated>2021-10-21T21:03:56.074Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005066295&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211022&amp;page=1" title="[뉴욕증시]잇단 깜짝 실적에 S&amp;P 역대 최고치…변수는 헝다">[뉴욕증시]잇단 깜짝 실적에 S&amp;P 역대 최고치…변수는 헝다</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[테슬라 주가 장중 900달러 터치…'천슬라' 가능할까]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005066290&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211022&amp;page=1</id>
@@ -53,12 +60,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000991873&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211022&amp;page=1"/>
         <updated>2021-10-21T15:04:42.302Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000991873&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211022&amp;page=1" title="아메리칸항공, 3분기 1억7천만달러 흑자…연방 긴급지원금 10억달러 조달">아메리칸항공, 3분기 1억7천만달러 흑자…연방 긴급지원금 10억달러 조달</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3대지수 하락 출발…연준 비판한 BoA [뉴욕증시 나우]]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000991871&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211022&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000991871&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211022&amp;page=1"/>
-        <updated>2021-10-21T15:04:42.302Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000991871&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211022&amp;page=1" title="3대지수 하락 출발…연준 비판한 BoA [뉴욕증시 나우]">3대지수 하락 출발…연준 비판한 BoA [뉴욕증시 나우]</a>]]></content>
     </entry>
 </feed>
