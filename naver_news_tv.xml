@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-10-21T17:18:04.830Z</updated>
+    <updated>2021-10-21T18:07:00.011Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['뒷광고'로 탈세하고 슈퍼카 · 여행 즐긴 인플루언서]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000928632&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211022&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000928632&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211022&amp;page=1"/>
+        <updated>2021-10-22T02:22:00.000Z</updated>
+        <content type="html"><![CDATA[SBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[왕릉 훼손 아파트 "높이는 두고 색 · 문양만 교체"]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000928629&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211022&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000510271&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211022&amp;page=1"/>
         <updated>2021-10-21T15:05:24.846Z</updated>
         <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쌍용차 새 주인 후보에 ‘에디슨모터스’?…정상화 고비는 ‘자금력’]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0011141966&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211022&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011141966&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211022&amp;page=1"/>
-        <updated>2021-10-21T15:05:24.849Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
