@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-10-22T22:06:35.248Z</updated>
+    <updated>2021-10-22T23:06:10.983Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주춤해진 집값…DSR 강화·금리 인상도 '대기 중']]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000510449&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211023&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000510449&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211023&amp;page=1"/>
+        <updated>2021-10-23T08:02:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[12월 사전청약인데…3기 신도시 5곳 중 3곳 '보상률 0%']]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000928886&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211023&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000928886&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211023&amp;page=1"/>
+        <updated>2021-10-23T07:22:00.000Z</updated>
+        <content type="html"><![CDATA[SBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["유류세 한시적 인하"‥3년 전 15%, 이번엔?]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001155530&amp;office_id=214&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211023&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001155530&amp;office_id=214&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211023&amp;page=1"/>
+        <updated>2021-10-23T07:14:00.000Z</updated>
+        <content type="html"><![CDATA[MBC]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유류세 내린다는데...체감 효과 얼마나 될까]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001656043&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211023&amp;page=1</id>
@@ -53,26 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001655957&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211023&amp;page=1"/>
         <updated>2021-10-22T15:05:15.105Z</updated>
         <content type="html"><![CDATA[YTN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['손실보상' 신청 후 2일내 지급...소상공인 "방역 완화 우선"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001655954&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211023&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001655954&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211023&amp;page=1"/>
-        <updated>2021-10-22T15:05:15.108Z</updated>
-        <content type="html"><![CDATA[YTN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[고용브리핑365] 디지털세 본격 도입, 영향은?]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000510437&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211023&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000510437&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211023&amp;page=1"/>
-        <updated>2021-10-22T15:05:15.110Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이른 추위에 패딩 품귀…코로나·물류대란 겹쳐 공급난]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000342128&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211023&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000342128&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211023&amp;page=1"/>
-        <updated>2021-10-22T15:05:15.112Z</updated>
-        <content type="html"><![CDATA[TV조선]]></content>
     </entry>
 </feed>
