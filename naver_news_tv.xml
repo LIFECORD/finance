@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-10-22T19:05:14.313Z</updated>
+    <updated>2021-10-22T20:06:49.569Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스마트폰 '연말 대전' 후끈?...반도체 공급난에 "없어서 못 판다"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001656027&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211023&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001656027&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211023&amp;page=1"/>
+        <updated>2021-10-23T04:48:00.000Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[상암동 복덕방] 주춤하는 부동산 시장...집값에 변곡점 찾아오나]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001656026&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211023&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001656026&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211023&amp;page=1"/>
+        <updated>2021-10-23T04:40:00.000Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[롯데월드타워, 비대면 마라톤 등 핼러윈 행사]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000510446&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211023&amp;page=1</id>
@@ -59,20 +73,6 @@
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000342126&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211023&amp;page=1</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000342126&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211023&amp;page=1"/>
         <updated>2021-10-22T15:05:15.113Z</updated>
-        <content type="html"><![CDATA[TV조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한수원 사장 "원전없는 탄소중립은 불가능" 작심발언]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000342125&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211023&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000342125&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211023&amp;page=1"/>
-        <updated>2021-10-22T15:05:15.115Z</updated>
-        <content type="html"><![CDATA[TV조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2차 청약 앞두고…'맹꽁이·주민반발' 늪에 빠진 3기 신도시]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000342123&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211023&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000342123&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211023&amp;page=1"/>
-        <updated>2021-10-22T15:05:15.116Z</updated>
         <content type="html"><![CDATA[TV조선]]></content>
     </entry>
 </feed>
