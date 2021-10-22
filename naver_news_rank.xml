@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-10-22T16:11:51.015Z</updated>
+    <updated>2021-10-22T17:14:04.007Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -20,6 +20,13 @@
         <content type="html"><![CDATA[한국경제TV]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA['반도체 실적 부진' 인텔 흔들리나…장중 주가 11% 폭락]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005067234&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005067234&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-22T16:10:43.639Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[SAP, 3분기 매출 79.9억유로…예상 상회]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000992125&amp;office_id=215&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000992125&amp;office_id=215&amp;mode=RANK&amp;typ=0"/>
@@ -27,10 +34,17 @@
         <content type="html"><![CDATA[한국경제TV]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['반도체 실적 부진' 인텔 흔들리나…장중 주가 11% 폭락]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005067234&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005067234&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-22T16:10:43.639Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
+        <title type="html"><![CDATA[파월 "테이퍼링 시작 준비중…인플레 내년까지 지속"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012741614&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012741614&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-22T17:12:54.118Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유럽 증시, 中 부동산회사 파산 우려 진정으로 상승 마감]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0010787064&amp;office_id=003&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0010787064&amp;office_id=003&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-23T01:38:00.000Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
