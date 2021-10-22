@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/research/company_list.naver</id>
     <title>네이버 금융 ─ 리서치 ─ 종목분석 리포트</title>
-    <updated>2021-10-22T02:03:05.261Z</updated>
+    <updated>2021-10-22T02:34:09.818Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/research/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[반도체 공급 부족 영향으로 단기 실적 성장 ..]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/company/1634868940552.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1634868940552.pdf"/>
+        <updated>2021-10-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[포스코케미칼]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[노무비 부담 4분기부터 완화 기대]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/company/1634868697163.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1634868697163.pdf"/>
+        <updated>2021-10-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[한전KPS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[병목현상 우려되는 시기에 영업이익 선방]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/company/1634868609980.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1634868609980.pdf"/>
+        <updated>2021-10-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[한미반도체]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엄청난 실적개선 대비 과도한 저평가 구간!]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/company/1634868522106.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1634868522106.pdf"/>
+        <updated>2021-10-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[세아제강]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[수익확대와 비용안정으로 이익 호조세 지속]]></title>
         <id>https://ssl.pstatic.net/imgstock/upload/research/company/1634867378835.pdf</id>
@@ -186,33 +214,5 @@
         <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1634610127660.pdf"/>
         <updated>2021-10-19T00:00:00.000Z</updated>
         <content type="html"><![CDATA[LG이노텍]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[규제가 만들 구조적 성장]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/company/1634609341877.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1634609341877.pdf"/>
-        <updated>2021-10-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[SGC에너지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고공 행진]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/company/1634608342888.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1634608342888.pdf"/>
-        <updated>2021-10-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[해성디에스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3Q21 Pre: 호실적 전망]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/company/1634608278114.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1634608278114.pdf"/>
-        <updated>2021-10-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[롯데칠성]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3분기 비수기에도 실적 호조는 지속될 전망]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/company/1634608200096.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1634608200096.pdf"/>
-        <updated>2021-10-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[한국철강]]></content>
     </entry>
 </feed>
