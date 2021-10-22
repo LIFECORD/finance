@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=401</id>
     <title>네이버 금융 ─ 뉴스 ─ 시황·전망</title>
-    <updated>2021-10-22T02:34:09.798Z</updated>
+    <updated>2021-10-22T03:06:29.206Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[흥국증권 "에너지값 안정땐 외국인 자금 본격 유입 가능성 커"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012740299&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211022&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012740299&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211022&amp;page=1"/>
+        <updated>2021-10-22T03:04:48.260Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012740299&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211022&amp;page=1" title="흥국증권 &quot;에너지값 안정땐 외국인 자금 본격 유입 가능성 커&quot;">흥국증권 "에너지값 안정땐 외국인 자금 본격 유입 가능성 커"</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주식초고수는 지금] 더블유게임즈, 회사채 수요예측 실패에도 매수 1위]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003976337&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211022&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003976301&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211022&amp;page=1"/>
         <updated>2021-10-22T02:01:17.974Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003976301&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211022&amp;page=1" title="[특징주] 인적 분할 앞둔 SK텔레콤, 기업가치 상승 기대감에 4% ↑">[특징주] 인적 분할 앞둔 SK텔레콤, 기업가치 상승 기대감에 4% ↑</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[특징주] 차백신연구소, 코스닥 성공입성…상장 첫날 26%대 강세]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001902567&amp;office_id=016&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211022&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001902567&amp;office_id=016&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211022&amp;page=1"/>
-        <updated>2021-10-22T02:01:17.976Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0001902567&amp;office_id=016&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211022&amp;page=1" title="[특징주] 차백신연구소, 코스닥 성공입성…상장 첫날 26%대 강세">[특징주] 차백신연구소, 코스닥 성공입성…상장 첫날 26%대 강세</a>]]></content>
     </entry>
 </feed>

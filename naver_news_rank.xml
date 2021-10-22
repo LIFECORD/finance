@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-10-22T02:34:09.816Z</updated>
+    <updated>2021-10-22T03:06:29.233Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 차백신연구소, 코스닥 상장 첫날 강세]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004727368&amp;office_id=014&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004727368&amp;office_id=014&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-22T11:08:00.000Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주]골판지 가격 인상 소식에 신풍제지 강세]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004987344&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004987344&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-22T11:23:00.000Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[S&P500지수 0.3% 상승…7일 연속 올라 사상 최고 경신]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005673461&amp;office_id=421&amp;mode=RANK&amp;typ=0</id>
@@ -27,11 +41,25 @@
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[특징주] 맥스트, 메타버스 ETF 상장 수혜 기대감에 14%↑]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000746328&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000746328&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-22T10:33:00.000Z</updated>
+        <content type="html"><![CDATA[머니S]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA["차세대 백신 개발 전문기업" 차백신연구소, 오늘 코스닥 입성]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000746196&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000746196&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-22T05:17:00.000Z</updated>
         <content type="html"><![CDATA[머니S]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주]대영포장 골판지 가격 인상 소식에 강세]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004987351&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004987351&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-22T11:30:00.000Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[울산시, 국립 청소년 미래산업체험센터 유치 추진]]></title>
@@ -67,13 +95,6 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004987159&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-22T08:07:00.000Z</updated>
         <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[특징주] 맥스트, 메타버스 ETF 상장 수혜 기대감에 14%↑]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000746328&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000746328&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-22T10:33:00.000Z</updated>
-        <content type="html"><![CDATA[머니S]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[CB 전환가 잇단 하향···화난 주주들 "주식가치 희석"]]></title>
@@ -158,26 +179,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005673502&amp;office_id=421&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-22T06:29:00.000Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나이스신평, 한화토탈 등급전망 부정적→ 안정적 상향]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004727236&amp;office_id=014&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004727236&amp;office_id=014&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-22T08:04:00.000Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[외환브리핑] 미 국채 1.7% 달러 강세…환율, 나흘 만에 1..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005066339&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005066339&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-22T08:07:00.000Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[B마트·쿠팡이츠마트, 골목상권 침해로 제동 걸리나]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000004360&amp;office_id=648&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000004360&amp;office_id=648&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-22T07:06:00.000Z</updated>
-        <content type="html"><![CDATA[비즈니스워치]]></content>
     </entry>
 </feed>
