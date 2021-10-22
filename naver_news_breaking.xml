@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS2D&amp;section_id=101&amp;section_id2=258</id>
     <title>네이버 금융 ─ 뉴스 ─ 실시간 속보</title>
-    <updated>2021-10-22T17:14:03.979Z</updated>
+    <updated>2021-10-22T18:06:51.048Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[유럽증시] 헝다 디폴트 모면에 일제히 상승]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012741625&amp;office_id=001&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211023&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012741625&amp;office_id=001&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211023&amp;page=1"/>
+        <updated>2021-10-22T18:04:43.800Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012741625&amp;office_id=001&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211023&amp;page=1" title="[유럽증시] 헝다 디폴트 모면에 일제히 상승">[유럽증시] 헝다 디폴트 모면에 일제히 상승</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유럽 증시, 中 부동산회사 파산 우려 진정으로 상승 마감]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0010787064&amp;office_id=003&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211023&amp;page=1</id>
@@ -46,12 +53,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005067233&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211023&amp;page=1"/>
         <updated>2021-10-22T16:09:57.783Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005067233&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211023&amp;page=1" title="테슬라 주가 '장중 신고점' 910달러 터치…천슬라 가나">테슬라 주가 '장중 신고점' 910달러 터치…천슬라 가나</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간사모펀드] 스틱인베스트먼트, PEF 최초 증시 입성…새 지평 열까]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000112132&amp;office_id=629&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211023&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000112132&amp;office_id=629&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211023&amp;page=1"/>
-        <updated>2021-10-22T16:09:57.784Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000112132&amp;office_id=629&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211023&amp;page=1" title="[주간사모펀드] 스틱인베스트먼트, PEF 최초 증시 입성…새 지평 열까">[주간사모펀드] 스틱인베스트먼트, PEF 최초 증시 입성…새 지평 열까</a>]]></content>
     </entry>
 </feed>

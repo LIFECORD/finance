@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-10-22T17:14:03.998Z</updated>
+    <updated>2021-10-22T18:06:51.046Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[유럽증시] 헝다 디폴트 모면에 일제히 상승]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012741625&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211023&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012741625&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211023&amp;page=1"/>
+        <updated>2021-10-22T18:05:10.961Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012741625&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211023&amp;page=1" title="[유럽증시] 헝다 디폴트 모면에 일제히 상승">[유럽증시] 헝다 디폴트 모면에 일제히 상승</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SAP, 3분기 매출 79.9억유로…예상 상회]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000992125&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211023&amp;page=1</id>
@@ -60,12 +67,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000992116&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211023&amp;page=1"/>
         <updated>2021-10-22T15:04:30.922Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000992116&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211023&amp;page=1" title="돈나무언니 &quot;美증시 2038년까지 호황&quot;...원동력은 이것">돈나무언니 "美증시 2038년까지 호황"...원동력은 이것</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베트남 기업들 "코로나 방역 자치권 달라" [KVINA]]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000992115&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211023&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000992115&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211023&amp;page=1"/>
-        <updated>2021-10-22T15:04:30.924Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000992115&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211023&amp;page=1" title="베트남 기업들 &quot;코로나 방역 자치권 달라&quot; [KVINA]">베트남 기업들 "코로나 방역 자치권 달라" [KVINA]</a>]]></content>
     </entry>
 </feed>
