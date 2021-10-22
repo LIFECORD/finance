@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=401</id>
     <title>네이버 금융 ─ 뉴스 ─ 시황·전망</title>
-    <updated>2021-10-22T13:16:56.269Z</updated>
+    <updated>2021-10-22T14:05:56.406Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정치권 '네카오 때리기' 심했나…동학개미 이달들어 '팔자']]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004868667&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211022&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004868667&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211022&amp;page=1"/>
+        <updated>2021-10-22T14:04:12.087Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004868667&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211022&amp;page=1" title="정치권 '네카오 때리기' 심했나…동학개미 이달들어 '팔자'">정치권 '네카오 때리기' 심했나…동학개미 이달들어 '팔자'</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[표]유가증권 코스닥 투자주체별 매매동향(10월 22일-최종치)]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003976511&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211022&amp;page=1</id>
@@ -46,12 +53,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004868589&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211022&amp;page=1"/>
         <updated>2021-10-22T09:04:15.537Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004868589&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211022&amp;page=1" title="[표] 주간 수익률 베스트&amp;워스트">[표] 주간 수익률 베스트&amp;워스트</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[금리상승기…외국인, 은행株 쓸어 담았다]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004868585&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211022&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004868585&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211022&amp;page=1"/>
-        <updated>2021-10-22T09:04:15.538Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004868585&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211022&amp;page=1" title="금리상승기…외국인, 은행株 쓸어 담았다">금리상승기…외국인, 은행株 쓸어 담았다</a>]]></content>
     </entry>
 </feed>
