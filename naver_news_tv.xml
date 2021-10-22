@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-10-22T08:08:24.653Z</updated>
+    <updated>2021-10-22T09:06:14.953Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코스피 3,006.16 코스닥 995.07]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0011142528&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211022&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011142528&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211022&amp;page=1"/>
+        <updated>2021-10-22T09:05:10.005Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[재택근무 줄이고, 출장 재개…기업도 '위드 코로나']]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000928792&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211022&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000928792&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211022&amp;page=1"/>
+        <updated>2021-10-22T09:05:10.006Z</updated>
+        <content type="html"><![CDATA[SBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[추가 대출규제 앞두고 수도권 아파트 매수심리 한풀 꺾여]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000510392&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211022&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000510392&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211022&amp;page=1"/>
+        <updated>2021-10-22T09:05:10.007Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정부, 유류세 인하 공식화…“LNG 할당관세율도 인하”]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0011142518&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211022&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011142518&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211022&amp;page=1"/>
+        <updated>2021-10-22T09:05:10.009Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[비즈&] LG전자, 3분기 글로벌 생활가전 세계 1위 지킬 듯 外]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000510390&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211022&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000510390&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211022&amp;page=1"/>
+        <updated>2021-10-22T09:05:10.010Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[그래픽뉴스] 유가 고공행진]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000510389&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211022&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000510389&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211022&amp;page=1"/>
+        <updated>2021-10-22T09:05:10.014Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[코스피 소폭 하락 마감‥포스코 2%대 약세]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001155454&amp;office_id=214&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211022&amp;page=1</id>
@@ -31,48 +73,6 @@
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001616013&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211022&amp;page=1</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001616013&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211022&amp;page=1"/>
         <updated>2021-10-22T08:07:14.875Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MBN 프레스룸] 윤석열 '사과' 후폭풍]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001616012&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211022&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001616012&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211022&amp;page=1"/>
-        <updated>2021-10-22T08:07:14.876Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MBN 프레스룸] 패밀리가 떴다]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001616009&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211022&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001616009&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211022&amp;page=1"/>
-        <updated>2021-10-22T08:07:14.877Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MBN 프레스룸] 성공 문턱까지]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001616008&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211022&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001616008&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211022&amp;page=1"/>
-        <updated>2021-10-22T08:07:14.878Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[경제토론] 넷플릭스, 유럽은 깐부 한국은 ‘봉’?…불붙은 ‘망 사용료’ 논란]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000261796&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211022&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000261796&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211022&amp;page=1"/>
-        <updated>2021-10-22T07:05:56.457Z</updated>
-        <content type="html"><![CDATA[SBS Biz]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[치열한 수급 공방…‘삼천피’ 간신히 사수한 코스피]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000261793&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211022&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000261793&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211022&amp;page=1"/>
-        <updated>2021-10-22T07:05:56.457Z</updated>
-        <content type="html"><![CDATA[SBS Biz]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MBN 프레스룸] 10월 22일 오늘의 큐시트]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001615993&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211022&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001615993&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211022&amp;page=1"/>
-        <updated>2021-10-22T07:05:56.458Z</updated>
         <content type="html"><![CDATA[MBN]]></content>
     </entry>
 </feed>
