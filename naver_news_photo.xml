@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-10-23T12:09:25.606Z</updated>
+    <updated>2021-10-23T13:13:57.752Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한신평 "SK E&S, 상환전환우선주 발행으로 재무지표 개선 전망"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004727734&amp;office_id=014&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211023&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004727734&amp;office_id=014&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211023&amp;page=1"/>
+        <updated>2021-10-23T13:12:38.702Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[테슬라, 3분기 사상 최대 실적 달성..."4분기 더 좋다"]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004987756&amp;office_id=277&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211023&amp;page=1</id>
@@ -66,13 +73,6 @@
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004727720&amp;office_id=014&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211023&amp;page=1</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004727720&amp;office_id=014&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211023&amp;page=1"/>
         <updated>2021-10-23T11:04:37.347Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[글로벌 위클리 ETF] 이번주 순유입액 1위 ETF는 'SPY']]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004727718&amp;office_id=014&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211023&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004727718&amp;office_id=014&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211023&amp;page=1"/>
-        <updated>2021-10-23T10:05:21.003Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스]]></content>
     </entry>
 </feed>
