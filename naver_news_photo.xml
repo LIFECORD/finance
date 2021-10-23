@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-10-23T07:06:13.981Z</updated>
+    <updated>2021-10-23T08:07:14.804Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["규제 이슈 정점 지났다"…증권가, '3분기 최대 실적' 네이버 "사라"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004660561&amp;office_id=008&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211023&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004660561&amp;office_id=008&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211023&amp;page=1"/>
+        <updated>2021-10-23T08:06:02.328Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[카카오페이, 공모가 9만원 확정…25일 일반공모 진행]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004727707&amp;office_id=014&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211023&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004727707&amp;office_id=014&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211023&amp;page=1"/>
+        <updated>2021-10-23T08:06:02.331Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['7만전자'에서 멈춘 삼성전자…1년 더?]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0010787362&amp;office_id=003&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211023&amp;page=1</id>
@@ -60,19 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000112148&amp;office_id=629&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211023&amp;page=1"/>
         <updated>2021-10-23T11:47:00.000Z</updated>
         <content type="html"><![CDATA[더팩트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[테슬라 주가 사상 최고치 경신...시총 1,000조원 달성했다]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003976583&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211023&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003976583&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211023&amp;page=1"/>
-        <updated>2021-10-23T11:40:00.000Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[위클리M&A]새우가 고래를 삼켰다?…쌍용차 인수한 에디슨모터스]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005067340&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211023&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005067340&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211023&amp;page=1"/>
-        <updated>2021-10-23T11:31:00.000Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
