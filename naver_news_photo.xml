@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-10-23T19:05:29.549Z</updated>
+    <updated>2021-10-23T20:06:05.637Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['다시 주식보다 코인?'…국내 가상자산 거래량, 코스피 앞질렀다]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001902972&amp;office_id=016&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211024&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001902972&amp;office_id=016&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211024&amp;page=1"/>
+        <updated>2021-10-24T05:02:00.000Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한신평 "SK E&S, 상환전환우선주 발행으로 재무지표 개선 전망"]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004727734&amp;office_id=014&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211024&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000992173&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211024&amp;page=1"/>
         <updated>2021-10-23T15:05:08.008Z</updated>
         <content type="html"><![CDATA[한국경제TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디어유, 상장 통해 '글로벌 커뮤니케이션 플랫폼' 도약]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004727720&amp;office_id=014&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211024&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004727720&amp;office_id=014&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211024&amp;page=1"/>
-        <updated>2021-10-23T15:05:08.013Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
     </entry>
 </feed>
