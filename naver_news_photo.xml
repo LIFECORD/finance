@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-10-23T04:06:55.112Z</updated>
+    <updated>2021-10-23T05:05:31.384Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[증권사, 셀트리온 목표주가 계속 내리는 이유는]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0010787301&amp;office_id=003&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211023&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0010787301&amp;office_id=003&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211023&amp;page=1"/>
+        <updated>2021-10-23T05:04:22.156Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[비트코in ETF]④서학개미, 가상화폐에 눈떴다]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000004381&amp;office_id=648&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211023&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000004381&amp;office_id=648&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211023&amp;page=1"/>
+        <updated>2021-10-23T05:04:22.158Z</updated>
+        <content type="html"><![CDATA[비즈니스워치]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주간 추천주] 리오프닝·실적주 관심…하나머티리얼즈·하이트진로]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000630432&amp;office_id=031&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211023&amp;page=1</id>
@@ -60,19 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005067329&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211023&amp;page=1"/>
         <updated>2021-10-23T11:01:00.000Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['디폴트 위기' 중국 헝다, 부동산 줄이고 전기차 중심 재편 계획]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0012741811&amp;office_id=001&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211023&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012741811&amp;office_id=001&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211023&amp;page=1"/>
-        <updated>2021-10-23T10:31:00.000Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코스피 다음주에도 박스권 갇힐 듯···위드코로나 기대감과 어닝 우려 공존[다..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003976567&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211023&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003976567&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211023&amp;page=1"/>
-        <updated>2021-10-23T10:03:00.000Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
