@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS2D&amp;section_id=101&amp;section_id2=258</id>
     <title>네이버 금융 ─ 뉴스 ─ 실시간 속보</title>
-    <updated>2021-10-23T08:07:14.803Z</updated>
+    <updated>2021-10-23T09:05:56.020Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[ECB, 완화된 통화정책 유지할까]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004987738&amp;office_id=277&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211023&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004987738&amp;office_id=277&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211023&amp;page=1"/>
+        <updated>2021-10-23T09:03:56.205Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004987738&amp;office_id=277&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211023&amp;page=1" title="ECB, 완화된 통화정책 유지할까">ECB, 완화된 통화정책 유지할까</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["규제 이슈 정점 지났다"…증권가, '3분기 최대 실적' 네이버 "사라"]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004660561&amp;office_id=008&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211023&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005067353&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211023&amp;page=1"/>
         <updated>2021-10-23T03:04:23.231Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005067353&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211023&amp;page=1" title="M&amp;A는 신용 측면에서 부정적이기만 할까">M&amp;A는 신용 측면에서 부정적이기만 할까</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["진짜 천슬라 되나" 테슬라 주가, '910달러' 육박…최고가 경신]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000112148&amp;office_id=629&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211023&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000112148&amp;office_id=629&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211023&amp;page=1"/>
-        <updated>2021-10-23T03:04:23.236Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000112148&amp;office_id=629&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211023&amp;page=1" title="&quot;진짜 천슬라 되나&quot; 테슬라 주가, '910달러' 육박…최고가 경신">"진짜 천슬라 되나" 테슬라 주가, '910달러' 육박…최고가 경신</a>]]></content>
     </entry>
 </feed>
