@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-10-23T13:13:57.783Z</updated>
+    <updated>2021-10-23T14:05:46.531Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[경기 이천서 AI 항원 나와...고병원성 여부 분석 중]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001656217&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211023&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001656217&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211023&amp;page=1"/>
+        <updated>2021-10-23T14:04:43.243Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스마트폰 '연말 대전' 후끈?...반도체 공급난에 "없어서 못 판다"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001656212&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211023&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001656212&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211023&amp;page=1"/>
+        <updated>2021-10-23T14:04:43.245Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['광풍 불장' 코인으로 이동?...부동산·주식 '주춤']]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001656211&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211023&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001656211&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211023&amp;page=1"/>
+        <updated>2021-10-23T14:04:43.246Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유류세 내린다는데...체감 효과 얼마나 될까]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001656209&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211023&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001656209&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211023&amp;page=1"/>
+        <updated>2021-10-23T14:04:43.247Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전국 주유소 휘발유 금주 45원 올라 ℓ당 1,732원...2014년 이후 최고]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001656206&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211023&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001656206&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211023&amp;page=1"/>
+        <updated>2021-10-23T14:04:43.249Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[다음 주 가계빚 대책…핵심은 ‘상환능력만큼 대출’]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0011142959&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211023&amp;page=1</id>
@@ -39,40 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000928982&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211023&amp;page=1"/>
         <updated>2021-10-23T12:08:22.204Z</updated>
         <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5억 들인 창원 '관광앱' 다운 2천 건…'혈세' 먹고 사라지는 공공앱]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001616206&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211023&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001616206&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211023&amp;page=1"/>
-        <updated>2021-10-23T12:08:22.206Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[완연한 가을 정취에 나들이객 북적…차량 정체도]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001616204&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211023&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001616204&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211023&amp;page=1"/>
-        <updated>2021-10-23T12:08:22.207Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[더스페셜리스트] 기름 없어 발 동동…'쇼티지' 언제까지?]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000928981&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211023&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000928981&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211023&amp;page=1"/>
-        <updated>2021-10-23T12:08:22.209Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['10도 이상' 커진 일교차에 독감·코로나 '트윈데믹' 우려]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001616201&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211023&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001616201&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211023&amp;page=1"/>
-        <updated>2021-10-23T12:08:22.212Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10월 한파에 채소 품귀에 가격 급등…양상추 사라진 햄버거]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001616200&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211023&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001616200&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211023&amp;page=1"/>
-        <updated>2021-10-23T12:08:22.213Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
     </entry>
 </feed>
