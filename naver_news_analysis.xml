@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=402</id>
     <title>네이버 금융 ─ 뉴스 ─ 기업 종목분석</title>
-    <updated>2021-10-24T18:06:43.205Z</updated>
+    <updated>2021-10-24T19:05:18.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[방산·항공에 '우주'까지…주가 고공비행 예열중인 '한화에어로']]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004660742&amp;office_id=008&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211025&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004660742&amp;office_id=008&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211025&amp;page=1"/>
+        <updated>2021-10-24T19:03:36.967Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004660742&amp;office_id=008&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211025&amp;page=1" title="방산·항공에 '우주'까지…주가 고공비행 예열중인 '한화에어로'">방산·항공에 '우주'까지…주가 고공비행 예열중인 '한화에어로'</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[돈 몰리는 친환경 원전, SMR株가 뜬다]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004619956&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211025&amp;page=1</id>
@@ -60,12 +67,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004727986&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211025&amp;page=1"/>
         <updated>2021-10-24T15:04:44.200Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004727986&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211025&amp;page=1" title="올해 최우수 학술공로상은 송문현 교수 [2021 한미재무학회 연차총회]">올해 최우수 학술공로상은 송문현 교수 [2021 한미재무학회 연차총회]</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["세계 불황 우려 확산… 한-미 반도체·배터리 공조가 돌파구" [2021 한미재무학회 연차..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004727985&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211025&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004727985&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211025&amp;page=1"/>
-        <updated>2021-10-24T15:04:44.201Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004727985&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211025&amp;page=1" title="&quot;세계 불황 우려 확산… 한-미 반도체·배터리 공조가 돌파구&quot; [2021 한미재무학회 연차총회]">"세계 불황 우려 확산… 한-미 반도체·배터리 공조가 돌파구" [2021 한미재무학회 연차..</a>]]></content>
     </entry>
 </feed>
