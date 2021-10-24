@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-10-24T01:53:24.832Z</updated>
+    <updated>2021-10-24T02:23:35.899Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴스초점] 코로나19 어제 1,423명 확진…접종 완료율 70.1%]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000510571&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211024&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000510571&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211024&amp;page=1"/>
+        <updated>2021-10-24T11:15:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신규확진 1,423명…"다음달 접종률 80%" 전망]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000510569&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211024&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000510569&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211024&amp;page=1"/>
+        <updated>2021-10-24T11:08:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정부, 다음 달 중순부터 유류세 15% 인하 검토]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000510566&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211024&amp;page=1</id>
@@ -59,20 +73,6 @@
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001656283&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211024&amp;page=1</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001656283&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211024&amp;page=1"/>
         <updated>2021-10-24T05:19:00.000Z</updated>
-        <content type="html"><![CDATA[YTN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경기 이천서 AI 항원 나와...고병원성 여부 분석 중]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001656217&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211024&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001656217&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211024&amp;page=1"/>
-        <updated>2021-10-23T15:05:15.807Z</updated>
-        <content type="html"><![CDATA[YTN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스마트폰 '연말 대전' 후끈?...반도체 공급난에 "없어서 못 판다"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001656212&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211024&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001656212&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211024&amp;page=1"/>
-        <updated>2021-10-23T15:05:15.808Z</updated>
         <content type="html"><![CDATA[YTN]]></content>
     </entry>
 </feed>
