@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=401</id>
     <title>네이버 금융 ─ 뉴스 ─ 시황·전망</title>
-    <updated>2021-10-24T15:06:42.163Z</updated>
+    <updated>2021-10-24T16:09:50.111Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[카카오페이 오늘부터 공모주 청약]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003145036&amp;office_id=025&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211025&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003145036&amp;office_id=025&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211025&amp;page=1"/>
+        <updated>2021-10-24T16:08:05.178Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003145036&amp;office_id=025&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211025&amp;page=1" title="카카오페이 오늘부터 공모주 청약">카카오페이 오늘부터 공모주 청약</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["히트송 하나 사서 연금처럼 받자"…음악저작권 사들이는 기업들]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004868986&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211025&amp;page=1</id>
@@ -46,12 +53,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004868958&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211025&amp;page=1"/>
         <updated>2021-10-24T15:04:37.454Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004868958&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211025&amp;page=1" title="코스피 주춤하자 동학개미 장외주식 기웃…전용앱도 봇물">코스피 주춤하자 동학개미 장외주식 기웃…전용앱도 봇물</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['삼수생' 카카오페이 공모 청약…내일 90만원 넣어? 말아?]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003144958&amp;office_id=025&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211025&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003144958&amp;office_id=025&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211025&amp;page=1"/>
-        <updated>2021-10-24T15:04:37.455Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003144958&amp;office_id=025&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211025&amp;page=1" title="'삼수생' 카카오페이 공모 청약…내일 90만원 넣어? 말아?">'삼수생' 카카오페이 공모 청약…내일 90만원 넣어? 말아?</a>]]></content>
     </entry>
 </feed>
