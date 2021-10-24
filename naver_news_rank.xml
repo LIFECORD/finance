@@ -2,23 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-10-24T17:12:36.276Z</updated>
+    <updated>2021-10-24T18:06:43.221Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[카카오페이, 오늘(25일)부터 공모주 청약…'오버행' 우려 딛고..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000112234&amp;office_id=629&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000112234&amp;office_id=629&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-24T16:08:40.644Z</updated>
-        <content type="html"><![CDATA[더팩트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국내 자본은 오징어게임 못 만듭니까…"죄송하지만 그렇습니다"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005068948&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005068948&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-24T16:08:40.647Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[카카오페이 오늘부터 공모주 청약]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003145036&amp;office_id=025&amp;mode=RANK&amp;typ=0</id>
@@ -34,10 +20,24 @@
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[코스닥 주간메모] 10월 25일(월) ~ 10월 27일(수)]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004619991&amp;office_id=015&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004619991&amp;office_id=015&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-25T01:35:00.000Z</updated>
+        <title type="html"><![CDATA[국내 자본은 오징어게임 못 만듭니까…"죄송하지만 그렇습니다"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005068948&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005068948&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-24T16:08:40.647Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[카카오페이, 오늘(25일)부터 공모주 청약…'오버행' 우려 딛고..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000112234&amp;office_id=629&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000112234&amp;office_id=629&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-24T16:08:40.644Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[유가증권 주간메모] 10월 25일(월) ~ 10월 27일(수)]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004619990&amp;office_id=015&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004619990&amp;office_id=015&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-25T01:34:00.000Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
     </entry>
     <entry>
@@ -48,10 +48,10 @@
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[유가증권 주간메모] 10월 25일(월) ~ 10월 27일(수)]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004619990&amp;office_id=015&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004619990&amp;office_id=015&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-25T01:34:00.000Z</updated>
+        <title type="html"><![CDATA[[코스닥 주간메모] 10월 25일(월) ~ 10월 27일(수)]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004619991&amp;office_id=015&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004619991&amp;office_id=015&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-25T01:35:00.000Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>

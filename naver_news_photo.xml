@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-10-24T17:12:36.274Z</updated>
+    <updated>2021-10-24T18:06:43.226Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주간 경제지표] 2021년 10월 22일자]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003648388&amp;office_id=023&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211025&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003648388&amp;office_id=023&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211025&amp;page=1"/>
+        <updated>2021-10-25T03:03:00.000Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코스피 대장주들 ‘휘청’… 톱10 주가, 연 최고점보다 22% 떨어져]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003389269&amp;office_id=020&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211025&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003389269&amp;office_id=020&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211025&amp;page=1"/>
+        <updated>2021-10-25T03:03:00.000Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박스권 장세 극약처방…자사주 매입 나선 상장사]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005068951&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211025&amp;page=1</id>
@@ -60,19 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003648337&amp;office_id=023&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211025&amp;page=1"/>
         <updated>2021-10-24T15:05:26.099Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[식약처 개별인정형 원료 덕에 국내 건기식 시장 ‘쑥쑥’]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004988024&amp;office_id=277&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211025&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004988024&amp;office_id=277&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211025&amp;page=1"/>
-        <updated>2021-10-24T15:05:26.101Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베트남, 기업들 올 3분기 사상 최대 분기 손실 [KVINA]]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000992244&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211025&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000992244&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211025&amp;page=1"/>
-        <updated>2021-10-24T15:05:26.102Z</updated>
-        <content type="html"><![CDATA[한국경제TV]]></content>
     </entry>
 </feed>
