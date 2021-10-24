@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-10-24T05:06:07.167Z</updated>
+    <updated>2021-10-24T06:07:17.969Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[청년 10명 중 8명 "정부, 재정 운영 잘못하고 있다"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000510597&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211024&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000510597&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211024&amp;page=1"/>
+        <updated>2021-10-24T06:06:15.708Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['효율성 제고' 버스 준공영제 도입 지침 배포]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000510594&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211024&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000279080&amp;office_id=437&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211024&amp;page=1"/>
         <updated>2021-10-24T00:09:00.000Z</updated>
         <content type="html"><![CDATA[JTBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴스초점] 코로나19 어제 1,423명 확진…접종 완료율 70.1%]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000510571&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211024&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000510571&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211024&amp;page=1"/>
-        <updated>2021-10-24T11:15:00.000Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
     </entry>
 </feed>
