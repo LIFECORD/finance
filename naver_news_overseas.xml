@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-10-24T11:05:25.948Z</updated>
+    <updated>2021-10-24T12:09:18.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[베트남, 기업들 올 3분기 사상 최대 분기 손실 [KVINA]]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000992244&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211024&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000992244&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211024&amp;page=1"/>
+        <updated>2021-10-24T12:07:39.787Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000992244&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211024&amp;page=1" title="베트남, 기업들 올 3분기 사상 최대 분기 손실 [KVINA]">베트남, 기업들 올 3분기 사상 최대 분기 손실 [KVINA]</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[금리 오르면 전통 금융주가 수혜?…온라인금융 패러다임 변화에 더 주목]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004619953&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211024&amp;page=1</id>
@@ -53,12 +60,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012742958&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211024&amp;page=1"/>
         <updated>2021-10-24T06:05:38.411Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012742958&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211024&amp;page=1" title="[그래픽] 코스피·코스닥 시가총액 변화">[그래픽] 코스피·코스닥 시가총액 변화</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[표]해외DR 가격(10월 22일)]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003976712&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211024&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003976712&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211024&amp;page=1"/>
-        <updated>2021-10-24T06:05:38.416Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003976712&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211024&amp;page=1" title="[표]해외DR 가격(10월 22일)">[표]해외DR 가격(10월 22일)</a>]]></content>
     </entry>
 </feed>
