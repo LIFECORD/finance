@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-10-24T20:06:22.834Z</updated>
+    <updated>2021-10-24T21:05:27.241Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘 방역전환 이행계획 초안 공개…오는 29일 최종발표]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000510648&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211025&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000510648&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211025&amp;page=1"/>
+        <updated>2021-10-25T05:34:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기러기 아빠는 웁니다..."10원만 올라도 무서워요"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001656521&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211025&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001656521&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211025&amp;page=1"/>
+        <updated>2021-10-25T05:00:00.000Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['코로나·환율·유가' 줄줄이 악재...'3중고' 맞은 기업]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001656520&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211025&amp;page=1</id>
@@ -60,19 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000929113&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211025&amp;page=1"/>
         <updated>2021-10-24T15:05:33.416Z</updated>
         <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[종합뉴스]10월 24일 MBN 종합뉴스 클로징]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001616374&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211025&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001616374&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211025&amp;page=1"/>
-        <updated>2021-10-24T15:05:33.418Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[종합뉴스 날씨]내일 맑고 일교차 커…오전까지 내륙 짙은 안개 주의]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001616373&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211025&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001616373&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211025&amp;page=1"/>
-        <updated>2021-10-24T15:05:33.418Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
     </entry>
 </feed>
