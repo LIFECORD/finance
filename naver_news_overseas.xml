@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-10-24T03:06:32.432Z</updated>
+    <updated>2021-10-24T04:07:27.269Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[中 부동산 보유세 도입 본격화…전인대 ‘부동산세 시범 도입’ 결정]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004619821&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211024&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004619821&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211024&amp;page=1"/>
+        <updated>2021-10-24T04:05:42.652Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004619821&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211024&amp;page=1" title="中 부동산 보유세 도입 본격화…전인대 ‘부동산세 시범 도입’ 결정">中 부동산 보유세 도입 본격화…전인대 ‘부동산세 시범 도입’ 결정</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[증시 시가총액 5년새 1천100조원 불어나]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0012742241&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211024&amp;page=1</id>
@@ -60,12 +67,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003976583&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211024&amp;page=1"/>
         <updated>2021-10-23T15:04:29.709Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003976583&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211024&amp;page=1" title="테슬라 주가 사상 최고치 경신...시총 1,000조원 달성했다">테슬라 주가 사상 최고치 경신...시총 1,000조원 달성했다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['디폴트 위기' 중국 헝다, 부동산 줄이고 전기차 중심 재편 계획]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0012741811&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211024&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012741811&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211024&amp;page=1"/>
-        <updated>2021-10-23T15:04:29.712Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012741811&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211024&amp;page=1" title="'디폴트 위기' 중국 헝다, 부동산 줄이고 전기차 중심 재편 계획">'디폴트 위기' 중국 헝다, 부동산 줄이고 전기차 중심 재편 계획</a>]]></content>
     </entry>
 </feed>
