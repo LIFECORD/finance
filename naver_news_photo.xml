@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-10-24T04:07:27.243Z</updated>
+    <updated>2021-10-24T05:06:07.166Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[하반기 공모주 최대어 카카오페이 내일부터 청약]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003648295&amp;office_id=023&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211024&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003648295&amp;office_id=023&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211024&amp;page=1"/>
+        <updated>2021-10-24T05:04:59.038Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["100억 넣어도 소용없다"···카카오페이 내일부터 청약]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003976706&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211024&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003976706&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211024&amp;page=1"/>
+        <updated>2021-10-24T05:04:59.040Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[곳간 비었는데 돈풀기... 브라질 증시, 한 주새 7.3% 하락]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003648290&amp;office_id=023&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211024&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003648290&amp;office_id=023&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211024&amp;page=1"/>
+        <updated>2021-10-24T05:04:59.041Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국내주식 주춤한 사이에…5억원 이상 투자 '슈퍼 서학개미' 60% 늘었다]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004868852&amp;office_id=009&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211024&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004868852&amp;office_id=009&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211024&amp;page=1"/>
+        <updated>2021-10-24T05:04:59.042Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[일반청약 '카카오페이', 갈리는 주가 전망]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004987918&amp;office_id=277&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211024&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004987918&amp;office_id=277&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211024&amp;page=1"/>
+        <updated>2021-10-24T05:04:59.050Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['김빠지는' 실적 시즌…기대치는 낮춰야]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000004389&amp;office_id=648&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211024&amp;page=1</id>
@@ -39,40 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000017568&amp;office_id=243&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211024&amp;page=1"/>
         <updated>2021-10-24T00:22:00.000Z</updated>
         <content type="html"><![CDATA[이코노미스트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["넷플릭스, 콘텐츠 경쟁력 강화로 높아진 성장 기대감"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004987888&amp;office_id=277&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211024&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004987888&amp;office_id=277&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211024&amp;page=1"/>
-        <updated>2021-10-24T00:12:00.000Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中 부동산 보유세 도입 본격화…전인대 ‘부동산세 시범 도입’ 결정]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004619821&amp;office_id=015&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211024&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004619821&amp;office_id=015&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211024&amp;page=1"/>
-        <updated>2021-10-24T00:08:00.000Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["오입금한 코인 최고가의 70% 보상해달라"...난감한 업비트]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0002977195&amp;office_id=030&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211024&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0002977195&amp;office_id=030&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211024&amp;page=1"/>
-        <updated>2021-10-24T00:02:00.000Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“경기 둔화, 물가 상승 지속…스태그플레이션 우려는 과도”]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001903057&amp;office_id=016&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211024&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001903057&amp;office_id=016&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211024&amp;page=1"/>
-        <updated>2021-10-24T00:02:00.000Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[상장기업분석]다날, '페이코인' 상승기류 타고 종합 간편결제 사업자 박차]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0002977189&amp;office_id=030&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211024&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0002977189&amp;office_id=030&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211024&amp;page=1"/>
-        <updated>2021-10-24T00:02:00.000Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
     </entry>
 </feed>
