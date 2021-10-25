@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=402</id>
     <title>네이버 금융 ─ 뉴스 ─ 기업 종목분석</title>
-    <updated>2021-10-25T12:10:40.566Z</updated>
+    <updated>2021-10-25T13:15:53.784Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[카카오페이, 청약 첫날 증거금 1조5000억 몰려…경쟁률 7.91대 1]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004620450&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211025&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004620450&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211025&amp;page=1"/>
+        <updated>2021-10-25T13:14:04.037Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004620450&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211025&amp;page=1" title="카카오페이, 청약 첫날 증거금 1조5000억 몰려…경쟁률 7.91대 1">카카오페이, 청약 첫날 증거금 1조5000억 몰려…경쟁률 7.91대 1</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[디앤디파마텍 등 3개사, 코스닥 상장예비심사 청구]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004728712&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211025&amp;page=1</id>
@@ -46,12 +53,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004728675&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211025&amp;page=1"/>
         <updated>2021-10-25T10:05:16.643Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004728675&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211025&amp;page=1" title="연말 쇼핑시즌 온다… ‘월마트·타겟’ 기대, 화장품 펀더멘털 개선… ‘에스티로더' 추천">연말 쇼핑시즌 온다… ‘월마트·타겟’ 기대, 화장품 펀더멘털 개선… ‘에스티로더' 추천</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美 빅테크 3분기 호실적 예고… 기술주 기지개 켜나]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004728674&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211025&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004728674&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211025&amp;page=1"/>
-        <updated>2021-10-25T10:05:16.645Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004728674&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211025&amp;page=1" title="美 빅테크 3분기 호실적 예고… 기술주 기지개 켜나">美 빅테크 3분기 호실적 예고… 기술주 기지개 켜나</a>]]></content>
     </entry>
 </feed>

@@ -2,11 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-10-25T12:10:40.588Z</updated>
+    <updated>2021-10-25T13:15:53.815Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[허츠, 테슬라 전기차 10만대 주문…5조원 규모]]></title>
+        <title type="html"><![CDATA[렌터카기업 허츠, 내년까지 테슬라 전기차 10만대 주문...42억달러 규모]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000992547&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211025&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000992547&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211025&amp;page=1"/>
+        <updated>2021-10-25T13:14:45.769Z</updated>
+        <content type="html"><![CDATA[한국경제TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[카카오페이, 청약 첫날 증거금 1조5000억 몰려…경쟁률 7.91대 1]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004620450&amp;office_id=015&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211025&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004620450&amp;office_id=015&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211025&amp;page=1"/>
+        <updated>2021-10-25T13:14:45.770Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[렌터카 업계에 부는 전기차 바람…美허츠, 테슬라 10만대 주문]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005069831&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211025&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005069831&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211025&amp;page=1"/>
+        <updated>2021-10-25T13:14:45.771Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시티그룹, 크루즈업체 카니발 투자의견 매수→중립..."성장세 둔화"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000992545&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211025&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000992545&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211025&amp;page=1"/>
+        <updated>2021-10-25T13:14:45.773Z</updated>
+        <content type="html"><![CDATA[한국경제TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[허츠, 테슬라 전기차 10만대 주문…사상 최대 5조원 규모]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004620448&amp;office_id=015&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211025&amp;page=1</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004620448&amp;office_id=015&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211025&amp;page=1"/>
         <updated>2021-10-25T12:09:33.638Z</updated>
@@ -46,33 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004869515&amp;office_id=009&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211025&amp;page=1"/>
         <updated>2021-10-25T11:04:13.325Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디앤디파마텍 등 3개사, 코스닥 상장예비심사 청구]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004728712&amp;office_id=014&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211025&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004728712&amp;office_id=014&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211025&amp;page=1"/>
-        <updated>2021-10-25T11:04:13.329Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[위메이드, 블록체인 사업 자회사 위메이드트리 흡수합병]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004869513&amp;office_id=009&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211025&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004869513&amp;office_id=009&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211025&amp;page=1"/>
-        <updated>2021-10-25T11:04:13.329Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올 마지막 IPO 대어 카카오페이, 청약 첫날 1조5000억 몰려]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0002702618&amp;office_id=029&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211025&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0002702618&amp;office_id=029&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211025&amp;page=1"/>
-        <updated>2021-10-25T11:04:13.330Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기업공개 카카오페이 "국민 생활금융 플랫폼으로 성장할 것"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0002702617&amp;office_id=029&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211025&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0002702617&amp;office_id=029&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211025&amp;page=1"/>
-        <updated>2021-10-25T11:04:13.331Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
 </feed>
