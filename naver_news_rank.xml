@@ -2,21 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-10-25T07:07:35.242Z</updated>
+    <updated>2021-10-25T08:09:39.315Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[특징주] 일진홀딩스, 美최초 루프스 치료제 개발사 '오리니아'..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004988470&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004988470&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-25T07:06:16.660Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[특징주] KT, 인터넷 '먹통' 되자 장중 하락 반전]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0012745218&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012745218&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-25T06:08:17.917Z</updated>
+        <title type="html"><![CDATA[[특징주] '지리산' 제작사 에이스토리 20% 급락]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012745615&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012745615&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-25T08:08:25.056Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
@@ -34,11 +27,25 @@
         <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[특징주] 일진홀딩스, 美최초 루프스 치료제 개발사 '오리니아'..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004988470&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004988470&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-25T07:06:16.660Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[美 테이퍼링 초읽기...전문가 “코스피 변동성 확대 우려”]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0002541162&amp;office_id=119&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0002541162&amp;office_id=119&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-25T05:01:00.000Z</updated>
         <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주] KT, 인터넷 '먹통' 되자 장중 하락 반전]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012745218&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012745218&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-25T06:08:17.917Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[카카오페이, 오늘(25일)부터 공모주 청약…'오버행' 우려 딛고..]]></title>
@@ -172,12 +179,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005677306&amp;office_id=421&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-25T06:35:00.000Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방산·항공에 '우주'까지…주가 고공비행 예열중인 '한화에어로']]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004660742&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004660742&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-25T04:00:00.000Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
