@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-10-25T19:05:03.794Z</updated>
+    <updated>2021-10-25T20:06:51.745Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[속보]테슬라 주가 신고점 경신…뉴욕증시 일제히 강세]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005069871&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211026&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005069871&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211026&amp;page=1"/>
+        <updated>2021-10-25T20:05:10.072Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005069871&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211026&amp;page=1" title="[속보]테슬라 주가 신고점 경신…뉴욕증시 일제히 강세">[속보]테슬라 주가 신고점 경신…뉴욕증시 일제히 강세</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['천슬라' 현실로…테슬라 주가 장중 첫 1000달러 돌파(상보)]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005069860&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211026&amp;page=1</id>
@@ -60,19 +67,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000992556&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211026&amp;page=1"/>
         <updated>2021-10-25T16:09:53.168Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000992556&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211026&amp;page=1" title="지난주 금값 인플레 우려에 오름세...온스당 1,800달러선 회복">지난주 금값 인플레 우려에 오름세...온스당 1,800달러선 회복</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[페이팔, 핀터레스트 인수설 일축…주가도 출렁]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000992554&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211026&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000992554&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211026&amp;page=1"/>
-        <updated>2021-10-25T16:09:53.170Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000992554&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211026&amp;page=1" title="페이팔, 핀터레스트 인수설 일축…주가도 출렁">페이팔, 핀터레스트 인수설 일축…주가도 출렁</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['천슬라' 고지 보인다…테슬라 페북 제치고 시총 6위 점프(종합)]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005069846&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211026&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005069846&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211026&amp;page=1"/>
-        <updated>2021-10-25T15:03:49.005Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005069846&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211026&amp;page=1" title="'천슬라' 고지 보인다…테슬라 페북 제치고 시총 6위 점프(종합)">'천슬라' 고지 보인다…테슬라 페북 제치고 시총 6위 점프(종합)</a>]]></content>
     </entry>
 </feed>
