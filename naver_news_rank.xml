@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-10-25T18:06:57.623Z</updated>
+    <updated>2021-10-25T19:05:03.816Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -13,11 +13,18 @@
         <content type="html"><![CDATA[파이낸셜뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[전자 담배 시장 성장세…이랜텍·이엠텍 ‘好好’]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005069847&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005069847&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-25T16:10:19.916Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
+        <title type="html"><![CDATA[베트남, 2025년까지 민간기업 150만개 운영 [KVINA]]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000992558&amp;office_id=215&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000992558&amp;office_id=215&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-25T16:10:19.921Z</updated>
+        <content type="html"><![CDATA[한국경제TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[페이팔, 핀터레스트 인수설 일축…주가도 출렁]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000992554&amp;office_id=215&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000992554&amp;office_id=215&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-25T16:10:19.918Z</updated>
+        <content type="html"><![CDATA[한국경제TV]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[베트남, 전자산업 수출 목표액 상향…전년 920억달러→1천억달러..]]></title>
@@ -27,16 +34,23 @@
         <content type="html"><![CDATA[한국경제TV]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[마켓인]국내 투자사, 가상자산 '주춤'에도 관련 기업 투자 속..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005069854&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005069854&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-26T01:31:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전자 담배 시장 성장세…이랜텍·이엠텍 ‘好好’]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005069847&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005069847&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-25T16:10:19.916Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[지난주 금값 인플레 우려에 오름세...온스당 1,800달러선 회..]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000992556&amp;office_id=215&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000992556&amp;office_id=215&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-25T16:10:19.921Z</updated>
-        <content type="html"><![CDATA[한국경제TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베트남, 2025년까지 민간기업 150만개 운영 [KVINA]]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000992558&amp;office_id=215&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000992558&amp;office_id=215&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-25T16:10:19.921Z</updated>
         <content type="html"><![CDATA[한국경제TV]]></content>
     </entry>
@@ -55,20 +69,6 @@
         <content type="html"><![CDATA[더팩트]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[페이팔, 핀터레스트 인수설 일축…주가도 출렁]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000992554&amp;office_id=215&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000992554&amp;office_id=215&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-25T16:10:19.918Z</updated>
-        <content type="html"><![CDATA[한국경제TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[마켓인]국내 투자사, 가상자산 '주춤'에도 관련 기업 투자 속..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005069854&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005069854&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-26T01:31:00.000Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[유럽증시] ECB 통화정책 회의 주시 속 혼조세]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0012746286&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012746286&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
@@ -76,10 +76,66 @@
         <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[한샘 품은 롯데 이어 SK도 지누스 인수 추진…어떤 시너지 있나]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005069855&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005069855&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-26T03:01:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[테슬라, 장중 시가총액 1조 달러 돌파…'천슬라' 향해 질주]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0012746288&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012746288&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-26T02:45:00.000Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[카카오페이 공모 첫날 60만명 신청… “조달자금 보험-투자 서비..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003389518&amp;office_id=020&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003389518&amp;office_id=020&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-26T03:02:00.000Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주요경제지표] 2021년 10월 25일자]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003648610&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003648610&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-26T03:02:00.000Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주식 매매 상위 종목 및 환율] 2021년 10월 25일자]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003648607&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003648607&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-26T03:02:00.000Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[속보]테슬라, 장중 첫 주가 1000달러 돌파]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005069857&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005069857&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-26T03:12:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[속보]테슬라, 장중 첫 시가총액 1조달러 돌파]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005069858&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005069858&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-26T03:22:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['천슬라' 현실로…테슬라 주가 장중 첫 1000달러 돌파(상보)]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005069860&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005069860&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-26T03:33:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[부꾸미]'테슬라 주가 족집게' 인공지능 ETF가 초과 수익 내..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004661359&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004661359&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-26T03:30:00.000Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
