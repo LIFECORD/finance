@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=429</id>
     <title>네이버 금융 ─ 뉴스 ─ 환율</title>
-    <updated>2021-10-25T00:21:06.100Z</updated>
+    <updated>2021-10-25T01:54:23.079Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[원/달러 환율, 상승 출발…1,177원대 안팎서 등락]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012743908&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211025&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012743908&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211025&amp;page=1"/>
+        <updated>2021-10-25T01:53:00.423Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012743908&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211025&amp;page=1" title="원/달러 환율, 상승 출발…1,177원대 안팎서 등락">원/달러 환율, 상승 출발…1,177원대 안팎서 등락</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[파월 "인플레 내년까지 지속…계속 오르면 수단 동원할 것"(종합)]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0012741659&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211025&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012735624&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211025&amp;page=1"/>
         <updated>2021-10-24T15:05:11.672Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012735624&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211025&amp;page=1" title="원/달러 환율, 4.5원 하락한 1,174.2원 마감">원/달러 환율, 4.5원 하락한 1,174.2원 마감</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3년물 금리 장중 연 1.9% 넘어…어디까지 오르나]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0012734988&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211025&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012734988&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211025&amp;page=1"/>
-        <updated>2021-10-24T15:05:11.675Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012734988&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211025&amp;page=1" title="3년물 금리 장중 연 1.9% 넘어…어디까지 오르나">3년물 금리 장중 연 1.9% 넘어…어디까지 오르나</a>]]></content>
     </entry>
 </feed>
