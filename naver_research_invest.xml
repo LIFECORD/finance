@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/research/invest_list.naver</id>
     <title>네이버 금융 ─ 리서치 ─ 투자정보 리포트</title>
-    <updated>2021-10-25T01:54:23.105Z</updated>
+    <updated>2021-10-25T02:34:44.904Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/research/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미래에셋증권 Daily 종합]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/invest/1635127138904.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/invest/1635127138904.pdf"/>
+        <updated>2021-10-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[미래에셋증권]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022년을 생각하며(2): 새로운 스타일 전략]]></title>
         <id>https://ssl.pstatic.net/imgstock/upload/research/invest/1635126704760.pdf</id>
@@ -205,13 +212,6 @@
         <title type="html"><![CDATA[Global Issue & News]]></title>
         <id>https://ssl.pstatic.net/imgstock/upload/research/invest/1634523141844.pdf</id>
         <link href="https://ssl.pstatic.net/imgstock/upload/research/invest/1634523141844.pdf"/>
-        <updated>2021-10-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[하나금융투자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[헝다그룹과 부동산 리스크에 인민은행이 답하다]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/invest/1634523078403.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/invest/1634523078403.pdf"/>
         <updated>2021-10-18T00:00:00.000Z</updated>
         <content type="html"><![CDATA[하나금융투자]]></content>
     </entry>

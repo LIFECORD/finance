@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-10-25T01:54:23.078Z</updated>
+    <updated>2021-10-25T02:34:44.923Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코스피, 3000선 등락…‘위드코로나’ 여행·항공주 강세]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000261964&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211025&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000261964&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211025&amp;page=1"/>
+        <updated>2021-10-25T11:32:00.000Z</updated>
+        <content type="html"><![CDATA[SBS Biz]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[문 대통령, 마지막 시정연설…“내년도 확장 재정”]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000261963&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211025&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000261963&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211025&amp;page=1"/>
+        <updated>2021-10-25T11:31:00.000Z</updated>
+        <content type="html"><![CDATA[SBS Biz]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[자막뉴스] "매물 잠김만 늘었다"...양도세 중과에 국민은 '싸늘']]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001656628&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211025&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001656628&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211025&amp;page=1"/>
+        <updated>2021-10-25T11:06:00.000Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오늘부터 수도권 2차 사전청약 접수 시작]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000510702&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211025&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000510702&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211025&amp;page=1"/>
+        <updated>2021-10-25T11:04:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[자막있슈] 내년부터 가상화폐 '세금 부과'…거래소 '난색' 이유는?]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000929175&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211025&amp;page=1</id>
@@ -46,33 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001616446&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211025&amp;page=1"/>
         <updated>2021-10-25T09:46:00.000Z</updated>
         <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열 "어떤 분은 가족이 후원회장"…홍준표 "소환 대기 중보다 나아"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001616445&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211025&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001616445&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211025&amp;page=1"/>
-        <updated>2021-10-25T09:44:00.000Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[친절한 경제] 비용이 되는 '탄소'…'제조업 중심' 한국, 어쩌나?]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000929165&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211025&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000929165&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211025&amp;page=1"/>
-        <updated>2021-10-25T09:34:00.000Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이진우의 주간증시] 실적랠리 美증시…국내증시가 못 따라가는 이유?]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000261936&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211025&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000261936&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211025&amp;page=1"/>
-        <updated>2021-10-25T09:34:00.000Z</updated>
-        <content type="html"><![CDATA[SBS Biz]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘부터 3기 신도시 등 2차 사전 청약 접수…“10,102호 공급”]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0011143403&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211025&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011143403&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211025&amp;page=1"/>
-        <updated>2021-10-25T09:21:00.000Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
