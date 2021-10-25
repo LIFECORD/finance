@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=401</id>
     <title>네이버 금융 ─ 뉴스 ─ 시황·전망</title>
-    <updated>2021-10-25T03:06:48.105Z</updated>
+    <updated>2021-10-25T04:07:37.525Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[포스코, 3Q 영업익 3조 1,200억...전년比 365.67% ↑]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003977032&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211025&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003977032&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211025&amp;page=1"/>
+        <updated>2021-10-25T04:05:40.701Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003977032&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211025&amp;page=1" title="포스코, 3Q 영업익 3조 1,200억...전년比 365.67% ↑">포스코, 3Q 영업익 3조 1,200억...전년比 365.67% ↑</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[카카오페이 일반청약 시작…눈치보기 속 문의(종합)]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0012744647&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211025&amp;page=1</id>
@@ -60,19 +67,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005069246&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211025&amp;page=1"/>
         <updated>2021-10-25T01:52:26.851Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005069246&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211025&amp;page=1" title="코스피, 외국인 자금 유입에 다시 '3000대' 회복">코스피, 외국인 자금 유입에 다시 '3000대' 회복</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HMM CB 중도상환 결정에도…주가는 업황 부진 우려에 시큰둥]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001903331&amp;office_id=016&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211025&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001903331&amp;office_id=016&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211025&amp;page=1"/>
-        <updated>2021-10-25T01:52:26.855Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0001903331&amp;office_id=016&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211025&amp;page=1" title="HMM CB 중도상환 결정에도…주가는 업황 부진 우려에 시큰둥">HMM CB 중도상환 결정에도…주가는 업황 부진 우려에 시큰둥</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[게시판] 유안타증권, 전문가 전용 파생결합증권 공모]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0012744182&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211025&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012744182&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211025&amp;page=1"/>
-        <updated>2021-10-25T01:52:26.856Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012744182&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211025&amp;page=1" title="[게시판] 유안타증권, 전문가 전용 파생결합증권 공모">[게시판] 유안타증권, 전문가 전용 파생결합증권 공모</a>]]></content>
     </entry>
 </feed>
