@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-10-25T17:14:51.423Z</updated>
+    <updated>2021-10-25T18:06:57.636Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[유럽증시] ECB 통화정책 회의 주시 속 혼조세]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012746286&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211026&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012746286&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211026&amp;page=1"/>
+        <updated>2021-10-25T18:04:58.743Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012746286&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211026&amp;page=1" title="[유럽증시] ECB 통화정책 회의 주시 속 혼조세">[유럽증시] ECB 통화정책 회의 주시 속 혼조세</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[베트남, 전자산업 수출 목표액 상향…전년 920억달러→1천억달러 [KVINA]]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000992559&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211026&amp;page=1</id>
@@ -60,12 +67,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005069839&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211026&amp;page=1"/>
         <updated>2021-10-25T15:03:49.005Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005069839&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211026&amp;page=1" title="'실적의 힘' 테슬라 주가 폭등…'천슬라' 고지 보인다">'실적의 힘' 테슬라 주가 폭등…'천슬라' 고지 보인다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[렌터카기업 허츠, 내년까지 테슬라 전기차 10만대 주문...42억달러 규모]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000992547&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211026&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000992547&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211026&amp;page=1"/>
-        <updated>2021-10-25T15:03:49.007Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000992547&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211026&amp;page=1" title="렌터카기업 허츠, 내년까지 테슬라 전기차 10만대 주문...42억달러 규모">렌터카기업 허츠, 내년까지 테슬라 전기차 10만대 주문...42억달러 규모</a>]]></content>
     </entry>
 </feed>
