@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=429</id>
     <title>네이버 금융 ─ 뉴스 ─ 환율</title>
-    <updated>2021-10-25T05:07:03.065Z</updated>
+    <updated>2021-10-25T06:09:35.633Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2030년까지 메탄 배출도 30% 감축]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003977094&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211025&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003977094&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211025&amp;page=1"/>
+        <updated>2021-10-25T06:08:11.272Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003977094&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211025&amp;page=1" title="2030년까지 메탄 배출도 30% 감축">2030년까지 메탄 배출도 30% 감축</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[부여군 굿뜨래페이에 출향인사 참여 기능 탑재한다]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0012744623&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211025&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012738584&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211025&amp;page=1"/>
         <updated>2021-10-24T15:05:11.670Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012738584&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211025&amp;page=1" title="원/달러 환율, 헝다 디폴트 우려에 상승…1,177.2원 마감">원/달러 환율, 헝다 디폴트 우려에 상승…1,177.2원 마감</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전 세계 치솟는 '금리'…어디까지 오르나(종합)]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0012736032&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211025&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012736032&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211025&amp;page=1"/>
-        <updated>2021-10-24T15:05:11.671Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012736032&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211025&amp;page=1" title="전 세계 치솟는 '금리'…어디까지 오르나(종합)">전 세계 치솟는 '금리'…어디까지 오르나(종합)</a>]]></content>
     </entry>
 </feed>

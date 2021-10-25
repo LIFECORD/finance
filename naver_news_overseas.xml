@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-10-25T05:07:03.054Z</updated>
+    <updated>2021-10-25T06:09:35.613Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[트위터 창업자 "초인플레 올 것" vs 옐런 美장관 "내년에 사그라들 것"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004869263&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211025&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004869263&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211025&amp;page=1"/>
+        <updated>2021-10-25T06:07:51.120Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004869263&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211025&amp;page=1" title="트위터 창업자 &quot;초인플레 올 것&quot; vs 옐런 美장관 &quot;내년에 사그라들 것&quot;">트위터 창업자 "초인플레 올 것" vs 옐런 美장관 "내년에 사그라들 것"</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[생필품값, 인플레 우려에 줄인상…"물가 인상 내년까지 지속"]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000992376&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211025&amp;page=1</id>
@@ -46,12 +53,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012743985&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211025&amp;page=1"/>
         <updated>2021-10-25T01:52:40.308Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012743985&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211025&amp;page=1" title="'신념 vs 수익'…에너지주 급등세에 친환경 투자자 고심">'신념 vs 수익'…에너지주 급등세에 친환경 투자자 고심</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국내증시 부진…환율, 1170원대 강보합 출발]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005069088&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211025&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005069088&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211025&amp;page=1"/>
-        <updated>2021-10-25T00:19:15.927Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005069088&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211025&amp;page=1" title="국내증시 부진…환율, 1170원대 강보합 출발">국내증시 부진…환율, 1170원대 강보합 출발</a>]]></content>
     </entry>
 </feed>
