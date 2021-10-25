@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-10-25T16:11:29.401Z</updated>
+    <updated>2021-10-25T17:14:51.430Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -20,13 +20,6 @@
         <content type="html"><![CDATA[더팩트]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[페이팔, 핀터레스트 인수설 일축…주가도 출렁]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000992554&amp;office_id=215&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000992554&amp;office_id=215&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-25T16:10:19.918Z</updated>
-        <content type="html"><![CDATA[한국경제TV]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[MS "러시아 해킹그룹, 글로벌 IT 공급망 노린다"]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000992557&amp;office_id=215&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000992557&amp;office_id=215&amp;mode=RANK&amp;typ=0"/>
@@ -38,6 +31,13 @@
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000992556&amp;office_id=215&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000992556&amp;office_id=215&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-25T16:10:19.921Z</updated>
+        <content type="html"><![CDATA[한국경제TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[페이팔, 핀터레스트 인수설 일축…주가도 출렁]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000992554&amp;office_id=215&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000992554&amp;office_id=215&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-25T16:10:19.918Z</updated>
         <content type="html"><![CDATA[한국경제TV]]></content>
     </entry>
     <entry>
@@ -53,5 +53,19 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000992559&amp;office_id=215&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-25T16:10:19.923Z</updated>
         <content type="html"><![CDATA[한국경제TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독]중흥-KDB-대우노조 ‘3자 회동’, M&A 본격화]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004728736&amp;office_id=014&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004728736&amp;office_id=014&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-26T01:01:00.000Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[마켓인]국내 투자사, 가상자산 '주춤'에도 관련 기업 투자 속..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005069854&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005069854&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-26T01:31:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>

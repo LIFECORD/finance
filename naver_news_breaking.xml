@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS2D&amp;section_id=101&amp;section_id2=258</id>
     <title>네이버 금융 ─ 뉴스 ─ 실시간 속보</title>
-    <updated>2021-10-25T16:11:29.371Z</updated>
+    <updated>2021-10-25T17:14:51.422Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[마켓인]국내 투자사, 가상자산 '주춤'에도 관련 기업 투자 속속]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005069854&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211026&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005069854&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211026&amp;page=1"/>
+        <updated>2021-10-25T17:12:36.408Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005069854&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211026&amp;page=1" title="[마켓인]국내 투자사, 가상자산 '주춤'에도 관련 기업 투자 속속">[마켓인]국내 투자사, 가상자산 '주춤'에도 관련 기업 투자 속속</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독]중흥-KDB-대우노조 ‘3자 회동’, M&A 본격화]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004728736&amp;office_id=014&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211026&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004661352&amp;office_id=008&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211026&amp;page=1"/>
         <updated>2021-10-25T15:03:22.785Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004661352&amp;office_id=008&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211026&amp;page=1" title="'지리산' CG 혹평에 실적도 부진 우려…스튜디오드래곤 주가↓">'지리산' CG 혹평에 실적도 부진 우려…스튜디오드래곤 주가↓</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2018년 화재 잊었나…허술한 망 관리에 KT 비판 봇물]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001616655&amp;office_id=057&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211026&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001616655&amp;office_id=057&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211026&amp;page=1"/>
-        <updated>2021-10-25T15:03:22.785Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0001616655&amp;office_id=057&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211026&amp;page=1" title="2018년 화재 잊었나…허술한 망 관리에 KT 비판 봇물">2018년 화재 잊었나…허술한 망 관리에 KT 비판 봇물</a>]]></content>
     </entry>
 </feed>
