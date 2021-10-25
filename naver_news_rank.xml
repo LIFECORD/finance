@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-10-25T09:06:55.022Z</updated>
+    <updated>2021-10-25T10:07:20.094Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -97,6 +97,13 @@
         <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[서학 개미 ‘아뿔싸!’···다시 천슬라 육박하는 테슬라]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003648545&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003648545&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-25T10:05:54.661Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[900달러 넘긴 테슬라 주가…‘천슬라’ 안착할까]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000017586&amp;office_id=243&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000017586&amp;office_id=243&amp;mode=RANK&amp;typ=0"/>
@@ -146,6 +153,13 @@
         <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[서부T&D, 종속회사 1349억원 일반공모 유상증자 결정]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005069771&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005069771&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-25T10:05:54.673Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[주간 경제지표] 2021년 10월 22일자]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003648388&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003648388&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
@@ -165,19 +179,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000747010&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-25T05:05:43.543Z</updated>
         <content type="html"><![CDATA[머니S]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조선株, 잇단 수주 낭보에 동반 급등]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004620323&amp;office_id=015&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004620323&amp;office_id=015&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-25T09:05:21.034Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베트남 방역 완화 후 9일만에 확진자 3천명대 깨져…24일 4천..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000992265&amp;office_id=215&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000992265&amp;office_id=215&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-25T06:54:00.000Z</updated>
-        <content type="html"><![CDATA[한국경제TV]]></content>
     </entry>
 </feed>

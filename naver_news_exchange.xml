@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=429</id>
     <title>네이버 금융 ─ 뉴스 ─ 환율</title>
-    <updated>2021-10-25T09:06:55.010Z</updated>
+    <updated>2021-10-25T10:07:20.075Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[농축산서 44% 나오는데···NDC 이어 현실 무시한 메탄 감축]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003977302&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211025&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003977302&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211025&amp;page=1"/>
+        <updated>2021-10-25T10:05:46.251Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003977302&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211025&amp;page=1" title="농축산서 44% 나오는데···NDC 이어 현실 무시한 메탄 감축">농축산서 44% 나오는데···NDC 이어 현실 무시한 메탄 감축</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[달러 강세 '주춤'…원/달러환율, 한달 반 만에 1,160원대 마감]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0012745614&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211025&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012739826&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211025&amp;page=1"/>
         <updated>2021-10-24T15:05:11.666Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012739826&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211025&amp;page=1" title="위험선호 심리 둔화…원/달러 환율, 1,177.0원 안팎서 등락">위험선호 심리 둔화…원/달러 환율, 1,177.0원 안팎서 등락</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[용인시, 27일부터 지역화폐 '10% 인센티브' 지급 재개]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0012738979&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211025&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012738979&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211025&amp;page=1"/>
-        <updated>2021-10-24T15:05:11.668Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012738979&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211025&amp;page=1" title="용인시, 27일부터 지역화폐 '10% 인센티브' 지급 재개">용인시, 27일부터 지역화폐 '10% 인센티브' 지급 재개</a>]]></content>
     </entry>
 </feed>
