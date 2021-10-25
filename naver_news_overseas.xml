@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-10-25T10:07:20.080Z</updated>
+    <updated>2021-10-25T11:05:15.179Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[표]아시아 주요 증시 동향(10월 25일)]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003977312&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211025&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003977312&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211025&amp;page=1"/>
+        <updated>2021-10-25T11:03:42.163Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003977312&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211025&amp;page=1" title="[표]아시아 주요 증시 동향(10월 25일)">[표]아시아 주요 증시 동향(10월 25일)</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["모더나 팔아라" 코로나 관련주 흐름 있다…치료제만 '강세']]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005069756&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211025&amp;page=1</id>
@@ -60,12 +67,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005069615&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211025&amp;page=1"/>
         <updated>2021-10-25T07:05:49.181Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005069615&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211025&amp;page=1" title="[외환마감] 국내증시 반등+달러화 약세…환율, 6주만에 1160원대 하락">[외환마감] 국내증시 반등+달러화 약세…환율, 6주만에 1160원대 하락</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中샤오펑, 최신 자율주행 시스템 공개…테슬라 본격 추격]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005069599&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211025&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005069599&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211025&amp;page=1"/>
-        <updated>2021-10-25T07:05:49.182Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005069599&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211025&amp;page=1" title="中샤오펑, 최신 자율주행 시스템 공개…테슬라 본격 추격">中샤오펑, 최신 자율주행 시스템 공개…테슬라 본격 추격</a>]]></content>
     </entry>
 </feed>
