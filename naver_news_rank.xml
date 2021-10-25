@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-10-25T06:09:35.630Z</updated>
+    <updated>2021-10-25T07:07:35.242Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 일진홀딩스, 美최초 루프스 치료제 개발사 '오리니아'..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004988470&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004988470&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-25T07:06:16.660Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주] KT, 인터넷 '먹통' 되자 장중 하락 반전]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012745218&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012745218&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-25T06:08:17.917Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[카카오페이 90만원이면 누구나 1주씩…한주라도 더 받으려면?]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005068963&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
@@ -139,20 +153,6 @@
         <content type="html"><![CDATA[머니S]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[특징주] KT, 전국적 유·무선 먹통 소식에 하락세]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000747022&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000747022&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-25T06:08:17.908Z</updated>
-        <content type="html"><![CDATA[머니S]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[특징주] LNG 추진 PC선 4척 수주 소식에 한국조선해양, ..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003977057&amp;office_id=011&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003977057&amp;office_id=011&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-25T06:08:17.909Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[베트남 방역 완화 후 9일만에 확진자 3천명대 깨져…24일 4천..]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000992265&amp;office_id=215&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000992265&amp;office_id=215&amp;mode=RANK&amp;typ=0"/>
@@ -174,10 +174,10 @@
         <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[특징주] KT, 인터넷 '먹통' 되자 장중 하락 반전]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0012745218&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012745218&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-25T06:08:17.917Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
+        <title type="html"><![CDATA[방산·항공에 '우주'까지…주가 고공비행 예열중인 '한화에어로']]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004660742&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004660742&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-25T04:00:00.000Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
