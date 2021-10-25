@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=429</id>
     <title>네이버 금융 ─ 뉴스 ─ 환율</title>
-    <updated>2021-10-25T13:15:53.783Z</updated>
+    <updated>2021-10-25T14:05:58.778Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[나이지리아 대통령, 디지털 화폐 'e나이라' 도입]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012746255&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211025&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012746255&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211025&amp;page=1"/>
+        <updated>2021-10-25T14:04:45.168Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012746255&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211025&amp;page=1" title="나이지리아 대통령, 디지털 화폐 'e나이라' 도입">나이지리아 대통령, 디지털 화폐 'e나이라' 도입</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[농축산서 44% 나오는데···NDC 이어 현실 무시한 메탄 감축]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003977302&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211025&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003976392&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211025&amp;page=1"/>
         <updated>2021-10-24T15:05:11.665Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003976392&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211025&amp;page=1" title="김범석 전 의장, 쿠팡 총수되나...공정위 심포지엄서 “외국인 동일인 지정 필요”">김범석 전 의장, 쿠팡 총수되나...공정위 심포지엄서 “외국인 동일인 지정 필요”</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[위험선호 심리 둔화…원/달러 환율, 1,177.0원 안팎서 등락]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0012739826&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211025&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012739826&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211025&amp;page=1"/>
-        <updated>2021-10-24T15:05:11.666Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012739826&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211025&amp;page=1" title="위험선호 심리 둔화…원/달러 환율, 1,177.0원 안팎서 등락">위험선호 심리 둔화…원/달러 환율, 1,177.0원 안팎서 등락</a>]]></content>
     </entry>
 </feed>

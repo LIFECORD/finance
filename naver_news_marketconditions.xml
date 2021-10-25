@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=401</id>
     <title>네이버 금융 ─ 뉴스 ─ 시황·전망</title>
-    <updated>2021-10-25T13:15:53.786Z</updated>
+    <updated>2021-10-25T14:05:58.777Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[카카오페이 일반청약 첫날 증거금 2조원 몰려(종합2보)]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012746253&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211025&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012746253&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211025&amp;page=1"/>
+        <updated>2021-10-25T14:04:17.355Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012746253&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211025&amp;page=1" title="카카오페이 일반청약 첫날 증거금 2조원 몰려(종합2보)">카카오페이 일반청약 첫날 증거금 2조원 몰려(종합2보)</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[20주만 신청하면 된다니까요…카카오페이에 평균 60주 청약한 투자자들]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004869518&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211025&amp;page=1</id>
@@ -53,12 +60,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003977290&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211025&amp;page=1"/>
         <updated>2021-10-25T10:05:09.071Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003977290&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211025&amp;page=1" title="내달초 테이퍼링·하순 韓 금리인상...금융시장 변동성 키울 변수 수두룩">내달초 테이퍼링·하순 韓 금리인상...금융시장 변동성 키울 변수 수두룩</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[현대미포조선, 수주 호실적에 11%대 치솟아]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003977287&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211025&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003977287&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211025&amp;page=1"/>
-        <updated>2021-10-25T10:05:09.073Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003977287&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211025&amp;page=1" title="현대미포조선, 수주 호실적에 11%대 치솟아">현대미포조선, 수주 호실적에 11%대 치솟아</a>]]></content>
     </entry>
 </feed>

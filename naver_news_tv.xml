@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-10-25T13:15:53.788Z</updated>
+    <updated>2021-10-25T14:05:58.790Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한은 "내년까지 성장세...물가 상승은 우려"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001656909&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211025&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001656909&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211025&amp;page=1"/>
+        <updated>2021-10-25T14:05:02.795Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["디도스 공격"? "시스템 오류"? 혼란 부추긴 KT]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001656908&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211025&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001656908&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211025&amp;page=1"/>
+        <updated>2021-10-25T14:05:02.796Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[끝 모를 ‘반도체 대란’…“자체 생산에 사활”]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0011143896&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211025&amp;page=1</id>
@@ -48,13 +62,6 @@
         <content type="html"><![CDATA[MBN]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오후 6시까지 전국서 981명 확진…내일 1,200명대 예상]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000510817&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211025&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000510817&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211025&amp;page=1"/>
-        <updated>2021-10-25T13:14:52.767Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[뉴스메이커] 정부, '2050 탄소중립' 추진…계획은?]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000510813&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211025&amp;page=1</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000510813&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211025&amp;page=1"/>
@@ -66,13 +73,6 @@
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001616647&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211025&amp;page=1</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001616647&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211025&amp;page=1"/>
         <updated>2021-10-25T12:09:40.487Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["결혼·장례 자금 대출 한도 예외"…내일 가계부채 대책 발표]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001616646&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211025&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001616646&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211025&amp;page=1"/>
-        <updated>2021-10-25T12:09:40.488Z</updated>
         <content type="html"><![CDATA[MBN]]></content>
     </entry>
 </feed>
