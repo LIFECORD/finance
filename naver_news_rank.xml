@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-10-26T01:48:32.917Z</updated>
+    <updated>2021-10-26T02:21:23.259Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -34,6 +34,13 @@
         <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[특징주] 한솔로지스틱스, 美 물류대란 운임폭등…바이든 삼성 지..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001903927&amp;office_id=016&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001903927&amp;office_id=016&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-26T10:20:00.000Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[숫자로 본 업비트 코인통계…'890만명 · 45분 접속 · 60..]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004661370&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004661370&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
@@ -53,6 +60,13 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005069882&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-26T06:01:00.000Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 서린바이오, 삼성바이오 모더나 백신 243만도스 국내..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004728967&amp;office_id=014&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004728967&amp;office_id=014&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-26T10:27:00.000Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ESG 공시 전방위 확대...금감원 "ESG 재무제표 정식기재 ..]]></title>
@@ -164,20 +178,6 @@
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000992558&amp;office_id=215&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000992558&amp;office_id=215&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-26T00:18:27.612Z</updated>
-        <content type="html"><![CDATA[한국경제TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[금감원 "홍콩H 하락해 ELS 손실 우려…모니터링 강화"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0010791350&amp;office_id=003&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0010791350&amp;office_id=003&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-26T06:00:00.000Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MS "러시아 해킹그룹, 글로벌 IT 공급망 노린다"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000992557&amp;office_id=215&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000992557&amp;office_id=215&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-26T00:18:27.618Z</updated>
         <content type="html"><![CDATA[한국경제TV]]></content>
     </entry>
 </feed>

@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/research/company_list.naver</id>
     <title>네이버 금융 ─ 리서치 ─ 종목분석 리포트</title>
-    <updated>2021-10-26T01:48:32.935Z</updated>
+    <updated>2021-10-26T02:21:23.284Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/research/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주요고객 다변화로 2022년 매출성장 전망]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/company/1635213402329.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1635213402329.pdf"/>
+        <updated>2021-10-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[엔에프씨]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[리콜 이슈 해소 긍정적. 반도체칩 이슈는 단..]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/company/1635213227365.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1635213227365.pdf"/>
+        <updated>2021-10-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[LG화학]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[역대급 실적과 중국의 구조적인 변화가 전혀 ..]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/company/1635212906275.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1635212906275.pdf"/>
+        <updated>2021-10-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[POSCO]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[무궁무진한 잠재력]]></title>
         <id>https://ssl.pstatic.net/imgstock/upload/research/company/1635212071014.pdf</id>
@@ -193,26 +214,5 @@
         <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1634784332410.pdf"/>
         <updated>2021-10-21T00:00:00.000Z</updated>
         <content type="html"><![CDATA[인바디]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자동차, 정밀 기계 및 조선 산업 분야의 고품..]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/company/1634784304013.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1634784304013.pdf"/>
-        <updated>2021-10-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[광진실업]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[반도체 및 디스플레이용 고품질 특수가스 제..]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/company/1634784274164.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1634784274164.pdf"/>
-        <updated>2021-10-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[원익머트리얼즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자동차 및 IoT 분야의 핵심 솔루션 전문기업]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/company/1634784245337.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1634784245337.pdf"/>
-        <updated>2021-10-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[라닉스]]></content>
     </entry>
 </feed>

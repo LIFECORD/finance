@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/research/invest_list.naver</id>
     <title>네이버 금융 ─ 리서치 ─ 투자정보 리포트</title>
-    <updated>2021-10-26T01:48:32.932Z</updated>
+    <updated>2021-10-26T02:21:23.270Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/research/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미래에셋증권 Daily 종합]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/invest/1635213476616.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/invest/1635213476616.pdf"/>
+        <updated>2021-10-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[미래에셋증권]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[숫자가 증명]]></title>
         <id>https://ssl.pstatic.net/imgstock/upload/research/invest/1635212297738.pdf</id>
@@ -205,13 +212,6 @@
         <title type="html"><![CDATA[Global Issue & News]]></title>
         <id>https://ssl.pstatic.net/imgstock/upload/research/invest/1634607972549.pdf</id>
         <link href="https://ssl.pstatic.net/imgstock/upload/research/invest/1634607972549.pdf"/>
-        <updated>2021-10-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[하나금융투자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시장트렌드 & ETF포트폴리오: 시선분산]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/invest/1634607559509.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/invest/1634607559509.pdf"/>
         <updated>2021-10-19T00:00:00.000Z</updated>
         <content type="html"><![CDATA[하나금융투자]]></content>
     </entry>
