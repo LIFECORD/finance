@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=429</id>
     <title>네이버 금융 ─ 뉴스 ─ 환율</title>
-    <updated>2021-10-26T04:07:23.331Z</updated>
+    <updated>2021-10-26T05:05:46.363Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[수소차, 셀프충전 가능해진다···산업부, 규제샌드박스로 실증 진행]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003977562&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211026&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003977562&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211026&amp;page=1"/>
+        <updated>2021-10-26T05:04:26.449Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003977562&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211026&amp;page=1" title="수소차, 셀프충전 가능해진다···산업부, 규제샌드박스로 실증 진행">수소차, 셀프충전 가능해진다···산업부, 규제샌드박스로 실증 진행</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[환율, 하락 출발…1168.0원 안팎서 등락]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0012746581&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211026&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012741659&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211026&amp;page=1"/>
         <updated>2021-10-25T15:04:07.579Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012741659&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211026&amp;page=1" title="파월 &quot;인플레 내년까지 지속…계속 오르면 수단 동원할 것&quot;(종합)">파월 "인플레 내년까지 지속…계속 오르면 수단 동원할 것"(종합)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파월 "테이퍼링 시작 준비중…인플레 내년까지 지속"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0012741614&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211026&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012741614&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211026&amp;page=1"/>
-        <updated>2021-10-25T15:04:07.580Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012741614&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211026&amp;page=1" title="파월 &quot;테이퍼링 시작 준비중…인플레 내년까지 지속&quot;">파월 "테이퍼링 시작 준비중…인플레 내년까지 지속"</a>]]></content>
     </entry>
 </feed>
