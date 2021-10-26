@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS2D&amp;section_id=101&amp;section_id2=258</id>
     <title>네이버 금융 ─ 뉴스 ─ 실시간 속보</title>
-    <updated>2021-10-26T17:14:33.104Z</updated>
+    <updated>2021-10-26T18:07:03.279Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[유럽증시] UBS 등 실적 호조에 2개월 만에 최고치]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012749197&amp;office_id=001&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211027&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012749197&amp;office_id=001&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211027&amp;page=1"/>
+        <updated>2021-10-26T18:05:05.248Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012749197&amp;office_id=001&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211027&amp;page=1" title="[유럽증시] UBS 등 실적 호조에 2개월 만에 최고치">[유럽증시] UBS 등 실적 호조에 2개월 만에 최고치</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유럽 증시, 주요 기업들 실적 호조로 큰 폭 상승]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0010793924&amp;office_id=003&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211027&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000992820&amp;office_id=215&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211027&amp;page=1"/>
         <updated>2021-10-26T15:04:03.932Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000992820&amp;office_id=215&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211027&amp;page=1" title="제약사 일라이릴리, 3분기 호조에 주당순이익 전망 상향…7.8~8.0달러→7.95달러~8.05달러">제약사 일라이릴리, 3분기 호조에 주당순이익 전망 상향…7.8~8.0달러→7.95달러~8...</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美 스포츠베팅업체 드래프트킹스, 英 도박업체 엔테인 인수 포기]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000992819&amp;office_id=215&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211027&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000992819&amp;office_id=215&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211027&amp;page=1"/>
-        <updated>2021-10-26T15:04:03.933Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000992819&amp;office_id=215&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211027&amp;page=1" title="美 스포츠베팅업체 드래프트킹스, 英 도박업체 엔테인 인수 포기">美 스포츠베팅업체 드래프트킹스, 英 도박업체 엔테인 인수 포기</a>]]></content>
     </entry>
 </feed>
