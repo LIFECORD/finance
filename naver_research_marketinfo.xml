@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/research/market_info_list.naver</id>
     <title>네이버 금융 ─ 리서치 ─ 시황정보 리포트</title>
-    <updated>2021-10-26T00:19:40.865Z</updated>
+    <updated>2021-10-26T01:48:32.928Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/research/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[eBest Quant Daily]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/market/1635211755152.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/market/1635211755152.pdf"/>
+        <updated>2021-10-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[이베스트증권]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Start with IBKS] KOSPI는 위드 코르나 기대 속 외국..]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/market/1635210738473.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/market/1635210738473.pdf"/>
+        <updated>2021-10-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[IBK투자증권]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[교보박스 브리핑]]></title>
         <id>https://ssl.pstatic.net/imgstock/upload/research/market/1635127010814.pdf</id>
@@ -200,19 +214,5 @@
         <link href="https://ssl.pstatic.net/imgstock/upload/research/market/1634089154147.pdf"/>
         <updated>2021-10-14T00:12:46.941Z</updated>
         <content type="html"><![CDATA[이베스트증권]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Start with IBKS] KOSPI는 기관과 외국인의 동반 순..]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/market/1634088158960.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/market/1634088158960.pdf"/>
-        <updated>2021-10-14T00:12:46.946Z</updated>
-        <content type="html"><![CDATA[IBK투자증권]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아시아 증시, 인플레이션 부담과 테이퍼링 임박 영향..]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/market/1634020441690.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/market/1634020441690.pdf"/>
-        <updated>2021-10-14T00:12:46.947Z</updated>
-        <content type="html"><![CDATA[미래에셋증권]]></content>
     </entry>
 </feed>
