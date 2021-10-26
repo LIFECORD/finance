@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-10-26T02:21:23.259Z</updated>
+    <updated>2021-10-26T03:07:35.534Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 서린바이오, 삼성바이오 모더나 백신 243만도스 국내..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004728967&amp;office_id=014&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004728967&amp;office_id=014&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-26T10:27:00.000Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 한솔로지스틱스, 美 물류대란 운임폭등…바이든 삼성 지..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001903927&amp;office_id=016&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001903927&amp;office_id=016&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-26T10:20:00.000Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주]멜파스, 파산 사유 해소 후 거래 재개…상한가 터치]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005070202&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005070202&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-26T11:13:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[베트남, 전자산업 수출 목표액 상향…전년 920억달러→1천억달러..]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000992559&amp;office_id=215&amp;mode=RANK&amp;typ=0</id>
@@ -34,11 +55,11 @@
         <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[특징주] 한솔로지스틱스, 美 물류대란 운임폭등…바이든 삼성 지..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001903927&amp;office_id=016&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001903927&amp;office_id=016&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-26T10:20:00.000Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
+        <title type="html"><![CDATA[[특징주] 티플랙스, ‘배터리 핵심원료’ 니켈가격 7년만에 최대..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004729024&amp;office_id=014&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004729024&amp;office_id=014&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-26T11:04:00.000Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[숫자로 본 업비트 코인통계…'890만명 · 45분 접속 · 60..]]></title>
@@ -60,13 +81,6 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005069882&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-26T06:01:00.000Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[특징주] 서린바이오, 삼성바이오 모더나 백신 243만도스 국내..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004728967&amp;office_id=014&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004728967&amp;office_id=014&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-26T10:27:00.000Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ESG 공시 전방위 확대...금감원 "ESG 재무제표 정식기재 ..]]></title>
@@ -165,19 +179,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000017642&amp;office_id=243&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-26T06:58:00.000Z</updated>
         <content type="html"><![CDATA[이코노미스트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기업공시 10월 25일]이미지스, 100% 무상증자 결정 등]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003977347&amp;office_id=011&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003977347&amp;office_id=011&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-26T07:01:00.000Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베트남, 2025년까지 민간기업 150만개 운영 [KVINA]]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000992558&amp;office_id=215&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000992558&amp;office_id=215&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-26T00:18:27.612Z</updated>
-        <content type="html"><![CDATA[한국경제TV]]></content>
     </entry>
 </feed>
