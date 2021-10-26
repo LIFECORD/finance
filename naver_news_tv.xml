@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-10-26T19:05:34.288Z</updated>
+    <updated>2021-10-26T20:06:35.552Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[역대 최대의 유류세 20% 인하...효과는 '미지수']]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001657468&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211027&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001657468&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211027&amp;page=1"/>
+        <updated>2021-10-27T04:52:00.000Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["소득 따라 대출 산정"...청년·저소득층 타격 우려]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001657467&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211027&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001657467&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211027&amp;page=1"/>
+        <updated>2021-10-27T04:52:00.000Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['소상공인 손실보상' 오늘부터 신청 접수...2조 4천억 지급]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001657464&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211027&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001657464&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211027&amp;page=1"/>
+        <updated>2021-10-27T04:32:00.000Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[리터당 최대 164원↓…체감은 다음 달 말에나]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000929626&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211027&amp;page=1</id>
@@ -53,26 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000511035&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211027&amp;page=1"/>
         <updated>2021-10-26T15:05:07.506Z</updated>
         <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카카오페이 청약 5.6조원 몰려…경쟁률 29.6대1]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000511034&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211027&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000511034&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211027&amp;page=1"/>
-        <updated>2021-10-26T15:05:07.507Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유류세 20%↓ 역대 최대 폭 인하...연말까지 공공요금 동결]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001657404&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211027&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001657404&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211027&amp;page=1"/>
-        <updated>2021-10-26T15:05:07.509Z</updated>
-        <content type="html"><![CDATA[YTN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하루 만에 사과한 KT 구현모 사장...요금 감면 검토]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001657403&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211027&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001657403&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211027&amp;page=1"/>
-        <updated>2021-10-26T15:05:07.512Z</updated>
-        <content type="html"><![CDATA[YTN]]></content>
     </entry>
 </feed>
