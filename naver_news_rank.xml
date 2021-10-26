@@ -2,22 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-10-26T07:06:23.040Z</updated>
+    <updated>2021-10-26T08:08:08.036Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[특징주]티비씨, 홍준표 테마로 23.88% 급등]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0002977684&amp;office_id=030&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0002977684&amp;office_id=030&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-26T07:05:09.557Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[특징주] 서한, 홍준표 지지율 50% 급등 소식에 지역구 소재..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000747548&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000747548&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-26T07:05:09.565Z</updated>
-        <content type="html"><![CDATA[머니S]]></content>
+        <title type="html"><![CDATA[[특징주] LG생활건강, 3분기 매출 감소에 52주 신저가]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012748420&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012748420&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-26T08:06:52.543Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[베트남, 전자산업 수출 목표액 상향…전년 920억달러→1천억달러..]]></title>
@@ -32,6 +25,13 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004661373&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-26T04:52:00.000Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주]티비씨, 홍준표 테마로 23.88% 급등]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0002977684&amp;office_id=030&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0002977684&amp;office_id=030&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-26T07:05:09.557Z</updated>
+        <content type="html"><![CDATA[전자신문]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독]중흥-KDB-대우노조 ‘3자 회동’, M&A 본격화]]></title>

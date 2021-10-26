@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-10-26T07:06:23.033Z</updated>
+    <updated>2021-10-26T08:08:08.031Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가계부채 대책‥"총 대출 2억 넘으면 DSR 규제"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001156087&amp;office_id=214&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211026&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001156087&amp;office_id=214&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211026&amp;page=1"/>
+        <updated>2021-10-26T08:07:06.175Z</updated>
+        <content type="html"><![CDATA[MBC]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[MBN 프레스룸] 손준성 '1호 영장 청구']]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001616853&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211026&amp;page=1</id>
@@ -66,13 +73,6 @@
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001616838&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211026&amp;page=1</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001616838&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211026&amp;page=1"/>
         <updated>2021-10-26T07:05:21.845Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[프레스룸 날씨]완연한 가을 날씨…내일 곳곳 미세먼지 농도 '나쁨']]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001616835&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211026&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001616835&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211026&amp;page=1"/>
-        <updated>2021-10-26T07:05:21.846Z</updated>
         <content type="html"><![CDATA[MBN]]></content>
     </entry>
 </feed>
