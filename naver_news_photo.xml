@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-10-26T13:15:31.727Z</updated>
+    <updated>2021-10-26T14:06:09.424Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[실적보다 4분기 전망 주목하는 월가···MS·구글도 오늘 발표 [뉴욕증시 나우]]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000992816&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211026&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000992816&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211026&amp;page=1"/>
+        <updated>2021-10-26T14:05:00.365Z</updated>
+        <content type="html"><![CDATA[한국경제TV]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아프리카연합 "美 모더나 코로나백신 1억1천만 회분 구매"]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000992812&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211026&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012749060&amp;office_id=001&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211026&amp;page=1"/>
         <updated>2021-10-26T12:08:57.588Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[레이더M] 하이브 전환사채 발행 놓고 '설왕설래']]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004870063&amp;office_id=009&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211026&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004870063&amp;office_id=009&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211026&amp;page=1"/>
-        <updated>2021-10-26T11:04:32.134Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
