@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-10-26T16:08:34.799Z</updated>
+    <updated>2021-10-26T17:14:33.112Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["왜 하필 낮에? 이해 안 된다"…보상 기준 '아직']]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000929620&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211027&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000929620&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211027&amp;page=1"/>
+        <updated>2021-10-27T01:55:00.000Z</updated>
+        <content type="html"><![CDATA[SBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['소상공인 손실보상' 오늘부터 신청 접수...2조 4천억 지급]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001657454&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211027&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001657454&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211027&amp;page=1"/>
+        <updated>2021-10-27T01:14:00.000Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10명 중 4명은 비정규직 '역대 최대'...임금 격차도 157만 원]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001657422&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211027&amp;page=1</id>
@@ -60,19 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001657402&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211027&amp;page=1"/>
         <updated>2021-10-26T15:05:07.514Z</updated>
         <content type="html"><![CDATA[YTN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소상공인 손실보상금 내일부터 신청…“제외 업종도 금융 지원책 마련”]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0011144697&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211027&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011144697&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211027&amp;page=1"/>
-        <updated>2021-10-26T15:05:07.515Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[글로벌 파이낸셜 포럼] "금융 디지털 빅뱅은 위협이자 기회…핀셋 규제는 필요"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000342438&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211027&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000342438&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211027&amp;page=1"/>
-        <updated>2021-10-26T15:05:07.519Z</updated>
-        <content type="html"><![CDATA[TV조선]]></content>
     </entry>
 </feed>

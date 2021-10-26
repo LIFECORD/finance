@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-10-26T16:08:34.822Z</updated>
+    <updated>2021-10-26T17:14:33.137Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유럽 증시, 주요 기업들 실적 호조로 큰 폭 상승]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0010793924&amp;office_id=003&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211027&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0010793924&amp;office_id=003&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211027&amp;page=1"/>
+        <updated>2021-10-27T01:59:00.000Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['찐'방어株를 골라놔야 할 때]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005070748&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211027&amp;page=1</id>
@@ -66,13 +73,6 @@
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000992819&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211027&amp;page=1</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000992819&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211027&amp;page=1"/>
         <updated>2021-10-26T15:05:00.964Z</updated>
-        <content type="html"><![CDATA[한국경제TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GE, 제트사업 호조에 주당순이익 전망 상향…1.2~2.0달러→1.8~2.1달러]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000992818&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211027&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000992818&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211027&amp;page=1"/>
-        <updated>2021-10-26T15:05:00.965Z</updated>
         <content type="html"><![CDATA[한국경제TV]]></content>
     </entry>
 </feed>
