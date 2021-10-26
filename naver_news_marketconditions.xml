@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=401</id>
     <title>네이버 금융 ─ 뉴스 ─ 시황·전망</title>
-    <updated>2021-10-26T10:07:29.926Z</updated>
+    <updated>2021-10-26T11:05:47.635Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[레이더M] 하이브 전환사채 발행 놓고 '설왕설래']]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004870063&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211026&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004870063&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211026&amp;page=1"/>
+        <updated>2021-10-26T11:03:42.145Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004870063&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211026&amp;page=1" title="[레이더M] 하이브 전환사채 발행 놓고 '설왕설래'">[레이더M] 하이브 전환사채 발행 놓고 '설왕설래'</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[표]유가증권 코스닥 투자주체별 매매동향(10월 26일-최종치)]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003977801&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211026&amp;page=1</id>
@@ -39,12 +46,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004869956&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211026&amp;page=1"/>
         <updated>2021-10-26T09:04:51.007Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004869956&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211026&amp;page=1" title="[표] 주요 증시 지표 (10월 26일)">[표] 주요 증시 지표 (10월 26일)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지니너스, 공모가 2만원 확정…27∼28일 청약]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0012748819&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211026&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012748819&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211026&amp;page=1"/>
-        <updated>2021-10-26T09:04:51.007Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012748819&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211026&amp;page=1" title="지니너스, 공모가 2만원 확정…27∼28일 청약">지니너스, 공모가 2만원 확정…27∼28일 청약</a>]]></content>
     </entry>
 </feed>
