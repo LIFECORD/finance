@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=404</id>
     <title>네이버 금융 ─ 뉴스 ─ 채권 선물</title>
-    <updated>2021-10-26T08:08:08.033Z</updated>
+    <updated>2021-10-26T09:06:45.120Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[너무 오른 테슬라…대안으로 ETF 급부상]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004870040&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211026&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004870040&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211026&amp;page=1"/>
+        <updated>2021-10-26T09:05:10.357Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004870040&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211026&amp;page=1" title="너무 오른 테슬라…대안으로 ETF 급부상">너무 오른 테슬라…대안으로 ETF 급부상</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['신영TDF채권혼합', 은퇴시기 따라 주식·채권 투자비중 조절]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004869954&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211026&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004869954&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211026&amp;page=1"/>
+        <updated>2021-10-26T09:05:10.359Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004869954&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211026&amp;page=1" title="'신영TDF채권혼합', 은퇴시기 따라 주식·채권 투자비중 조절">'신영TDF채권혼합', 은퇴시기 따라 주식·채권 투자비중 조절</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국채금리, 일제히 연고점…3년물 연 1.947%(종합)]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0012748747&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211026&amp;page=1</id>
@@ -25,12 +39,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012746727&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211026&amp;page=1"/>
         <updated>2021-10-26T01:47:06.834Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012746727&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211026&amp;page=1" title="KB증권, 3억달러 규모 외화채권 발행">KB증권, 3억달러 규모 외화채권 발행</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국내 주식형 펀드 자금, 4거래일 연속 순유입]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005069905&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211026&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005069905&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211026&amp;page=1"/>
-        <updated>2021-10-25T23:04:42.932Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005069905&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211026&amp;page=1" title="국내 주식형 펀드 자금, 4거래일 연속 순유입">국내 주식형 펀드 자금, 4거래일 연속 순유입</a>]]></content>
     </entry>
 </feed>
