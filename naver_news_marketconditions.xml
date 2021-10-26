@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=401</id>
     <title>네이버 금융 ─ 뉴스 ─ 시황·전망</title>
-    <updated>2021-10-26T09:06:45.104Z</updated>
+    <updated>2021-10-26T10:07:29.926Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[표]유가증권 코스닥 투자주체별 매매동향(10월 26일-최종치)]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003977801&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211026&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003977801&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211026&amp;page=1"/>
+        <updated>2021-10-26T10:05:26.099Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003977801&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211026&amp;page=1" title="[표]유가증권 코스닥 투자주체별 매매동향(10월 26일-최종치)">[표]유가증권 코스닥 투자주체별 매매동향(10월 26일-최종치)</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[위메이드 "자체개발 가상화폐, 게임계 기축통화 만들것"]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004870034&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211026&amp;page=1</id>
@@ -39,19 +46,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012748819&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211026&amp;page=1"/>
         <updated>2021-10-26T09:04:51.007Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012748819&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211026&amp;page=1" title="지니너스, 공모가 2만원 확정…27∼28일 청약">지니너스, 공모가 2만원 확정…27∼28일 청약</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카카오페이, 공모주 첫 100% 균등배정 덕에 청약 '흥행']]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0012748811&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211026&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012748811&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211026&amp;page=1"/>
-        <updated>2021-10-26T09:04:51.008Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012748811&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211026&amp;page=1" title="카카오페이, 공모주 첫 100% 균등배정 덕에 청약 '흥행'">카카오페이, 공모주 첫 100% 균등배정 덕에 청약 '흥행'</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이패밀리에스씨, 오는 28일 코스닥 상장]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0012748785&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211026&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012748785&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211026&amp;page=1"/>
-        <updated>2021-10-26T09:04:51.010Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012748785&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211026&amp;page=1" title="아이패밀리에스씨, 오는 28일 코스닥 상장">아이패밀리에스씨, 오는 28일 코스닥 상장</a>]]></content>
     </entry>
 </feed>
