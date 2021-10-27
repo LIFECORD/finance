@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-10-27T10:06:28.972Z</updated>
+    <updated>2021-10-27T11:05:42.686Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[표]아시아 주요 증시 동향(10월 27일)]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003978323&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211027&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003978323&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211027&amp;page=1"/>
+        <updated>2021-10-27T11:03:57.797Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003978323&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211027&amp;page=1" title="[표]아시아 주요 증시 동향(10월 27일)">[표]아시아 주요 증시 동향(10월 27일)</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['곰'도 돌아섰다… 악재 여전한데 美증시는 왜 계속 오르지?]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004662584&amp;office_id=008&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211027&amp;page=1</id>
@@ -39,12 +46,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004621256&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211027&amp;page=1"/>
         <updated>2021-10-27T07:05:47.506Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004621256&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211027&amp;page=1" title="물가 상승할 땐 이 종목…BoA가 꼽은 12개 인플레 수혜주">물가 상승할 땐 이 종목…BoA가 꼽은 12개 인플레 수혜주</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인플레에서 자유로운 미국 소프트웨어가 빅테크의 대안이다 [애널리스트 칼럼]]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004621248&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211027&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004621248&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211027&amp;page=1"/>
-        <updated>2021-10-27T07:05:47.508Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004621248&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211027&amp;page=1" title="인플레에서 자유로운 미국 소프트웨어가 빅테크의 대안이다 [애널리스트 칼럼]">인플레에서 자유로운 미국 소프트웨어가 빅테크의 대안이다 [애널리스트 칼럼]</a>]]></content>
     </entry>
 </feed>
