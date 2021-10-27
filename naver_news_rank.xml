@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-10-27T02:21:29.414Z</updated>
+    <updated>2021-10-27T03:06:27.370Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012749205&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-27T04:24:00.000Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 네오위즈홀딩스, 테슬라 비트코인 결제 재개 가능성에 ..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000747870&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000747870&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-27T11:12:00.000Z</updated>
+        <content type="html"><![CDATA[머니S]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[카카오페이, 엇갈리는 주가 전망…"경쟁력 강화" vs "규제 불..]]></title>
@@ -125,6 +132,13 @@
         <content type="html"><![CDATA[비즈니스워치]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[특징주] 지에스이, 정부 탈원전…녹색에너지로 LNG 투자 소식..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001904610&amp;office_id=016&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001904610&amp;office_id=016&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-27T10:44:00.000Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[특징주] 일승, 조선업 수주 호황에 관련주 부각… 22%↑]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000747825&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000747825&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
@@ -164,20 +178,6 @@
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005682925&amp;office_id=421&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005682925&amp;office_id=421&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-27T06:43:00.000Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지난달 기업 회사채 발행 18% 증가…주식 54%↓]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0010793981&amp;office_id=003&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0010793981&amp;office_id=003&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-27T06:00:00.000Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴욕마감]다우-S&P500 이틀 연속 동반 사상 최고 경신]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005682919&amp;office_id=421&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005682919&amp;office_id=421&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-27T06:39:00.000Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
