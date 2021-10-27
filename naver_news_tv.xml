@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-10-27T01:48:39.584Z</updated>
+    <updated>2021-10-27T02:21:29.424Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[숨죽였던 16분 7초의 기록…이륙부터 모형 위성 분리까지 누리호 내부 영상 공개]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000279329&amp;office_id=437&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211027&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000279329&amp;office_id=437&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211027&amp;page=1"/>
+        <updated>2021-10-27T11:01:00.000Z</updated>
+        <content type="html"><![CDATA[JTBC]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뉴스포커스] 당국 "백신패스 예외적용 검토…오는 29일 발표"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000511094&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211027&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000511094&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211027&amp;page=1"/>
+        <updated>2021-10-27T10:50:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제6회 금융의 날 기념식…배우 송중기 등 표창]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001617045&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211027&amp;page=1</id>
@@ -59,20 +73,6 @@
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001617024&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211027&amp;page=1</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001617024&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211027&amp;page=1"/>
         <updated>2021-10-27T10:07:00.000Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[친절한 경제] 오늘부터 시작…'소상공인 손실보상' 신청 가이드]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000929700&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211027&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000929700&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211027&amp;page=1"/>
-        <updated>2021-10-27T10:06:00.000Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신문브리핑 3 "국민의힘 경선 여론조사 '절충형 사지선다' 확정" 외 주요기사]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001617021&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211027&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001617021&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211027&amp;page=1"/>
-        <updated>2021-10-27T10:04:00.000Z</updated>
         <content type="html"><![CDATA[MBN]]></content>
     </entry>
 </feed>

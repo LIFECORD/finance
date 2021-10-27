@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-10-27T01:48:39.582Z</updated>
+    <updated>2021-10-27T02:21:29.426Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[표]유럽 주요기업 주가(10/26)]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005071098&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211027&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005071098&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211027&amp;page=1"/>
+        <updated>2021-10-27T02:19:43.279Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005071098&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211027&amp;page=1" title="[표]유럽 주요기업 주가(10/26)">[표]유럽 주요기업 주가(10/26)</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[트럼프 관련주 '이일천하'...SNS 출시 관련 발표 이후 급락]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000992917&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211027&amp;page=1</id>
@@ -53,12 +60,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012749449&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211027&amp;page=1"/>
         <updated>2021-10-27T00:17:49.587Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012749449&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211027&amp;page=1" title="[그래픽] 다우ㆍS&amp;P500 지수 추이">[그래픽] 다우ㆍS&amp;P500 지수 추이</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로빈후드, 실망스런 실적에 시간외 거래 8%대 급락…"4분기도 어두워"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000992871&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211027&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000992871&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211027&amp;page=1"/>
-        <updated>2021-10-27T00:17:49.588Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000992871&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211027&amp;page=1" title="로빈후드, 실망스런 실적에 시간외 거래 8%대 급락…&quot;4분기도 어두워&quot;">로빈후드, 실망스런 실적에 시간외 거래 8%대 급락…"4분기도 어두워"</a>]]></content>
     </entry>
 </feed>
