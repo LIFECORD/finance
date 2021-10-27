@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=404</id>
     <title>네이버 금융 ─ 뉴스 ─ 채권 선물</title>
-    <updated>2021-10-27T15:07:14.042Z</updated>
+    <updated>2021-10-27T16:12:15.347Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[1년새 50%…수익률 활짝 테슬라 담은 펀드, 들어가도 될까]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005071629&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211028&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005071629&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211028&amp;page=1"/>
+        <updated>2021-10-27T16:10:45.837Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005071629&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211028&amp;page=1" title="1년새 50%…수익률 활짝 테슬라 담은 펀드, 들어가도 될까">1년새 50%…수익률 활짝 테슬라 담은 펀드, 들어가도 될까</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3년물 국고채 금리 상승…3년 만에 2% 돌파]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000993073&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211028&amp;page=1</id>
@@ -39,12 +46,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005071348&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211028&amp;page=1"/>
         <updated>2021-10-27T15:05:41.859Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005071348&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211028&amp;page=1" title="[외환마감]증시 하락에 위안화 약세…환율 사흘만에 1170원대">[외환마감]증시 하락에 위안화 약세…환율 사흘만에 1170원대</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[특징주] 해양진흥공사 전환사채 주식 전환에 HMM 급락(종합)]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0012751081&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211028&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012751081&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211028&amp;page=1"/>
-        <updated>2021-10-27T15:05:41.861Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012751081&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211028&amp;page=1" title="[특징주] 해양진흥공사 전환사채 주식 전환에 HMM 급락(종합)">[특징주] 해양진흥공사 전환사채 주식 전환에 HMM 급락(종합)</a>]]></content>
     </entry>
 </feed>
