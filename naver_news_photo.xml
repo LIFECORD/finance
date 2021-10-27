@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-10-27T16:12:15.377Z</updated>
+    <updated>2021-10-27T17:14:27.636Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[박스권 장세에 투심 위축…배당·실적 모두 갖춘 통신株에 주목]]></title>
+        <title type="html"><![CDATA[[유럽증시] ECB 금리결정 앞두고 소폭 약세]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012752093&amp;office_id=001&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211028&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012752093&amp;office_id=001&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211028&amp;page=1"/>
+        <updated>2021-10-28T01:59:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박스권 장세에도 솟아날 구멍 있다?…배당·실적 모두 갖춘 이 주식]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005071631&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211028&amp;page=1</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005071631&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211028&amp;page=1"/>
         <updated>2021-10-27T16:11:10.065Z</updated>
@@ -27,7 +34,7 @@
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[1년새 50%…수익률 활짝 테슬라 담은 펀드, 들어가도 될까]]></title>
+        <title type="html"><![CDATA['1년새 50%' 수익률 활짝 테슬라 담은 펀드…이제라도?]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005071629&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211028&amp;page=1</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005071629&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211028&amp;page=1"/>
         <updated>2021-10-27T16:11:10.066Z</updated>
@@ -41,7 +48,7 @@
         <content type="html"><![CDATA[더팩트]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[공모 흥행 카카오페이…따상 '믿어요-글쎄요' 팽팽]]></title>
+        <title type="html"><![CDATA[공모 흥행 대박 카카오페이…'따상' 좌우할 변수는?]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005071625&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211028&amp;page=1</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005071625&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211028&amp;page=1"/>
         <updated>2021-10-27T15:06:06.735Z</updated>
@@ -65,13 +72,6 @@
         <title type="html"><![CDATA[ILO "코로나 탓에 일자리 1억2천만개분 근로시간 감소"]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000993102&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211028&amp;page=1</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000993102&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211028&amp;page=1"/>
-        <updated>2021-10-27T15:06:06.763Z</updated>
-        <content type="html"><![CDATA[한국경제TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미 국채수익률 하락세…노바백스 급등에 주목 [뉴욕증시 나우]]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000993101&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211028&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000993101&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211028&amp;page=1"/>
         <updated>2021-10-27T15:06:06.763Z</updated>
         <content type="html"><![CDATA[한국경제TV]]></content>
     </entry>
