@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/research/economy_list.naver</id>
     <title>네이버 금융 ─ 리서치 ─ 경제분석 리포트</title>
-    <updated>2021-10-27T00:19:24.227Z</updated>
+    <updated>2021-10-27T01:48:39.580Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/research/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[국내외 경제이슈]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/economy/1635298816424.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/economy/1635298816424.pdf"/>
+        <updated>2021-10-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[케이프투자증권]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[월말 경제지표와 환율 보고서]]></title>
         <id>https://ssl.pstatic.net/imgstock/upload/research/economy/1635123876146.pdf</id>
@@ -207,12 +214,5 @@
         <link href="https://ssl.pstatic.net/imgstock/upload/research/economy/1632711333616.pdf"/>
         <updated>2021-10-14T00:09:38.375Z</updated>
         <content type="html"><![CDATA[케이프투자증권]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국 높은 수준의 인플레이션율 유지]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/economy/1632450636545.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/economy/1632450636545.pdf"/>
-        <updated>2021-10-14T00:09:38.376Z</updated>
-        <content type="html"><![CDATA[교보증권]]></content>
     </entry>
 </feed>
