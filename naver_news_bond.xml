@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=404</id>
     <title>네이버 금융 ─ 뉴스 ─ 채권 선물</title>
-    <updated>2021-10-27T07:07:42.816Z</updated>
+    <updated>2021-10-27T08:08:22.735Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[표]주가지수선물 투자자별 매매동향(10/27)]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005071440&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211027&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005071440&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211027&amp;page=1"/>
+        <updated>2021-10-27T08:06:56.928Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005071440&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211027&amp;page=1" title="[표]주가지수선물 투자자별 매매동향(10/27)">[표]주가지수선물 투자자별 매매동향(10/27)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[표]거래소주가지수선물·옵션시세표(10/27)]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005071439&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211027&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005071439&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211027&amp;page=1"/>
+        <updated>2021-10-27T08:06:56.930Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005071439&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211027&amp;page=1" title="[표]거래소주가지수선물·옵션시세표(10/27)">[표]거래소주가지수선물·옵션시세표(10/27)</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[외환마감]증시 하락에 위안화 약세…환율 사흘만에 1170원대]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005071348&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211027&amp;page=1</id>
@@ -39,12 +53,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012749459&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211027&amp;page=1"/>
         <updated>2021-10-27T01:47:03.188Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012749459&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211027&amp;page=1" title="[특징주] 해양진흥공사 전환사채 주식 전환에 HMM 8% 급락">[특징주] 해양진흥공사 전환사채 주식 전환에 HMM 8% 급락</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국내 주식형 펀드 자금, 5거래일 연속 순유입]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005070812&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211027&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005070812&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211027&amp;page=1"/>
-        <updated>2021-10-26T23:04:26.786Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005070812&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211027&amp;page=1" title="국내 주식형 펀드 자금, 5거래일 연속 순유입">국내 주식형 펀드 자금, 5거래일 연속 순유입</a>]]></content>
     </entry>
 </feed>

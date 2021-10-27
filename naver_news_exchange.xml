@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=429</id>
     <title>네이버 금융 ─ 뉴스 ─ 환율</title>
-    <updated>2021-10-27T07:07:42.775Z</updated>
+    <updated>2021-10-27T08:08:22.746Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['헝다 리스크'에 안전자산 선호…환율, 2.4원 상승 마감]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012751243&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211027&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012751243&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211027&amp;page=1"/>
+        <updated>2021-10-27T08:07:08.731Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012751243&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211027&amp;page=1" title="'헝다 리스크'에 안전자산 선호…환율, 2.4원 상승 마감">'헝다 리스크'에 안전자산 선호…환율, 2.4원 상승 마감</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2030년 NDC 40% 상향안, 국무회의서 의결]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003978007&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211027&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012746255&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211027&amp;page=1"/>
         <updated>2021-10-26T15:04:47.006Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012746255&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211027&amp;page=1" title="나이지리아 대통령, 디지털 화폐 'e나이라' 도입">나이지리아 대통령, 디지털 화폐 'e나이라' 도입</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[농축산서 44% 나오는데···NDC 이어 현실 무시한 메탄 감축]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003977302&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211027&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003977302&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211027&amp;page=1"/>
-        <updated>2021-10-26T15:04:47.007Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003977302&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211027&amp;page=1" title="농축산서 44% 나오는데···NDC 이어 현실 무시한 메탄 감축">농축산서 44% 나오는데···NDC 이어 현실 무시한 메탄 감축</a>]]></content>
     </entry>
 </feed>
