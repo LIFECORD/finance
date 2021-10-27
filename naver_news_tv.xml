@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-10-27T04:11:32.634Z</updated>
+    <updated>2021-10-27T05:06:04.659Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[경제 톡톡톡]80만 소상공인에 2조4천억 지급…손실보상 신청 접수 시작]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000216935&amp;office_id=449&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211027&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000216935&amp;office_id=449&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211027&amp;page=1"/>
+        <updated>2021-10-27T05:05:00.151Z</updated>
+        <content type="html"><![CDATA[채널A]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[오늘의 경제지표] 코스피, 외인·기관 순매도에 하락...3,020선 후퇴]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001657663&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211027&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000929741&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211027&amp;page=1"/>
         <updated>2021-10-27T00:37:00.000Z</updated>
         <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소상공인 손실보상금 오늘부터 신청…“제외 업종도 금융 지원책 마련”]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0011145199&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211027&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011145199&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211027&amp;page=1"/>
-        <updated>2021-10-27T00:32:00.000Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
