@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-10-27T17:14:27.638Z</updated>
+    <updated>2021-10-27T18:07:12.071Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -11,20 +11,6 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000112978&amp;office_id=629&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-27T16:11:03.648Z</updated>
         <content type="html"><![CDATA[더팩트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공모 흥행 대박 카카오페이…'따상' 좌우할 변수는?]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005071625&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005071625&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-27T16:11:03.647Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[글로벌 상승랠리 속 韓증시 소외…"경기 이기는株 찾아라"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005071630&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005071630&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-27T16:11:03.651Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GM, 반도체 부족에 3분기 이익 40%↓…"4년내로 테슬라 잡..]]></title>
@@ -39,5 +25,26 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005071631&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-27T16:11:03.655Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[글로벌 상승랠리 속 韓증시 소외…"경기 이기는株 찾아라"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005071630&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005071630&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-27T16:11:03.651Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[공모 흥행 대박 카카오페이…'따상' 좌우할 변수는?]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005071625&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005071625&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-27T16:11:03.647Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[유럽증시] ECB 금리결정 앞두고 소폭 약세]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012752093&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012752093&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-28T01:59:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
