@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=404</id>
     <title>네이버 금융 ─ 뉴스 ─ 채권 선물</title>
-    <updated>2021-10-28T22:05:30.985Z</updated>
+    <updated>2021-10-28T23:06:25.226Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[국내 주식형 펀드 자금, 7거래일 연속 순유입]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005072966&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211029&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005072966&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211029&amp;page=1"/>
+        <updated>2021-10-28T23:04:51.453Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005072966&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211029&amp;page=1" title="국내 주식형 펀드 자금, 7거래일 연속 순유입">국내 주식형 펀드 자금, 7거래일 연속 순유입</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[친환경 ETF 쏟아진다…탄소배출권 이어 기후변화에 투자]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005072909&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211029&amp;page=1</id>
@@ -60,12 +67,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012754587&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211029&amp;page=1"/>
         <updated>2021-10-28T15:04:30.550Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012754587&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211029&amp;page=1" title="당국 개입에 국고채 금리 급등세 진정…3년물 연 2.017%로 하락(종합)">당국 개입에 국고채 금리 급등세 진정…3년물 연 2.017%로 하락(종합)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[표]주가지수선물 투자자별 매매동향(10/28)]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005072742&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211029&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005072742&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211029&amp;page=1"/>
-        <updated>2021-10-28T15:04:30.551Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005072742&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211029&amp;page=1" title="[표]주가지수선물 투자자별 매매동향(10/28)">[표]주가지수선물 투자자별 매매동향(10/28)</a>]]></content>
     </entry>
 </feed>
