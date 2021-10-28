@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-10-28T13:15:50.262Z</updated>
+    <updated>2021-10-28T14:07:26.850Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[저축은행 대출·카드론도 축소…회사도 고객도 '비상']]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000511391&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211028&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000511391&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211028&amp;page=1"/>
+        <updated>2021-10-28T14:06:21.377Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[밤 9시까지 1,930명 확진…내일 2,100명대 예상]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000511390&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211028&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000511390&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211028&amp;page=1"/>
+        <updated>2021-10-28T14:06:21.377Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[포커스] 분양가 22억?…아파트 규제에 고삐 풀린 오피스텔]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000342637&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211028&amp;page=1</id>
@@ -60,19 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001617521&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211028&amp;page=1"/>
         <updated>2021-10-28T12:09:49.177Z</updated>
         <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경유차 필수품 '요소수' 품귀…물류대란 우려]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000930075&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211028&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000930075&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211028&amp;page=1"/>
-        <updated>2021-10-28T12:09:49.180Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중국발 요소수 품귀 현상…화물차 운행 올스톱 위기]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000217032&amp;office_id=449&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211028&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000217032&amp;office_id=449&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211028&amp;page=1"/>
-        <updated>2021-10-28T12:09:49.184Z</updated>
-        <content type="html"><![CDATA[채널A]]></content>
     </entry>
 </feed>
