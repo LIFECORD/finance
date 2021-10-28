@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=401</id>
     <title>네이버 금융 ─ 뉴스 ─ 시황·전망</title>
-    <updated>2021-10-28T15:06:00.441Z</updated>
+    <updated>2021-10-28T16:09:24.969Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사진] 기업 실적 좋은데 주가는 왜 이러지 …]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003146438&amp;office_id=025&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211029&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003146438&amp;office_id=025&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211029&amp;page=1"/>
+        <updated>2021-10-28T16:07:40.730Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003146438&amp;office_id=025&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211029&amp;page=1" title="[사진] 기업 실적 좋은데 주가는 왜 이러지 …">[사진] 기업 실적 좋은데 주가는 왜 이러지 …</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['고유가' S-OIL 5,500억 깜짝이익···현대모비스는 공급망 대란에 '울상']]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003978912&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211029&amp;page=1</id>
@@ -60,12 +67,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004871269&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211029&amp;page=1"/>
         <updated>2021-10-28T15:04:12.536Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004871269&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211029&amp;page=1" title="[레이더M] 쓱닷컴, IPO 대표 주관사에 '미래에셋·씨티증권'">[레이더M] 쓱닷컴, IPO 대표 주관사에 '미래에셋·씨티증권'</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[실적 배당형 10.6%, 원리금 보장형 1.6%...수익률 격차 확대]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003978867&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211029&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003978867&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211029&amp;page=1"/>
-        <updated>2021-10-28T15:04:12.537Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003978867&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211029&amp;page=1" title="실적 배당형 10.6%, 원리금 보장형 1.6%...수익률 격차 확대">실적 배당형 10.6%, 원리금 보장형 1.6%...수익률 격차 확대</a>]]></content>
     </entry>
 </feed>

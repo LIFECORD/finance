@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=404</id>
     <title>네이버 금융 ─ 뉴스 ─ 채권 선물</title>
-    <updated>2021-10-28T15:06:00.404Z</updated>
+    <updated>2021-10-28T16:09:24.978Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[친환경 ETF 쏟아진다…탄소배출권 이어 기후변화에 투자]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005072909&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211029&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005072909&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211029&amp;page=1"/>
+        <updated>2021-10-28T16:07:58.053Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005072909&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211029&amp;page=1" title="친환경 ETF 쏟아진다…탄소배출권 이어 기후변화에 투자">친환경 ETF 쏟아진다…탄소배출권 이어 기후변화에 투자</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ECB, 금리 동결…라가르드 "가까운 장래에 인상 개시 않을 것"(종합)]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012755151&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211029&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012755151&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211029&amp;page=1"/>
+        <updated>2021-10-28T16:07:58.054Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012755151&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211029&amp;page=1" title="ECB, 금리 동결…라가르드 &quot;가까운 장래에 인상 개시 않을 것&quot;(종합)">ECB, 금리 동결…라가르드 "가까운 장래에 인상 개시 않을 것"(종합)</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ECB, 기준금리 동결…코로나19대응 채권매입 속도 유지(종합)]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0012755071&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211029&amp;page=1</id>
@@ -53,12 +67,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005072742&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211029&amp;page=1"/>
         <updated>2021-10-28T15:04:30.551Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005072742&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211029&amp;page=1" title="[표]주가지수선물 투자자별 매매동향(10/28)">[표]주가지수선물 투자자별 매매동향(10/28)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[표]거래소주가지수선물·옵션시세표(10/28)]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005072741&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211029&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005072741&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211029&amp;page=1"/>
-        <updated>2021-10-28T15:04:30.553Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005072741&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211029&amp;page=1" title="[표]거래소주가지수선물·옵션시세표(10/28)">[표]거래소주가지수선물·옵션시세표(10/28)</a>]]></content>
     </entry>
 </feed>
