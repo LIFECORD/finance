@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=429</id>
     <title>네이버 금융 ─ 뉴스 ─ 환율</title>
-    <updated>2021-10-28T21:05:51.849Z</updated>
+    <updated>2021-10-28T22:05:30.987Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지역과의 상생에 팔 걷은 한국수력원자력]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003978970&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211029&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003978970&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211029&amp;page=1"/>
+        <updated>2021-10-28T22:04:15.114Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003978970&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211029&amp;page=1" title="지역과의 상생에 팔 걷은 한국수력원자력">지역과의 상생에 팔 걷은 한국수력원자력</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[다음 달부터 한국은행 외환심사도 온라인으로 받는다]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0012755198&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211029&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003978321&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211029&amp;page=1"/>
         <updated>2021-10-28T15:04:42.042Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003978321&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211029&amp;page=1" title="탄소중립 앞장···'그린파크'로 떠오르는 환경산업연구단지">탄소중립 앞장···'그린파크'로 떠오르는 환경산업연구단지</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기고]탄소중립을 위해 플라스틱 자원순환 혁신 전략이 필요하다]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003978318&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211029&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003978318&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211029&amp;page=1"/>
-        <updated>2021-10-28T15:04:42.043Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003978318&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211029&amp;page=1" title="[기고]탄소중립을 위해 플라스틱 자원순환 혁신 전략이 필요하다">[기고]탄소중립을 위해 플라스틱 자원순환 혁신 전략이 필요하다</a>]]></content>
     </entry>
 </feed>
