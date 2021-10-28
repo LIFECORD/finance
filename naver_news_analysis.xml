@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=402</id>
     <title>네이버 금융 ─ 뉴스 ─ 기업 종목분석</title>
-    <updated>2021-10-28T20:06:28.746Z</updated>
+    <updated>2021-10-28T21:05:51.821Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[네이처지 "코로나19 초기 TGF 베타 분비 억제, NK세포로 중증 막을 수 있어"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004730905&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211029&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004730905&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211029&amp;page=1"/>
+        <updated>2021-10-28T21:04:02.911Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004730905&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211029&amp;page=1" title="네이처지 &quot;코로나19 초기 TGF 베타 분비 억제, NK세포로 중증 막을 수 있어&quot;">네이처지 "코로나19 초기 TGF 베타 분비 억제, NK세포로 중증 막을 수 있어"</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[호재 쌓인 정유株…난방 수요 증가에 '리오프닝' 수혜까지]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004663274&amp;office_id=008&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211029&amp;page=1</id>
@@ -60,12 +67,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004663201&amp;office_id=008&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211029&amp;page=1"/>
         <updated>2021-10-28T15:04:19.613Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004663201&amp;office_id=008&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211029&amp;page=1" title="디어유, 기관 수요예측 2001대1 &quot;코스닥 역사상 3위 경쟁률&quot;">디어유, 기관 수요예측 2001대1 "코스닥 역사상 3위 경쟁률"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연기금도 손절한 셀트리온… 결국 '시총 톱10' 밖으로]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004730811&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211029&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004730811&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211029&amp;page=1"/>
-        <updated>2021-10-28T15:04:19.616Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004730811&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211029&amp;page=1" title="연기금도 손절한 셀트리온… 결국 '시총 톱10' 밖으로">연기금도 손절한 셀트리온… 결국 '시총 톱10' 밖으로</a>]]></content>
     </entry>
 </feed>
