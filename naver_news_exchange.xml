@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=429</id>
     <title>네이버 금융 ─ 뉴스 ─ 환율</title>
-    <updated>2021-10-28T09:05:46.400Z</updated>
+    <updated>2021-10-28T10:07:03.303Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[글로벌 신자원 전쟁 중인데···석유公, 멕시코만 유전도 매각 추진]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003978905&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211028&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003978905&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211028&amp;page=1"/>
+        <updated>2021-10-28T10:05:34.929Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003978905&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211028&amp;page=1" title="글로벌 신자원 전쟁 중인데···석유公, 멕시코만 유전도 매각 추진">글로벌 신자원 전쟁 중인데···석유公, 멕시코만 유전도 매각 추진</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[원/달러 환율 하락…1,169.7원에 마감]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0012754385&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211028&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003978301&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211028&amp;page=1"/>
         <updated>2021-10-27T15:05:53.707Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003978301&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211028&amp;page=1" title="ESS 보조금에···4배 비싸진 태양광발전">ESS 보조금에···4배 비싸진 태양광발전</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['솔라시도'서도 못맞춘 태양광 경제성..원전보다 11배 비싸]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003978299&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211028&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003978299&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211028&amp;page=1"/>
-        <updated>2021-10-27T15:05:53.709Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003978299&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211028&amp;page=1" title="'솔라시도'서도 못맞춘 태양광 경제성..원전보다 11배 비싸">'솔라시도'서도 못맞춘 태양광 경제성..원전보다 11배 비싸</a>]]></content>
     </entry>
 </feed>
