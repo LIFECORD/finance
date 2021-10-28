@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=404</id>
     <title>네이버 금융 ─ 뉴스 ─ 채권 선물</title>
-    <updated>2021-10-28T01:49:11.365Z</updated>
+    <updated>2021-10-28T02:21:39.359Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[훨훨 나는 게임주 ETF…이달에만 20% 이상 상승]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004870889&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211028&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004870889&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211028&amp;page=1"/>
+        <updated>2021-10-28T02:20:06.633Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004870889&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211028&amp;page=1" title="훨훨 나는 게임주 ETF…이달에만 20% 이상 상승">훨훨 나는 게임주 ETF…이달에만 20% 이상 상승</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NH아문디운용, 'HANARO KRX 기후변화솔루션 ETF' 29일 상장]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005071776&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211028&amp;page=1</id>
@@ -39,12 +46,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000993073&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211028&amp;page=1"/>
         <updated>2021-10-27T15:05:41.854Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000993073&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211028&amp;page=1" title="3년물 국고채 금리 상승…3년 만에 2% 돌파">3년물 국고채 금리 상승…3년 만에 2% 돌파</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3년물 국고채 금리, 3년만에 2% 돌파…기준금리 인상 전망 반영(종합)]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0012751618&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211028&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012751618&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211028&amp;page=1"/>
-        <updated>2021-10-27T15:05:41.855Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012751618&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211028&amp;page=1" title="3년물 국고채 금리, 3년만에 2% 돌파…기준금리 인상 전망 반영(종합)">3년물 국고채 금리, 3년만에 2% 돌파…기준금리 인상 전망 반영(종합)</a>]]></content>
     </entry>
 </feed>
