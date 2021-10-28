@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-10-28T06:07:49.018Z</updated>
+    <updated>2021-10-28T07:06:48.518Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[특징주]아이패밀리에스씨 8%대 급락…장중 공모가 근접]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005072213&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005072213&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-28T06:06:35.880Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주]삼성전자 사상최대 실적에 상승 전환]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005072274&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005072274&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-28T07:05:32.958Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[특징주]덕우전자, 애플 재생에너지 협력사 선정에 강세]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004730366&amp;office_id=014&amp;mode=RANK&amp;typ=0</id>
@@ -34,11 +48,11 @@
         <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[특징주]아이패밀리에스씨 8%대 급락…장중 공모가 근접]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005072213&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005072213&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-28T06:06:35.880Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
+        <title type="html"><![CDATA[머니투데이 오프라인 헤드라인-28일]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004662657&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004662657&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-28T03:33:00.000Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[특징주] 롯데정보통신, 메타버스 플랫폼 사업 본격화 소식에 강..]]></title>
@@ -46,13 +60,6 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000748450&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-28T06:06:35.881Z</updated>
         <content type="html"><![CDATA[머니S]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[머니투데이 오프라인 헤드라인-28일]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004662657&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004662657&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-28T03:33:00.000Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[비트코인 ETF 열정 사라져...5% 급락한 5만8000달러대(..]]></title>
@@ -172,12 +179,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004621599&amp;office_id=015&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-28T07:03:00.000Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[특징주] SK바이오사이언스, 英 노바백스 백신 승인 기대감에 ..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000748435&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000748435&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-28T06:06:35.899Z</updated>
-        <content type="html"><![CDATA[머니S]]></content>
     </entry>
 </feed>
