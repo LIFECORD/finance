@@ -2,23 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-10-28T14:07:26.859Z</updated>
+    <updated>2021-10-28T15:06:00.420Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[하나은행, 광해광업공단과 지역상생 ESG공동 추진]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000637831&amp;office_id=469&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000637831&amp;office_id=469&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-28T12:09:34.953Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구현모 KT 대표 "라우팅작업 주간에 해서 사고…약관 개정도 논..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001617525&amp;office_id=057&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001617525&amp;office_id=057&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-28T13:14:31.337Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[한은, 내달 통안증권 발행 6.6조원으로 변경]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0002703382&amp;office_id=029&amp;mode=RANK&amp;typ=0</id>
@@ -55,25 +41,11 @@
         <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[삼성重 유증에 삼성전자·생명·전기 등 6개 계열사 참여]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004990842&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004990842&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-28T12:09:34.947Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[회계법인 연매출 4조 돌파… 감사인등록제에 영향력 확대]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0002703383&amp;office_id=029&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0002703383&amp;office_id=029&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-28T12:09:34.929Z</updated>
         <content type="html"><![CDATA[디지털타임스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[시그널] 회사채 참패한 더블유게임즈, CP로 실탄 확보 재도전]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003978939&amp;office_id=011&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003978939&amp;office_id=011&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-28T13:14:31.332Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[현대차증권, 연간 영업익 1500억 눈앞]]></title>
@@ -125,13 +97,6 @@
         <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[유럽중앙은행, 기준금리 0% 동결…코로나대응 채권매입 속도 낮춰]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005072872&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005072872&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-28T14:06:07.207Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[‘성균관스캔들’ 제작사 래몽래인, 코스닥 상장 심사 통과]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000770062&amp;office_id=366&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000770062&amp;office_id=366&amp;mode=RANK&amp;typ=0"/>
@@ -179,5 +144,40 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000637815&amp;office_id=469&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-28T11:04:13.392Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[머니투데이 오프라인 헤드라인-28일]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004662657&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004662657&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-28T03:33:00.000Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 롯데정보통신, 메타버스 플랫폼 사업 본격화 소식에 강..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000748450&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000748450&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-28T15:04:47.961Z</updated>
+        <content type="html"><![CDATA[머니S]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주]아이패밀리에스씨 8%대 급락…장중 공모가 근접]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005072213&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005072213&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-28T15:04:47.961Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[거래소 “엔켐, 내달 1일 코스닥 상장”]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005072845&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005072845&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-28T15:04:47.962Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[비트코인 ETF 열정 사라져...5% 급락한 5만8000달러대(..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005685665&amp;office_id=421&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005685665&amp;office_id=421&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-28T05:57:00.000Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
