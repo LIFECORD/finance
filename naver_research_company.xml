@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/research/company_list.naver</id>
     <title>네이버 금융 ─ 리서치 ─ 종목분석 리포트</title>
-    <updated>2021-10-28T02:21:39.484Z</updated>
+    <updated>2021-10-28T03:06:46.530Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/research/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[일회성 이슈가 컸던 3분기 실적]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/company/1635389992525.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1635389992525.pdf"/>
+        <updated>2021-10-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[삼성물산]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3분기 기대이상, 4분기 계절성 최소화]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/company/1635389932975.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1635389932975.pdf"/>
+        <updated>2021-10-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[삼성전기]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3분기 부정적 변수가 많았다, 4분기 증익 기..]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/company/1635389869479.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1635389869479.pdf"/>
+        <updated>2021-10-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[LG디스플레이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[중국 규제 강화로 반사 수혜. 분리막 PE 성장..]]></title>
         <id>https://ssl.pstatic.net/imgstock/upload/research/company/1635299684352.pdf</id>
@@ -193,26 +214,5 @@
         <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1634868940552.pdf"/>
         <updated>2021-10-22T00:00:00.000Z</updated>
         <content type="html"><![CDATA[포스코케미칼]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노무비 부담 4분기부터 완화 기대]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/company/1634868697163.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1634868697163.pdf"/>
-        <updated>2021-10-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[한전KPS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[병목현상 우려되는 시기에 영업이익 선방]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/company/1634868609980.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1634868609980.pdf"/>
-        <updated>2021-10-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[한미반도체]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엄청난 실적개선 대비 과도한 저평가 구간!]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/company/1634868522106.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1634868522106.pdf"/>
-        <updated>2021-10-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[세아제강]]></content>
     </entry>
 </feed>
