@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-10-28T04:08:21.690Z</updated>
+    <updated>2021-10-28T05:06:31.709Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[흔들리는 '페이스북' 사모으는 서학개미...빅테크 사랑 여전[서학개미는 지금]]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003978616&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211028&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003978616&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211028&amp;page=1"/>
+        <updated>2021-10-28T05:04:32.742Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003978616&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211028&amp;page=1" title="흔들리는 '페이스북' 사모으는 서학개미...빅테크 사랑 여전[서학개미는 지금]">흔들리는 '페이스북' 사모으는 서학개미...빅테크 사랑 여전[서학개미는 지금]</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독] "역사 바꿨다" 엔비디아, TSMC 제치고 반도체 시총 1위]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004621768&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211028&amp;page=1</id>
@@ -46,12 +53,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005071924&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211028&amp;page=1"/>
         <updated>2021-10-28T01:47:26.810Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005071924&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211028&amp;page=1" title="테슬라로 7조원 번 배론캐피털 “10년 더 보유할 것”">테슬라로 7조원 번 배론캐피털 “10년 더 보유할 것”</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["배당금 지급 부활"…1년반 만에 포드 웃었다]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000993199&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211028&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000993199&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211028&amp;page=1"/>
-        <updated>2021-10-28T01:47:26.813Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000993199&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211028&amp;page=1" title="&quot;배당금 지급 부활&quot;…1년반 만에 포드 웃었다">"배당금 지급 부활"…1년반 만에 포드 웃었다</a>]]></content>
     </entry>
 </feed>

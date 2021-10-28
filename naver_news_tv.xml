@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-10-28T04:08:21.693Z</updated>
+    <updated>2021-10-28T05:06:31.744Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[김대호의 경제읽기] 삼성바이오로직스 '위탁 생산' 모더나 백신 첫 출하]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000511307&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211028&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000511307&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211028&amp;page=1"/>
+        <updated>2021-10-28T05:05:19.229Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[경제 톡톡톡]전세대출 ‘상승분만, 잔금일 전’…대출규제에 세입자 불안]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000216996&amp;office_id=449&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211028&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000216996&amp;office_id=449&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211028&amp;page=1"/>
+        <updated>2021-10-28T05:05:19.230Z</updated>
+        <content type="html"><![CDATA[채널A]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[방향지시등·브레이크 결함…현대차 등 33만대 리콜]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000511303&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211028&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000511303&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211028&amp;page=1"/>
+        <updated>2021-10-28T05:05:19.233Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[삼성전자 3분기 사상 최대 74조 매출 기록]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000511302&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211028&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000511302&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211028&amp;page=1"/>
+        <updated>2021-10-28T05:05:19.233Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[오늘의 경제지표] 외인 vs 개인·기관...코스피, '게걸음' 장세]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001658123&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211028&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001658123&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211028&amp;page=1"/>
+        <updated>2021-10-28T05:05:19.234Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[완전자율주행 첫 단계 ‘레벨4’ 도로운행 성공]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0011146059&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211028&amp;page=1</id>
@@ -39,40 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000511282&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211028&amp;page=1"/>
         <updated>2021-10-28T00:23:00.000Z</updated>
         <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[손실보상 신청 이틀째…오늘은 사업자 번호 '짝수']]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000511280&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211028&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000511280&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211028&amp;page=1"/>
-        <updated>2021-10-28T00:20:00.000Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코스피·코스닥 보합권‥삼성전기 3% 넘게 상승]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001156536&amp;office_id=214&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211028&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001156536&amp;office_id=214&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211028&amp;page=1"/>
-        <updated>2021-10-28T00:15:00.000Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[불법 스팸 발송 사업자, 모든 번호 이용정지]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001156529&amp;office_id=214&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211028&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001156529&amp;office_id=214&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211028&amp;page=1"/>
-        <updated>2021-10-28T00:09:00.000Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘은행사칭’ 불법스팸문자 81% 급증…유선·인터넷전화 5개까지만 허용]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000262448&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211028&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000262448&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211028&amp;page=1"/>
-        <updated>2021-10-28T11:54:00.000Z</updated>
-        <content type="html"><![CDATA[SBS Biz]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임세령 대상 부회장, 경영보폭 넓힌다…축산물 유통업체 인수]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000262445&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211028&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000262445&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211028&amp;page=1"/>
-        <updated>2021-10-28T11:52:00.000Z</updated>
-        <content type="html"><![CDATA[SBS Biz]]></content>
     </entry>
 </feed>
