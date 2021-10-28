@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-10-28T00:19:39.861Z</updated>
+    <updated>2021-10-28T01:49:11.382Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -104,13 +104,6 @@
         <content type="html"><![CDATA[한국경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[삼성전기, 고부가 사업 부문이 성장 견인-KB]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005071696&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005071696&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-28T07:46:00.000Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[차익 매물에 다우·S&P 하락…알파벳 4.9%↑ [출근전 꼭 글..]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000993120&amp;office_id=215&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000993120&amp;office_id=215&amp;mode=RANK&amp;typ=0"/>
@@ -146,13 +139,6 @@
         <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["국고채 금리 급등, 스태그플레이션 가능성 반영…최고 2.3% ..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005071698&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005071698&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-28T07:50:00.000Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[클릭 e종목] 삼성물산, 실적이 기대에는 못미쳤지만..]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004990201&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004990201&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
@@ -179,5 +165,19 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004662698&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-28T07:21:00.000Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지엔씨에너지, 4차산업 성장에 IDC용 비상발전기 성장 지속]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005071718&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005071718&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-28T08:14:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주요경제지표] 2021년 10월 27일자]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003649191&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003649191&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-28T03:04:00.000Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
