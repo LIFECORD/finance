@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-10-28T12:10:59.717Z</updated>
+    <updated>2021-10-28T13:15:50.262Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[포커스] 분양가 22억?…아파트 규제에 고삐 풀린 오피스텔]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000342637&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211028&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000342637&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211028&amp;page=1"/>
+        <updated>2021-10-28T13:14:44.909Z</updated>
+        <content type="html"><![CDATA[TV조선]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[백운기의 뉴스와이드] 국민의힘 토론회 과열 / 이재명 "주4일제·음식점 총량제' / 노태..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001617528&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211028&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001617528&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211028&amp;page=1"/>
+        <updated>2021-10-28T13:14:44.909Z</updated>
+        <content type="html"><![CDATA[MBN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[채소부터 양념재료까지 '가격 급등'…김장철 괜찮나]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000342636&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211028&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000342636&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211028&amp;page=1"/>
+        <updated>2021-10-28T13:14:44.909Z</updated>
+        <content type="html"><![CDATA[TV조선]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[문화재위 ‘장릉 앞 아파트’ 심의 보류…입주민만 ‘속앓이’]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000217037&amp;office_id=449&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211028&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000217037&amp;office_id=449&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211028&amp;page=1"/>
+        <updated>2021-10-28T13:14:44.909Z</updated>
+        <content type="html"><![CDATA[채널A]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가을만 되면 '뒷심 부족'에 우는 울산…홍명보 "이번에는 다르다"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001617526&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211028&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001617526&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211028&amp;page=1"/>
+        <updated>2021-10-28T13:14:44.909Z</updated>
+        <content type="html"><![CDATA[MBN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[구현모 KT 대표 "라우팅작업 주간에 해서 사고…약관 개정도 논의"]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001617525&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211028&amp;page=1</id>
@@ -39,40 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000217032&amp;office_id=449&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211028&amp;page=1"/>
         <updated>2021-10-28T12:09:49.184Z</updated>
         <content type="html"><![CDATA[채널A]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["고기보다 비싸요"…채솟값 급등에 외식업체 곤혹]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000930074&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211028&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000930074&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211028&amp;page=1"/>
-        <updated>2021-10-28T12:09:49.185Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['황무성 사퇴 압박' 유한기, 대장동팀서 2억 뇌물 받았나]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001617519&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211028&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001617519&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211028&amp;page=1"/>
-        <updated>2021-10-28T12:09:49.186Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오후 6시까지 1,726명 확진…어제보다 50명↑]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000511375&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211028&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000511375&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211028&amp;page=1"/>
-        <updated>2021-10-28T12:09:49.188Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[11월부터 50대·얀센 접종자도 부스터샷 접종]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001617518&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211028&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001617518&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211028&amp;page=1"/>
-        <updated>2021-10-28T12:09:49.190Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] "근로환경 열악" 폭로 이후 '사상·신념' 수집]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000930068&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211028&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000930068&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211028&amp;page=1"/>
-        <updated>2021-10-28T12:09:49.191Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>

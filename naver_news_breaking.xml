@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS2D&amp;section_id=101&amp;section_id2=258</id>
     <title>네이버 금융 ─ 뉴스 ─ 실시간 속보</title>
-    <updated>2021-10-28T12:10:59.712Z</updated>
+    <updated>2021-10-28T13:15:50.233Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[ECB, 기준금리 동결…코로나19대응 채권매입 속도 유지(종합)]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012755071&amp;office_id=001&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211028&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012755071&amp;office_id=001&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211028&amp;page=1"/>
+        <updated>2021-10-28T13:13:36.759Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012755071&amp;office_id=001&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211028&amp;page=1" title="ECB, 기준금리 동결…코로나19대응 채권매입 속도 유지(종합)">ECB, 기준금리 동결…코로나19대응 채권매입 속도 유지(종합)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유럽중앙은행, 기준금리 0% 동결…코로나대응 채권매입 속도 낮춰]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005072872&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211028&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005072872&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211028&amp;page=1"/>
+        <updated>2021-10-28T13:13:36.761Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005072872&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211028&amp;page=1" title="유럽중앙은행, 기준금리 0% 동결…코로나대응 채권매입 속도 낮춰">유럽중앙은행, 기준금리 0% 동결…코로나대응 채권매입 속도 낮춰</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[구현모 KT 대표 "라우팅작업 주간에 해서 사고…약관 개정도 논의"]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001617525&amp;office_id=057&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211028&amp;page=1</id>
@@ -53,12 +67,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0002703385&amp;office_id=029&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211028&amp;page=1"/>
         <updated>2021-10-28T11:03:23.975Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0002703385&amp;office_id=029&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211028&amp;page=1" title="내달 18일 상장 NH올원리츠 &quot;3년내 운용자산 1조원 달성&quot;">내달 18일 상장 NH올원리츠 "3년내 운용자산 1조원 달성"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리銀 WON뱅킹 앱서 유안타증권 계좌 개설]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0002703384&amp;office_id=029&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211028&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0002703384&amp;office_id=029&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211028&amp;page=1"/>
-        <updated>2021-10-28T11:03:23.977Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0002703384&amp;office_id=029&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211028&amp;page=1" title="우리銀 WON뱅킹 앱서 유안타증권 계좌 개설">우리銀 WON뱅킹 앱서 유안타증권 계좌 개설</a>]]></content>
     </entry>
 </feed>
