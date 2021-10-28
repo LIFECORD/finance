@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-10-28T10:07:03.302Z</updated>
+    <updated>2021-10-28T11:05:22.975Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[표]아시아 주요 증시 동향(10월 28일)]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003978923&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211028&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003978923&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211028&amp;page=1"/>
+        <updated>2021-10-28T11:03:47.427Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003978923&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211028&amp;page=1" title="[표]아시아 주요 증시 동향(10월 28일)">[표]아시아 주요 증시 동향(10월 28일)</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[글로벌 핫스톡] 테슬라, 전기차 설계·제조·SW 혁신···주가도 '도약']]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003978903&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211028&amp;page=1</id>
@@ -53,12 +60,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004871146&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211028&amp;page=1"/>
         <updated>2021-10-28T09:04:13.807Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004871146&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211028&amp;page=1" title="메타버스 올인한 페북…월가는 &quot;페북 말고 스냅·AMD 사라&quot; [자이앤트월드]">메타버스 올인한 페북…월가는 "페북 말고 스냅·AMD 사라" [자이앤트월드]</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[테슬라 주가 치솟자…美 온라인 중고차 주식이 뜬다고?]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004871144&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211028&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004871144&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211028&amp;page=1"/>
-        <updated>2021-10-28T09:04:13.808Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004871144&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211028&amp;page=1" title="테슬라 주가 치솟자…美 온라인 중고차 주식이 뜬다고?">테슬라 주가 치솟자…美 온라인 중고차 주식이 뜬다고?</a>]]></content>
     </entry>
 </feed>
