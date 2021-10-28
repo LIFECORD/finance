@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-10-28T17:13:27.919Z</updated>
+    <updated>2021-10-28T18:06:26.288Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[친환경 ETF 쏟아진다…탄소배출권 이어 기후변화에 투자]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005072909&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005072909&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-28T16:08:15.889Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[M&A 깡새우 전성시대]'고래 한번 삼켜보렵니다'…M&A 나선..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005072906&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005072906&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-28T16:08:15.886Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사진] 기업 실적 좋은데 주가는 왜 이러지 …]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003146438&amp;office_id=025&amp;mode=RANK&amp;typ=0</id>
@@ -27,11 +41,18 @@
         <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[M&A 깡새우 전성시대]'고래 한번 삼켜보렵니다'…M&A 나선..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005072906&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005072906&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-28T16:08:15.886Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
+        <title type="html"><![CDATA[베트남, 올 10월까지 외국인직접투자 자본지출 4.1% 감소 [..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000993386&amp;office_id=215&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000993386&amp;office_id=215&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-29T01:07:00.000Z</updated>
+        <content type="html"><![CDATA[한국경제TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국제인권단체 앰네스티, 홍콩사무소 폐쇄…홍콩보안법 위협 [KVI..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000993385&amp;office_id=215&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000993385&amp;office_id=215&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-29T01:05:00.000Z</updated>
+        <content type="html"><![CDATA[한국경제TV]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[M&A 깡새우 전성시대]인수 후에도 투자 필수…관건은 자금 마..]]></title>
@@ -48,31 +69,17 @@
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[친환경 ETF 쏟아진다…탄소배출권 이어 기후변화에 투자]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005072909&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005072909&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-28T16:08:15.889Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국제인권단체 앰네스티, 홍콩사무소 폐쇄…홍콩보안법 위협 [KVI..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000993385&amp;office_id=215&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000993385&amp;office_id=215&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-29T01:05:00.000Z</updated>
-        <content type="html"><![CDATA[한국경제TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베트남, 올 10월까지 외국인직접투자 자본지출 4.1% 감소 [..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000993386&amp;office_id=215&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000993386&amp;office_id=215&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-29T01:07:00.000Z</updated>
-        <content type="html"><![CDATA[한국경제TV]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[당분간 가치株가 간다…어떤 종목 담을까]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005072910&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005072910&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-29T01:31:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[마켓인]환경 포트폴리오 쌓은 PEF, 출자사업서 '두각']]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005072911&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005072911&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-29T02:01:00.000Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
