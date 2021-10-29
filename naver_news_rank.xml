@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-10-29T12:09:52.066Z</updated>
+    <updated>2021-10-29T13:16:19.570Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[빛샘전자, LG유플러스와 광탭 단가 계약 체결]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005073768&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005073768&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-29T11:04:15.181Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KG이니시스, 3분기 매출액 2507억원 달성…'사상 최대']]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000631891&amp;office_id=031&amp;mode=RANK&amp;typ=0</id>
@@ -13,32 +20,11 @@
         <content type="html"><![CDATA[아이뉴스24]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['亞 고전'에 아모레G 3분기 부진…연말 '보복 소비'로 실적 ..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005690452&amp;office_id=421&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005690452&amp;office_id=421&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-29T10:06:46.895Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[순이익이 겨우 요만큼?…더존비즈온, 회계 참사에 18% 급락]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004663719&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004663719&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-29T11:04:15.175Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KH 필룩스, 조명·부품 등 주력 사업 사상 최대 실적 예상]]></title>
+        <title type="html"><![CDATA[KH 필룩스, 조명·부품 등 주력 사업 안정적 성장세 예상]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004731281&amp;office_id=014&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004731281&amp;office_id=014&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-29T11:04:15.171Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남양유업, 김승언 경영지배인 선임..비상체제로]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005073762&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005073762&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-29T11:04:15.170Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[브랜드엑스코퍼레이션, 별도 3분기 영업이익 60억원…전년比 12..]]></title>
@@ -55,25 +41,11 @@
         <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[KG모빌리언스, 3분기 영업이익 124억원…전년比 2.69%↓]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005073769&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005073769&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-29T11:04:15.172Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SBI핀테크솔루션즈, 3분기 영업이익 11억원…전년比 79.0%..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005073767&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005073767&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-29T11:04:15.176Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빛샘전자, LG유플러스와 광탭 단가 계약 체결]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005073768&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005073768&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-29T11:04:15.181Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
+        <title type="html"><![CDATA[KT 먹통은 'EXIT' 명령어 누락 때문…관리자도 안 둬]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001617770&amp;office_id=057&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001617770&amp;office_id=057&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-29T12:08:39.410Z</updated>
+        <content type="html"><![CDATA[MBN]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[KH 필룩스, 전기차 인덕터로 1400억원 매출 기대 "올해 사..]]></title>
@@ -83,6 +55,41 @@
         <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[남양유업, 김승언 경영지배인 선임..비상체제로]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005073762&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005073762&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-29T11:04:15.170Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[순이익이 겨우 요만큼?…더존비즈온, 회계 참사에 18% 급락]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004663719&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004663719&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-29T11:04:15.175Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SBI핀테크솔루션즈, 3분기 영업이익 11억원…전년比 79.0%..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005073767&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005073767&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-29T11:04:15.176Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KG모빌리언스, 3분기 영업이익 124억원…전년比 2.69%↓]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005073769&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005073769&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-29T11:04:15.172Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['亞 고전'에 아모레G 3분기 부진…연말 '보복 소비'로 실적 ..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005690452&amp;office_id=421&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005690452&amp;office_id=421&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-29T10:06:46.895Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[AI투자 파운트, '테마형 ETF 2종' 美 증시 상장]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0002543247&amp;office_id=119&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0002543247&amp;office_id=119&amp;mode=RANK&amp;typ=0"/>
@@ -90,11 +97,11 @@
         <content type="html"><![CDATA[데일리안]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[삼양홀딩스, 엔씨켐 인수…"반도체용 소재산업 육성"(종합)]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0012757197&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012757197&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-29T10:06:46.881Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
+        <title type="html"><![CDATA['누가 냄새 잘 맡니?'…최고 탐지견 뽑는 대회 열려]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001617781&amp;office_id=057&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001617781&amp;office_id=057&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-29T13:14:55.605Z</updated>
+        <content type="html"><![CDATA[MBN]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[특징주] 위메이드 14.18% 급등…카겜 제치고 코스닥 시총 ..]]></title>
@@ -109,13 +116,6 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000748901&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-29T06:05:40.284Z</updated>
         <content type="html"><![CDATA[머니S]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KB증권, KCGS ESG평가 지배구조부문 2년 연속 'A 등급..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0002543238&amp;office_id=119&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0002543238&amp;office_id=119&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-29T11:04:15.168Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[M&A 깡새우 전성시대]보아뱀 전략 노리는 기업들…"소화가 관..]]></title>
@@ -137,13 +137,6 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012755198&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-29T06:00:00.000Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KT 먹통은 'EXIT' 명령어 누락 때문…관리자도 안 둬]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001617770&amp;office_id=057&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001617770&amp;office_id=057&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-29T12:08:39.410Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[자비스엔지니어링·리파인, 오늘 코스닥시장 입성]]></title>
@@ -179,5 +172,12 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000748866&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-29T05:05:04.325Z</updated>
         <content type="html"><![CDATA[머니S]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1주 120만원 테슬라 주식… 단돈 3만원으로 사는 방법]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003649499&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003649499&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-29T03:06:00.000Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>

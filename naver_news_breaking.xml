@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS2D&amp;section_id=101&amp;section_id2=258</id>
     <title>네이버 금융 ─ 뉴스 ─ 실시간 속보</title>
-    <updated>2021-10-29T12:09:52.055Z</updated>
+    <updated>2021-10-29T13:16:19.551Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[쑥쑥 올라 코스닥 시총 3위된 펄어비스…이틀간 9% 급락 이유는?]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004871909&amp;office_id=009&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211029&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004871909&amp;office_id=009&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211029&amp;page=1"/>
+        <updated>2021-10-29T13:13:48.182Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004871909&amp;office_id=009&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211029&amp;page=1" title="쑥쑥 올라 코스닥 시총 3위된 펄어비스…이틀간 9% 급락 이유는?">쑥쑥 올라 코스닥 시총 3위된 펄어비스…이틀간 9% 급락 이유는?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['누가 냄새 잘 맡니?'…최고 탐지견 뽑는 대회 열려]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001617781&amp;office_id=057&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211029&amp;page=1</id>
@@ -53,12 +60,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000631891&amp;office_id=031&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211029&amp;page=1"/>
         <updated>2021-10-29T10:05:56.165Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000631891&amp;office_id=031&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211029&amp;page=1" title="KG이니시스, 3분기 매출액 2507억원 달성…'사상 최대'">KG이니시스, 3분기 매출액 2507억원 달성…'사상 최대'</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KH 필룩스, 전기차 인덕터로 1400억원 매출 기대 "올해 사상 최대 실적 예고"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004663715&amp;office_id=008&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211029&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004663715&amp;office_id=008&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211029&amp;page=1"/>
-        <updated>2021-10-29T10:05:56.167Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004663715&amp;office_id=008&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211029&amp;page=1" title="KH 필룩스, 전기차 인덕터로 1400억원 매출 기대 &quot;올해 사상 최대 실적 예고&quot;">KH 필룩스, 전기차 인덕터로 1400억원 매출 기대 "올해 사상 최대 실적 예고"</a>]]></content>
     </entry>
 </feed>
