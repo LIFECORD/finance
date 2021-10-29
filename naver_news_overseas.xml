@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-10-29T01:48:18.753Z</updated>
+    <updated>2021-10-29T02:21:55.359Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["인도 금융당국, 가상화폐 금지 대신 규제 방안 검토 중"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000993487&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211029&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000993487&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211029&amp;page=1"/>
+        <updated>2021-10-29T02:20:06.674Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000993487&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211029&amp;page=1" title="&quot;인도 금융당국, 가상화폐 금지 대신 규제 방안 검토 중&quot;">"인도 금융당국, 가상화폐 금지 대신 규제 방안 검토 중"</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스타벅스, 중국시장 부진에도 분기 순익 4.5배로 불어나]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0012755720&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211029&amp;page=1</id>
@@ -46,19 +53,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000993436&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211029&amp;page=1"/>
         <updated>2021-10-29T00:17:39.970Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000993436&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211029&amp;page=1" title="페이스북 사명 변경 후폭풍...&quot;직원 대규모 이탈 가능&quot;">페이스북 사명 변경 후폭풍..."직원 대규모 이탈 가능"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[달러 하락에 환율, 이틀째 하락해 1160원대 중후반 등락]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005073075&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211029&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005073075&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211029&amp;page=1"/>
-        <updated>2021-10-29T00:17:39.972Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005073075&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211029&amp;page=1" title="달러 하락에 환율, 이틀째 하락해 1160원대 중후반 등락">달러 하락에 환율, 이틀째 하락해 1160원대 중후반 등락</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['테슬라 대항마' 루시드 신차 초읽기...주가 47% 폭등]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000993432&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211029&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000993432&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211029&amp;page=1"/>
-        <updated>2021-10-29T00:17:39.974Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000993432&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211029&amp;page=1" title="'테슬라 대항마' 루시드 신차 초읽기...주가 47% 폭등">'테슬라 대항마' 루시드 신차 초읽기...주가 47% 폭등</a>]]></content>
     </entry>
 </feed>

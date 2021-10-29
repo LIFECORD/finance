@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=429</id>
     <title>네이버 금융 ─ 뉴스 ─ 환율</title>
-    <updated>2021-10-29T01:48:18.756Z</updated>
+    <updated>2021-10-29T02:21:55.417Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정부, 연말까지 '화학산업 경쟁력강화방안' 수립]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003979113&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211029&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003979113&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211029&amp;page=1"/>
+        <updated>2021-10-29T02:20:28.888Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003979113&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211029&amp;page=1" title="정부, 연말까지 '화학산업 경쟁력강화방안' 수립">정부, 연말까지 '화학산업 경쟁력강화방안' 수립</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지역과의 상생에 팔 걷은 한국수력원자력]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003978970&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211029&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012752372&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211029&amp;page=1"/>
         <updated>2021-10-28T15:04:42.040Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012752372&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211029&amp;page=1" title="원/달러 환율 상승 출발…1,170원대 초반서 등락">원/달러 환율 상승 출발…1,170원대 초반서 등락</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[탄소중립 앞장···'그린파크'로 떠오르는 환경산업연구단지]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003978321&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211029&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003978321&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211029&amp;page=1"/>
-        <updated>2021-10-28T15:04:42.042Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003978321&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211029&amp;page=1" title="탄소중립 앞장···'그린파크'로 떠오르는 환경산업연구단지">탄소중립 앞장···'그린파크'로 떠오르는 환경산업연구단지</a>]]></content>
     </entry>
 </feed>
