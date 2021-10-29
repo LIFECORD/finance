@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-10-29T13:16:19.583Z</updated>
+    <updated>2021-10-29T14:05:58.745Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴욕개장]애플·아마존 부진에 3대 지수 모두 하락 출발]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005690694&amp;office_id=421&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211029&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005690694&amp;office_id=421&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211029&amp;page=1"/>
+        <updated>2021-10-29T14:04:56.143Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['어닝 쇼크' 아마존, 3분기 순이익 32억달러…전년비 반토막]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000993646&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211029&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000993646&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211029&amp;page=1"/>
+        <updated>2021-10-29T14:04:56.144Z</updated>
+        <content type="html"><![CDATA[한국경제TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오일기업 쉘, 3분기 매출액 41.3억달러…전분기비 13.7억달러 감소]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000993645&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211029&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000993645&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211029&amp;page=1"/>
+        <updated>2021-10-29T14:04:56.146Z</updated>
+        <content type="html"><![CDATA[한국경제TV]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[쑥쑥 올라 코스닥 시총 3위된 펄어비스…이틀간 9% 급락 이유는?]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004871909&amp;office_id=009&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211029&amp;page=1</id>
@@ -53,26 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004731281&amp;office_id=014&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211029&amp;page=1"/>
         <updated>2021-10-29T10:06:55.627Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[시그널] 크래프톤, 美게임 개발사 5,858억에 인수]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003979348&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211029&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003979348&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211029&amp;page=1"/>
-        <updated>2021-10-29T10:06:55.628Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[효성 주요 계열사 3분기도 최대 실적…연간 이익 2조원 전망(종합)]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0012757222&amp;office_id=001&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211029&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012757222&amp;office_id=001&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211029&amp;page=1"/>
-        <updated>2021-10-29T10:06:55.629Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['亞 고전'에 아모레G 3분기 부진…연말 '보복 소비'로 실적 회복 노린다]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005690452&amp;office_id=421&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211029&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005690452&amp;office_id=421&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211029&amp;page=1"/>
-        <updated>2021-10-29T10:06:55.631Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
