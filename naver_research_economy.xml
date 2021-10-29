@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/research/economy_list.naver</id>
     <title>네이버 금융 ─ 리서치 ─ 경제분석 리포트</title>
-    <updated>2021-10-29T00:19:21.112Z</updated>
+    <updated>2021-10-29T01:48:18.760Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/research/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Today Chart:미국 경제 성장률]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/economy/1635471935558.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/economy/1635471935558.pdf"/>
+        <updated>2021-10-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[이베스트증권]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[산업활동지표 발표와 실적시즌]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/economy/1635471233871.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/economy/1635471233871.pdf"/>
+        <updated>2021-10-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[IBK투자증권]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국내외 경제이슈]]></title>
         <id>https://ssl.pstatic.net/imgstock/upload/research/economy/1635298816424.pdf</id>
@@ -199,20 +213,6 @@
         <id>https://ssl.pstatic.net/imgstock/upload/research/economy/1632966543062.pdf</id>
         <link href="https://ssl.pstatic.net/imgstock/upload/research/economy/1632966543062.pdf"/>
         <updated>2021-10-14T00:09:38.371Z</updated>
-        <content type="html"><![CDATA[케이프투자증권]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국내외 경제이슈]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/economy/1632792305881.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/economy/1632792305881.pdf"/>
-        <updated>2021-10-14T00:09:38.373Z</updated>
-        <content type="html"><![CDATA[이베스트증권]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국내외 경제이슈]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/economy/1632711333616.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/economy/1632711333616.pdf"/>
-        <updated>2021-10-14T00:09:38.375Z</updated>
         <content type="html"><![CDATA[케이프투자증권]]></content>
     </entry>
 </feed>
