@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-10-29T07:06:42.980Z</updated>
+    <updated>2021-10-29T08:07:57.744Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 위메이드 14.18% 급등…카겜 제치고 코스닥 시총 ..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012756685&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012756685&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-29T08:06:43.424Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[특징주] 미코바이오메드, 항체진단키트 부스터샷 접종 판단 여부..]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000748901&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
@@ -39,13 +46,6 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000748665&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-29T05:51:00.000Z</updated>
         <content type="html"><![CDATA[머니S]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[특징주]비덴트, 비트코인 회복세…빗썸 실적 개선 기대]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004991261&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004991261&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-29T07:05:25.733Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[미 성장률 둔화에도 뉴욕증시 고공행진…나스닥 '역대 최고']]></title>
