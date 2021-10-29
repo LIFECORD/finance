@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-10-29T17:13:04.019Z</updated>
+    <updated>2021-10-29T18:08:19.874Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주식 매매 상위 종목 및 환율] 2021년 10월 29일자]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003649667&amp;office_id=023&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211030&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003649667&amp;office_id=023&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211030&amp;page=1"/>
+        <updated>2021-10-30T03:01:00.000Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[모더나, 백신면역연합·개도국에 코로나 백신 5,650만 회분 추가 공급]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000993654&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211030&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000993654&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211030&amp;page=1"/>
+        <updated>2021-10-30T02:32:00.000Z</updated>
+        <content type="html"><![CDATA[한국경제TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[페이스북 사명변경에 'FAANG(팡)'이 'MAANG(망)' 될까[실리콘밸리 나우]]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004622555&amp;office_id=015&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211030&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004622555&amp;office_id=015&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211030&amp;page=1"/>
+        <updated>2021-10-30T02:31:00.000Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[유럽증시] 유로존 인플레 상승 우려 속 혼조 마감]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012757690&amp;office_id=001&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211030&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012757690&amp;office_id=001&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211030&amp;page=1"/>
+        <updated>2021-10-30T02:13:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주간사모펀드] IMM 프라이빗에쿼티, 하반기 두 인수전 승패 갈렸다]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000113492&amp;office_id=629&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211030&amp;page=1</id>
@@ -46,33 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000993646&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211030&amp;page=1"/>
         <updated>2021-10-29T15:06:00.237Z</updated>
         <content type="html"><![CDATA[한국경제TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오일기업 쉘, 3분기 매출액 41.3억달러…전분기비 13.7억달러 감소]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000993645&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211030&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000993645&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211030&amp;page=1"/>
-        <updated>2021-10-29T15:06:00.240Z</updated>
-        <content type="html"><![CDATA[한국경제TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쑥쑥 올라 코스닥 시총 3위된 펄어비스…이틀간 9% 급락 이유는?]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004871909&amp;office_id=009&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211030&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004871909&amp;office_id=009&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211030&amp;page=1"/>
-        <updated>2021-10-29T15:06:00.241Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI투자 파운트, '테마형 ETF 2종' 美 증시 상장]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0002543247&amp;office_id=119&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211030&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0002543247&amp;office_id=119&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211030&amp;page=1"/>
-        <updated>2021-10-29T15:06:00.244Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[표]아시아 주요 증시 동향(10월 29일)]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003979354&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211030&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003979354&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211030&amp;page=1"/>
-        <updated>2021-10-29T15:06:00.254Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
