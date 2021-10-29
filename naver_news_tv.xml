@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-10-29T22:05:26.544Z</updated>
+    <updated>2021-10-29T23:06:09.572Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[심야영업 재개·열리는 하늘길…아직은 ‘기대반 우려반’]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0011147303&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211030&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011147303&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211030&amp;page=1"/>
+        <updated>2021-10-30T07:51:00.000Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연말정산 미리보기 서비스 시작…간소화 자료 안 낸다]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0011147286&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211030&amp;page=1</id>
@@ -65,13 +72,6 @@
         <title type="html"><![CDATA[잇따른 서울 재건축 분양 연기에 '공급 빨간불']]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000342730&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211030&amp;page=1</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000342730&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211030&amp;page=1"/>
-        <updated>2021-10-29T15:06:07.396Z</updated>
-        <content type="html"><![CDATA[TV조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['상생한다더니' 식자재 유통까지 나선 대형 플랫폼]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000342731&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211030&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000342731&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211030&amp;page=1"/>
         <updated>2021-10-29T15:06:07.396Z</updated>
         <content type="html"><![CDATA[TV조선]]></content>
     </entry>
