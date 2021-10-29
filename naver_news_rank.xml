@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-10-29T18:08:19.896Z</updated>
+    <updated>2021-10-29T19:06:08.779Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -25,5 +25,19 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000993654&amp;office_id=215&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-30T02:32:00.000Z</updated>
         <content type="html"><![CDATA[한국경제TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주식 매매 상위 종목 및 환율] 2021년 10월 29일자]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003649667&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003649667&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-30T03:01:00.000Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[부꾸미]무조건 연 16.5% 버는 법…연금계좌 활용 '꿀팁']]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004663776&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004663776&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-30T03:30:00.000Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
