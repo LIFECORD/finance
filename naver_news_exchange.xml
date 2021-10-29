@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=429</id>
     <title>네이버 금융 ─ 뉴스 ─ 환율</title>
-    <updated>2021-10-29T05:06:20.948Z</updated>
+    <updated>2021-10-29T06:07:05.486Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안성시, 청소년 1인당 10만원 교육재난지원금 내달 접수 시작]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012756434&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211029&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012756434&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211029&amp;page=1"/>
+        <updated>2021-10-29T06:05:33.618Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012756434&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211029&amp;page=1" title="안성시, 청소년 1인당 10만원 교육재난지원금 내달 접수 시작">안성시, 청소년 1인당 10만원 교육재난지원금 내달 접수 시작</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정부, 연말까지 '화학산업 경쟁력강화방안' 수립]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003979113&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211029&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012752411&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211029&amp;page=1"/>
         <updated>2021-10-28T15:04:42.039Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012752411&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211029&amp;page=1" title="삼척시, 카드형 지역화폐 10% 캐시백 특별판매 연장">삼척시, 카드형 지역화폐 10% 캐시백 특별판매 연장</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원/달러 환율 상승 출발…1,170원대 초반서 등락]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0012752372&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211029&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012752372&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211029&amp;page=1"/>
-        <updated>2021-10-28T15:04:42.040Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012752372&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211029&amp;page=1" title="원/달러 환율 상승 출발…1,170원대 초반서 등락">원/달러 환율 상승 출발…1,170원대 초반서 등락</a>]]></content>
     </entry>
 </feed>
