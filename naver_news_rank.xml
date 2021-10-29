@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-10-29T20:06:09.482Z</updated>
+    <updated>2021-10-29T21:05:21.538Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주식 매매 상위 종목 및 환율] 2021년 10월 29일자]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003649667&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003649667&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-30T03:01:00.000Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[모더나, 백신면역연합·개도국에 코로나 백신 5,650만 회분 추..]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000993654&amp;office_id=215&amp;mode=RANK&amp;typ=0</id>
@@ -20,11 +27,11 @@
         <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[주식 매매 상위 종목 및 환율] 2021년 10월 29일자]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003649667&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003649667&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-30T03:01:00.000Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
+        <title type="html"><![CDATA[[부꾸미]무조건 연 16.5% 버는 법…연금계좌 활용 '꿀팁']]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004663776&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004663776&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-30T03:30:00.000Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[페이스북 사명변경에 'FAANG(팡)'이 'MAANG(망)' 될..]]></title>
@@ -34,17 +41,31 @@
         <content type="html"><![CDATA[한국경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[부꾸미]무조건 연 16.5% 버는 법…연금계좌 활용 '꿀팁']]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004663776&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004663776&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-30T03:30:00.000Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[뉴욕유가] 다음주 OPEC+ 회의 앞두고 상승]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0012757700&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012757700&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-30T04:38:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뉴욕증시 3대 지수 사상 최고 경신…주간으로 4주째 상승]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005690757&amp;office_id=421&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005690757&amp;office_id=421&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-30T05:31:00.000Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['수요예측 성공' 디어유…플랫폼 '버블'이 뭐길래]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004663781&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004663781&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-30T05:36:00.000Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뉴욕증시, 주요 기업 실적 실망에도 상승…3대 지수 최고 마감]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012757712&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012757712&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-30T05:41:00.000Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
