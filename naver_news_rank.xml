@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-10-29T06:07:05.491Z</updated>
+    <updated>2021-10-29T07:06:42.980Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -10,13 +10,6 @@
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000748901&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000748901&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-29T06:05:40.284Z</updated>
-        <content type="html"><![CDATA[머니S]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[특징주] 위지트, 비트코인 강세에 관련주 부각… 12%↑]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000748878&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000748878&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-29T05:05:04.328Z</updated>
         <content type="html"><![CDATA[머니S]]></content>
     </entry>
     <entry>
@@ -48,6 +41,13 @@
         <content type="html"><![CDATA[머니S]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[특징주]비덴트, 비트코인 회복세…빗썸 실적 개선 기대]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004991261&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004991261&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-29T07:05:25.733Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[미 성장률 둔화에도 뉴욕증시 고공행진…나스닥 '역대 최고']]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0012755187&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012755187&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
@@ -67,13 +67,6 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000748866&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-29T05:05:04.325Z</updated>
         <content type="html"><![CDATA[머니S]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[특징주] 비덴트, 비트코인 7300만원대 회복에 주가 급등]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004731166&amp;office_id=014&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004731166&amp;office_id=014&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-10-29T06:05:40.311Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1주 120만원 테슬라 주식… 단돈 3만원으로 사는 방법]]></title>
@@ -179,5 +172,12 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001905935&amp;office_id=016&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-10-29T06:05:40.327Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[빅테크·핀테크 증권사들, 주식거래 본격화]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003649495&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003649495&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-10-29T03:06:00.000Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
