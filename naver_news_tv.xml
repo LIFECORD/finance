@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-10-30T03:06:30.568Z</updated>
+    <updated>2021-10-30T04:08:15.174Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[노태우 전 대통령 영결식 엄수...국가장 논란도 계속]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001659046&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211030&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001659046&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211030&amp;page=1"/>
+        <updated>2021-10-30T00:53:00.000Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신문브리핑3 ""택시·의사·대학도 정원제한 있지않나" '음식점 총량제' 논란 더 키우는 이..]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001617853&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211030&amp;page=1</id>
@@ -55,24 +62,17 @@
         <content type="html"><![CDATA[연합뉴스TV]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2차 사전청약 공공분양 인기...특공 경쟁률 8.3대 1]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001659013&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211030&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001659013&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211030&amp;page=1"/>
+        <updated>2021-10-30T10:40:00.000Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[일상회복에 대대적 소비 진작…최대 80% 할인 대전]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000511582&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211030&amp;page=1</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000511582&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211030&amp;page=1"/>
         <updated>2021-10-30T10:25:00.000Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일상회복 앞두고 사흘째 2천 명대…2,104명 확진]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000511580&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211030&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000511580&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211030&amp;page=1"/>
-        <updated>2021-10-30T10:07:00.000Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[휘발유 가격 6주째↑…ℓ당 30원 올라 1,762.8원]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000511579&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211030&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000511579&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211030&amp;page=1"/>
-        <updated>2021-10-30T10:04:00.000Z</updated>
         <content type="html"><![CDATA[연합뉴스TV]]></content>
     </entry>
 </feed>
