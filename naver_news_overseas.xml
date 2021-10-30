@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-10-30T06:07:34.103Z</updated>
+    <updated>2021-10-30T07:06:11.996Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[마켓 엑세스] 내년 그린본드 성장 가속화…매력적인 투자기회]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005074034&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211030&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005074034&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211030&amp;page=1"/>
+        <updated>2021-10-30T07:04:37.521Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005074034&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211030&amp;page=1" title="[마켓 엑세스] 내년 그린본드 성장 가속화…매력적인 투자기회">[마켓 엑세스] 내년 그린본드 성장 가속화…매력적인 투자기회</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[일론 머스크, 순자산 처음 3,000억弗 넘겼다··· 핀란드·베트남 GDP보다 많아]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003979420&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211030&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005073823&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211030&amp;page=1"/>
         <updated>2021-10-29T23:04:38.288Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005073823&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211030&amp;page=1" title="[표]유럽 주요기업 주가(10/29)">[표]유럽 주요기업 주가(10/29)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[표]미국 주요기업 주간 등락률]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005073821&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211030&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005073821&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211030&amp;page=1"/>
-        <updated>2021-10-29T23:04:38.289Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005073821&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211030&amp;page=1" title="[표]미국 주요기업 주간 등락률">[표]미국 주요기업 주간 등락률</a>]]></content>
     </entry>
 </feed>
