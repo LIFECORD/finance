@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-10-30T12:09:03.125Z</updated>
+    <updated>2021-10-30T13:13:07.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[내 퇴직연금 괜찮은가①]"원숭이가 투자하는게 낫겠네"…5년째 1% 수익률]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0010802190&amp;office_id=003&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211030&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0010802190&amp;office_id=003&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211030&amp;page=1"/>
+        <updated>2021-10-30T13:12:04.249Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[카카오페이가 되살린 공모주 열기…연말까지 남은 일정은]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0010802057&amp;office_id=003&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211030&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005073922&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211030&amp;page=1"/>
         <updated>2021-10-30T05:04:34.944Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“조명계의 애플” KH필룩스, 전 세계 최고 명품관에 조명 공급 ‘눈길’]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004731377&amp;office_id=014&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211030&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004731377&amp;office_id=014&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211030&amp;page=1"/>
-        <updated>2021-10-30T05:04:34.945Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
     </entry>
 </feed>
