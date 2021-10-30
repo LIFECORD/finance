@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-10-30T18:06:57.338Z</updated>
+    <updated>2021-10-30T19:05:39.918Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘 확진자 2천명대 예상…나흘째 2천명 넘을 듯]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000511673&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211031&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000511673&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211031&amp;page=1"/>
+        <updated>2021-10-31T03:48:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[일상회복에 공항도 들썩...국제선 운항 재개 움직임]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001659161&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211031&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001617925&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211031&amp;page=1"/>
         <updated>2021-10-30T15:04:53.870Z</updated>
         <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마트 시식 · 문화센터 재개 준비…'일상 회복' 채비]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000930423&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211031&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000930423&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211031&amp;page=1"/>
-        <updated>2021-10-30T15:04:53.871Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>
