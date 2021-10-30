@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-10-30T02:22:18.104Z</updated>
+    <updated>2021-10-30T03:06:30.568Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신문브리핑3 ""택시·의사·대학도 정원제한 있지않나" '음식점 총량제' 논란 더 키우는 이..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001617853&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211030&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001617853&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211030&amp;page=1"/>
+        <updated>2021-10-30T11:42:00.000Z</updated>
+        <content type="html"><![CDATA[MBN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신문브리핑2 "윤석열 측 "당심 20% 우위" vs 홍준표 "당원도 골든크로스"" 외 주요..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001617849&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211030&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001617849&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211030&amp;page=1"/>
+        <updated>2021-10-30T11:37:00.000Z</updated>
+        <content type="html"><![CDATA[MBN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신문브리핑1 "또 2,000명 안팎…위드 코로나, 긴장 속 출발" 외 주요기사]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001617844&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211030&amp;page=1</id>
@@ -60,19 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000511579&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211030&amp;page=1"/>
         <updated>2021-10-30T10:04:00.000Z</updated>
         <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[데이터M] 토종 OTT 다 합쳐도 넷플릭스의 70%…디즈니·애플도 몰려오는데]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001617813&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211030&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001617813&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211030&amp;page=1"/>
-        <updated>2021-10-30T09:30:00.000Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[밀키드에 K푸드를 담다…MBN 한국의 맛 축제 열띤 경연]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001617812&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211030&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001617812&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211030&amp;page=1"/>
-        <updated>2021-10-30T09:28:00.000Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
     </entry>
 </feed>
