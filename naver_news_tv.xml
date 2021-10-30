@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-10-30T13:13:07.399Z</updated>
+    <updated>2021-10-30T14:06:12.191Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[일상회복에 공항도 들썩...국제선 운항 재개 움직임]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001659161&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211030&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001659161&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211030&amp;page=1"/>
+        <updated>2021-10-30T14:05:06.825Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[상암동 복덕방] 가계대출 조인다...빨라지는 전세의 월세화?]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001659156&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211030&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001659156&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211030&amp;page=1"/>
+        <updated>2021-10-30T14:05:06.826Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘위드 로봇’ 시대…만능 ‘K로봇’이 달린다]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0011147409&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211030&amp;page=1</id>
@@ -60,19 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000930423&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211030&amp;page=1"/>
         <updated>2021-10-30T12:08:06.461Z</updated>
         <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["가을장마에 배추가 다 썩어"…김장 물가 '비상']]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001617923&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211030&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001617923&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211030&amp;page=1"/>
-        <updated>2021-10-30T12:08:06.462Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마지막까지 '찬반 논란'…영결식장 주변 시민 천여 명 몰려]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001617922&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211030&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001617922&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211030&amp;page=1"/>
-        <updated>2021-10-30T12:08:06.464Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
     </entry>
 </feed>
