@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-10-31T13:14:03.152Z</updated>
+    <updated>2021-10-31T14:05:40.596Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신한금융, BNP파리바카디프손해보험 인수…손보시장 진출]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012760229&amp;office_id=001&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211031&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012760229&amp;office_id=001&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211031&amp;page=1"/>
+        <updated>2021-10-31T14:04:35.443Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알립니다] '2021 대한민국 증권대상' 주인공을 찾습니다]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003979714&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211031&amp;page=1</id>
@@ -65,13 +72,6 @@
         <title type="html"><![CDATA["내년 2분기 말~ 3분기 초 역대 최고치 뚫는다"]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0002703670&amp;office_id=029&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211031&amp;page=1</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0002703670&amp;office_id=029&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211031&amp;page=1"/>
-        <updated>2021-10-31T11:04:14.695Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[`D-2` 카카오페이 상장 열기, 알짜 중소형주가 이어간다]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0002703665&amp;office_id=029&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211031&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0002703665&amp;office_id=029&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211031&amp;page=1"/>
         <updated>2021-10-31T11:04:14.695Z</updated>
         <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
