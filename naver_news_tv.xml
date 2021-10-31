@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-10-31T09:07:02.508Z</updated>
+    <updated>2021-10-31T10:06:00.923Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[매트릭스] 미개봉 100만원대 청소기가 29만 원?…'당근'의 함정]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000279687&amp;office_id=437&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211031&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000279687&amp;office_id=437&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211031&amp;page=1"/>
+        <updated>2021-10-31T10:05:02.243Z</updated>
+        <content type="html"><![CDATA[JTBC]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아파트보다 비싼 오피스텔…'분양가 22억'까지 떴다]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000279686&amp;office_id=437&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211031&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000279686&amp;office_id=437&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211031&amp;page=1"/>
+        <updated>2021-10-31T10:05:02.244Z</updated>
+        <content type="html"><![CDATA[JTBC]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[발품뉴스]갈치 잡는 족족 창고 꽉꽉…남아도는데도 '비싼 값']]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000279685&amp;office_id=437&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211031&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000279685&amp;office_id=437&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211031&amp;page=1"/>
+        <updated>2021-10-31T10:05:02.245Z</updated>
+        <content type="html"><![CDATA[JTBC]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뉴스초점] 내일부터 단계적 일상회복…사적모임 10~12명까지]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000511774&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211031&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000511774&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211031&amp;page=1"/>
+        <updated>2021-10-31T10:05:02.247Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[소비쿠폰·할인행사…'손실보상 제외 업종' 매출 지원 검토]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000511761&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211031&amp;page=1</id>
@@ -46,33 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001618009&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211031&amp;page=1"/>
         <updated>2021-10-31T05:04:42.835Z</updated>
         <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유류세 인하 앞둔 휘발윳값, 금주 30원 더 올라]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000279673&amp;office_id=437&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211031&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000279673&amp;office_id=437&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211031&amp;page=1"/>
-        <updated>2021-10-31T00:16:00.000Z</updated>
-        <content type="html"><![CDATA[JTBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나로 '임금 양극화' 심화…인터넷 기업↑ 여행 항공사↓]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000930518&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211031&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000930518&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211031&amp;page=1"/>
-        <updated>2021-10-31T00:05:00.000Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['위드 코로나' 앞두고 나흘째 2천명대…위기감 고조]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000511716&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211031&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000511716&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211031&amp;page=1"/>
-        <updated>2021-10-31T11:15:00.000Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴스초점] 신규확진 2,061명…일상회복 앞두고 확산세 지속]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000511714&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211031&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000511714&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211031&amp;page=1"/>
-        <updated>2021-10-31T10:44:00.000Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
     </entry>
 </feed>
