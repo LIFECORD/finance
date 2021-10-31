@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-10-31T00:21:02.899Z</updated>
+    <updated>2021-10-31T01:53:00.550Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴스초점] 신규확진 2,061명…일상회복 앞두고 확산세 지속]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000511714&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211031&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000511714&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211031&amp;page=1"/>
+        <updated>2021-10-31T10:44:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['위드 코로나' 앞두고 나흘째 2천명대…위기감 고조]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000511712&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211031&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000511712&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211031&amp;page=1"/>
+        <updated>2021-10-31T10:18:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[기업기상도] '돈쭐' 나서 맑은 기업 vs '돌풍' 만나 흐린 기업]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000511711&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211031&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000511711&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211031&amp;page=1"/>
+        <updated>2021-10-31T10:01:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["강아지 거야, 사람 거야?"…6조 시장 잡아라]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001617963&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211031&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001617963&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211031&amp;page=1"/>
+        <updated>2021-10-31T09:33:00.000Z</updated>
+        <content type="html"><![CDATA[MBN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[들썩이는 김장 물가…배추 대란 우려까지]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001617961&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211031&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001617961&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211031&amp;page=1"/>
+        <updated>2021-10-31T09:29:00.000Z</updated>
+        <content type="html"><![CDATA[MBN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[집값 뛰자 공인중개사 시험에 40만 명 몰렸다…역대 최대]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001617959&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211031&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001617959&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211031&amp;page=1"/>
+        <updated>2021-10-31T09:21:00.000Z</updated>
+        <content type="html"><![CDATA[MBN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['반값 복비'에도 공인중개사 열풍‥역대 최다 응시]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001157036&amp;office_id=214&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211031&amp;page=1</id>
@@ -31,48 +73,6 @@
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001659215&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211031&amp;page=1</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001659215&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211031&amp;page=1"/>
         <updated>2021-10-31T04:52:00.000Z</updated>
-        <content type="html"><![CDATA[YTN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다시 열린 하늘길에 분주해진 공항…여행상품 '완판']]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000511685&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211031&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000511685&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211031&amp;page=1"/>
-        <updated>2021-10-31T04:49:00.000Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['요소수'발 물류대란 오나?...200만 화물차주 발만 '동동']]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001659214&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211031&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001659214&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211031&amp;page=1"/>
-        <updated>2021-10-31T04:48:00.000Z</updated>
-        <content type="html"><![CDATA[YTN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일상회복 시작되도 기업들 "원격·대면 혼합형 근무"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000511684&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211031&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000511684&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211031&amp;page=1"/>
-        <updated>2021-10-31T04:43:00.000Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최대 80% 할인…'코리아세일페스타' 내일 개최]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000511680&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211031&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000511680&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211031&amp;page=1"/>
-        <updated>2021-10-31T04:15:00.000Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘 확진자 2천명대 예상…나흘째 2천명 넘을 듯]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000511673&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211031&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000511673&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211031&amp;page=1"/>
-        <updated>2021-10-31T03:48:00.000Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일상회복에 공항도 들썩...국제선 운항 재개 움직임]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001659161&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211031&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001659161&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211031&amp;page=1"/>
-        <updated>2021-10-30T15:04:53.857Z</updated>
         <content type="html"><![CDATA[YTN]]></content>
     </entry>
 </feed>
