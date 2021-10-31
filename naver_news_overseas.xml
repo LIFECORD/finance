@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-10-31T06:10:13.040Z</updated>
+    <updated>2021-10-31T07:07:00.107Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['시진핑 야심작' 베이징 증권거래소 11월 15일 개시]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005074594&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211031&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005074594&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211031&amp;page=1"/>
+        <updated>2021-10-31T07:05:17.985Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005074594&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211031&amp;page=1" title="'시진핑 야심작' 베이징 증권거래소 11월 15일 개시">'시진핑 야심작' 베이징 증권거래소 11월 15일 개시</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[중국 신규 게임 허가 100일째 중단…2018년 이후 최장]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004622734&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211031&amp;page=1</id>
@@ -60,12 +67,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012757833&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211031&amp;page=1"/>
         <updated>2021-10-30T15:04:14.028Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012757833&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211031&amp;page=1" title="[그래픽] 거대해지는 빅테크 기업">[그래픽] 거대해지는 빅테크 기업</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애플·아마존 등 실적 실망에도··· 뉴욕증시는 사상 최고치 [데일리 국제금융시장]]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003979400&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211031&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003979400&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211031&amp;page=1"/>
-        <updated>2021-10-30T15:04:14.030Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003979400&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211031&amp;page=1" title="애플·아마존 등 실적 실망에도··· 뉴욕증시는 사상 최고치 [데일리 국제금융시장]">애플·아마존 등 실적 실망에도··· 뉴욕증시는 사상 최고치 [데일리 국제금융시장]</a>]]></content>
     </entry>
 </feed>
