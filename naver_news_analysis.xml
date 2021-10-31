@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=402</id>
     <title>네이버 금융 ─ 뉴스 ─ 기업 종목분석</title>
-    <updated>2021-10-31T19:05:28.149Z</updated>
+    <updated>2021-10-31T20:06:28.049Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[사상 최대 실적에 주가도 2배, 증권가 "골프존 더 오른다"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004664153&amp;office_id=008&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211101&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004664153&amp;office_id=008&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211101&amp;page=1"/>
+        <updated>2021-10-31T20:04:43.697Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004664153&amp;office_id=008&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211101&amp;page=1" title="사상 최대 실적에 주가도 2배, 증권가 &quot;골프존 더 오른다&quot;">사상 최대 실적에 주가도 2배, 증권가 "골프존 더 오른다"</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["각국 인플레 우려 속 한국 가계빚 뇌관… 금리정책이 관건" [한미재무학회 지상대담]]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004731722&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211101&amp;page=1</id>
@@ -53,12 +60,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004731651&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211101&amp;page=1"/>
         <updated>2021-10-31T15:04:56.680Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004731651&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211101&amp;page=1" title="국고채 장단기 금리차 더 쪼그라들었다">국고채 장단기 금리차 더 쪼그라들었다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공모가 상단 뚫은 ‘알짜 IPO’ 90%는 중소형주]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004731650&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211101&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004731650&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211101&amp;page=1"/>
-        <updated>2021-10-31T15:04:56.681Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004731650&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211101&amp;page=1" title="공모가 상단 뚫은 ‘알짜 IPO’ 90%는 중소형주">공모가 상단 뚫은 ‘알짜 IPO’ 90%는 중소형주</a>]]></content>
     </entry>
 </feed>
