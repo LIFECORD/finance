@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=404</id>
     <title>네이버 금융 ─ 뉴스 ─ 채권 선물</title>
-    <updated>2021-10-31T08:08:07.690Z</updated>
+    <updated>2021-10-31T09:07:02.491Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[토종 사모펀드 헬리오스…솔레오코스메틱 전격인수]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004872198&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211031&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004872198&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211031&amp;page=1"/>
+        <updated>2021-10-31T09:05:10.953Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004872198&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211031&amp;page=1" title="토종 사모펀드 헬리오스…솔레오코스메틱 전격인수">토종 사모펀드 헬리오스…솔레오코스메틱 전격인수</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국민연금 반도체 화학 팔고…딱 '한 가지'만 비중 늘렸다는데]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004872129&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211031&amp;page=1</id>
@@ -46,12 +53,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005073449&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211031&amp;page=1"/>
         <updated>2021-10-30T15:04:21.552Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005073449&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211031&amp;page=1" title="정부 발행물량 축소 안 먹혀…국고채 10년물 장중 2.58% 넘어">정부 발행물량 축소 안 먹혀…국고채 10년물 장중 2.58% 넘어</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파운트 구독경제·메타버스 테마형 ETF 2종 뉴욕서 거래 시작]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004871624&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211031&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004871624&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211031&amp;page=1"/>
-        <updated>2021-10-30T15:04:21.553Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004871624&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211031&amp;page=1" title="파운트 구독경제·메타버스 테마형 ETF 2종 뉴욕서 거래 시작">파운트 구독경제·메타버스 테마형 ETF 2종 뉴욕서 거래 시작</a>]]></content>
     </entry>
 </feed>
