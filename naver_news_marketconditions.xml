@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=401</id>
     <title>네이버 금융 ─ 뉴스 ─ 시황·전망</title>
-    <updated>2021-10-31T12:09:52.604Z</updated>
+    <updated>2021-10-31T13:14:03.144Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['100세 시대' TDF로…영리하게 고르는 방법은?]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005074684&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211031&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005074684&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211031&amp;page=1"/>
+        <updated>2021-10-31T13:11:58.669Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005074684&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211031&amp;page=1" title="'100세 시대' TDF로…영리하게 고르는 방법은?">'100세 시대' TDF로…영리하게 고르는 방법은?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마이클 살바티코 "ESG 잘 하는 기업 90%가 이익 더 많이 내"]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004622886&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211031&amp;page=1</id>
@@ -46,12 +53,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003979618&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211031&amp;page=1"/>
         <updated>2021-10-31T08:05:58.598Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003979618&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211031&amp;page=1" title="금리·물가·리오프닝 등 변수 많은데... 11월 ‘연말 효과’ 시작될까">금리·물가·리오프닝 등 변수 많은데... 11월 ‘연말 효과’ 시작될까</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[표]주간 유가증권·코스닥 투자주체별 매매동향(10월 25일~29일)]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003979611&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211031&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003979611&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211031&amp;page=1"/>
-        <updated>2021-10-31T08:05:58.599Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003979611&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211031&amp;page=1" title="[표]주간 유가증권·코스닥 투자주체별 매매동향(10월 25일~29일)">[표]주간 유가증권·코스닥 투자주체별 매매동향(10월 25일~29일)</a>]]></content>
     </entry>
 </feed>
