@@ -2,11 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-10-31T07:07:00.115Z</updated>
+    <updated>2021-10-31T08:08:07.694Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[현징연결] 중대본 "감염 위험 요인 커져"…방역수칙 준수 당부]]></title>
+        <title type="html"><![CDATA[내일부터 외식·여행 등 소비쿠폰 9종 사용 재개]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000511754&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211031&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000511754&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211031&amp;page=1"/>
+        <updated>2021-10-31T08:06:58.350Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내일부터 단계적 일상회복…10~12명까지·24시간 영업]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000511753&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211031&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000511753&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211031&amp;page=1"/>
+        <updated>2021-10-31T08:06:58.357Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대출금리↑ 은행 '이자 잔치'...정부 "금리 인하 요구권 개선"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001659343&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211031&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001659343&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211031&amp;page=1"/>
+        <updated>2021-10-31T08:06:58.358Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[현장연결] 중대본 "감염 위험 요인 커져"…방역수칙 준수 당부]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000511745&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211031&amp;page=1</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000511745&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211031&amp;page=1"/>
         <updated>2021-10-31T07:05:57.151Z</updated>
@@ -53,26 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000511712&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211031&amp;page=1"/>
         <updated>2021-10-31T10:18:00.000Z</updated>
         <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기업기상도] '돈쭐' 나서 맑은 기업 vs '돌풍' 만나 흐린 기업]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000511711&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211031&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000511711&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211031&amp;page=1"/>
-        <updated>2021-10-31T10:01:00.000Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["강아지 거야, 사람 거야?"…6조 시장 잡아라]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001617963&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211031&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001617963&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211031&amp;page=1"/>
-        <updated>2021-10-31T09:33:00.000Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[들썩이는 김장 물가…배추 대란 우려까지]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001617961&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211031&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001617961&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211031&amp;page=1"/>
-        <updated>2021-10-31T09:29:00.000Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
     </entry>
 </feed>
