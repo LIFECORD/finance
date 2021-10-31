@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=404</id>
     <title>네이버 금융 ─ 뉴스 ─ 채권 선물</title>
-    <updated>2021-10-31T21:05:29.259Z</updated>
+    <updated>2021-10-31T22:06:12.695Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[국내 주식형 펀드 자금, 8거래일 연속 순유입]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005074761&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211101&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005074761&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211101&amp;page=1"/>
+        <updated>2021-10-31T22:04:40.118Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005074761&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211101&amp;page=1" title="국내 주식형 펀드 자금, 8거래일 연속 순유입">국내 주식형 펀드 자금, 8거래일 연속 순유입</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“뭘 좋아할지 몰라 다 준비했다”…TIF부터 TRF까지]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005074685&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211101&amp;page=1</id>
@@ -60,12 +67,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005073541&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211101&amp;page=1"/>
         <updated>2021-10-31T15:05:08.924Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005073541&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211101&amp;page=1" title="[표]거래소주가지수선물·옵션시세표(10/29)">[표]거래소주가지수선물·옵션시세표(10/29)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[당국 개입 하루 만에 국채금리 또 급등…3년물 연 2.103%(종합)]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0012756956&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211101&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012756956&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211101&amp;page=1"/>
-        <updated>2021-10-31T15:05:08.925Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012756956&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211101&amp;page=1" title="당국 개입 하루 만에 국채금리 또 급등…3년물 연 2.103%(종합)">당국 개입 하루 만에 국채금리 또 급등…3년물 연 2.103%(종합)</a>]]></content>
     </entry>
 </feed>
