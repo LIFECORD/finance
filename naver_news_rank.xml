@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-01T01:53:24.875Z</updated>
+    <updated>2021-11-01T02:25:23.030Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -83,6 +83,13 @@
         <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[특징주] 이즈미디어, 美글로벌 소셜 미디어기업과 공동 개발....]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004732022&amp;office_id=014&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004732022&amp;office_id=014&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-01T10:19:00.000Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[이번주 증시전망] FOMC 앞두고 숨죽인 코스피...'위드 코..]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003979725&amp;office_id=011&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003979725&amp;office_id=011&amp;mode=RANK&amp;typ=0"/>
@@ -116,6 +123,13 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004664153&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-01T04:31:00.000Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 풀무원, 미국법인 흑자전환 전망에 강세]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001906509&amp;office_id=016&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001906509&amp;office_id=016&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-01T10:13:00.000Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[카카오페이 흥행 이어갈까…이번주 공모주 살펴보니]]></title>
@@ -165,19 +179,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0002543515&amp;office_id=119&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-01T05:01:00.000Z</updated>
         <content type="html"><![CDATA[데일리안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[e공시 눈에 띄네] 코스피-10월29일]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004991940&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004991940&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-01T07:41:00.000Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비상체제' 남양유업 어디로?… 김승언 경영지배인 "뭐부터 손댈..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005692921&amp;office_id=421&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005692921&amp;office_id=421&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-01T07:20:00.000Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
