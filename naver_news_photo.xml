@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-11-01T12:10:41.665Z</updated>
+    <updated>2021-11-01T13:15:59.553Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(영상)신한금융, 자회사에 손보사 첫 편입…의미는?]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005075612&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211101&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005075612&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211101&amp;page=1"/>
+        <updated>2021-11-01T13:14:54.818Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8개월만에 주가 10만원 깨진 한샘...도대체 무슨 일?]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004872917&amp;office_id=009&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211101&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004872917&amp;office_id=009&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211101&amp;page=1"/>
+        <updated>2021-11-01T13:14:54.818Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[표]일본 주요기업 주가(11/1)]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005075605&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211101&amp;page=1</id>
@@ -60,19 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000770797&amp;office_id=366&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211101&amp;page=1"/>
         <updated>2021-11-01T11:04:14.732Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[회사채도 한파 예보…기업 자금조달 막히나[채권시장 패닉]④]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005075583&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211101&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005075583&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211101&amp;page=1"/>
-        <updated>2021-11-01T10:05:06.291Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배당주의 계절… 예상 배당수익률 ‘톱 20’에 금융주 13개]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003390906&amp;office_id=020&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211101&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003390906&amp;office_id=020&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211101&amp;page=1"/>
-        <updated>2021-11-01T10:05:06.291Z</updated>
-        <content type="html"><![CDATA[동아일보]]></content>
     </entry>
 </feed>
