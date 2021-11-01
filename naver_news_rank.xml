@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-01T18:07:46.537Z</updated>
+    <updated>2021-11-01T19:06:33.997Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['바닥인 中 경기'에서 기회 얻을 주식은?]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005075635&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005075635&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-02T02:01:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['마지막 IPO 성수기' 막 오른 11월, '알짜 중소형주' 볼..]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005075632&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
@@ -27,17 +34,59 @@
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['바닥인 中 경기'에서 기회 얻을 주식은?]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005075635&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005075635&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-02T02:01:00.000Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[마켓인]'두나무와 손잡아 그런가'…하이브, 사칭 코인에 골머리]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005075636&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005075636&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-02T02:31:00.000Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단신]삼성화재 다이렉트 브랜드 ‘착’ 선봬 外]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003391043&amp;office_id=020&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003391043&amp;office_id=020&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-02T03:08:00.000Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[머니 컨설팅]“美증시 불확실성 커져… ETF 전략적 투자”]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003391044&amp;office_id=020&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003391044&amp;office_id=020&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-02T03:08:00.000Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주식 매매 상위 종목 및 환율] 2021년 11월 1일자]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003650164&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003650164&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-02T03:01:00.000Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주요경제지표] 2021년 11월 1일자]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003650177&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003650177&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-02T03:03:00.000Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[유럽증시] FOMC 정례회의 앞두고 상승세]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012763063&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012763063&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-02T03:36:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[맥쿼리, 자사주 790만주 매각…1.5조 호주달러 조달]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000994092&amp;office_id=215&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000994092&amp;office_id=215&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-02T03:35:00.000Z</updated>
+        <content type="html"><![CDATA[한국경제TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이라크, 10월 석유수출 하루 평균 312만 배럴...전월 30..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000994091&amp;office_id=215&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000994091&amp;office_id=215&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-02T03:34:00.000Z</updated>
+        <content type="html"><![CDATA[한국경제TV]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=401</id>
     <title>네이버 금융 ─ 뉴스 ─ 시황·전망</title>
-    <updated>2021-11-01T18:07:46.522Z</updated>
+    <updated>2021-11-01T19:06:33.991Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[유럽증시] FOMC 정례회의 앞두고 상승세]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012763063&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211102&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012763063&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211102&amp;page=1"/>
+        <updated>2021-11-01T19:04:30.734Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012763063&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211102&amp;page=1" title="[유럽증시] FOMC 정례회의 앞두고 상승세">[유럽증시] FOMC 정례회의 앞두고 상승세</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[8개월만에 주가 10만원 깨진 한샘...도대체 무슨 일?]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004872917&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211102&amp;page=1</id>
@@ -60,12 +67,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004872877&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211102&amp;page=1"/>
         <updated>2021-11-01T15:04:33.765Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004872877&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211102&amp;page=1" title="&quot;개인형퇴직연금 40%는 MZ세대…ETF 가장 선호&quot;">"개인형퇴직연금 40%는 MZ세대…ETF 가장 선호"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답답한 코스피에 짐싼 개미…해외 레버리지 ETF 질렀다]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004872852&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211102&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004872852&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211102&amp;page=1"/>
-        <updated>2021-11-01T15:04:33.766Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004872852&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211102&amp;page=1" title="답답한 코스피에 짐싼 개미…해외 레버리지 ETF 질렀다">답답한 코스피에 짐싼 개미…해외 레버리지 ETF 질렀다</a>]]></content>
     </entry>
 </feed>
