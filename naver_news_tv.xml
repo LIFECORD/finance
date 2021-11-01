@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-11-01T17:16:12.286Z</updated>
+    <updated>2021-11-01T18:07:46.514Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[10월 수출 역대 최단기 5천억 달러…불확실성 여전]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000930795&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211102&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000930795&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211102&amp;page=1"/>
+        <updated>2021-11-02T02:51:00.000Z</updated>
+        <content type="html"><![CDATA[SBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KT, 약관 규정의 10배 수준 보상…보상에 고객은 '분통']]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000930794&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211102&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000930794&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211102&amp;page=1"/>
+        <updated>2021-11-02T02:48:00.000Z</updated>
+        <content type="html"><![CDATA[SBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[무역수지 18개월 연속 흑자...10월 수입액 '역대 최대']]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001659882&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211102&amp;page=1</id>
@@ -60,19 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000511968&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211102&amp;page=1"/>
         <updated>2021-11-01T15:05:24.362Z</updated>
         <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['89분 먹통' KT 보상안 발표…개인 1천원·소상공인 8천원]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000342908&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211102&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000342908&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211102&amp;page=1"/>
-        <updated>2021-11-01T15:05:24.363Z</updated>
-        <content type="html"><![CDATA[TV조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘내수 살리기’ 본격화…물가 상승은 걱정 요인]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0011148272&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211102&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011148272&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211102&amp;page=1"/>
-        <updated>2021-11-01T15:05:24.364Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>

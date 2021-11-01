@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS2D&amp;section_id=101&amp;section_id2=258</id>
     <title>네이버 금융 ─ 뉴스 ─ 실시간 속보</title>
-    <updated>2021-11-01T17:16:12.258Z</updated>
+    <updated>2021-11-01T18:07:46.529Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[마켓인]'두나무와 손잡아 그런가'…하이브, 사칭 코인에 골머리]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005075636&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211102&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005075636&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211102&amp;page=1"/>
+        <updated>2021-11-01T18:05:47.405Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005075636&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211102&amp;page=1" title="[마켓인]'두나무와 손잡아 그런가'…하이브, 사칭 코인에 골머리">[마켓인]'두나무와 손잡아 그런가'…하이브, 사칭 코인에 골머리</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['바닥인 中 경기'에서 기회 얻을 주식은?]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005075635&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211102&amp;page=1</id>
@@ -60,12 +67,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000994080&amp;office_id=215&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211102&amp;page=1"/>
         <updated>2021-11-01T15:04:21.806Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000994080&amp;office_id=215&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211102&amp;page=1" title="바클레이스, 트립어드바이저 투자의견 보유비중 축소로 하향…&quot;여행업 회복세 둔화&quot;">바클레이스, 트립어드바이저 투자의견 보유비중 축소로 하향…"여행업 회복세 둔화"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카카오페이 스톡옵션 '잭팟'…류영준 대표 605억]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005075620&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211102&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005075620&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211102&amp;page=1"/>
-        <updated>2021-11-01T15:04:21.808Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005075620&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211102&amp;page=1" title="카카오페이 스톡옵션 '잭팟'…류영준 대표 605억">카카오페이 스톡옵션 '잭팟'…류영준 대표 605억</a>]]></content>
     </entry>
 </feed>
