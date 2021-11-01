@@ -2,29 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-01T07:07:13.941Z</updated>
+    <updated>2021-11-01T08:09:39.010Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[특징주] 수성이노베이션, AR·XR 물류·게임사업 추진에 14..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000749574&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000749574&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-01T06:08:24.934Z</updated>
-        <content type="html"><![CDATA[머니S]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[특징주] 넵튠, 외국인·기관 동시 순매수로 13.5% 상승]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0002979013&amp;office_id=030&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0002979013&amp;office_id=030&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-01T06:08:24.934Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[특징주] 외국인·기관 유입에 SK하이닉스 3.4% 급등]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003979994&amp;office_id=011&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003979994&amp;office_id=011&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-01T07:05:58.579Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
+        <title type="html"><![CDATA[[특징주] NFT 플랫폼 '메타갤럭시아' 오픈에 관련주 급등(종..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012762204&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012762204&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-01T08:08:16.283Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['시진핑 야심작' 中 베이징 증권거래소 출범 임박]]></title>
@@ -69,11 +55,32 @@
         <content type="html"><![CDATA[한국경제]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[특징주] 넵튠, 외국인·기관 동시 순매수로 13.5% 상승]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0002979013&amp;office_id=030&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0002979013&amp;office_id=030&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-01T06:08:24.934Z</updated>
+        <content type="html"><![CDATA[전자신문]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[내 퇴직연금 괜찮은가③]대대적인 수술 불가피]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0010803473&amp;office_id=003&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0010803473&amp;office_id=003&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-01T06:00:00.000Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 외국인·기관 유입에 SK하이닉스 3.4% 급등]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003979994&amp;office_id=011&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003979994&amp;office_id=011&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-01T07:05:58.579Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 수성이노베이션, AR·XR 물류·게임사업 추진에 14..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000749574&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000749574&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-01T06:08:24.934Z</updated>
+        <content type="html"><![CDATA[머니S]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한국코러스 “백신 컨소시엄, 바이넥스 등 빠진 채로 간다”]]></title>
@@ -90,6 +97,13 @@
         <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[특징주] 엔켐, 코스닥 상장 첫날 공모가 대비 90%↑(종합)]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012762099&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012762099&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-01T07:05:58.591Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[특징주]폴라리스오피스, 1.1억명 가입자 NFT·메타버스 통합..]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004992323&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004992323&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
@@ -104,13 +118,6 @@
         <content type="html"><![CDATA[비즈니스워치]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[특징주] 엔켐, 코스닥 상장 첫날 공모가 대비 90%↑(종합)]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0012762099&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012762099&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-01T07:05:58.591Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[금알못] 전환사채 `리픽싱'이 먼가요]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0010803479&amp;office_id=003&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0010803479&amp;office_id=003&amp;mode=RANK&amp;typ=0"/>
@@ -122,6 +129,13 @@
         <id>https://finance.naver.com/news/news_read.naver?article_id=0012760457&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012760457&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-01T07:03:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 카카오게임즈, '오딘' 개발사 지분 취득에 10% 급..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012762101&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012762101&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-01T08:08:16.310Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
@@ -165,19 +179,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012761048&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-01T10:58:00.000Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신영證, 비대면으로 운동하는 '온앤오프 레이스' 사내 행사 열어]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004664423&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004664423&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-01T00:05:00.000Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['다우의 개' 두달간 다우지수 따라잡을 수 있을까]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004623081&amp;office_id=015&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004623081&amp;office_id=015&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-01T00:50:00.000Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
