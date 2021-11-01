@@ -2,77 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-11-01T20:07:13.847Z</updated>
+    <updated>2021-11-01T21:05:58.169Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[속보]11월 첫거래일 뉴욕증시 강세…나스닥 0.6%↑]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005075645&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211102&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005075645&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211102&amp;page=1"/>
-        <updated>2021-11-02T05:02:00.000Z</updated>
+        <title type="html"><![CDATA[[뉴욕마감]3대 지수 일제 사상 최고…테슬라 8.5% 급등]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005695539&amp;office_id=421&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211102&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005695539&amp;office_id=421&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211102&amp;page=1"/>
+        <updated>2021-11-02T06:03:00.000Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[개미지옥 된 리파인 IPO…주관사·금감원에 튀는 불똥]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000770823&amp;office_id=366&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211102&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000770823&amp;office_id=366&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211102&amp;page=1"/>
+        <updated>2021-11-02T06:01:00.000Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주린이의 공모주] 알짜 IPO 이어진다…디어유·SM상선 등 6개사 출격]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000632478&amp;office_id=031&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211102&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000632478&amp;office_id=031&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211102&amp;page=1"/>
+        <updated>2021-11-02T06:01:00.000Z</updated>
+        <content type="html"><![CDATA[아이뉴스24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지루한 증시에 고배당주 찾는 개미들]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0010806088&amp;office_id=003&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211102&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0010806088&amp;office_id=003&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211102&amp;page=1"/>
+        <updated>2021-11-02T06:00:00.000Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['도질론 마스'까지 4000% 폭등…머스크가 쏘아 올린 시세]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0010806081&amp;office_id=003&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211102&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0010806081&amp;office_id=003&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211102&amp;page=1"/>
+        <updated>2021-11-02T06:00:00.000Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[청약 첫날 9000억 몰린 디어유, 최종 증거금 10조원 넘길까]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000749784&amp;office_id=417&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211102&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000749784&amp;office_id=417&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211102&amp;page=1"/>
+        <updated>2021-11-02T05:59:00.000Z</updated>
+        <content type="html"><![CDATA[머니S]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[채권시장 투자심리 악화… 전문가 45% "11월 채권금리 상승할 것"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000749778&amp;office_id=417&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211102&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000749778&amp;office_id=417&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211102&amp;page=1"/>
+        <updated>2021-11-02T05:50:00.000Z</updated>
+        <content type="html"><![CDATA[머니S]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["반도체 부품·소재 선도기업"… 지오엘리먼트, 오늘 공모주 청약 시작]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000749771&amp;office_id=417&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211102&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000749771&amp;office_id=417&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211102&amp;page=1"/>
+        <updated>2021-11-02T05:33:00.000Z</updated>
+        <content type="html"><![CDATA[머니S]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오늘 공모주 오늘 일반청약 4건…어디에 넣을까]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005075648&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211102&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005075648&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211102&amp;page=1"/>
+        <updated>2021-11-02T05:31:00.000Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[전문가 진단] 美 테이퍼링 따른 한국 증시 영향?..."단기 변동성 확대"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0002543943&amp;office_id=119&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211102&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0002543943&amp;office_id=119&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211102&amp;page=1"/>
-        <updated>2021-11-02T05:01:00.000Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["따상은 옛말"…공모주 시장, 이젠 본전 지키기도 어렵다]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004664753&amp;office_id=008&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211102&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004664753&amp;office_id=008&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211102&amp;page=1"/>
-        <updated>2021-11-02T04:53:00.000Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대세 상승장은 끝났다..."내년 코스피 최고 3400~3600"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004664751&amp;office_id=008&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211102&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004664751&amp;office_id=008&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211102&amp;page=1"/>
-        <updated>2021-11-02T04:44:00.000Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알림] 대한민국 최고의 MTS를 찾습니다]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004664749&amp;office_id=008&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211102&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004664749&amp;office_id=008&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211102&amp;page=1"/>
-        <updated>2021-11-02T04:32:00.000Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中 간펑리튬, 테슬라와 리튬 배터리 3년 공급계약]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000994103&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211102&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000994103&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211102&amp;page=1"/>
-        <updated>2021-11-02T04:21:00.000Z</updated>
-        <content type="html"><![CDATA[한국경제TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아마존, 미국정부에 2022년말까지 2개 위성발사 승인 요청]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000994102&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211102&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000994102&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211102&amp;page=1"/>
-        <updated>2021-11-02T04:20:00.000Z</updated>
-        <content type="html"><![CDATA[한국경제TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[테슬라, 네덜란드에 타사 전기자동차 충전 네트워크 개설]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000994100&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211102&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000994100&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211102&amp;page=1"/>
-        <updated>2021-11-02T04:18:00.000Z</updated>
-        <content type="html"><![CDATA[한국경제TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디지털 커런시, 기업 평가 100억달러 이상…소프트뱅크·구글 투자]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000994098&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211102&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000994098&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211102&amp;page=1"/>
-        <updated>2021-11-02T04:18:00.000Z</updated>
-        <content type="html"><![CDATA[한국경제TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대만, 올해 GDP 6% 달성 전망]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000994097&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211102&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000994097&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211102&amp;page=1"/>
-        <updated>2021-11-02T04:16:00.000Z</updated>
-        <content type="html"><![CDATA[한국경제TV]]></content>
+        <title type="html"><![CDATA[뉴욕증시 3대 지수 또 동반 최고치…다우 장중 36,000 돌파]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012763082&amp;office_id=001&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211102&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012763082&amp;office_id=001&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211102&amp;page=1"/>
+        <updated>2021-11-02T05:30:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>

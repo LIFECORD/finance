@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=402</id>
     <title>네이버 금융 ─ 뉴스 ─ 기업 종목분석</title>
-    <updated>2021-11-01T20:07:13.860Z</updated>
+    <updated>2021-11-01T21:05:58.262Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘 공모주 오늘 일반청약 4건…어디에 넣을까]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005075648&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211102&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005075648&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211102&amp;page=1"/>
+        <updated>2021-11-01T21:04:09.242Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005075648&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211102&amp;page=1" title="오늘 공모주 오늘 일반청약 4건…어디에 넣을까">오늘 공모주 오늘 일반청약 4건…어디에 넣을까</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["따상은 옛말"…공모주 시장, 이젠 본전 지키기도 어렵다]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004664753&amp;office_id=008&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211102&amp;page=1</id>
@@ -32,12 +39,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003980181&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211102&amp;page=1"/>
         <updated>2021-11-01T15:04:39.370Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003980181&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211102&amp;page=1" title="[표]유가증권 기관·외국인·개인 순매수·도 상위종목(11월 1일-최종치)">[표]유가증권 기관·외국인·개인 순매수·도 상위종목(11월 1일-최종치)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[위드코로나 첫날 엔터 ‘활짝’… 차익매물에 여행은 ‘주춤’]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004732466&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211102&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004732466&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211102&amp;page=1"/>
-        <updated>2021-11-01T15:04:39.371Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004732466&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211102&amp;page=1" title="위드코로나 첫날 엔터 ‘활짝’… 차익매물에 여행은 ‘주춤’">위드코로나 첫날 엔터 ‘활짝’… 차익매물에 여행은 ‘주춤’</a>]]></content>
     </entry>
 </feed>
