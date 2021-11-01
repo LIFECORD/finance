@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-11-01T05:06:32.245Z</updated>
+    <updated>2021-11-01T06:09:38.158Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["美 증시, 연말 랠리 후 내년 10% 조정"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005075322&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211101&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005075322&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211101&amp;page=1"/>
+        <updated>2021-11-01T06:08:01.349Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005075322&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211101&amp;page=1" title="&quot;美 증시, 연말 랠리 후 내년 10% 조정&quot;">"美 증시, 연말 랠리 후 내년 10% 조정"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이 시국에 골드만삭스가 중국 반도체 주식을 추천? [강현우의 베이징나우]]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004623111&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211101&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004623111&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211101&amp;page=1"/>
+        <updated>2021-11-01T06:08:01.350Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004623111&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211101&amp;page=1" title="이 시국에 골드만삭스가 중국 반도체 주식을 추천? [강현우의 베이징나우]">이 시국에 골드만삭스가 중국 반도체 주식을 추천? [강현우의 베이징나우]</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[법조계 우버에서 일본판 도큐사인까지 노리는 벤고시닷컴]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004623101&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211101&amp;page=1</id>
@@ -53,12 +67,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005074893&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211101&amp;page=1"/>
         <updated>2021-11-01T00:19:43.749Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005074893&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211101&amp;page=1" title="환율, 달러화 강세…사흘만에 1170원대 복귀">환율, 달러화 강세…사흘만에 1170원대 복귀</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[페북 사명 변경으로 300% 오른 가상화폐]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000993858&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211101&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000993858&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211101&amp;page=1"/>
-        <updated>2021-11-01T00:19:43.751Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000993858&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211101&amp;page=1" title="페북 사명 변경으로 300% 오른 가상화폐">페북 사명 변경으로 300% 오른 가상화폐</a>]]></content>
     </entry>
 </feed>
