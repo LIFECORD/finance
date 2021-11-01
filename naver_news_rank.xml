@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-01T08:09:39.010Z</updated>
+    <updated>2021-11-01T09:06:38.604Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -97,13 +97,6 @@
         <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[특징주] 엔켐, 코스닥 상장 첫날 공모가 대비 90%↑(종합)]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0012762099&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012762099&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-01T07:05:58.591Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[특징주]폴라리스오피스, 1.1억명 가입자 NFT·메타버스 통합..]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004992323&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004992323&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
@@ -129,13 +122,6 @@
         <id>https://finance.naver.com/news/news_read.naver?article_id=0012760457&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012760457&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-01T07:03:00.000Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[특징주] 카카오게임즈, '오딘' 개발사 지분 취득에 10% 급..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0012762101&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012762101&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-01T08:08:16.310Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
@@ -179,5 +165,19 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012761048&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-01T10:58:00.000Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신영證, 비대면으로 운동하는 '온앤오프 레이스' 사내 행사 열어]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004664423&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004664423&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-01T00:05:00.000Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['다우의 개' 두달간 다우지수 따라잡을 수 있을까]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004623081&amp;office_id=015&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004623081&amp;office_id=015&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-01T00:50:00.000Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
