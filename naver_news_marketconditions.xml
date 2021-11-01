@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=401</id>
     <title>네이버 금융 ─ 뉴스 ─ 시황·전망</title>
-    <updated>2021-11-01T21:05:58.162Z</updated>
+    <updated>2021-11-01T22:06:16.480Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["美 FOMC 오늘 시작…경기민감 가치주 봐야하는 이유"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005075669&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211102&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005075669&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211102&amp;page=1"/>
+        <updated>2021-11-01T22:03:58.027Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005075669&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211102&amp;page=1" title="&quot;美 FOMC 오늘 시작…경기민감 가치주 봐야하는 이유&quot;">"美 FOMC 오늘 시작…경기민감 가치주 봐야하는 이유"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[벌어지는 한·미 증시 간극…2011년 2월 이후 최대]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012763123&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211102&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012763123&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211102&amp;page=1"/>
+        <updated>2021-11-01T22:03:58.030Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012763123&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211102&amp;page=1" title="벌어지는 한·미 증시 간극…2011년 2월 이후 최대">벌어지는 한·미 증시 간극…2011년 2월 이후 최대</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뉴욕증시 3대 지수 또 동반 최고치…다우 장중 36,000 돌파]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0012763082&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211102&amp;page=1</id>
@@ -60,19 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003980179&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211102&amp;page=1"/>
         <updated>2021-11-01T15:04:33.761Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003980179&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211102&amp;page=1" title="무증은 수익 맛집?···한달은 지나야 돈 번다">무증은 수익 맛집?···한달은 지나야 돈 번다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["이젠 은행서 퇴직연금 굴려볼까"…4대 은행, ETF 투자 길 연다]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004872886&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211102&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004872886&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211102&amp;page=1"/>
-        <updated>2021-11-01T15:04:33.762Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004872886&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211102&amp;page=1" title="&quot;이젠 은행서 퇴직연금 굴려볼까&quot;…4대 은행, ETF 투자 길 연다">"이젠 은행서 퇴직연금 굴려볼까"…4대 은행, ETF 투자 길 연다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[증권사가 빨아들인 퇴직연금 8천억…절치부심 은행 'ETF 승부수']]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004872878&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211102&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004872878&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211102&amp;page=1"/>
-        <updated>2021-11-01T15:04:33.764Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004872878&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211102&amp;page=1" title="증권사가 빨아들인 퇴직연금 8천억…절치부심 은행 'ETF 승부수'">증권사가 빨아들인 퇴직연금 8천억…절치부심 은행 'ETF 승부수'</a>]]></content>
     </entry>
 </feed>
