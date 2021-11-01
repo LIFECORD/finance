@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=429</id>
     <title>네이버 금융 ─ 뉴스 ─ 환율</title>
-    <updated>2021-11-01T00:21:24.553Z</updated>
+    <updated>2021-11-01T01:53:24.891Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인플레이션 우려에 강달러 전환…1,174원대서 등락]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012760705&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211101&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012760705&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211101&amp;page=1"/>
+        <updated>2021-11-01T01:51:55.862Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012760705&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211101&amp;page=1" title="인플레이션 우려에 강달러 전환…1,174원대서 등락">인플레이션 우려에 강달러 전환…1,174원대서 등락</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[속보] 10월 수출 555.5억달러···월간 기준 역대 2위]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003979769&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211101&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003978970&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211101&amp;page=1"/>
         <updated>2021-10-31T15:05:21.952Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003978970&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211101&amp;page=1" title="지역과의 상생에 팔 걷은 한국수력원자력">지역과의 상생에 팔 걷은 한국수력원자력</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다음 달부터 한국은행 외환심사도 온라인으로 받는다]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0012755198&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211101&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012755198&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211101&amp;page=1"/>
-        <updated>2021-10-31T15:05:21.952Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012755198&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211101&amp;page=1" title="다음 달부터 한국은행 외환심사도 온라인으로 받는다">다음 달부터 한국은행 외환심사도 온라인으로 받는다</a>]]></content>
     </entry>
 </feed>
