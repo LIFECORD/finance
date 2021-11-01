@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-11-01T04:11:05.653Z</updated>
+    <updated>2021-11-01T05:06:32.266Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[KT "인터넷 장애 시간 89분의 10배 기준으로 요금 감면"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001659691&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211101&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001659691&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211101&amp;page=1"/>
+        <updated>2021-11-01T05:05:26.513Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[실거래가, 직거래 여부·중개사 소재지까지 밝힌다]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000511880&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211101&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000511880&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211101&amp;page=1"/>
+        <updated>2021-11-01T05:05:26.516Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대졸 이상 비정규직 284만명…역대 최다]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000511879&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211101&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000511879&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211101&amp;page=1"/>
+        <updated>2021-11-01T05:05:26.517Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[건보 '피부양자' 1만8천명 12월부터 건보료 낸다]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000511878&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211101&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000511878&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211101&amp;page=1"/>
+        <updated>2021-11-01T05:05:26.518Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[경제 톡톡톡]6억 원 이하 서울 아파트 거래 급증…대출 규제 영향]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000217175&amp;office_id=449&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211101&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000217175&amp;office_id=449&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211101&amp;page=1"/>
+        <updated>2021-11-01T05:05:26.519Z</updated>
+        <content type="html"><![CDATA[채널A]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[중수본 "하루 확진 2∼3배 될 듯…5천명 한계"]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000511866&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211101&amp;page=1</id>
@@ -39,40 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000511861&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211101&amp;page=1"/>
         <updated>2021-11-01T00:44:00.000Z</updated>
         <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대출 한파 속 “조금이라도 더”…고민 깊어진 실수요자]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0011148012&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211101&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011148012&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211101&amp;page=1"/>
-        <updated>2021-11-01T00:42:00.000Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코리아세일페스타 오늘 개막…'역대 최대 규모']]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000930685&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211101&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000930685&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211101&amp;page=1"/>
-        <updated>2021-11-01T00:37:00.000Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KT "15시간 기준으로 보상"…개인당 7천~8천 원]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000930680&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211101&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000930680&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211101&amp;page=1"/>
-        <updated>2021-11-01T00:28:00.000Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10월 수출 역대 2위…연간무역 1조달러 돌파]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000511856&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211101&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000511856&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211101&amp;page=1"/>
-        <updated>2021-11-01T00:27:00.000Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KT “개인·기업 15시간 보상…12월 청구요금서 감면”]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0011148004&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211101&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011148004&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211101&amp;page=1"/>
-        <updated>2021-11-01T00:24:00.000Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
