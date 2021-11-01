@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-01T02:25:23.030Z</updated>
+    <updated>2021-11-01T03:06:33.369Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 진원생명과학, 먹는 코로나 치료제 임상2상 승인에 급..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000632164&amp;office_id=031&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000632164&amp;office_id=031&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-01T11:15:00.000Z</updated>
+        <content type="html"><![CDATA[아이뉴스24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 자회사 NFT 플랫폼 오픈에 갤럭시아머니트리 '상한가..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003979909&amp;office_id=011&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003979909&amp;office_id=011&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-01T11:23:00.000Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['시진핑 야심작' 中 베이징 증권거래소 출범 임박]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000749281&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
@@ -32,6 +46,13 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004664165&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-01T06:00:00.000Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주]앱코, 위드 코로나 전면 시행…PC방 시간제한 해제 '..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004732118&amp;office_id=014&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004732118&amp;office_id=014&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-01T11:20:00.000Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[유가증권 주간메모] 11월 1일(월) ~ 11월 3일(수)]]></title>
@@ -90,11 +111,25 @@
         <content type="html"><![CDATA[파이낸셜뉴스]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[특징주] 한컴MDS, 자회사 프론티스 블록체인 NFT 사업 진..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004992212&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004992212&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-01T11:01:00.000Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[이번주 증시전망] FOMC 앞두고 숨죽인 코스피...'위드 코..]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003979725&amp;office_id=011&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003979725&amp;office_id=011&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-01T06:51:00.000Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주] '메타갤럭시아' 오픈 앞두고 관련주 급등]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012761048&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012761048&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-01T10:58:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[크래프톤, M&A 통한 장르 다각화와 개발력 확대 기대-NH]]></title>
@@ -144,40 +179,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004991926&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-01T07:14:00.000Z</updated>
         <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[클릭 e종목]엘비세미콘, 증설 효과 기대 "수익성 레벨업"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004991930&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004991930&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-01T07:20:00.000Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[e공시 눈에 띄네] 코스닥-10월29일]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004991932&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004991932&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-01T07:23:00.000Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기자수첩]'빛 좋은 개살구' 첨단바이오의약품]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000004535&amp;office_id=648&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000004535&amp;office_id=648&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-01T06:31:00.000Z</updated>
-        <content type="html"><![CDATA[비즈니스워치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베트남, 10개월까지 수출액 2679억달러…전년비 16.6% 증..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000993828&amp;office_id=215&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000993828&amp;office_id=215&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-01T06:36:00.000Z</updated>
-        <content type="html"><![CDATA[한국경제TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카카오페이 다음 주자 SM상선·디어유...IPO 활황 잇는다]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0002543515&amp;office_id=119&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0002543515&amp;office_id=119&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-01T05:01:00.000Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/research/debenture_list.naver</id>
     <title>네이버 금융 ─ 리서치 ─ 채권분석 리포트</title>
-    <updated>2021-11-01T02:25:23.068Z</updated>
+    <updated>2021-11-01T03:06:33.347Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/research/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[EM채권 자금 유출 지속]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/debenture/1635733529931.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/debenture/1635733529931.pdf"/>
+        <updated>2021-11-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[이베스트증권]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10월 ECB Review: 통화정책 전환의 힌트는 없었다]]></title>
         <id>https://ssl.pstatic.net/imgstock/upload/research/debenture/1635471976589.pdf</id>
@@ -207,12 +214,5 @@
         <link href="https://ssl.pstatic.net/imgstock/upload/research/debenture/1630022692836.pdf"/>
         <updated>2021-10-14T00:13:16.412Z</updated>
         <content type="html"><![CDATA[이베스트증권]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8월 금통위 프리뷰: 시나리오별 금리 전망]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/debenture/1629422589294.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/debenture/1629422589294.pdf"/>
-        <updated>2021-10-14T00:13:16.413Z</updated>
-        <content type="html"><![CDATA[하나금융투자]]></content>
     </entry>
 </feed>
