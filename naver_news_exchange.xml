@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=429</id>
     <title>네이버 금융 ─ 뉴스 ─ 환율</title>
-    <updated>2021-11-01T22:06:16.476Z</updated>
+    <updated>2021-11-01T23:06:47.735Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한정애 "북한 산림복원으로 NDC 40% 목표 달성에 힘 보탤 수 있어"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003980257&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211102&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003980257&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211102&amp;page=1"/>
+        <updated>2021-11-01T23:05:26.784Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003980257&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211102&amp;page=1" title="한정애 &quot;북한 산림복원으로 NDC 40% 목표 달성에 힘 보탤 수 있어&quot;">한정애 "북한 산림복원으로 NDC 40% 목표 달성에 힘 보탤 수 있어"</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미, 테이퍼링(자산매입축소) 시작하나…FOMC 회의에 시선집중]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0012763137&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211102&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012756690&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211102&amp;page=1"/>
         <updated>2021-11-01T15:05:04.701Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012756690&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211102&amp;page=1" title="원/달러 환율 1.1원 내린 1,168.6원 마감">원/달러 환율 1.1원 내린 1,168.6원 마감</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안성시, 청소년 1인당 10만원 교육재난지원금 내달 접수 시작]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0012756434&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211102&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012756434&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211102&amp;page=1"/>
-        <updated>2021-11-01T15:05:04.702Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012756434&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211102&amp;page=1" title="안성시, 청소년 1인당 10만원 교육재난지원금 내달 접수 시작">안성시, 청소년 1인당 10만원 교육재난지원금 내달 접수 시작</a>]]></content>
     </entry>
 </feed>
