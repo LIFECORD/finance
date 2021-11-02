@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-02T01:54:25.237Z</updated>
+    <updated>2021-11-02T02:25:42.497Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -67,6 +67,13 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005695541&amp;office_id=421&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-02T06:05:00.000Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 넵튠, SKT 지분 투자 임박...메타버스 협업 수혜..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004732804&amp;office_id=014&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004732804&amp;office_id=014&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-02T10:42:00.000Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[뉴욕마감]3대 지수 일제 사상 최고…테슬라 8.5% 급등]]></title>
@@ -139,6 +146,13 @@
         <content type="html"><![CDATA[서울경제]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[특징주] 콤텍시스템, 세계 최대 네트워킹 기업 美시스코 국내 ..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004732773&amp;office_id=014&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004732773&amp;office_id=014&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-02T10:23:00.000Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[반도체 품귀에 발목잡힌 車…11월 쾌속 질주 전망 이유는]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005075676&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005075676&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
@@ -165,19 +179,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000749778&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-02T05:50:00.000Z</updated>
         <content type="html"><![CDATA[머니S]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['공매도 재개 6개월' 공매도 거래비중 상위 종목 예상대로 '우..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005695545&amp;office_id=421&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005695545&amp;office_id=421&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-02T06:07:00.000Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[속보] 오징어게임 토큰 사기였다…개발자들 현금화해 도주]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005695600&amp;office_id=421&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005695600&amp;office_id=421&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-02T07:00:00.000Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>

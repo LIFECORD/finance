@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-11-02T01:54:25.248Z</updated>
+    <updated>2021-11-02T02:25:42.514Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[표]유럽 주요기업 주가(11/1)]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005076050&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211102&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005076050&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211102&amp;page=1"/>
+        <updated>2021-11-02T02:23:56.979Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005076050&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211102&amp;page=1" title="[표]유럽 주요기업 주가(11/1)">[표]유럽 주요기업 주가(11/1)</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[바이든 행정부 "美 의회가 스테이블코인 규제해야"]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000994168&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211102&amp;page=1</id>
@@ -32,19 +39,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000994141&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211102&amp;page=1"/>
         <updated>2021-11-02T00:19:19.030Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000994141&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211102&amp;page=1" title="8% 넘게 뛴 테슬라···11월 장에 모이는 기대감 [글로벌마켓 A/S]">8% 넘게 뛴 테슬라···11월 장에 모이는 기대감 [글로벌마켓 A/S]</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[페이스북 내부고발자, 저커버그 페이스북 CEO 사퇴 촉구]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000994140&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211102&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000994140&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211102&amp;page=1"/>
-        <updated>2021-11-02T00:19:19.032Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000994140&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211102&amp;page=1" title="페이스북 내부고발자, 저커버그 페이스북 CEO 사퇴 촉구">페이스북 내부고발자, 저커버그 페이스북 CEO 사퇴 촉구</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[표]해외DR 가격(11월 1일)]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003980274&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211102&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003980274&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211102&amp;page=1"/>
-        <updated>2021-11-02T00:19:19.034Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003980274&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211102&amp;page=1" title="[표]해외DR 가격(11월 1일)">[표]해외DR 가격(11월 1일)</a>]]></content>
     </entry>
 </feed>

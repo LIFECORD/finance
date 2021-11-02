@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=429</id>
     <title>네이버 금융 ─ 뉴스 ─ 환율</title>
-    <updated>2021-11-02T01:54:25.229Z</updated>
+    <updated>2021-11-02T02:25:42.484Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연내 에너지 등 6개 부문 탄소중립 전략 수립]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003980411&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211102&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003980411&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211102&amp;page=1"/>
+        <updated>2021-11-02T02:24:15.745Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003980411&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211102&amp;page=1" title="연내 에너지 등 6개 부문 탄소중립 전략 수립">연내 에너지 등 6개 부문 탄소중립 전략 수립</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대전소식] 연말까지 지역화폐 온통대전 결제시 최대 15% 돌려줘]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0012763508&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211102&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003979667&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211102&amp;page=1"/>
         <updated>2021-11-01T15:05:04.697Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003979667&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211102&amp;page=1" title="중·러 이견 여전...'탈석탄' 합의 도출 쉽잖을듯">중·러 이견 여전...'탈석탄' 합의 도출 쉽잖을듯</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3분기 하루 평균 외환거래액 575억달러…2분기보다 0.6%↓]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0012759275&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211102&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012759275&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211102&amp;page=1"/>
-        <updated>2021-11-01T15:05:04.699Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012759275&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211102&amp;page=1" title="3분기 하루 평균 외환거래액 575억달러…2분기보다 0.6%↓">3분기 하루 평균 외환거래액 575억달러…2분기보다 0.6%↓</a>]]></content>
     </entry>
 </feed>
