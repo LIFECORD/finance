@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=429</id>
     <title>네이버 금융 ─ 뉴스 ─ 환율</title>
-    <updated>2021-11-02T06:07:29.185Z</updated>
+    <updated>2021-11-02T07:07:03.985Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[환율, FOMC 앞두고 관망세…2.1원 내린 1,174.4원]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012764960&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211102&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012764960&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211102&amp;page=1"/>
+        <updated>2021-11-02T07:05:38.984Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012764960&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211102&amp;page=1" title="환율, FOMC 앞두고 관망세…2.1원 내린 1,174.4원">환율, FOMC 앞두고 관망세…2.1원 내린 1,174.4원</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하나은행, 삼성동에 외국환 특화 센터 개설]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0012764417&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211102&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003979769&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211102&amp;page=1"/>
         <updated>2021-11-01T15:05:04.697Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003979769&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211102&amp;page=1" title="수출 5,000억弗 '최단기' 신기록">수출 5,000억弗 '최단기' 신기록</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신기술 R&D로 '녹색성장' 앞장서는 한국동서발전]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003979750&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211102&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003979750&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211102&amp;page=1"/>
-        <updated>2021-11-01T15:05:04.697Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003979750&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211102&amp;page=1" title="신기술 R&amp;D로 '녹색성장' 앞장서는 한국동서발전">신기술 R&amp;D로 '녹색성장' 앞장서는 한국동서발전</a>]]></content>
     </entry>
 </feed>

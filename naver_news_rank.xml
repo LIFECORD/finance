@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-02T06:07:29.192Z</updated>
+    <updated>2021-11-02T07:07:04.016Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 비덴트, 가상자산 과세 유예 기대감에 12%↑ '신고..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000750044&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000750044&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-02T06:05:59.801Z</updated>
+        <content type="html"><![CDATA[머니S]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[특징주] 넵튠, SKT 지분 투자 임박...메타버스 협업 수혜..]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004732804&amp;office_id=014&amp;mode=RANK&amp;typ=0</id>
@@ -13,11 +20,18 @@
         <content type="html"><![CDATA[파이낸셜뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[특징주] 비덴트, 가상자산 과세 유예 기대감에 12%↑ '신고..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000750044&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000750044&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-02T06:05:59.801Z</updated>
-        <content type="html"><![CDATA[머니S]]></content>
+        <title type="html"><![CDATA[[특징주]SK이노베이션, CCU사업 추진 발표에 강세]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004993071&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004993071&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-02T06:05:59.823Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주] SK이노베이션, 이산화탄소 사업 확대 소식에 주가 4..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000770971&amp;office_id=366&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000770971&amp;office_id=366&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-02T06:05:59.840Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[특징주] 태웅로직스, ‘文-바이든’ 물류대란 공동대응 소식에 ..]]></title>
@@ -111,13 +125,6 @@
         <content type="html"><![CDATA[동아일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[특징주]SK이노베이션, CCU사업 추진 발표에 강세]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004993071&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004993071&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-02T06:05:59.823Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[지루한 증시에 고배당주 찾는 개미들]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0010806088&amp;office_id=003&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0010806088&amp;office_id=003&amp;mode=RANK&amp;typ=0"/>
@@ -144,13 +151,6 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000632595&amp;office_id=031&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-02T11:43:00.000Z</updated>
         <content type="html"><![CDATA[아이뉴스24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[특징주] SK이노베이션, 이산화탄소 사업 확대 소식에 주가 4..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000770971&amp;office_id=366&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000770971&amp;office_id=366&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-02T06:05:59.840Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[유럽증시] FOMC 정례회의 앞두고 상승세]]></title>
