@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-02T16:08:54.971Z</updated>
+    <updated>2021-11-02T17:14:57.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[[사진] 코스피 3000선 회복]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003147644&amp;office_id=025&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003147644&amp;office_id=025&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-02T16:07:39.779Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[현대엔지니어링 내년 초 상장…차기 IPO 건설사 어디?]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000114093&amp;office_id=629&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000114093&amp;office_id=629&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-02T16:07:39.780Z</updated>
         <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[사진] 코스피 3000선 회복]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003147644&amp;office_id=025&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003147644&amp;office_id=025&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-02T16:07:39.779Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[카카오페이 오늘(3일) 상장…카뱅 넘어 시총 10위 입성 주목]]></title>
@@ -38,6 +38,13 @@
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005076508&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005076508&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-02T16:07:39.783Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[공모주 골라 들어가는 기관…IPO 시장 양극화]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005076510&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005076510&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-03T01:01:00.000Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
