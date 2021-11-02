@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-02T17:14:57.387Z</updated>
+    <updated>2021-11-02T18:07:10.988Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -13,24 +13,10 @@
         <content type="html"><![CDATA[더팩트]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[사진] 코스피 3000선 회복]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003147644&amp;office_id=025&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003147644&amp;office_id=025&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-02T16:07:39.779Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카카오페이 오늘(3일) 상장…카뱅 넘어 시총 10위 입성 주목]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000114096&amp;office_id=629&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000114096&amp;office_id=629&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-02T16:07:39.781Z</updated>
-        <content type="html"><![CDATA[더팩트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["너무 빨라 날아 불안"…콘텐츠株 '독주', 언제까지?]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005076500&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005076500&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-02T16:07:39.782Z</updated>
+        <title type="html"><![CDATA[공모주 골라 들어가는 기관…IPO 시장 양극화]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005076510&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005076510&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-03T01:01:00.000Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
@@ -41,10 +27,31 @@
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[공모주 골라 들어가는 기관…IPO 시장 양극화]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005076510&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005076510&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-03T01:01:00.000Z</updated>
+        <title type="html"><![CDATA[카카오페이 오늘(3일) 상장…카뱅 넘어 시총 10위 입성 주목]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000114096&amp;office_id=629&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000114096&amp;office_id=629&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-02T16:07:39.781Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[사진] 코스피 3000선 회복]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003147644&amp;office_id=025&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003147644&amp;office_id=025&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-02T16:07:39.779Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["너무 빨라 날아 불안"…콘텐츠株 '독주', 언제까지?]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005076500&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005076500&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-02T16:07:39.782Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[유럽증시] FOMC 주시하며 상승…파리 증시 21년만에 최고]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012765980&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012765980&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-03T02:31:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
