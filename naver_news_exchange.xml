@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=429</id>
     <title>네이버 금융 ─ 뉴스 ─ 환율</title>
-    <updated>2021-11-02T09:06:53.535Z</updated>
+    <updated>2021-11-02T10:06:15.577Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[버려지던 비닐·플라스틱이 석유로 재탄생한다]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003980689&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211102&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003980689&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211102&amp;page=1"/>
+        <updated>2021-11-02T10:05:00.200Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003980689&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211102&amp;page=1" title="버려지던 비닐·플라스틱이 석유로 재탄생한다">버려지던 비닐·플라스틱이 석유로 재탄생한다</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['암모니아발전' 늘린다지만···개발 안된 기술로 '공수표']]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003980667&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211102&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012762132&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211102&amp;page=1"/>
         <updated>2021-11-01T15:05:04.697Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012762132&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211102&amp;page=1" title="원/달러 환율 1,176.5원 마감…한때 10원 이상 올라">원/달러 환율 1,176.5원 마감…한때 10원 이상 올라</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인플레이션 우려에 강달러 전환…1,174원대서 등락]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0012760705&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211102&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012760705&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211102&amp;page=1"/>
-        <updated>2021-11-01T15:05:04.697Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012760705&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211102&amp;page=1" title="인플레이션 우려에 강달러 전환…1,174원대서 등락">인플레이션 우려에 강달러 전환…1,174원대서 등락</a>]]></content>
     </entry>
 </feed>
