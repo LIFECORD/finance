@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-02T02:25:42.497Z</updated>
+    <updated>2021-11-02T03:07:02.989Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 넵튠, SKT 지분 투자 임박...메타버스 협업 수혜..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004732804&amp;office_id=014&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004732804&amp;office_id=014&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-02T10:42:00.000Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 태웅로직스, ‘文-바이든’ 물류대란 공동대응 소식에 ..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004732809&amp;office_id=014&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004732809&amp;office_id=014&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-02T10:45:00.000Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주]알테오젠, 말단비대증 치료제 국가신약 개발과제 선정에 ..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001907154&amp;office_id=016&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001907154&amp;office_id=016&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-02T10:41:00.000Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인니 정부, 美 노바백스 코로나 백신 사용승인 허가]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000994094&amp;office_id=215&amp;mode=RANK&amp;typ=0</id>
@@ -41,6 +62,13 @@
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[특징주]범 한화가 엠투엔, 신라젠 이어 명문제약…'제 2의 셀..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004992941&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004992941&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-02T11:25:00.000Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[개미지옥 된 리파인 IPO…주관사·금감원에 튀는 불똥]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000770823&amp;office_id=366&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000770823&amp;office_id=366&amp;mode=RANK&amp;typ=0"/>
@@ -67,13 +95,6 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005695541&amp;office_id=421&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-02T06:05:00.000Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[특징주] 넵튠, SKT 지분 투자 임박...메타버스 협업 수혜..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004732804&amp;office_id=014&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004732804&amp;office_id=014&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-02T10:42:00.000Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[뉴욕마감]3대 지수 일제 사상 최고…테슬라 8.5% 급등]]></title>
@@ -158,26 +179,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005075676&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-02T07:00:00.000Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[롯데정보통신, 데이터센터 매출 확대…실적 기대-신한]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005075714&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005075714&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-02T08:02:00.000Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[클릭 e종목] "롯데정보통신, 전기차·메타버스 시장 진출 기대..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004992633&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004992633&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-02T07:04:00.000Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[채권시장 투자심리 악화… 전문가 45% "11월 채권금리 상승할..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000749778&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000749778&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-02T05:50:00.000Z</updated>
-        <content type="html"><![CDATA[머니S]]></content>
     </entry>
 </feed>
