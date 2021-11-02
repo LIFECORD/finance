@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-11-02T12:10:26.484Z</updated>
+    <updated>2021-11-02T13:15:33.381Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[야후, MS 이어 中 사업 철수…“어려워지는 사업 환경”]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005076486&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211102&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005076486&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211102&amp;page=1"/>
+        <updated>2021-11-02T13:14:01.440Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005076486&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211102&amp;page=1" title="야후, MS 이어 中 사업 철수…“어려워지는 사업 환경”">야후, MS 이어 中 사업 철수…“어려워지는 사업 환경”</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[표]일본 주요기업 주가(11/2)]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005076480&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211102&amp;page=1</id>
@@ -53,12 +60,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004623717&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211102&amp;page=1"/>
         <updated>2021-11-02T09:05:13.069Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004623717&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211102&amp;page=1" title="'달리는 말' 3X 레버리지 ETF…투자자 &quot;언제 뛰어내릴까&quot;">'달리는 말' 3X 레버리지 ETF…투자자 "언제 뛰어내릴까"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[클릭! 해외증시 이 종목] 클라우드 덕 본 MS, 순항 이어질지 주목]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004873298&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211102&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004873298&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211102&amp;page=1"/>
-        <updated>2021-11-02T09:05:13.070Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004873298&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211102&amp;page=1" title="[클릭! 해외증시 이 종목] 클라우드 덕 본 MS, 순항 이어질지 주목">[클릭! 해외증시 이 종목] 클라우드 덕 본 MS, 순항 이어질지 주목</a>]]></content>
     </entry>
 </feed>
