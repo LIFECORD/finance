@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/research/market_info_list.naver</id>
     <title>네이버 금융 ─ 리서치 ─ 시황정보 리포트</title>
-    <updated>2021-11-02T00:21:12.312Z</updated>
+    <updated>2021-11-02T01:54:25.264Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/research/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[교보박스 브리핑]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/market/1635817302713.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/market/1635817302713.pdf"/>
+        <updated>2021-11-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[교보증권]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[eBest Quant Daily]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/market/1635816598574.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/market/1635816598574.pdf"/>
+        <updated>2021-11-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[이베스트증권]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Start with IBKS] KOSPI는 미 증시 강세 및 수출입 ..]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/market/1635815798269.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/market/1635815798269.pdf"/>
+        <updated>2021-11-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[IBK투자증권]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Start with IBKS] KOSPI는 금리 상승 및 미국 주요 ..]]></title>
         <id>https://ssl.pstatic.net/imgstock/upload/research/market/1635734863095.pdf</id>
@@ -193,26 +214,5 @@
         <link href="https://ssl.pstatic.net/imgstock/upload/research/market/1634607366972.pdf"/>
         <updated>2021-10-19T00:00:00.000Z</updated>
         <content type="html"><![CDATA[이베스트증권]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Start with IBKS] KOSPI는 중국 GDP 성장률 주시 속 ..]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/market/1634606533822.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/market/1634606533822.pdf"/>
-        <updated>2021-10-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[IBK투자증권]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[교보박스 브리핑]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/market/1634524529023.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/market/1634524529023.pdf"/>
-        <updated>2021-10-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[교보증권]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[eBest Quant Daily]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/market/1634521988101.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/market/1634521988101.pdf"/>
-        <updated>2021-10-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[IBK투자증권]]></content>
     </entry>
 </feed>
