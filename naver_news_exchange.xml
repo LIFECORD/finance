@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=429</id>
     <title>네이버 금융 ─ 뉴스 ─ 환율</title>
-    <updated>2021-11-02T20:07:04.204Z</updated>
+    <updated>2021-11-02T21:05:32.440Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[외환보유액 4천692억 달러…넉달 연속 '사상 최대']]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012766059&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211103&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012766059&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211103&amp;page=1"/>
+        <updated>2021-11-02T21:04:13.949Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012766059&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211103&amp;page=1" title="외환보유액 4천692억 달러…넉달 연속 '사상 최대'">외환보유액 4천692억 달러…넉달 연속 '사상 최대'</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[버려지던 비닐·플라스틱이 석유로 재탄생한다]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003980689&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211103&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012763137&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211103&amp;page=1"/>
         <updated>2021-11-02T15:04:47.096Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012763137&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211103&amp;page=1" title="미, 테이퍼링(자산매입축소) 시작하나…FOMC 회의에 시선집중">미, 테이퍼링(자산매입축소) 시작하나…FOMC 회의에 시선집중</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원/달러 환율 1,176.5원 마감…한때 10원 이상 올라]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0012762132&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211103&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012762132&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211103&amp;page=1"/>
-        <updated>2021-11-02T15:04:47.098Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012762132&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211103&amp;page=1" title="원/달러 환율 1,176.5원 마감…한때 10원 이상 올라">원/달러 환율 1,176.5원 마감…한때 10원 이상 올라</a>]]></content>
     </entry>
 </feed>
