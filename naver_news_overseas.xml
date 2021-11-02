@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-11-02T11:05:15.762Z</updated>
+    <updated>2021-11-02T12:10:26.484Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[표]일본 주요기업 주가(11/2)]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005076480&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211102&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005076480&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211102&amp;page=1"/>
+        <updated>2021-11-02T12:08:32.738Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005076480&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211102&amp;page=1" title="[표]일본 주요기업 주가(11/2)">[표]일본 주요기업 주가(11/2)</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[표]아시아 주요 증시 동향(11월 2일)]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003980707&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211102&amp;page=1</id>
@@ -13,11 +20,11 @@
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003980707&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211102&amp;page=1" title="[표]아시아 주요 증시 동향(11월 2일)">[표]아시아 주요 증시 동향(11월 2일)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['테슬라 대항마' 리비안 내주 나스닥 입성…혼다 시총 추월하나 [자이앤트월드]]]></title>
+        <title type="html"><![CDATA['테슬라 대항마' 리비안 내주 나스닥 입성…혼다 시총 추월하나]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004873386&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211102&amp;page=1</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004873386&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211102&amp;page=1"/>
         <updated>2021-11-02T09:05:13.063Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004873386&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211102&amp;page=1" title="'테슬라 대항마' 리비안 내주 나스닥 입성…혼다 시총 추월하나 [자이앤트월드]">'테슬라 대항마' 리비안 내주 나스닥 입성…혼다 시총 추월하나 [자이앤트월드]</a>]]></content>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004873386&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211102&amp;page=1" title="'테슬라 대항마' 리비안 내주 나스닥 입성…혼다 시총 추월하나">'테슬라 대항마' 리비안 내주 나스닥 입성…혼다 시총 추월하나</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['메타버스 수혜株' 아리스타, 주식분할 발표에 투자자들 환호]]></title>
@@ -53,12 +60,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004873298&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211102&amp;page=1"/>
         <updated>2021-11-02T09:05:13.070Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004873298&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211102&amp;page=1" title="[클릭! 해외증시 이 종목] 클라우드 덕 본 MS, 순항 이어질지 주목">[클릭! 해외증시 이 종목] 클라우드 덕 본 MS, 순항 이어질지 주목</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[속보] 머스크 "허츠에 10만대 판매 계약 아직 미확정"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000994320&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211102&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000994320&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211102&amp;page=1"/>
-        <updated>2021-11-02T08:06:52.154Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000994320&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211102&amp;page=1" title="[속보] 머스크 &quot;허츠에 10만대 판매 계약 아직 미확정&quot;">[속보] 머스크 "허츠에 10만대 판매 계약 아직 미확정"</a>]]></content>
     </entry>
 </feed>
