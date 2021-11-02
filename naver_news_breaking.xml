@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS2D&amp;section_id=101&amp;section_id2=258</id>
     <title>네이버 금융 ─ 뉴스 ─ 실시간 속보</title>
-    <updated>2021-11-02T13:15:33.391Z</updated>
+    <updated>2021-11-02T14:05:53.838Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[금감원, 우리금융 종합검사 예고해놓고 '유보'…"절차개선 논의"(종합)]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012765883&amp;office_id=001&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211102&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012765883&amp;office_id=001&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211102&amp;page=1"/>
+        <updated>2021-11-02T14:03:44.986Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012765883&amp;office_id=001&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211102&amp;page=1" title="금감원, 우리금융 종합검사 예고해놓고 '유보'…&quot;절차개선 논의&quot;(종합)">금감원, 우리금융 종합검사 예고해놓고 '유보'…"절차개선 논의"(종합)</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[야후, MS 이어 中 사업 철수…“어려워지는 사업 환경”]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005076486&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211102&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0002704178&amp;office_id=029&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211102&amp;page=1"/>
         <updated>2021-11-02T12:08:03.533Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0002704178&amp;office_id=029&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211102&amp;page=1" title="[THE FINANCE] 숨은 내 돈 찾기, 이렇게 쉬웠어?">[THE FINANCE] 숨은 내 돈 찾기, 이렇게 쉬웠어?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["자영업자 은행 대출 막혀 고금리 대출로 밀려났다"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001618625&amp;office_id=057&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211102&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001618625&amp;office_id=057&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211102&amp;page=1"/>
-        <updated>2021-11-02T11:03:21.752Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0001618625&amp;office_id=057&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211102&amp;page=1" title="&quot;자영업자 은행 대출 막혀 고금리 대출로 밀려났다&quot;">"자영업자 은행 대출 막혀 고금리 대출로 밀려났다"</a>]]></content>
     </entry>
 </feed>

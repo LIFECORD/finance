@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-11-02T13:15:33.401Z</updated>
+    <updated>2021-11-02T14:05:53.840Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[9년 9개월 만에 3%대 물가 상승률‥상승 압력, 당분간 더]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001157559&amp;office_id=214&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211102&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001157559&amp;office_id=214&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211102&amp;page=1"/>
+        <updated>2021-11-02T14:04:50.750Z</updated>
+        <content type="html"><![CDATA[MBC]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘기후 위기’ 절반의 성공…COP26 의미와 전망은?]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0011149125&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211102&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000342999&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211102&amp;page=1"/>
         <updated>2021-11-02T13:14:35.752Z</updated>
         <content type="html"><![CDATA[TV조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[백운기의 뉴스와이드] 국민의힘 경선 투표 / '킹메이커' 김종인 등판? / 민주당 선대위..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001618651&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211102&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001618651&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211102&amp;page=1"/>
-        <updated>2021-11-02T13:14:35.753Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
     </entry>
 </feed>
