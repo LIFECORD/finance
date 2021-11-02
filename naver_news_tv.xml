@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-11-02T04:07:50.147Z</updated>
+    <updated>2021-11-02T05:05:54.810Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지하철역에 자율주행 버스·택시가 ‘마중’ 나온다면?]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0011148807&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211102&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011148807&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211102&amp;page=1"/>
+        <updated>2021-11-02T05:04:47.108Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[경제 톡톡톡]KT 피해 보상은 개인 1천 원…“턱없이 부족” 비판]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000217237&amp;office_id=449&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211102&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000217237&amp;office_id=449&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211102&amp;page=1"/>
+        <updated>2021-11-02T05:04:47.110Z</updated>
+        <content type="html"><![CDATA[채널A]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[오늘의 경제지표] 美 증시 훈풍...우리 경제지표에 미친 영향은?]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001660093&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211102&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001660093&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211102&amp;page=1"/>
+        <updated>2021-11-02T05:04:47.111Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["점심 장사 망쳤는데 8,000원?"...개인 보상은 1,000원]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001660096&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211102&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001660096&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211102&amp;page=1"/>
+        <updated>2021-11-02T00:58:00.000Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정유사 직영·알뜰주유소 12일부터 유류세 인하 반영]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000512038&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211102&amp;page=1</id>
@@ -46,33 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000512033&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211102&amp;page=1"/>
         <updated>2021-11-02T00:45:00.000Z</updated>
         <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘30% 할인이라더니’ KTX의 이상한 셈법…공정위 조사 나서나?]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0011148791&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211102&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011148791&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211102&amp;page=1"/>
-        <updated>2021-11-02T00:43:00.000Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[친절한 경제] KT ‘천 원 보상’에 뿔난 소비자들]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0011148790&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211102&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011148790&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211102&amp;page=1"/>
-        <updated>2021-11-02T00:42:00.000Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["오징어 게임 테마 가상화폐는 사기"…'0달러' 추락]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000930898&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211102&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000930898&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211102&amp;page=1"/>
-        <updated>2021-11-02T00:39:00.000Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자동차 누적 등록 2천478만 대…친환경차 100만 대 돌파]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000930895&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211102&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000930895&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211102&amp;page=1"/>
-        <updated>2021-11-02T00:34:00.000Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>
