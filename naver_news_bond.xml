@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=404</id>
     <title>네이버 금융 ─ 뉴스 ─ 채권 선물</title>
-    <updated>2021-11-03T21:05:18.513Z</updated>
+    <updated>2021-11-03T22:06:24.732Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[국내 주식형 펀드 자금, 11거래일 연속 순유입]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005077539&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211104&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005077539&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211104&amp;page=1"/>
+        <updated>2021-11-03T22:04:38.324Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005077539&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211104&amp;page=1" title="국내 주식형 펀드 자금, 11거래일 연속 순유입">국내 주식형 펀드 자금, 11거래일 연속 순유입</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미, 채권매입 점진적 축소 발표…일단 11∼12월 150억 달러씩(종합)]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0012768975&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211104&amp;page=1</id>
