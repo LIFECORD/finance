@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-11-03T02:22:39.129Z</updated>
+    <updated>2021-11-03T03:06:59.720Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["당분간 베이징 오지마"…中 팬데믹 통제에 항공편 절반 결항]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000994497&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211103&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000994497&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211103&amp;page=1"/>
+        <updated>2021-11-03T03:05:23.371Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000994497&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211103&amp;page=1" title="&quot;당분간 베이징 오지마&quot;…中 팬데믹 통제에 항공편 절반 결항">"당분간 베이징 오지마"…中 팬데믹 통제에 항공편 절반 결항</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[표]유럽 주요기업 주가(11/2)]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005076975&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211103&amp;page=1</id>
@@ -46,12 +53,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005076696&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211103&amp;page=1"/>
         <updated>2021-11-03T01:47:25.098Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005076696&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211103&amp;page=1" title="환율, 5원 가량 올라 1170원대 후반 상승">환율, 5원 가량 올라 1170원대 후반 상승</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[표]해외 DR 가격(11월 2일)]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003980796&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211103&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003980796&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211103&amp;page=1"/>
-        <updated>2021-11-03T00:18:54.048Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003980796&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211103&amp;page=1" title="[표]해외 DR 가격(11월 2일)">[표]해외 DR 가격(11월 2일)</a>]]></content>
     </entry>
 </feed>
