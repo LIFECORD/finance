@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-11-03T20:06:30.231Z</updated>
+    <updated>2021-11-03T21:05:18.489Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어젯밤 9시까지 2,140명…오늘 2,500명 안팎 예상]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000512338&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211104&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000512338&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211104&amp;page=1"/>
+        <updated>2021-11-04T05:06:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['요소비료' 재고 '바닥'...내년 농사 비룟값부터 걱정]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001660886&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211104&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0011149928&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211104&amp;page=1"/>
         <updated>2021-11-03T15:05:05.782Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[신동욱 앵커의 시선] 먹고살고자 한 죄]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000343108&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211104&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000343108&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211104&amp;page=1"/>
-        <updated>2021-11-03T15:05:05.785Z</updated>
-        <content type="html"><![CDATA[TV조선]]></content>
     </entry>
 </feed>
