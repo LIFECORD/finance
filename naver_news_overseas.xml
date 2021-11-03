@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-11-03T19:05:56.115Z</updated>
+    <updated>2021-11-03T20:06:30.236Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[속보]'비둘기' 파월에 환호…뉴욕 증시 또 신고점 경신]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005077515&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211104&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005077515&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211104&amp;page=1"/>
+        <updated>2021-11-03T20:04:58.151Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005077515&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211104&amp;page=1" title="[속보]'비둘기' 파월에 환호…뉴욕 증시 또 신고점 경신">[속보]'비둘기' 파월에 환호…뉴욕 증시 또 신고점 경신</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["상황에 따라 내년 확 바꿀 수도"...Fed, 테이퍼링 변화 시사]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004624386&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211104&amp;page=1</id>
@@ -53,12 +60,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003981222&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211104&amp;page=1"/>
         <updated>2021-11-03T15:04:17.443Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003981222&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211104&amp;page=1" title="[표]아시아 주요 증시 동향(11월 3일)">[표]아시아 주요 증시 동향(11월 3일)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['제2 테슬라' 리비안…기업가치 70조원 비밀은]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004624187&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211104&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004624187&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211104&amp;page=1"/>
-        <updated>2021-11-03T15:04:17.444Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004624187&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211104&amp;page=1" title="'제2 테슬라' 리비안…기업가치 70조원 비밀은">'제2 테슬라' 리비안…기업가치 70조원 비밀은</a>]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-11-03T19:05:56.125Z</updated>
+    <updated>2021-11-03T20:06:30.231Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['요소비료' 재고 '바닥'...내년 농사 비룟값부터 걱정]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001660886&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211104&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001660886&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211104&amp;page=1"/>
+        <updated>2021-11-04T04:58:00.000Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['1만 원→20만 원' 요소수 대란…마땅한 대책은 없어]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000931266&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211104&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000343108&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211104&amp;page=1"/>
         <updated>2021-11-03T15:05:05.785Z</updated>
         <content type="html"><![CDATA[TV조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[탐사K]② 국제행사 사후평가…“스쳐 지나가는 요식행위”]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0011149869&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211104&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011149869&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211104&amp;page=1"/>
-        <updated>2021-11-03T15:05:05.786Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
