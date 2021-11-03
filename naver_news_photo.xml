@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-11-03T13:16:02.988Z</updated>
+    <updated>2021-11-03T14:05:49.629Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[개장 전 50% 이상 뛴 'BBBY'…숏 스퀴즈 가능성 [뉴욕증시 나우]]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000994656&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211103&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000994656&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211103&amp;page=1"/>
+        <updated>2021-11-03T14:04:45.246Z</updated>
+        <content type="html"><![CDATA[한국경제TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[외환시장, 공매도…MSCI 선진지수 편입 '첩첩산중']]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005077473&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211103&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005077473&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211103&amp;page=1"/>
+        <updated>2021-11-03T14:04:45.246Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KAI, 국산 경공격 전투기 'FA-50’ 유럽 수출 나선다]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000639025&amp;office_id=469&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211103&amp;page=1</id>
@@ -60,19 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000639003&amp;office_id=469&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211103&amp;page=1"/>
         <updated>2021-11-03T11:04:25.129Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘따상’ 못했지만...카카오페이, 공모가 2배 넘는 19만3000원]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003650695&amp;office_id=023&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211103&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003650695&amp;office_id=023&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211103&amp;page=1"/>
-        <updated>2021-11-03T11:04:25.131Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[젊어진 미래에셋그룹…4050 차세대 리더 적극 중용]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005077443&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211103&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005077443&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211103&amp;page=1"/>
-        <updated>2021-11-03T11:04:25.133Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>

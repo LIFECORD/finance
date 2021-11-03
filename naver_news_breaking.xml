@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS2D&amp;section_id=101&amp;section_id2=258</id>
     <title>네이버 금융 ─ 뉴스 ─ 실시간 속보</title>
-    <updated>2021-11-03T13:16:02.981Z</updated>
+    <updated>2021-11-03T14:05:49.693Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[외환시장, 공매도…MSCI 선진지수 편입 '첩첩산중']]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005077473&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211103&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005077473&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211103&amp;page=1"/>
+        <updated>2021-11-03T14:03:50.439Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005077473&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211103&amp;page=1" title="외환시장, 공매도…MSCI 선진지수 편입 '첩첩산중'">외환시장, 공매도…MSCI 선진지수 편입 '첩첩산중'</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KAI, 국산 경공격 전투기 'FA-50’ 유럽 수출 나선다]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000639025&amp;office_id=469&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211103&amp;page=1</id>
@@ -60,19 +67,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000639003&amp;office_id=469&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211103&amp;page=1"/>
         <updated>2021-11-03T11:03:20.658Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000639003&amp;office_id=469&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211103&amp;page=1" title="미래에셋그룹, 세대교체 단행…최창훈·김응석 부회장 승진">미래에셋그룹, 세대교체 단행…최창훈·김응석 부회장 승진</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비료도 대란 우려…재고 평소 10분의1인데 요소가격 3배 뛰어]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001618910&amp;office_id=057&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211103&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001618910&amp;office_id=057&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211103&amp;page=1"/>
-        <updated>2021-11-03T11:03:20.665Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0001618910&amp;office_id=057&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211103&amp;page=1" title="비료도 대란 우려…재고 평소 10분의1인데 요소가격 3배 뛰어">비료도 대란 우려…재고 평소 10분의1인데 요소가격 3배 뛰어</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘따상’ 못했지만...카카오페이, 공모가 2배 넘는 19만3000원]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003650695&amp;office_id=023&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211103&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003650695&amp;office_id=023&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211103&amp;page=1"/>
-        <updated>2021-11-03T12:07:44.666Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003650695&amp;office_id=023&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211103&amp;page=1" title="‘따상’ 못했지만...카카오페이, 공모가 2배 넘는 19만3000원">‘따상’ 못했지만...카카오페이, 공모가 2배 넘는 19만3000원</a>]]></content>
     </entry>
 </feed>
