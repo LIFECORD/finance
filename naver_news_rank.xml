@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-03T07:06:52.331Z</updated>
+    <updated>2021-11-03T08:07:58.197Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -160,13 +160,6 @@
         <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[글로벌 게임데이터 플랫폼 오피지지(OP GG), 위드 코로나 시..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003980996&amp;office_id=011&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003980996&amp;office_id=011&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-03T07:05:35.431Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[디어유, 청약 증거금 17조 몰렸다… 최종 경쟁률 '1598대1..]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000750248&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000750248&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
@@ -179,5 +172,12 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005076508&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-03T06:06:13.858Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[싱가포르 올해 경제 성장률 전망 6~7%p↑…생산량 팬데믹 이전..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000994384&amp;office_id=215&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000994384&amp;office_id=215&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-03T04:39:00.000Z</updated>
+        <content type="html"><![CDATA[한국경제TV]]></content>
     </entry>
 </feed>
