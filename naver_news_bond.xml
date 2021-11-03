@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=404</id>
     <title>네이버 금융 ─ 뉴스 ─ 채권 선물</title>
-    <updated>2021-11-03T03:06:59.713Z</updated>
+    <updated>2021-11-03T04:09:12.637Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[녹색채권 열풍에 이미지 세탁용 '그린워싱' 주의보]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012767284&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211103&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012767284&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211103&amp;page=1"/>
+        <updated>2021-11-03T04:07:40.020Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012767284&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211103&amp;page=1" title="녹색채권 열풍에 이미지 세탁용 '그린워싱' 주의보">녹색채권 열풍에 이미지 세탁용 '그린워싱' 주의보</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[삼성운용 ‘KODEX TRF 3070’ ETF, 순자산 1000억원 돌파]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005076639&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211103&amp;page=1</id>
@@ -53,12 +60,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005076374&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211103&amp;page=1"/>
         <updated>2021-11-02T15:04:35.982Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005076374&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211103&amp;page=1" title="[표]주가지수선물 투자자별 매매동향(11/2)">[표]주가지수선물 투자자별 매매동향(11/2)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[표]거래소주가지수선물·옵션시세표(11/2)]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005076373&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211103&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005076373&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211103&amp;page=1"/>
-        <updated>2021-11-02T15:04:35.983Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005076373&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211103&amp;page=1" title="[표]거래소주가지수선물·옵션시세표(11/2)">[표]거래소주가지수선물·옵션시세표(11/2)</a>]]></content>
     </entry>
 </feed>
