@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=401</id>
     <title>네이버 금융 ─ 뉴스 ─ 시황·전망</title>
-    <updated>2021-11-03T04:09:12.620Z</updated>
+    <updated>2021-11-03T05:05:51.645Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코스닥, 기관 이어 개인 '팔자' 전환…하락전환해 ‘1005’]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005077069&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211103&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005077069&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211103&amp;page=1"/>
+        <updated>2021-11-03T05:03:56.413Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005077069&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211103&amp;page=1" title="코스닥, 기관 이어 개인 '팔자' 전환…하락전환해 ‘1005’">코스닥, 기관 이어 개인 '팔자' 전환…하락전환해 ‘1005’</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조이시티, 4분기 매출·영업이익 반등 ‘기대’]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004873696&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211103&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001907692&amp;office_id=016&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211103&amp;page=1"/>
         <updated>2021-11-03T01:47:13.507Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0001907692&amp;office_id=016&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211103&amp;page=1" title="대신證, kt wiz 정규리그 우승 기념  ‘77+7 이벤트’">대신證, kt wiz 정규리그 우승 기념  ‘77+7 이벤트’</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[특징주] 카카오게임즈, 실적 발표 이후 주가 강세]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003980867&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211103&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003980867&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211103&amp;page=1"/>
-        <updated>2021-11-03T01:47:13.507Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003980867&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211103&amp;page=1" title="[특징주] 카카오게임즈, 실적 발표 이후 주가 강세">[특징주] 카카오게임즈, 실적 발표 이후 주가 강세</a>]]></content>
     </entry>
 </feed>
