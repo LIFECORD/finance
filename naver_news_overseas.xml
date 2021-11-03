@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-11-03T01:48:58.193Z</updated>
+    <updated>2021-11-03T02:22:39.129Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[표]유럽 주요기업 주가(11/2)]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005076975&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211103&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005076975&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211103&amp;page=1"/>
+        <updated>2021-11-03T02:20:35.489Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005076975&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211103&amp;page=1" title="[표]유럽 주요기업 주가(11/2)">[표]유럽 주요기업 주가(11/2)</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美동포 여성 CEO, 뉴욕증시 개장 벨 울렸다]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0012766490&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211103&amp;page=1</id>
@@ -46,19 +53,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003980796&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211103&amp;page=1"/>
         <updated>2021-11-03T00:18:54.048Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003980796&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211103&amp;page=1" title="[표]해외 DR 가격(11월 2일)">[표]해외 DR 가격(11월 2일)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[표]해외 주요 증시 동향(11월 2일)]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003980794&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211103&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003980794&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211103&amp;page=1"/>
-        <updated>2021-11-03T00:18:54.050Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003980794&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211103&amp;page=1" title="[표]해외 주요 증시 동향(11월 2일)">[표]해외 주요 증시 동향(11월 2일)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[외환브리핑]FOMC 회의 시작되자 달러강세…환율, 1180원 상승 시도]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005076604&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211103&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005076604&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211103&amp;page=1"/>
-        <updated>2021-11-03T00:18:54.051Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005076604&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211103&amp;page=1" title="[외환브리핑]FOMC 회의 시작되자 달러강세…환율, 1180원 상승 시도">[외환브리핑]FOMC 회의 시작되자 달러강세…환율, 1180원 상승 시도</a>]]></content>
     </entry>
 </feed>

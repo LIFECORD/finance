@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/research/debenture_list.naver</id>
     <title>네이버 금융 ─ 리서치 ─ 채권분석 리포트</title>
-    <updated>2021-11-03T01:48:58.180Z</updated>
+    <updated>2021-11-03T02:22:39.163Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/research/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[좀비를 위한 변명]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/debenture/1635904846987.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/debenture/1635904846987.pdf"/>
+        <updated>2021-11-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[하나금융투자]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ETF 자금 흐름 점검과 모멘텀 형성군: 전기차&자율주..]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/debenture/1635904292555.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/debenture/1635904292555.pdf"/>
+        <updated>2021-11-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[IBK투자증권]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EM채권 자금 유출 지속]]></title>
         <id>https://ssl.pstatic.net/imgstock/upload/research/debenture/1635733529931.pdf</id>
@@ -200,19 +214,5 @@
         <link href="https://ssl.pstatic.net/imgstock/upload/research/debenture/1630288333574.pdf"/>
         <updated>2021-10-14T00:13:16.408Z</updated>
         <content type="html"><![CDATA[교보증권]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연내 추가 금리인상 시사]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/debenture/1630023176553.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/debenture/1630023176553.pdf"/>
-        <updated>2021-10-14T00:13:16.411Z</updated>
-        <content type="html"><![CDATA[하나금융투자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8월 금통위 Review 연내 추가 인상 가능, 10월이 될까..]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/debenture/1630022692836.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/debenture/1630022692836.pdf"/>
-        <updated>2021-10-14T00:13:16.412Z</updated>
-        <content type="html"><![CDATA[이베스트증권]]></content>
     </entry>
 </feed>
