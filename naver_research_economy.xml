@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/research/economy_list.naver</id>
     <title>네이버 금융 ─ 리서치 ─ 경제분석 리포트</title>
-    <updated>2021-11-04T01:53:24.818Z</updated>
+    <updated>2021-11-04T02:25:02.447Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/research/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[11월 FOMC Review: 매월 진행되는 축소, 2014년과는 ..]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/economy/1635991251215.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/economy/1635991251215.pdf"/>
+        <updated>2021-11-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[이베스트증권]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[11월 FOMC: 테이퍼링과 금리 인상의 거리감]]></title>
         <id>https://ssl.pstatic.net/imgstock/upload/research/economy/1635990357127.pdf</id>
@@ -207,12 +214,5 @@
         <link href="https://ssl.pstatic.net/imgstock/upload/research/economy/1633397348390.pdf"/>
         <updated>2021-10-14T00:09:38.361Z</updated>
         <content type="html"><![CDATA[이베스트증권]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[숨 고르기와 불안 사이]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/economy/1633396544250.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/economy/1633396544250.pdf"/>
-        <updated>2021-10-14T00:09:38.362Z</updated>
-        <content type="html"><![CDATA[IBK투자증권]]></content>
     </entry>
 </feed>
