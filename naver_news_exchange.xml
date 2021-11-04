@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=429</id>
     <title>네이버 금융 ─ 뉴스 ─ 환율</title>
-    <updated>2021-11-04T05:06:22.669Z</updated>
+    <updated>2021-11-04T06:07:35.798Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미 테이퍼링에 국내 기업도 '긴장'…"당장 영향 적어도 예의주시"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012770492&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211104&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012770492&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211104&amp;page=1"/>
+        <updated>2021-11-04T06:06:11.459Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012770492&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211104&amp;page=1" title="미 테이퍼링에 국내 기업도 '긴장'…&quot;당장 영향 적어도 예의주시&quot;">미 테이퍼링에 국내 기업도 '긴장'…"당장 영향 적어도 예의주시"</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[영상] 미국, 돈줄죄기 시작…그런데 '테이퍼링'이 뭐지?]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0012769933&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211104&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012768977&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211104&amp;page=1"/>
         <updated>2021-11-03T21:04:03.171Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012768977&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211104&amp;page=1" title="파월 &quot;금리인상 아직 아냐…인내심 가질 수 있다&quot;(종합)">파월 "금리인상 아직 아냐…인내심 가질 수 있다"(종합)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[테이퍼링에도 뉴욕증시 3대지수 또 동반 최고치]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0012768976&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211104&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012768976&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211104&amp;page=1"/>
-        <updated>2021-11-03T21:04:03.172Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012768976&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211104&amp;page=1" title="테이퍼링에도 뉴욕증시 3대지수 또 동반 최고치">테이퍼링에도 뉴욕증시 3대지수 또 동반 최고치</a>]]></content>
     </entry>
 </feed>
