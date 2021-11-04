@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-11-04T16:09:16.290Z</updated>
+    <updated>2021-11-04T17:14:47.981Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[소방차에도 불똥…매대 텅 비고 해외직구 나서고]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000931483&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211105&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000931483&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211105&amp;page=1"/>
+        <updated>2021-11-05T01:50:00.000Z</updated>
+        <content type="html"><![CDATA[SBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정부, LPG 가격 급등 점검..."유류세 인하 조속 반영 요청"]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001661319&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211105&amp;page=1</id>
@@ -66,13 +73,6 @@
         <id>https://finance.naver.com/news/news_read.naver?article_id=0011150686&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211105&amp;page=1</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0011150686&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211105&amp;page=1"/>
         <updated>2021-11-04T15:05:11.755Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[민간 이윤 상한 씌우고 개발부담금 높인다]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0011150681&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211105&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011150681&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211105&amp;page=1"/>
-        <updated>2021-11-04T15:05:11.756Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>

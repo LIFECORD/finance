@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS2D&amp;section_id=101&amp;section_id2=258</id>
     <title>네이버 금융 ─ 뉴스 ─ 실시간 속보</title>
-    <updated>2021-11-04T16:09:16.258Z</updated>
+    <updated>2021-11-04T17:14:47.953Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[비둘기에 안도한 코스피…"중소형 성장주 여전히 매력"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005078477&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211105&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005078477&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211105&amp;page=1"/>
+        <updated>2021-11-04T17:12:48.098Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005078477&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211105&amp;page=1" title="비둘기에 안도한 코스피…&quot;중소형 성장주 여전히 매력&quot;">비둘기에 안도한 코스피…"중소형 성장주 여전히 매력"</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[마켓인]“먹는게 남는 것”…PEF에 팔리는 식음료 프랜차이즈]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005078476&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211105&amp;page=1</id>
@@ -53,12 +60,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005078464&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211105&amp;page=1"/>
         <updated>2021-11-04T15:04:08.275Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005078464&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211105&amp;page=1" title="하이브 올라탄 두나무, 상장땐 기업가치 20조+α">하이브 올라탄 두나무, 상장땐 기업가치 20조+α</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英 중앙은행, 물가상승에도 기준금리 동결…"고용지표 보자"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004624829&amp;office_id=015&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211105&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004624829&amp;office_id=015&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211105&amp;page=1"/>
-        <updated>2021-11-04T15:04:08.281Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004624829&amp;office_id=015&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211105&amp;page=1" title="英 중앙은행, 물가상승에도 기준금리 동결…&quot;고용지표 보자&quot;">英 중앙은행, 물가상승에도 기준금리 동결…"고용지표 보자"</a>]]></content>
     </entry>
 </feed>
