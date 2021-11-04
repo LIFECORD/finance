@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-11-04T13:16:05.103Z</updated>
+    <updated>2021-11-04T14:05:46.831Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["제2의 대장동 막는다"…민간 사업자 이익 제한 추진]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000931459&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211104&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000931459&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211104&amp;page=1"/>
+        <updated>2021-11-04T14:04:48.480Z</updated>
+        <content type="html"><![CDATA[SBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[렌터카 운전자, 술 마셨을 땐 대리 부를 수 있다]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000512502&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211104&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000512502&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211104&amp;page=1"/>
+        <updated>2021-11-04T14:04:48.485Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전동킥보드 부딪힌 보행자도 보험으로 피해보상]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0011150728&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211104&amp;page=1</id>
@@ -60,19 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000343216&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211104&amp;page=1"/>
         <updated>2021-11-04T13:14:52.096Z</updated>
         <content type="html"><![CDATA[TV조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["아이스크림값 왜 다 비슷?"…빙과류업체 가격담합 적발]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000343215&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211104&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000343215&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211104&amp;page=1"/>
-        <updated>2021-11-04T13:14:52.097Z</updated>
-        <content type="html"><![CDATA[TV조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘산업용 전환’ 어렵고 ‘SCR 해제’ 안되고…“차라리 해외 직구”]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0011150664&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211104&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011150664&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211104&amp;page=1"/>
-        <updated>2021-11-04T13:14:52.098Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>

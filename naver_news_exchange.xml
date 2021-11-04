@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=429</id>
     <title>네이버 금융 ─ 뉴스 ─ 환율</title>
-    <updated>2021-11-04T13:16:05.091Z</updated>
+    <updated>2021-11-04T14:05:46.835Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영란은행, 물가상승에도 기준금리 일단 동결…"고용지표 보자"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012771640&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211104&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012771640&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211104&amp;page=1"/>
+        <updated>2021-11-04T14:04:30.057Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012771640&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211104&amp;page=1" title="영란은행, 물가상승에도 기준금리 일단 동결…&quot;고용지표 보자&quot;">영란은행, 물가상승에도 기준금리 일단 동결…"고용지표 보자"</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한정애 "감축한 메탄, 에너지원 활용방안 추진"]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003981611&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211104&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012769322&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211104&amp;page=1"/>
         <updated>2021-11-04T01:51:55.115Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012769322&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211104&amp;page=1" title="FOMC 금리 인상 일축 속 원/달러 환율 하락 출발">FOMC 금리 인상 일축 속 원/달러 환율 하락 출발</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한은 "FOMC 결과 예상과 부합…금융시장 모니터링 강화"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0012769212&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211104&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012769212&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211104&amp;page=1"/>
-        <updated>2021-11-04T00:19:16.947Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012769212&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211104&amp;page=1" title="한은 &quot;FOMC 결과 예상과 부합…금융시장 모니터링 강화&quot;">한은 "FOMC 결과 예상과 부합…금융시장 모니터링 강화"</a>]]></content>
     </entry>
 </feed>
