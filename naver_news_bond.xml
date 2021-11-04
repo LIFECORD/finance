@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=404</id>
     <title>네이버 금융 ─ 뉴스 ─ 채권 선물</title>
-    <updated>2021-11-04T08:07:26.990Z</updated>
+    <updated>2021-11-04T09:07:03.232Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[국고채 금리 대체로 하락…3년물은 0.4bp 올라(종합)]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012771192&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211104&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012771192&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211104&amp;page=1"/>
+        <updated>2021-11-04T09:05:28.324Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012771192&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211104&amp;page=1" title="국고채 금리 대체로 하락…3년물은 0.4bp 올라(종합)">국고채 금리 대체로 하락…3년물은 0.4bp 올라(종합)</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[표]주가지수선물 투자자별 매매동향(11/4)]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005078336&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211104&amp;page=1</id>
@@ -39,12 +46,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012769570&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211104&amp;page=1"/>
         <updated>2021-11-04T01:51:41.583Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012769570&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211104&amp;page=1" title="증권가 &quot;연준, 여전히 완화적…금리 인상, 이르면 내년 하반기&quot;">증권가 "연준, 여전히 완화적…금리 인상, 이르면 내년 하반기"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신한금융투자 "미국, 2022년 12월 첫 금리 인상 전망"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0012769101&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211104&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012769101&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211104&amp;page=1"/>
-        <updated>2021-11-04T00:19:03.210Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012769101&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211104&amp;page=1" title="신한금융투자 &quot;미국, 2022년 12월 첫 금리 인상 전망&quot;">신한금융투자 "미국, 2022년 12월 첫 금리 인상 전망"</a>]]></content>
     </entry>
 </feed>
