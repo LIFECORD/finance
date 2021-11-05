@@ -2,29 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-05T19:05:37.370Z</updated>
+    <updated>2021-11-05T20:07:36.919Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[메타(페이스북), '메타버스' 관련 첫 오프라인 매장 개점 추진]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004625197&amp;office_id=015&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004625197&amp;office_id=015&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-06T02:10:00.000Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바이든 “경구 코로나 치료제 확보… FDA 승인하면 바로 사용”]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000772006&amp;office_id=366&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000772006&amp;office_id=366&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-06T02:09:00.000Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[주식 매매 상위 종목 및 환율] 2021년 11월 5일자]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003651252&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003651252&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-06T03:04:00.000Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[메타(페이스북), '메타버스' 관련 첫 오프라인 매장 개점 추진]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004625197&amp;office_id=015&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004625197&amp;office_id=015&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-06T02:10:00.000Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[유럽증시] 화이자 코로나 치료알약 발표 속 상승]]></title>
@@ -34,10 +27,31 @@
         <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[바이든 “경구 코로나 치료제 확보… FDA 승인하면 바로 사용”]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000772006&amp;office_id=366&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000772006&amp;office_id=366&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-06T02:09:00.000Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[유럽 증시, 화이자 경구약 개발·기업실적 기대에 상승 마감.....]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0010816212&amp;office_id=003&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0010816212&amp;office_id=003&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-06T03:54:00.000Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뉴욕유가] 저가 매수세에 3% 상승]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012774128&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012774128&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-06T04:01:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['우주 인터넷 전쟁' 붙 붙는다...아마존, 위성 총 7700대..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004625200&amp;office_id=015&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004625200&amp;office_id=015&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-06T04:45:00.000Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>

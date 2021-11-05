@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-11-05T19:05:37.407Z</updated>
+    <updated>2021-11-05T20:07:36.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['우주 인터넷 전쟁' 붙 붙는다...아마존, 위성 총 7700대 발사 계획]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004625200&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211106&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004625200&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211106&amp;page=1"/>
+        <updated>2021-11-05T20:05:36.502Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004625200&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211106&amp;page=1" title="'우주 인터넷 전쟁' 붙 붙는다...아마존, 위성 총 7700대 발사 계획">'우주 인터넷 전쟁' 붙 붙는다...아마존, 위성 총 7700대 발사 계획</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[유럽증시] 화이자 코로나 치료알약 발표 속 상승]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0012774124&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211106&amp;page=1</id>
@@ -46,12 +53,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000995144&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211106&amp;page=1"/>
         <updated>2021-11-05T15:05:13.038Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000995144&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211106&amp;page=1" title="&quot;사람은 돌아오는거야&quot;…미국 인력난 속 부메랑 고용 주목">"사람은 돌아오는거야"…미국 인력난 속 부메랑 고용 주목</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["코로나 전보다 여행 더 간다"…에어비앤비, 3분기 최대 실적]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004625146&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211106&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004625146&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211106&amp;page=1"/>
-        <updated>2021-11-05T16:07:48.698Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004625146&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211106&amp;page=1" title="&quot;코로나 전보다 여행 더 간다&quot;…에어비앤비, 3분기 최대 실적">"코로나 전보다 여행 더 간다"…에어비앤비, 3분기 최대 실적</a>]]></content>
     </entry>
 </feed>
