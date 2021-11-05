@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=401</id>
     <title>네이버 금융 ─ 뉴스 ─ 시황·전망</title>
-    <updated>2021-11-05T01:51:09.984Z</updated>
+    <updated>2021-11-05T02:23:21.922Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[호재 없는 코스피…2950대로 '미끌']]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004994901&amp;office_id=277&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211105&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004994901&amp;office_id=277&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211105&amp;page=1"/>
+        <updated>2021-11-05T02:21:30.123Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004994901&amp;office_id=277&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211105&amp;page=1" title="호재 없는 코스피…2950대로 '미끌'">호재 없는 코스피…2950대로 '미끌'</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[특징주]에코프로비엠, 50만원 넘었다…신고가]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005078743&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211105&amp;page=1</id>
@@ -60,19 +67,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001908774&amp;office_id=016&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211105&amp;page=1"/>
         <updated>2021-11-05T01:49:18.136Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0001908774&amp;office_id=016&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211105&amp;page=1" title="[특징주]F&amp;F, 호실적에 신고가 경신">[특징주]F&amp;F, 호실적에 신고가 경신</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[특징주]국민의힘 대선 후보 선출일…尹 테마주 ‘강세’]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005078642&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211105&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005078642&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211105&amp;page=1"/>
-        <updated>2021-11-05T01:49:18.137Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005078642&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211105&amp;page=1" title="[특징주]국민의힘 대선 후보 선출일…尹 테마주 ‘강세’">[특징주]국민의힘 대선 후보 선출일…尹 테마주 ‘강세’</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["쌍용C&E, 원가 부담에도 이익 성장 지속 전망…목표가 1만200원↑"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001908764&amp;office_id=016&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211105&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001908764&amp;office_id=016&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211105&amp;page=1"/>
-        <updated>2021-11-05T01:49:18.140Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0001908764&amp;office_id=016&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211105&amp;page=1" title="&quot;쌍용C&amp;E, 원가 부담에도 이익 성장 지속 전망…목표가 1만200원↑&quot;">"쌍용C&amp;E, 원가 부담에도 이익 성장 지속 전망…목표가 1만200원↑"</a>]]></content>
     </entry>
 </feed>
