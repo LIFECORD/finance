@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/research/market_info_list.naver</id>
     <title>네이버 금융 ─ 리서치 ─ 시황정보 리포트</title>
-    <updated>2021-11-05T00:20:48.767Z</updated>
+    <updated>2021-11-05T01:51:09.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/research/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[eBest Quant Daily]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/market/1636076561091.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/market/1636076561091.pdf"/>
+        <updated>2021-11-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[이베스트증권]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Start with IBKS] KOSPI는 완화적인 FOMC 결과를 소..]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/market/1636075580194.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/market/1636075580194.pdf"/>
+        <updated>2021-11-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[IBK투자증권]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[eBest Quant Daily]]></title>
         <id>https://ssl.pstatic.net/imgstock/upload/research/market/1635991149484.pdf</id>
@@ -200,19 +214,5 @@
         <link href="https://ssl.pstatic.net/imgstock/upload/research/market/1634783819338.pdf"/>
         <updated>2021-10-21T00:00:00.000Z</updated>
         <content type="html"><![CDATA[교보증권]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[eBest Quant Daily]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/market/1634782088991.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/market/1634782088991.pdf"/>
-        <updated>2021-10-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[이베스트증권]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Start with IBKS] KOSPI는 경기 둔화 우려 속 외국인..]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/market/1634781554623.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/market/1634781554623.pdf"/>
-        <updated>2021-10-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[IBK투자증권]]></content>
     </entry>
 </feed>

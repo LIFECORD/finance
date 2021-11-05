@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=404</id>
     <title>네이버 금융 ─ 뉴스 ─ 채권 선물</title>
-    <updated>2021-11-05T00:20:48.778Z</updated>
+    <updated>2021-11-05T01:51:09.956Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[국내 주식형 펀드 자금, 12거래일 만에 순유출]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005078574&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211105&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005078574&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211105&amp;page=1"/>
+        <updated>2021-11-05T01:49:37.447Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005078574&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211105&amp;page=1" title="국내 주식형 펀드 자금, 12거래일 만에 순유출">국내 주식형 펀드 자금, 12거래일 만에 순유출</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국고채 금리 대체로 하락…3년물은 0.4bp 올라(종합)]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0012771192&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211105&amp;page=1</id>
