@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-05T08:08:21.872Z</updated>
+    <updated>2021-11-05T09:07:58.222Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -146,6 +146,13 @@
         <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[엔케이365, 겨울맞이 '위드 유산균' 1+1 프로모션 진행]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004874962&amp;office_id=009&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004874962&amp;office_id=009&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-05T09:06:41.643Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[삼성중공업, 3분기 영업손실 1102억]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005079066&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005079066&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
@@ -167,17 +174,10 @@
         <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코넥스 기본예탁금 3000만원제 폐지]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001908922&amp;office_id=016&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001908922&amp;office_id=016&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-05T11:19:00.000Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[증시이슈] 美 연준 금리인상 시점은 2023년?…힘 빠진 은행..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000018115&amp;office_id=243&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000018115&amp;office_id=243&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-05T11:20:00.000Z</updated>
-        <content type="html"><![CDATA[이코노미스트]]></content>
+        <title type="html"><![CDATA[석유·풍력·셰일가스·전기…'힘의 원천' 에너지, 증시를 지배한다]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004625096&amp;office_id=015&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004625096&amp;office_id=015&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-05T09:06:41.650Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
