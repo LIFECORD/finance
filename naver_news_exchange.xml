@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=429</id>
     <title>네이버 금융 ─ 뉴스 ─ 환율</title>
-    <updated>2021-11-05T04:07:39.644Z</updated>
+    <updated>2021-11-05T05:05:49.231Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[플랫폼 시장 경쟁정책은 포괄적 사전금지보다 사례별 사후규제가 바람직]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003981936&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211105&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003981936&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211105&amp;page=1"/>
+        <updated>2021-11-05T05:04:30.847Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003981936&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211105&amp;page=1" title="플랫폼 시장 경쟁정책은 포괄적 사전금지보다 사례별 사후규제가 바람직">플랫폼 시장 경쟁정책은 포괄적 사전금지보다 사례별 사후규제가 바람직</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[달러화 강세 기조 속 원/달러 환율, 장 초반 1,185원 안팎 등락]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0012772081&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211105&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012769563&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211105&amp;page=1"/>
         <updated>2021-11-04T15:04:52.135Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012769563&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211105&amp;page=1" title="증시 전문가들 &quot;테이퍼링 발표로 국내증시 변동 폭 줄일것&quot;">증시 전문가들 "테이퍼링 발표로 국내증시 변동 폭 줄일것"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조성욱 공정위원장 "거대 플랫폼 기업은 오징어게임 1번 참가자 같아"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003981375&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211105&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003981375&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211105&amp;page=1"/>
-        <updated>2021-11-04T15:04:52.137Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003981375&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211105&amp;page=1" title="조성욱 공정위원장 &quot;거대 플랫폼 기업은 오징어게임 1번 참가자 같아&quot;">조성욱 공정위원장 "거대 플랫폼 기업은 오징어게임 1번 참가자 같아"</a>]]></content>
     </entry>
 </feed>

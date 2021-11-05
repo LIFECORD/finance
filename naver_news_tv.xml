@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-11-05T04:07:39.628Z</updated>
+    <updated>2021-11-05T05:05:49.231Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[경제 톡톡톡]‘금값’ 된 배추…김장에 절임배추 인기]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000217421&amp;office_id=449&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211105&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000217421&amp;office_id=449&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211105&amp;page=1"/>
+        <updated>2021-11-05T05:04:49.944Z</updated>
+        <content type="html"><![CDATA[채널A]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023년부터 유통기한→소비기한…우유는 2031년]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000512582&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211105&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000512582&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211105&amp;page=1"/>
+        <updated>2021-11-05T05:04:49.945Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘요소수 사재기’ 판치자…소방차에 무료 제공 ‘천사’]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000217413&amp;office_id=449&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211105&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000217413&amp;office_id=449&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211105&amp;page=1"/>
+        <updated>2021-11-05T05:04:49.947Z</updated>
+        <content type="html"><![CDATA[채널A]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[요소수 품귀 ‘초비상’…정부 대책은 ‘아슬아슬 뒷북’]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000217412&amp;office_id=449&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211105&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000217412&amp;office_id=449&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211105&amp;page=1"/>
+        <updated>2021-11-05T05:04:49.947Z</updated>
+        <content type="html"><![CDATA[채널A]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘요소수 물류대란’ 오나…소방차·구급차도 멈출라]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000217411&amp;office_id=449&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211105&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000217411&amp;office_id=449&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211105&amp;page=1"/>
+        <updated>2021-11-05T05:04:49.950Z</updated>
+        <content type="html"><![CDATA[채널A]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[9월 경상수지, 100억 7천만 달러로 17개월 연속 흑자]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0011151215&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211105&amp;page=1</id>
@@ -39,40 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000512565&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211105&amp;page=1"/>
         <updated>2021-11-05T00:34:00.000Z</updated>
         <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정부 "청소년 대상 '방역패스' 검토 안해"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000512564&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211105&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000512564&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211105&amp;page=1"/>
-        <updated>2021-11-05T00:32:00.000Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고소득 맞벌이 · 1인 가구도 '아파트 특공' 기회 열린다]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000931591&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211105&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000931591&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211105&amp;page=1"/>
-        <updated>2021-11-05T00:31:00.000Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2,344명 확진…정부, 수도권 병상확보 행정명령]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000512563&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211105&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000512563&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211105&amp;page=1"/>
-        <updated>2021-11-05T00:31:00.000Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[민간이윤 제한, 개발부담금 상향…시장 악영향 우려도]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0011151192&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211105&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011151192&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211105&amp;page=1"/>
-        <updated>2021-11-05T00:25:00.000Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코스피·코스닥 혼조세‥은행주 하락세]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001158201&amp;office_id=214&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211105&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001158201&amp;office_id=214&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211105&amp;page=1"/>
-        <updated>2021-11-05T00:19:00.000Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>
