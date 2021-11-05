@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-05T07:06:58.070Z</updated>
+    <updated>2021-11-05T08:08:21.872Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -146,6 +146,13 @@
         <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[삼성중공업, 3분기 영업손실 1102억]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005079066&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005079066&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-05T08:06:59.988Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[속보] 비트코인 2.49% 하락한 6만1329달러에 거래돼]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005703847&amp;office_id=421&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005703847&amp;office_id=421&amp;mode=RANK&amp;typ=0"/>
@@ -172,12 +179,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000018115&amp;office_id=243&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-05T11:20:00.000Z</updated>
         <content type="html"><![CDATA[이코노미스트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[교보증권, 올해 IPO 대표주관 실적 '전무'…홀로 역행한 까닭..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000114545&amp;office_id=629&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000114545&amp;office_id=629&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-05T06:07:40.206Z</updated>
-        <content type="html"><![CDATA[더팩트]]></content>
     </entry>
 </feed>
