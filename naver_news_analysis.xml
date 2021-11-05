@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=402</id>
     <title>네이버 금융 ─ 뉴스 ─ 기업 종목분석</title>
-    <updated>2021-11-05T22:05:57.064Z</updated>
+    <updated>2021-11-05T23:06:15.567Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신흥국 증시, 내년에는 볕든다]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004995211&amp;office_id=277&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211106&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004995211&amp;office_id=277&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211106&amp;page=1"/>
+        <updated>2021-11-05T23:04:32.195Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004995211&amp;office_id=277&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211106&amp;page=1" title="신흥국 증시, 내년에는 볕든다">신흥국 증시, 내년에는 볕든다</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[표]코스닥 기관·외국인·개인 순매수·도 상위종목(11월 5일-최종치)]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003982083&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211106&amp;page=1</id>
@@ -60,12 +67,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005079132&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211106&amp;page=1"/>
         <updated>2021-11-05T15:05:06.530Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005079132&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211106&amp;page=1" title="[표]장외주식 거래현황(11/5)">[표]장외주식 거래현황(11/5)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중국서 매출 '대박'…'100만원 황제주' 등극 앞둔 곳이]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004625079&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211106&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004625079&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211106&amp;page=1"/>
-        <updated>2021-11-05T15:05:06.531Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004625079&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211106&amp;page=1" title="중국서 매출 '대박'…'100만원 황제주' 등극 앞둔 곳이">중국서 매출 '대박'…'100만원 황제주' 등극 앞둔 곳이</a>]]></content>
     </entry>
 </feed>
