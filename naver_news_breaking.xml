@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS2D&amp;section_id=101&amp;section_id2=258</id>
     <title>네이버 금융 ─ 뉴스 ─ 실시간 속보</title>
-    <updated>2021-11-05T17:14:47.882Z</updated>
+    <updated>2021-11-05T18:07:12.393Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[메타(페이스북), '메타버스' 관련 첫 오프라인 매장 개점 추진]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004625197&amp;office_id=015&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211106&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004625197&amp;office_id=015&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211106&amp;page=1"/>
+        <updated>2021-11-05T18:05:15.372Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004625197&amp;office_id=015&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211106&amp;page=1" title="메타(페이스북), '메타버스' 관련 첫 오프라인 매장 개점 추진">메타(페이스북), '메타버스' 관련 첫 오프라인 매장 개점 추진</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[바이든 “경구 코로나 치료제 확보… FDA 승인하면 바로 사용”]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000772006&amp;office_id=366&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211106&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000772006&amp;office_id=366&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211106&amp;page=1"/>
+        <updated>2021-11-05T18:05:15.377Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000772006&amp;office_id=366&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211106&amp;page=1" title="바이든 “경구 코로나 치료제 확보… FDA 승인하면 바로 사용”">바이든 “경구 코로나 치료제 확보… FDA 승인하면 바로 사용”</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[올댓차이나] 中 부동산개발 양광청, 1180억원 채권 1년간 상환유예 받아]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0010816203&amp;office_id=003&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211106&amp;page=1</id>
@@ -53,12 +67,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0002545448&amp;office_id=119&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211106&amp;page=1"/>
         <updated>2021-11-05T15:04:49.616Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0002545448&amp;office_id=119&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211106&amp;page=1" title="KTB네트워크, 증권신고서 제출...내달 상장 추진">KTB네트워크, 증권신고서 제출...내달 상장 추진</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더현대 효과 톡톡히 본 현대백화점…호실적에도 주가 약세 왜?]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004875100&amp;office_id=009&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211106&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004875100&amp;office_id=009&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211106&amp;page=1"/>
-        <updated>2021-11-05T15:04:49.618Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004875100&amp;office_id=009&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211106&amp;page=1" title="더현대 효과 톡톡히 본 현대백화점…호실적에도 주가 약세 왜?">더현대 효과 톡톡히 본 현대백화점…호실적에도 주가 약세 왜?</a>]]></content>
     </entry>
 </feed>
