@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-11-05T23:06:15.498Z</updated>
+    <updated>2021-11-06T00:20:00.518Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴욕증시]고용 회복 기대감에 3대 지수 최고치 경신]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005079493&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211106&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005079493&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211106&amp;page=1"/>
+        <updated>2021-11-06T00:18:13.071Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005079493&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211106&amp;page=1" title="[뉴욕증시]고용 회복 기대감에 3대 지수 최고치 경신">[뉴욕증시]고용 회복 기대감에 3대 지수 최고치 경신</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美 3대 지수 '또' 최고치 마감…고용 호조·먹는 치료제 낙관]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004625208&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211106&amp;page=1</id>
@@ -27,6 +34,13 @@
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000772016&amp;office_id=366&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211106&amp;page=1" title="뉴욕증시 3대 지수, 최고치 경신… 10월 고용 호조 영향">뉴욕증시 3대 지수, 최고치 경신… 10월 고용 호조 영향</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[뉴욕증시, 10월 고용 호조에 상승…3대 지수 최고 마감]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012774140&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211106&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012774140&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211106&amp;page=1"/>
+        <updated>2021-11-06T00:18:13.080Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012774140&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211106&amp;page=1" title="뉴욕증시, 10월 고용 호조에 상승…3대 지수 최고 마감">뉴욕증시, 10월 고용 호조에 상승…3대 지수 최고 마감</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['우주 인터넷 전쟁' 붙 붙는다...아마존, 위성 총 7700대 발사 계획]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004625200&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211106&amp;page=1</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004625200&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211106&amp;page=1"/>
@@ -46,12 +60,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004625197&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211106&amp;page=1"/>
         <updated>2021-11-05T17:13:11.226Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004625197&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211106&amp;page=1" title="메타(페이스북), '메타버스' 관련 첫 오프라인 매장 개점 추진">메타(페이스북), '메타버스' 관련 첫 오프라인 매장 개점 추진</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바이든 “경구 코로나 치료제 확보… FDA 승인하면 바로 사용”]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000772006&amp;office_id=366&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211106&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000772006&amp;office_id=366&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211106&amp;page=1"/>
-        <updated>2021-11-05T17:13:11.228Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000772006&amp;office_id=366&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211106&amp;page=1" title="바이든 “경구 코로나 치료제 확보… FDA 승인하면 바로 사용”">바이든 “경구 코로나 치료제 확보… FDA 승인하면 바로 사용”</a>]]></content>
     </entry>
 </feed>
