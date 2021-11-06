@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-11-06T21:05:16.601Z</updated>
+    <updated>2021-11-06T22:06:20.155Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[현금만 177조 쌓은 버핏..."초대형 M&A 나오나?"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000995243&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211107&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000995243&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211107&amp;page=1"/>
+        <updated>2021-11-06T22:04:44.276Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000995243&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211107&amp;page=1" title="현금만 177조 쌓은 버핏...&quot;초대형 M&amp;A 나오나?&quot;">현금만 177조 쌓은 버핏..."초대형 M&amp;A 나오나?"</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[워런 버핏의 버크셔해서웨이, 3분기 투자수익 6분의1 토막]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0012774833&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211107&amp;page=1</id>
@@ -46,12 +53,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012774140&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211107&amp;page=1"/>
         <updated>2021-11-06T15:04:39.373Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012774140&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211107&amp;page=1" title="뉴욕증시, 10월 고용 호조에 상승…3대 지수 최고 마감">뉴욕증시, 10월 고용 호조에 상승…3대 지수 최고 마감</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[불붙는 '우주 인터넷 전쟁'…아마존, 위성 총 7700대 발사 계획]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004625200&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211107&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004625200&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211107&amp;page=1"/>
-        <updated>2021-11-06T15:04:39.378Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004625200&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211107&amp;page=1" title="불붙는 '우주 인터넷 전쟁'…아마존, 위성 총 7700대 발사 계획">불붙는 '우주 인터넷 전쟁'…아마존, 위성 총 7700대 발사 계획</a>]]></content>
     </entry>
 </feed>
