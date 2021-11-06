@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=401</id>
     <title>네이버 금융 ─ 뉴스 ─ 시황·전망</title>
-    <updated>2021-11-06T09:06:37.787Z</updated>
+    <updated>2021-11-06T10:06:24.196Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한·미 디커플링 해소엔 시간 필요...코스피 횡보세에 개별장 지속될 것[다음주 증시전망]]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003982178&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211106&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003982178&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211106&amp;page=1"/>
+        <updated>2021-11-06T10:04:28.224Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003982178&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211106&amp;page=1" title="한·미 디커플링 해소엔 시간 필요...코스피 횡보세에 개별장 지속될 것[다음주 증시전망]">한·미 디커플링 해소엔 시간 필요...코스피 횡보세에 개별장 지속될 것[다음주 증시전망]</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[영상]아픈 아이 태우고 가다 '쾅'···운전자 따뜻하게 안아준 상대 차주]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003982176&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211106&amp;page=1</id>
@@ -53,12 +60,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003982084&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211106&amp;page=1"/>
         <updated>2021-11-05T15:05:00.900Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003982084&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211106&amp;page=1" title="[표]유가증권 코스닥 투자주체별 매매동향(11월 5일-최종치)">[표]유가증권 코스닥 투자주체별 매매동향(11월 5일-최종치)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바닥 찍은 자동차株, 외인 업고 연말랠리 '부릉']]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003982081&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211106&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003982081&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211106&amp;page=1"/>
-        <updated>2021-11-05T15:05:00.901Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003982081&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211106&amp;page=1" title="바닥 찍은 자동차株, 외인 업고 연말랠리 '부릉'">바닥 찍은 자동차株, 외인 업고 연말랠리 '부릉'</a>]]></content>
     </entry>
 </feed>

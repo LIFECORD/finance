@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-11-06T09:06:37.775Z</updated>
+    <updated>2021-11-06T10:06:24.165Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[발품뉴스] '요소수 대란' 벤츠·BMW 수입차엔 남 얘기?]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000280221&amp;office_id=437&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211106&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000280221&amp;office_id=437&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211106&amp;page=1"/>
+        <updated>2021-11-06T10:05:20.206Z</updated>
+        <content type="html"><![CDATA[JTBC]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[해외 직구도 어렵다…요소수 품귀에 커지는 물류 우려]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000512747&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211106&amp;page=1</id>
@@ -66,13 +73,6 @@
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001619492&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211106&amp;page=1</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001619492&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211106&amp;page=1"/>
         <updated>2021-11-06T00:03:00.000Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신문브리핑 2  "민심은 10%p 앞섰지만…조직력에서 밀린 '무야홍'" 외 주요기사]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001619490&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211106&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001619490&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211106&amp;page=1"/>
-        <updated>2021-11-06T11:58:00.000Z</updated>
         <content type="html"><![CDATA[MBN]]></content>
     </entry>
 </feed>
