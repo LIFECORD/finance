@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-11-06T03:06:31.332Z</updated>
+    <updated>2021-11-06T04:07:23.553Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뉴욕증시, 고용지표 호조에 상승…3대 지수 최고치 경신]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000280206&amp;office_id=437&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211106&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000280206&amp;office_id=437&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211106&amp;page=1"/>
+        <updated>2021-11-06T00:23:00.000Z</updated>
+        <content type="html"><![CDATA[JTBC]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전국 휘발윳값 25.2원 오른 1천787.9원…12일부터 인하]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000931781&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211106&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000931781&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211106&amp;page=1"/>
+        <updated>2021-11-06T00:22:00.000Z</updated>
+        <content type="html"><![CDATA[SBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신문브리핑 3  "대구 찾은 이재명 "尹 축하, 정책으로 선의 경쟁하자"" 외 주요기사]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001619492&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211106&amp;page=1</id>
@@ -60,19 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000512695&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211106&amp;page=1"/>
         <updated>2021-11-06T09:49:00.000Z</updated>
         <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[콜라·화장품·요거트까지…라벨 없앤 친환경 제품 다양화]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000512692&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211106&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000512692&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211106&amp;page=1"/>
-        <updated>2021-11-06T09:44:00.000Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유류세 12일부터 20% 인하…휘발유 ℓ당 164원 내려]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001619453&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211106&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001619453&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211106&amp;page=1"/>
-        <updated>2021-11-06T09:23:00.000Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
     </entry>
 </feed>
