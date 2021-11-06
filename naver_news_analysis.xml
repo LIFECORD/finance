@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=402</id>
     <title>네이버 금융 ─ 뉴스 ─ 기업 종목분석</title>
-    <updated>2021-11-06T20:06:28.187Z</updated>
+    <updated>2021-11-06T21:05:16.578Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[HMM, 3분기 영업이익 2조원 넘을 듯…올해 총 6조원 넘본다]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012774865&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211107&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012774865&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211107&amp;page=1"/>
+        <updated>2021-11-06T21:03:30.180Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012774865&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211107&amp;page=1" title="HMM, 3분기 영업이익 2조원 넘을 듯…올해 총 6조원 넘본다">HMM, 3분기 영업이익 2조원 넘을 듯…올해 총 6조원 넘본다</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[워런 버핏의 버크셔해서웨이, 3분기 투자수익 6분의1 토막]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0012774833&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211107&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004995252&amp;office_id=277&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211107&amp;page=1"/>
         <updated>2021-11-06T15:04:33.463Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004995252&amp;office_id=277&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211107&amp;page=1" title="11월에는 배당주 담아라…기아·포스코·메리츠화재 등 유망">11월에는 배당주 담아라…기아·포스코·메리츠화재 등 유망</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공급망 혼란 피해 간 퀄컴, 실적·주가 모두 好好]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004995237&amp;office_id=277&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211107&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004995237&amp;office_id=277&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211107&amp;page=1"/>
-        <updated>2021-11-06T15:04:33.465Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004995237&amp;office_id=277&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211107&amp;page=1" title="공급망 혼란 피해 간 퀄컴, 실적·주가 모두 好好">공급망 혼란 피해 간 퀄컴, 실적·주가 모두 好好</a>]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-06T20:06:28.192Z</updated>
+    <updated>2021-11-06T21:05:16.579Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -11,5 +11,12 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004735202&amp;office_id=014&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-06T16:06:16.376Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["MSCI 선진국 지수냐, 공매도 폐지냐" 갈림길]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004667061&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004667061&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-07T05:31:00.000Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
