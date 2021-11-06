@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-11-06T08:08:14.382Z</updated>
+    <updated>2021-11-06T09:06:37.775Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[해외 직구도 어렵다…요소수 품귀에 커지는 물류 우려]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000512747&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211106&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000512747&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211106&amp;page=1"/>
+        <updated>2021-11-06T09:05:27.944Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국내 휘발유 리터당 1,787원 90전…7주 연속 상승]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0011151725&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211106&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011151725&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211106&amp;page=1"/>
+        <updated>2021-11-06T09:05:27.946Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정부, 대외경제안보전략회의 열고 반도체 정보 제공·요소수 논의]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001661877&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211106&amp;page=1</id>
@@ -59,20 +73,6 @@
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001619490&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211106&amp;page=1</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001619490&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211106&amp;page=1"/>
         <updated>2021-11-06T11:58:00.000Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신문브리핑 1  "윤석열, 정권 교체 칼 쥐다" 외 주요기사]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001619489&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211106&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001619489&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211106&amp;page=1"/>
-        <updated>2021-11-06T11:51:00.000Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쉬운우리말로 18회 - '롱 코비드']]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001619487&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211106&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001619487&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211106&amp;page=1"/>
-        <updated>2021-11-06T11:40:00.000Z</updated>
         <content type="html"><![CDATA[MBN]]></content>
     </entry>
 </feed>
