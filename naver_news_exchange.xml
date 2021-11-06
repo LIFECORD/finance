@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=429</id>
     <title>네이버 금융 ─ 뉴스 ─ 환율</title>
-    <updated>2021-11-06T04:07:23.529Z</updated>
+    <updated>2021-11-06T05:05:51.957Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뒷북경제]세계 각국 원전 강화방안 내놓는데 한국만 역주행]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003982156&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211106&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003982156&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211106&amp;page=1"/>
+        <updated>2021-11-06T05:04:34.757Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003982156&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211106&amp;page=1" title="[뒷북경제]세계 각국 원전 강화방안 내놓는데 한국만 역주행">[뒷북경제]세계 각국 원전 강화방안 내놓는데 한국만 역주행</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["2050년까지 넷제로 달성"···지역난방公 탄소경영 선포]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003982014&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211106&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012769933&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211106&amp;page=1"/>
         <updated>2021-11-05T15:05:31.241Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012769933&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211106&amp;page=1" title="[영상] 미국, 돈줄죄기 시작…그런데 '테이퍼링'이 뭐지?">[영상] 미국, 돈줄죄기 시작…그런데 '테이퍼링'이 뭐지?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국 테이퍼링 시작…한은, 내년 초까지 먼저 기준금리 올릴 듯]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0012769625&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211106&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012769625&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211106&amp;page=1"/>
-        <updated>2021-11-05T15:05:31.242Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012769625&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211106&amp;page=1" title="미국 테이퍼링 시작…한은, 내년 초까지 먼저 기준금리 올릴 듯">미국 테이퍼링 시작…한은, 내년 초까지 먼저 기준금리 올릴 듯</a>]]></content>
     </entry>
 </feed>
