@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-11-06T01:46:44.258Z</updated>
+    <updated>2021-11-06T02:23:01.919Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주목!e해외주식]中 Z세대들이 찍은 피규어 회사 '팝마트']]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005079547&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211106&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005079547&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211106&amp;page=1"/>
+        <updated>2021-11-06T11:21:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[긴축 우려 진정됐지만 물가 불안은 '여전'…"향후 한달이 고비"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004995261&amp;office_id=277&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211106&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004995261&amp;office_id=277&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211106&amp;page=1"/>
+        <updated>2021-11-06T11:08:00.000Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[화이자, 코로나 알약 사망률 90% 낮춘단 소식에 11% 급등]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004735134&amp;office_id=014&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211106&amp;page=1</id>
@@ -60,19 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005706234&amp;office_id=421&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211106&amp;page=1"/>
         <updated>2021-11-06T09:41:00.000Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공급망 혼란 피해 간 퀄컴, 실적·주가 모두 好好]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004995237&amp;office_id=277&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211106&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004995237&amp;office_id=277&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211106&amp;page=1"/>
-        <updated>2021-11-06T09:37:00.000Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[fn마켓워치]을지로 유안타증권 사옥 매물로]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004735114&amp;office_id=014&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211106&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004735114&amp;office_id=014&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211106&amp;page=1"/>
-        <updated>2021-11-06T09:28:00.000Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
     </entry>
 </feed>

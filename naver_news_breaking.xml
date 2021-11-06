@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS2D&amp;section_id=101&amp;section_id2=258</id>
     <title>네이버 금융 ─ 뉴스 ─ 실시간 속보</title>
-    <updated>2021-11-06T01:46:44.265Z</updated>
+    <updated>2021-11-06T02:23:01.940Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[긴축 우려 진정됐지만 물가 불안은 '여전'…"향후 한달이 고비"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004995261&amp;office_id=277&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211106&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004995261&amp;office_id=277&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211106&amp;page=1"/>
+        <updated>2021-11-06T02:20:55.811Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004995261&amp;office_id=277&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211106&amp;page=1" title="긴축 우려 진정됐지만 물가 불안은 '여전'…&quot;향후 한달이 고비&quot;">긴축 우려 진정됐지만 물가 불안은 '여전'…"향후 한달이 고비"</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[화이자, 코로나 알약 사망률 90% 낮춘단 소식에 11% 급등]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004735134&amp;office_id=014&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211106&amp;page=1</id>
@@ -60,12 +67,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005706234&amp;office_id=421&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211106&amp;page=1"/>
         <updated>2021-11-06T01:44:42.040Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005706234&amp;office_id=421&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211106&amp;page=1" title="‘게임 체인저’ 화이자 머크 코로나 알약 어떤 것이 더 좋나?">‘게임 체인저’ 화이자 머크 코로나 알약 어떤 것이 더 좋나?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공급망 혼란 피해 간 퀄컴, 실적·주가 모두 好好]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004995237&amp;office_id=277&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211106&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004995237&amp;office_id=277&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211106&amp;page=1"/>
-        <updated>2021-11-06T01:44:42.042Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004995237&amp;office_id=277&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211106&amp;page=1" title="공급망 혼란 피해 간 퀄컴, 실적·주가 모두 好好">공급망 혼란 피해 간 퀄컴, 실적·주가 모두 好好</a>]]></content>
     </entry>
 </feed>
