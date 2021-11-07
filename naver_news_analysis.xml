@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=402</id>
     <title>네이버 금융 ─ 뉴스 ─ 기업 종목분석</title>
-    <updated>2021-11-07T01:53:46.674Z</updated>
+    <updated>2021-11-07T02:24:54.464Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미국 증시는 '사상 최고'라는데..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004995418&amp;office_id=277&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211107&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004995418&amp;office_id=277&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211107&amp;page=1"/>
+        <updated>2021-11-07T02:23:15.467Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004995418&amp;office_id=277&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211107&amp;page=1" title="미국 증시는 '사상 최고'라는데..">미국 증시는 '사상 최고'라는데..</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["합병효과 내는 Z홀딩스…日 디지털화 시대 영향력 확대 기대"]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004995402&amp;office_id=277&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211107&amp;page=1</id>
@@ -60,12 +67,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004625281&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211107&amp;page=1"/>
         <updated>2021-11-06T22:04:37.360Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004625281&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211107&amp;page=1" title="잘 나가던 SKIET·카뱅·크래프톤, 폭탄 터진다…개미들 '덜덜'">잘 나가던 SKIET·카뱅·크래프톤, 폭탄 터진다…개미들 '덜덜'</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HMM, 3분기 영업이익 2조원 넘을 듯…올해 총 6조원 넘본다]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0012774865&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211107&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012774865&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211107&amp;page=1"/>
-        <updated>2021-11-06T21:03:30.180Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012774865&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211107&amp;page=1" title="HMM, 3분기 영업이익 2조원 넘을 듯…올해 총 6조원 넘본다">HMM, 3분기 영업이익 2조원 넘을 듯…올해 총 6조원 넘본다</a>]]></content>
     </entry>
 </feed>
