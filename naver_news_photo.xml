@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-11-07T18:06:31.681Z</updated>
+    <updated>2021-11-07T19:05:20.201Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[메타버스 시대의 기업 하이브…엔터에서 플랫폼·NFT까지]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004667217&amp;office_id=008&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211108&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004667217&amp;office_id=008&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211108&amp;page=1"/>
+        <updated>2021-11-08T04:00:00.000Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美증시 치솟는데 한국 횡보… ‘디커플링’ 11개월 만에 최대]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003392161&amp;office_id=020&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211108&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003651433&amp;office_id=023&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211108&amp;page=1"/>
         <updated>2021-11-07T15:04:19.578Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고승범 "전세대출 규제 기준 9억보다 높을 것"…15억 유력]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000639656&amp;office_id=469&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211108&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000639656&amp;office_id=469&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211108&amp;page=1"/>
-        <updated>2021-11-07T15:04:19.579Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
 </feed>
