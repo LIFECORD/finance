@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-11-07T09:06:16.819Z</updated>
+    <updated>2021-11-07T10:06:34.925Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴스초점] 닷새째 2천 명대 확진…얀센 접종자 '부스터샷']]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000512868&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211107&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000512868&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211107&amp;page=1"/>
+        <updated>2021-11-07T10:05:32.037Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[속보] 오후 6시까지 1,332명 확진…어제보다 130명↓]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000512865&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211107&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000512865&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211107&amp;page=1"/>
+        <updated>2021-11-07T10:05:32.039Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[라면값 13년 만에 최대폭 상승…밥맛 잃는 밥상물가]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000280244&amp;office_id=437&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211107&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000280244&amp;office_id=437&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211107&amp;page=1"/>
+        <updated>2021-11-07T10:05:32.041Z</updated>
+        <content type="html"><![CDATA[JTBC]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하늘 높은 줄 모르는 '밥상물가'...언제 잡힐지도 모른다]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001662194&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211107&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001662194&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211107&amp;page=1"/>
+        <updated>2021-11-07T10:05:32.043Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[항생제 사용량 OECD 3위…4년내 20% 줄인다]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000512857&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211107&amp;page=1</id>
@@ -46,33 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001662153&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211107&amp;page=1"/>
         <updated>2021-11-07T07:05:52.690Z</updated>
         <content type="html"><![CDATA[YTN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["LH 출신 법무사 등 퇴직 1년간 수임 제한"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000512837&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211107&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000512837&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211107&amp;page=1"/>
-        <updated>2021-11-07T07:05:52.690Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내일부터 전통시장서 수산물 사면 30% 온누리상품권 환급]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000512834&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211107&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000512834&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211107&amp;page=1"/>
-        <updated>2021-11-07T07:05:52.694Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[반도체·요소까지 '공급망 충격'…철강 반사 이익도]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000512831&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211107&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000512831&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211107&amp;page=1"/>
-        <updated>2021-11-07T07:05:52.696Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마그네슘·실리콘까지…정부 수입품 공급망 전반 조사]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000512826&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211107&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000512826&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211107&amp;page=1"/>
-        <updated>2021-11-07T06:06:15.557Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
     </entry>
 </feed>
