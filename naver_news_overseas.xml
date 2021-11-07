@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-11-07T02:24:54.390Z</updated>
+    <updated>2021-11-07T03:06:40.950Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[표]해외DR 가격(11월 5일)]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003982252&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211107&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003982252&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211107&amp;page=1"/>
+        <updated>2021-11-07T03:05:01.592Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003982252&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211107&amp;page=1" title="[표]해외DR 가격(11월 5일)">[표]해외DR 가격(11월 5일)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[표]해외 주요 증시 동향(11월 5일)]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003982250&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211107&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003982250&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211107&amp;page=1"/>
+        <updated>2021-11-07T03:05:01.592Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003982250&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211107&amp;page=1" title="[표]해외 주요 증시 동향(11월 5일)">[표]해외 주요 증시 동향(11월 5일)</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유럽상공회의소 "베트남, 향후 6개월 간 경제 회복으로 더 큰 기회 올 것" [KVINA]]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000995261&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211107&amp;page=1</id>
@@ -53,12 +67,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012774833&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211107&amp;page=1"/>
         <updated>2021-11-06T15:04:39.363Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012774833&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211107&amp;page=1" title="워런 버핏의 버크셔해서웨이, 3분기 투자수익 6분의1 토막">워런 버핏의 버크셔해서웨이, 3분기 투자수익 6분의1 토막</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴욕증시]고용 회복 기대감에 3대 지수 최고치 경신]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005079493&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211107&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005079493&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211107&amp;page=1"/>
-        <updated>2021-11-06T15:04:39.366Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005079493&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211107&amp;page=1" title="[뉴욕증시]고용 회복 기대감에 3대 지수 최고치 경신">[뉴욕증시]고용 회복 기대감에 3대 지수 최고치 경신</a>]]></content>
     </entry>
 </feed>
