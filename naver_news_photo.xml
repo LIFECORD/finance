@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-11-07T19:05:20.201Z</updated>
+    <updated>2021-11-07T20:06:44.514Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미래에셋·메리츠증권, 자사주 수천억 사들인 이유?...소각 이어지나]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0002545714&amp;office_id=119&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211108&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0002545714&amp;office_id=119&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211108&amp;page=1"/>
+        <updated>2021-11-08T05:01:00.000Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[알림] 11일 ESG 글로벌 로드쇼, ESG투자·경영의 밑그림을 그린다]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004667222&amp;office_id=008&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211108&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004667222&amp;office_id=008&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211108&amp;page=1"/>
+        <updated>2021-11-08T05:00:00.000Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["내년 주식시장 더 어렵다"…그래도 매력적인 종목 10가지]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004667221&amp;office_id=008&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211108&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004667221&amp;office_id=008&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211108&amp;page=1"/>
+        <updated>2021-11-08T04:30:00.000Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간 경제지표] 2021년 11월 5일자]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003651519&amp;office_id=023&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211108&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003651519&amp;office_id=023&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211108&amp;page=1"/>
+        <updated>2021-11-08T04:19:00.000Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘천슬라’와 ‘7만전자’ 업황이 희비 갈랐다]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001482589&amp;office_id=005&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211108&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001482589&amp;office_id=005&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211108&amp;page=1"/>
+        <updated>2021-11-08T04:08:00.000Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[메타버스 시대의 기업 하이브…엔터에서 플랫폼·NFT까지]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004667217&amp;office_id=008&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211108&amp;page=1</id>
@@ -39,40 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000114849&amp;office_id=629&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211108&amp;page=1"/>
         <updated>2021-11-07T15:04:19.568Z</updated>
         <content type="html"><![CDATA[더팩트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[자금조달]한진칼, 진에어 증자자금 140억 사모채 발행]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004995555&amp;office_id=277&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211108&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004995555&amp;office_id=277&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211108&amp;page=1"/>
-        <updated>2021-11-07T15:04:19.572Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["무늬만 실수요자 보호"...은행권 전방위 대출 조이기에 실수요자 고통]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000639669&amp;office_id=469&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211108&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000639669&amp;office_id=469&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211108&amp;page=1"/>
-        <updated>2021-11-07T15:04:19.573Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[초기 NFT 거래소 잡아라…갤럭시아머니트리 기업가치 레벨업]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004995547&amp;office_id=277&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211108&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004995547&amp;office_id=277&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211108&amp;page=1"/>
-        <updated>2021-11-07T15:04:19.576Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["흔들려도 간다…中증시, 의식주 피하고 신성장株 주목"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005080530&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211108&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005080530&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211108&amp;page=1"/>
-        <updated>2021-11-07T15:04:19.576Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘쉬는 것도 투자다’···MMF로 움직인 돈, 한 달 새 28조]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003651433&amp;office_id=023&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211108&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003651433&amp;office_id=023&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211108&amp;page=1"/>
-        <updated>2021-11-07T15:04:19.578Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
