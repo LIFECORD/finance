@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=429</id>
     <title>네이버 금융 ─ 뉴스 ─ 환율</title>
-    <updated>2021-11-07T10:06:34.938Z</updated>
+    <updated>2021-11-07T11:05:13.951Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[요소·요소수 매점매석 금지···위반시 3년 이하 징역]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003982385&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211107&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003982385&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211107&amp;page=1"/>
+        <updated>2021-11-07T11:03:56.470Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003982385&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211107&amp;page=1" title="요소·요소수 매점매석 금지···위반시 3년 이하 징역">요소·요소수 매점매석 금지···위반시 3년 이하 징역</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['中-濠 분쟁'에 예견된 사태인데···정부 '위기관리 능력' 또 구멍]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003982335&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211107&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003981936&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211107&amp;page=1"/>
         <updated>2021-11-06T15:04:58.125Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003981936&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211107&amp;page=1" title="플랫폼 시장 경쟁정책은 포괄적 사전금지보다 사례별 사후규제가 바람직">플랫폼 시장 경쟁정책은 포괄적 사전금지보다 사례별 사후규제가 바람직</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[달러화 강세 기조 속 원/달러 환율, 장 초반 1,185원 안팎 등락]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0012772081&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211107&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012772081&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211107&amp;page=1"/>
-        <updated>2021-11-06T15:04:58.126Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012772081&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211107&amp;page=1" title="달러화 강세 기조 속 원/달러 환율, 장 초반 1,185원 안팎 등락">달러화 강세 기조 속 원/달러 환율, 장 초반 1,185원 안팎 등락</a>]]></content>
     </entry>
 </feed>
