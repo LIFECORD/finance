@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-07T17:12:55.639Z</updated>
+    <updated>2021-11-07T18:06:31.682Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한화건설, 충남 아산 생활형숙박시설 개발 1200억 PF]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004995558&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004995558&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-07T16:06:50.118Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[코스닥 주간메모] 11월 8일(월) ~ 11월 10일(수)]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004625488&amp;office_id=015&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004625488&amp;office_id=015&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-07T16:06:50.124Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[유가증권 주간메모] 11월 8일(월) ~ 11월 10일(수)]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004625487&amp;office_id=015&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004625487&amp;office_id=015&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-07T16:06:50.123Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[마켓인]한배 탄 마켓컬리·오아시스…‘손에 손잡고 VS 불편한 ..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005080551&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005080551&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-07T16:06:50.117Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국민의힘 대선 후보 된 '윤석열'…수혜株 전망은?]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000114849&amp;office_id=629&amp;mode=RANK&amp;typ=0</id>
@@ -18,33 +46,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005080550&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-07T16:06:50.115Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[마켓인]한배 탄 마켓컬리·오아시스…‘손에 손잡고 VS 불편한 ..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005080551&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005080551&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-07T16:06:50.117Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한화건설, 충남 아산 생활형숙박시설 개발 1200억 PF]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004995558&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004995558&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-07T16:06:50.118Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[유가증권 주간메모] 11월 8일(월) ~ 11월 10일(수)]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004625487&amp;office_id=015&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004625487&amp;office_id=015&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-07T16:06:50.123Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[코스닥 주간메모] 11월 8일(월) ~ 11월 10일(수)]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004625488&amp;office_id=015&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004625488&amp;office_id=015&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-07T16:06:50.124Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
