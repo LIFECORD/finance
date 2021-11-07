@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-11-07T04:07:39.034Z</updated>
+    <updated>2021-11-07T05:06:12.403Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[중국 10월 수출 27.1%↑…견조한 증가세 유지]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000995276&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211107&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000995276&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211107&amp;page=1"/>
+        <updated>2021-11-07T05:04:16.346Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000995276&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211107&amp;page=1" title="중국 10월 수출 27.1%↑…견조한 증가세 유지">중국 10월 수출 27.1%↑…견조한 증가세 유지</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[표]해외DR 가격(11월 5일)]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003982252&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211107&amp;page=1</id>
@@ -60,12 +67,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000995243&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211107&amp;page=1"/>
         <updated>2021-11-06T22:04:44.276Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000995243&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211107&amp;page=1" title="현금만 177조 쌓은 버핏...&quot;초대형 M&amp;A 나오나?&quot;">현금만 177조 쌓은 버핏..."초대형 M&amp;A 나오나?"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[워런 버핏의 버크셔해서웨이, 3분기 투자수익 6분의1 토막]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0012774833&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211107&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012774833&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211107&amp;page=1"/>
-        <updated>2021-11-06T15:04:39.363Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012774833&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211107&amp;page=1" title="워런 버핏의 버크셔해서웨이, 3분기 투자수익 6분의1 토막">워런 버핏의 버크셔해서웨이, 3분기 투자수익 6분의1 토막</a>]]></content>
     </entry>
 </feed>

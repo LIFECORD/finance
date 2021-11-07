@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=401</id>
     <title>네이버 금융 ─ 뉴스 ─ 시황·전망</title>
-    <updated>2021-11-07T04:07:39.066Z</updated>
+    <updated>2021-11-07T05:06:12.415Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이어지는 '3000피 공방전'…오를 종목은 오른다]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004667139&amp;office_id=008&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211107&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004667139&amp;office_id=008&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211107&amp;page=1"/>
+        <updated>2021-11-07T05:04:00.892Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004667139&amp;office_id=008&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211107&amp;page=1" title="이어지는 '3000피 공방전'…오를 종목은 오른다">이어지는 '3000피 공방전'…오를 종목은 오른다</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[시장 불안 속 '역머니무브' 조짐…유망 투자처는(종합)]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0012775277&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211107&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012774946&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211107&amp;page=1"/>
         <updated>2021-11-06T23:04:22.151Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012774946&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211107&amp;page=1" title="[증시 풍향계] 공급망 차질·물가 변수…&quot;3,000 중심 박스권&quot; 전망">[증시 풍향계] 공급망 차질·물가 변수…"3,000 중심 박스권" 전망</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['한전 투자 철회' 네덜란드 연기금 "변화의지 보이면 결정 재고"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0012774908&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211107&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012774908&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211107&amp;page=1"/>
-        <updated>2021-11-06T23:04:22.152Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012774908&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211107&amp;page=1" title="'한전 투자 철회' 네덜란드 연기금 &quot;변화의지 보이면 결정 재고&quot;">'한전 투자 철회' 네덜란드 연기금 "변화의지 보이면 결정 재고"</a>]]></content>
     </entry>
 </feed>
