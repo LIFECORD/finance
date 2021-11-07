@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-11-07T15:05:26.092Z</updated>
+    <updated>2021-11-07T16:08:12.542Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[마켓인]한배 탄 마켓컬리·오아시스…‘손에 손잡고 VS 불편한 합승’]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005080551&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211108&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005080551&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211108&amp;page=1"/>
+        <updated>2021-11-07T16:06:56.923Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['메타버스'에 반도체株도 탔다…국내 기업은?]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005080550&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211108&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005080550&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211108&amp;page=1"/>
+        <updated>2021-11-07T16:06:56.928Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국민의힘 대선 후보 된 '윤석열'…수혜株 전망은?]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000114849&amp;office_id=629&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211108&amp;page=1</id>
@@ -60,19 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0002704897&amp;office_id=029&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211108&amp;page=1"/>
         <updated>2021-11-07T15:04:19.580Z</updated>
         <content type="html"><![CDATA[디지털타임스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[금융시장 불안하자 `안전자산`으로... 달러화 자산·유망산업 ETF 뜬다]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0002704896&amp;office_id=029&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211108&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0002704896&amp;office_id=029&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211108&amp;page=1"/>
-        <updated>2021-11-07T15:04:19.581Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요소·요소수 매점매석 금지···위반시 3년 이하 징역]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003982385&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211108&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003982385&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211108&amp;page=1"/>
-        <updated>2021-11-07T15:04:19.582Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
