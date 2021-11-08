@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-11-08T12:10:36.085Z</updated>
+    <updated>2021-11-08T13:15:58.096Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[실적 불투명한데 금리인상 과속…코스피 나홀로 약세]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005081382&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211108&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005081382&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211108&amp;page=1"/>
+        <updated>2021-11-08T13:14:52.528Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["테슬라 산 서학개미 어쩌나"…머스크, '10%주식 던지나' 테슬라 주가 급락]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004876038&amp;office_id=009&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211108&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004876038&amp;office_id=009&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211108&amp;page=1"/>
+        <updated>2021-11-08T13:14:52.529Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[크래프톤 엘앤에프 F&F…70조 자금 들어올까]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004876035&amp;office_id=009&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211108&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004876035&amp;office_id=009&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211108&amp;page=1"/>
+        <updated>2021-11-08T13:14:52.530Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[비트코인, 하루만에 5% 폭등... 8000만원 고지 재탈환]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000639900&amp;office_id=469&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211108&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000639900&amp;office_id=469&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211108&amp;page=1"/>
+        <updated>2021-11-08T13:14:52.531Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[또 머스크의 설화?...테슬라 주가 급락세]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000995585&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211108&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000995585&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211108&amp;page=1"/>
+        <updated>2021-11-08T13:14:52.532Z</updated>
+        <content type="html"><![CDATA[한국경제TV]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[실적발표하는 손정의 회장]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0012778713&amp;office_id=001&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211108&amp;page=1</id>
@@ -39,40 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005081368&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211108&amp;page=1"/>
         <updated>2021-11-08T11:04:28.302Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[올댓차이나] 중국서 MSCI 연동 ETF 4종목 상장...거래액 1.8조원 돌파]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0010819850&amp;office_id=003&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211108&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0010819850&amp;office_id=003&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211108&amp;page=1"/>
-        <updated>2021-11-08T11:04:28.303Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[상속세로 발목잡힌 가업승계…상속공제는 '그림의 떡']]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005081359&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211108&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005081359&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211108&amp;page=1"/>
-        <updated>2021-11-08T11:04:28.304Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["집콕 쇼핑 효과 끝?"…현대홈쇼핑, 3분기 영업익 29% 감소]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005710069&amp;office_id=421&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211108&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005710069&amp;office_id=421&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211108&amp;page=1"/>
-        <updated>2021-11-08T11:04:28.305Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["송출수수료 증가" 현대홈쇼핑, 3분기 영업이익 전년比 29%↓]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0010819823&amp;office_id=003&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211108&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0010819823&amp;office_id=003&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211108&amp;page=1"/>
-        <updated>2021-11-08T11:04:28.307Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[표]아시아 주요 증시 동향(11월 8일)]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003982880&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211108&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003982880&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211108&amp;page=1"/>
-        <updated>2021-11-08T11:04:28.310Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
