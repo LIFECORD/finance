@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-08T16:08:51.779Z</updated>
+    <updated>2021-11-08T17:16:09.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뉴욕증시, 인프라 법안 통과에 상승 출발]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012778751&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012778751&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-08T16:07:42.928Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사진] 비트코인 오름세, 8000만원 재돌파]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003149172&amp;office_id=025&amp;mode=RANK&amp;typ=0</id>
@@ -13,11 +20,11 @@
         <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뉴욕증시, 인프라 법안 통과에 상승 출발]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0012778751&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012778751&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-08T16:07:42.928Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
+        <title type="html"><![CDATA["애들이 물려받기 싫다니"…창업주 눈물의 기업 매각]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005081401&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005081401&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-08T16:07:42.934Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["주식 팔까?" 머스크 트윗 한방에 주가 급락…천백슬라 '위태']]></title>
@@ -32,13 +39,6 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000115071&amp;office_id=629&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-08T16:07:42.934Z</updated>
         <content type="html"><![CDATA[더팩트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["애들이 물려받기 싫다니"…창업주 눈물의 기업 매각]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005081401&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005081401&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-08T16:07:42.934Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['굴뚝기업 경영 매력없다'는 2·3세…알짜회사 M&A  매물로]]></title>
@@ -60,5 +60,19 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004625964&amp;office_id=015&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-08T16:07:42.937Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[보호예수 폭탄이 몰려온다…SKIET도 긴장]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005081404&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005081404&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-09T01:01:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['올해 꼴찌' 바이오株가 움직인다]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005081405&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005081405&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-09T01:31:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
