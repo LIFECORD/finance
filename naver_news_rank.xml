@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-08T07:07:37.000Z</updated>
+    <updated>2021-11-08T08:08:31.773Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[[특징주] 노랑풍선, 경제 정상화 기대감에 강세… 7%↑]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000752008&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000752008&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-08T06:07:06.611Z</updated>
-        <content type="html"><![CDATA[머니S]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[특징주] 갤럭시아머니트리, 차세대 먹거리 NFT시장 확대… 관..]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000751959&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000751959&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-08T05:05:06.568Z</updated>
         <content type="html"><![CDATA[머니S]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 화이자 코로나 치료제 소식에 '바이오주' 휘청(종합)]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012778202&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012778202&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-08T08:07:14.964Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[특징주] 화이자 코로나 먹는 치료제 개발 소식에 국내 제약주 ..]]></title>
@@ -153,6 +153,13 @@
         <content type="html"><![CDATA[한국경제]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[특징주] 노랑풍선, 경제 정상화 기대감에 강세… 7%↑]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000752008&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000752008&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-08T06:07:06.611Z</updated>
+        <content type="html"><![CDATA[머니S]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[IPO 한파에 공모주 양극화 심화…"선별 투자 필요"]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000995328&amp;office_id=215&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000995328&amp;office_id=215&amp;mode=RANK&amp;typ=0"/>
@@ -172,12 +179,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004667221&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-08T04:30:00.000Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국보, 코로나19 경구용 치료제 개발 기업 ‘레드힐’ 지분 취득..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004995573&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004995573&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-08T06:49:00.000Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
 </feed>
