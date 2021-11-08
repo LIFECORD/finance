@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-08T06:08:18.425Z</updated>
+    <updated>2021-11-08T07:07:37.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 노랑풍선, 경제 정상화 기대감에 강세… 7%↑]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000752008&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000752008&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-08T06:07:06.611Z</updated>
+        <content type="html"><![CDATA[머니S]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[특징주] 갤럭시아머니트리, 차세대 먹거리 NFT시장 확대… 관..]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000751959&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
@@ -25,13 +32,6 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003982409&amp;office_id=011&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-08T06:01:00.000Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[특징주] 노랑풍선, 경제 정상화 기대감에 강세… 7%↑]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000752008&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000752008&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-08T06:07:06.611Z</updated>
-        <content type="html"><![CDATA[머니S]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[IPO시장, 달라진 기류?…'옥석가리기'에 상장 철회 잇따라]]></title>
@@ -104,13 +104,6 @@
         <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[특징주] 크래프톤, 보호예수 해제 D-2… VC 매물 출회 우..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000751981&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000751981&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-08T06:07:06.624Z</updated>
-        <content type="html"><![CDATA[머니S]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[최대주주 변경 전 미공개정보로 주식매입…증선위 검찰고발]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005081005&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005081005&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
@@ -146,6 +139,13 @@
         <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[특징주] 블루베리NFT, NFT 열풍에 수혜주 부각… 2%대↑]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000752052&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000752052&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-08T07:06:14.693Z</updated>
+        <content type="html"><![CDATA[머니S]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA["GS리테일, 편의점 부문 부진했지만 기다려볼 만하다"-KTB]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004625492&amp;office_id=015&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004625492&amp;office_id=015&amp;mode=RANK&amp;typ=0"/>
@@ -160,6 +160,13 @@
         <content type="html"><![CDATA[한국경제TV]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[특징주] 크래프톤, 보호예수 해제 D-2… VC 매물 출회 우..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000751981&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000751981&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-08T06:07:06.624Z</updated>
+        <content type="html"><![CDATA[머니S]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA["내년 주식시장 더 어렵다"…그래도 매력적인 종목 10가지]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004667221&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004667221&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
@@ -172,12 +179,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004995573&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-08T06:49:00.000Z</updated>
         <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[금감원 “474개 업체 중 70곳, 투자자문 관련 위법혐의 적발..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004735843&amp;office_id=014&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004735843&amp;office_id=014&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-08T00:01:00.000Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
     </entry>
 </feed>

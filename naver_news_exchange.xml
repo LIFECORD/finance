@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=429</id>
     <title>네이버 금융 ─ 뉴스 ─ 환율</title>
-    <updated>2021-11-08T06:08:18.427Z</updated>
+    <updated>2021-11-08T07:07:36.990Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[원/달러 환율 2.1원 하락…1,183.1원 마감]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012778250&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211108&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012778250&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211108&amp;page=1"/>
+        <updated>2021-11-08T07:06:07.618Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012778250&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211108&amp;page=1" title="원/달러 환율 2.1원 하락…1,183.1원 마감">원/달러 환율 2.1원 하락…1,183.1원 마감</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이주열 한은 총재, 국제결제은행 이사에 재선임]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0012777189&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211108&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012774878&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211108&amp;page=1"/>
         <updated>2021-11-07T15:04:07.343Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012774878&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211108&amp;page=1" title="시장 불안 속 '역머니무브' 조짐…유망 투자처는">시장 불안 속 '역머니무브' 조짐…유망 투자처는</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뒷북경제]세계 각국 원전 강화방안 내놓는데 한국만 역주행]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003982156&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211108&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003982156&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211108&amp;page=1"/>
-        <updated>2021-11-07T15:04:07.345Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003982156&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211108&amp;page=1" title="[뒷북경제]세계 각국 원전 강화방안 내놓는데 한국만 역주행">[뒷북경제]세계 각국 원전 강화방안 내놓는데 한국만 역주행</a>]]></content>
     </entry>
 </feed>
