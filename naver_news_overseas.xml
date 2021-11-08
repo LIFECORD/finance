@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-11-08T18:07:23.931Z</updated>
+    <updated>2021-11-08T19:05:40.968Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[유럽증시] 지난주 랠리 이후 숨고르기…프랑스 CAC 최고치]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012778768&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211109&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012778768&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211109&amp;page=1"/>
+        <updated>2021-11-08T19:04:02.992Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012778768&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211109&amp;page=1" title="[유럽증시] 지난주 랠리 이후 숨고르기…프랑스 CAC 최고치">[유럽증시] 지난주 랠리 이후 숨고르기…프랑스 CAC 최고치</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["주식 팔까?" 머스크 트윗 한방에 주가 급락…천백슬라 '위태']]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005081394&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211109&amp;page=1</id>
@@ -53,12 +60,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000995565&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211109&amp;page=1"/>
         <updated>2021-11-08T15:05:17.721Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000995565&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211109&amp;page=1" title="K-드라마 '오징어 게임' 열풍, 베트남 역대급 강타 [KVINA]">K-드라마 '오징어 게임' 열풍, 베트남 역대급 강타 [KVINA]</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베트남 호찌민시, 내달부터 외국인 관광객 무격리 관광 허용 [KVINA]]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000995562&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211109&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000995562&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211109&amp;page=1"/>
-        <updated>2021-11-08T15:05:17.723Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000995562&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211109&amp;page=1" title="베트남 호찌민시, 내달부터 외국인 관광객 무격리 관광 허용 [KVINA]">베트남 호찌민시, 내달부터 외국인 관광객 무격리 관광 허용 [KVINA]</a>]]></content>
     </entry>
 </feed>
