@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-11-08T00:21:23.770Z</updated>
+    <updated>2021-11-08T01:50:00.423Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["강세장 힘입어 올해 최고의 크리스마스 될것"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000995381&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211108&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000995381&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211108&amp;page=1"/>
+        <updated>2021-11-08T01:48:19.529Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000995381&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211108&amp;page=1" title="&quot;강세장 힘입어 올해 최고의 크리스마스 될것&quot;">"강세장 힘입어 올해 최고의 크리스마스 될것"</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[글로벌 달러 약세…환율 1180원대 초반 하락]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005080721&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211108&amp;page=1</id>
@@ -46,19 +53,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003982416&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211108&amp;page=1"/>
         <updated>2021-11-07T22:04:27.998Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003982416&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211108&amp;page=1" title="[표]주간 해외 주요 증시 동향(11월 1일~5일)">[표]주간 해외 주요 증시 동향(11월 1일~5일)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[물가지표·연준위원 발언에 주목 [출근전 꼭 글로벌 브리핑]]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000995329&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211108&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000995329&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211108&amp;page=1"/>
-        <updated>2021-11-07T22:04:27.998Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000995329&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211108&amp;page=1" title="물가지표·연준위원 발언에 주목 [출근전 꼭 글로벌 브리핑]">물가지표·연준위원 발언에 주목 [출근전 꼭 글로벌 브리핑]</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[필리핀, 9월 실업률 8.9%…월간 기준 역대 2위]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000995325&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211108&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000995325&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211108&amp;page=1"/>
-        <updated>2021-11-07T22:04:27.999Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000995325&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211108&amp;page=1" title="필리핀, 9월 실업률 8.9%…월간 기준 역대 2위">필리핀, 9월 실업률 8.9%…월간 기준 역대 2위</a>]]></content>
     </entry>
 </feed>

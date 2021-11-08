@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=404</id>
     <title>네이버 금융 ─ 뉴스 ─ 채권 선물</title>
-    <updated>2021-11-08T00:21:23.773Z</updated>
+    <updated>2021-11-08T01:50:00.420Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[KB자산운용, 제3회 '통(通)차이나데이 세미나’ 개최]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005080733&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211108&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005080733&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211108&amp;page=1"/>
+        <updated>2021-11-08T01:48:26.419Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005080733&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211108&amp;page=1" title="KB자산운용, 제3회 '통(通)차이나데이 세미나’ 개최">KB자산운용, 제3회 '통(通)차이나데이 세미나’ 개최</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국내 주식형 펀드 자금, 2거래일 연속 순유출]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005080588&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211108&amp;page=1</id>
@@ -53,12 +60,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012774877&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211108&amp;page=1"/>
         <updated>2021-11-07T15:03:55.472Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012774877&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211108&amp;page=1" title="시장변동성 피해 MMF에 한달새 24.4조원 유입…대기성 자금 증가">시장변동성 피해 MMF에 한달새 24.4조원 유입…대기성 자금 증가</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국고채 금리 하락…3년물 8거래일만에 연 2.0% 하회(종합)]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0012773628&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211108&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012773628&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211108&amp;page=1"/>
-        <updated>2021-11-07T15:03:55.474Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012773628&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211108&amp;page=1" title="국고채 금리 하락…3년물 8거래일만에 연 2.0% 하회(종합)">국고채 금리 하락…3년물 8거래일만에 연 2.0% 하회(종합)</a>]]></content>
     </entry>
 </feed>
