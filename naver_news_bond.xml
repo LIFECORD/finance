@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=404</id>
     <title>네이버 금융 ─ 뉴스 ─ 채권 선물</title>
-    <updated>2021-11-09T20:06:53.679Z</updated>
+    <updated>2021-11-09T21:06:07.770Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[외국인, 지난달 韓주식 3조3천억원 순매도…한달만에 '팔자']]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012781504&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211110&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012781504&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211110&amp;page=1"/>
+        <updated>2021-11-09T21:04:35.577Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012781504&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211110&amp;page=1" title="외국인, 지난달 韓주식 3조3천억원 순매도…한달만에 '팔자'">외국인, 지난달 韓주식 3조3천억원 순매도…한달만에 '팔자'</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[표]거래소주가지수선물·옵션시세표(11/9)]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005082157&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211110&amp;page=1</id>
