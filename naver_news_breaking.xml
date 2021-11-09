@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS2D&amp;section_id=101&amp;section_id2=258</id>
     <title>네이버 금융 ─ 뉴스 ─ 실시간 속보</title>
-    <updated>2021-11-09T13:16:41.695Z</updated>
+    <updated>2021-11-09T14:06:16.121Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코스닥도 오르는데 코스피만 부진 …왜?]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005082273&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211109&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005082273&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211109&amp;page=1"/>
+        <updated>2021-11-09T14:04:17.359Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005082273&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211109&amp;page=1" title="코스닥도 오르는데 코스피만 부진 …왜?">코스닥도 오르는데 코스피만 부진 …왜?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[마켓인] '바이오 올인' CJ제일제당, 글로벌 도약 시동]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005082269&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211109&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001620239&amp;office_id=057&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211109&amp;page=1"/>
         <updated>2021-11-09T12:08:13.663Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0001620239&amp;office_id=057&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211109&amp;page=1" title="&quot;업체 보관 요소 700톤 금주 요소수로&quot;…문 대통령 &quot;불안감 갖지 마시길&quot;">"업체 보관 요소 700톤 금주 요소수로"…문 대통령 "불안감 갖지 마시길"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KT 구현모 대표, 대구시와 손잡고 ‘대구형 일자리’ 만든다]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003983347&amp;office_id=011&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211109&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003983347&amp;office_id=011&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211109&amp;page=1"/>
-        <updated>2021-11-09T11:03:09.219Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003983347&amp;office_id=011&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211109&amp;page=1" title="KT 구현모 대표, 대구시와 손잡고 ‘대구형 일자리’ 만든다">KT 구현모 대표, 대구시와 손잡고 ‘대구형 일자리’ 만든다</a>]]></content>
     </entry>
 </feed>
