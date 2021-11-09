@@ -2,29 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-09T07:06:49.005Z</updated>
+    <updated>2021-11-09T08:08:33.139Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[특징주] 한전기술, 브라질 원전 증설 소식에 강세…52주 신고..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000772630&amp;office_id=366&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000772630&amp;office_id=366&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-09T06:06:42.953Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[특징주] 액션스퀘어, 외국인·기관 동시 순매수에 5.8%↑]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0002980749&amp;office_id=030&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0002980749&amp;office_id=030&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-09T06:06:42.908Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[특징주] SNK 주가 22% 상승…NFT 알리바바 플랫폼 진출..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000772642&amp;office_id=366&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000772642&amp;office_id=366&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-09T07:05:38.053Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
+        <title type="html"><![CDATA[[특징주] NHN, 3분기 호실적에 12%대 급등…52주 신고가..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012780663&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012780663&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-09T08:07:25.752Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[속보] 테슬라 4.84% 급락한 1162달러에 마감돼]]></title>
@@ -39,6 +25,13 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003392380&amp;office_id=020&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-09T03:02:00.000Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주] SNK 주가 22% 상승…NFT 알리바바 플랫폼 진출..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000772642&amp;office_id=366&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000772642&amp;office_id=366&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-09T07:05:38.053Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뉴욕증시, 인프라 법안 통과에 상승 출발]]></title>
@@ -81,6 +74,13 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003392374&amp;office_id=020&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-09T03:02:00.000Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 한전기술, 브라질 원전 증설 소식에 강세…52주 신고..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000772630&amp;office_id=366&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000772630&amp;office_id=366&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-09T06:06:42.953Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[카카오페이 15만 원대로 '털썩'…반등 기회 없을까?]]></title>
@@ -160,6 +160,13 @@
         <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[특징주] SK하이닉스, 석 달 만에 최고…11만원 육박(종합)]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012780537&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012780537&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-09T08:07:25.782Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[주린이의 공모주] 넥스트 디어유는 누구?…4사 4색 IPO 출..]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000634312&amp;office_id=031&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000634312&amp;office_id=031&amp;mode=RANK&amp;typ=0"/>
@@ -172,12 +179,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000634447&amp;office_id=031&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-09T06:06:42.959Z</updated>
         <content type="html"><![CDATA[아이뉴스24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[특징주] 데브시스터즈, '쿠키런' 게임 MAU 급등… 1000..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000752422&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000752422&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-09T06:06:42.960Z</updated>
-        <content type="html"><![CDATA[머니S]]></content>
     </entry>
 </feed>
