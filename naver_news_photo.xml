@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-11-09T18:06:24.467Z</updated>
+    <updated>2021-11-09T19:05:42.627Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[또 하나의 증시, 불쑥 큰 장외시장]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001483150&amp;office_id=005&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211110&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001483150&amp;office_id=005&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211110&amp;page=1"/>
+        <updated>2021-11-10T04:04:00.000Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인플레 우려 속… 비트코인-이더리움 나란히 사상 최고가]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003392665&amp;office_id=020&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211110&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000115260&amp;office_id=629&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211110&amp;page=1"/>
         <updated>2021-11-09T15:05:01.936Z</updated>
         <content type="html"><![CDATA[더팩트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나19 백신 이어 먹는 치료제까지…여행株 ‘꿈틀’]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005082279&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211110&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005082279&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211110&amp;page=1"/>
-        <updated>2021-11-09T15:05:01.937Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
