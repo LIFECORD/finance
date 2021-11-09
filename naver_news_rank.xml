@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-09T17:16:36.054Z</updated>
+    <updated>2021-11-09T18:06:24.440Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -17,6 +17,27 @@
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005082290&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005082290&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-09T16:07:58.285Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WSJ "테슬라 주주, 머스크처럼 주식 팔아라"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004626512&amp;office_id=015&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004626512&amp;office_id=015&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-10T02:08:00.000Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[유럽증시] 관망세 속 일제히 소폭 하락]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012781458&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012781458&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-10T02:35:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔터주 테마탄 디어유 오늘 상장…‘따상' 가나]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005082292&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005082292&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-10T02:31:00.000Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-11-09T17:16:36.033Z</updated>
+    <updated>2021-11-09T18:06:24.441Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[유럽증시] 관망세 속 일제히 소폭 하락]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012781458&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211110&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012781458&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211110&amp;page=1"/>
+        <updated>2021-11-09T18:04:45.212Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012781458&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211110&amp;page=1" title="[유럽증시] 관망세 속 일제히 소폭 하락">[유럽증시] 관망세 속 일제히 소폭 하락</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WSJ "테슬라 주주, 머스크처럼 주식 팔아라"]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004626512&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211110&amp;page=1</id>
@@ -53,12 +60,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004876542&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211110&amp;page=1"/>
         <updated>2021-11-09T15:04:29.365Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004876542&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211110&amp;page=1" title="확 달라진 '인프라투자 공식'…건설株보다 전기차ETF로 몰려 [자이앤트월드]">확 달라진 '인프라투자 공식'…건설株보다 전기차ETF로 몰려 [자이앤트월드]</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[클라우드 기술株 달린다…알짜 중견업체 주목]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004876541&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211110&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004876541&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211110&amp;page=1"/>
-        <updated>2021-11-09T15:04:29.366Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004876541&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211110&amp;page=1" title="클라우드 기술株 달린다…알짜 중견업체 주목">클라우드 기술株 달린다…알짜 중견업체 주목</a>]]></content>
     </entry>
 </feed>
