@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-09T19:05:42.592Z</updated>
+    <updated>2021-11-09T20:06:53.654Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -20,25 +20,11 @@
         <content type="html"><![CDATA[한국경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[마켓인]새주인 찾은 바디프랜드…'판 사람과 산 사람의 속사정']]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005082286&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005082286&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-09T19:04:28.401Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['천슬라'마저 위태롭다…돌연 하락하는 테슬라 주가]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005082290&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005082290&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-09T16:07:58.285Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔터주 테마탄 디어유 오늘 상장…‘따상' 가나]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005082292&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005082292&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-10T02:31:00.000Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
+        <title type="html"><![CDATA[나스닥 하락 ‘인버스 ETF’, 서학개미 153억 샀다]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003651946&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003651946&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-10T03:02:00.000Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[유럽증시] 관망세 속 일제히 소폭 하락]]></title>
@@ -48,18 +34,18 @@
         <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[나스닥 하락 ‘인버스 ETF’, 서학개미 153억 샀다]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003651946&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003651946&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-10T03:02:00.000Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
+        <title type="html"><![CDATA[엔터주 테마탄 디어유 오늘 상장…‘따상' 가나]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005082292&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005082292&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-10T02:31:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[주요경제지표] 2021년 11월 9일자]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003651960&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003651960&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-10T03:03:00.000Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
+        <title type="html"><![CDATA['천슬라'마저 위태롭다…돌연 하락하는 테슬라 주가]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005082290&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005082290&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-09T16:07:58.285Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[인플레 우려 속… 비트코인-이더리움 나란히 사상 최고가]]></title>
@@ -74,5 +60,26 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003651951&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-10T03:02:00.000Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주요경제지표] 2021년 11월 9일자]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003651960&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003651960&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-10T03:03:00.000Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[또 하나의 증시, 불쑥 큰 장외시장]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001483150&amp;office_id=005&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001483150&amp;office_id=005&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-10T04:04:00.000Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[존리 이끄는 메리츠자산, 16일 액티브 ETF 2종 출격]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004668267&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004668267&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-10T04:43:00.000Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
