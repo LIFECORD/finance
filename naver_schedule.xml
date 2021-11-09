@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_search.naver?rcdate=&amp;q=%BF%C0%B4%C3%C0%C7+%C1%F5%BD%C3%C0%CF%C1%A4&amp;sm=title.basic&amp;pd=1&amp;stDateStart=</id>
     <title>네이버 금융 ─ 오늘의 증시일정</title>
-    <updated>2021-11-09T08:08:33.143Z</updated>
+    <updated>2021-11-09T09:06:16.424Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘의 증시 일정 (11월 10일)]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004876570&amp;office_id=009&amp;mode=search&amp;query=%EC%98%A4%EB%8A%98%EC%9D%98%20%EC%A6%9D%EC%8B%9C%EC%9D%BC%EC%A0%95&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004876570&amp;office_id=009&amp;mode=search&amp;query=%EC%98%A4%EB%8A%98%EC%9D%98%20%EC%A6%9D%EC%8B%9C%EC%9D%BC%EC%A0%95&amp;page=1"/>
+        <updated>2021-11-09T09:05:35.141Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004876570&amp;office_id=009&amp;mode=search&amp;query=오늘의 증시일정&amp;page=1">오늘의 증시 일정 (11월 10일)</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오늘의 증시 일정 (11월 9일)]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004875910&amp;office_id=009&amp;mode=search&amp;query=%EC%98%A4%EB%8A%98%EC%9D%98%20%EC%A6%9D%EC%8B%9C%EC%9D%BC%EC%A0%95&amp;page=1</id>
@@ -137,12 +144,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004860574&amp;office_id=009&amp;mode=search&amp;query=%EC%98%A4%EB%8A%98%EC%9D%98%20%EC%A6%9D%EC%8B%9C%EC%9D%BC%EC%A0%95&amp;page=1"/>
         <updated>2021-10-13T22:31:45.470Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004860574&amp;office_id=009&amp;mode=search&amp;query=오늘의 증시일정&amp;page=1">오늘의 증시 일정 (10월 6일)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘의 증시 일정 (10월 1일)]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004858639&amp;office_id=009&amp;mode=search&amp;query=%EC%98%A4%EB%8A%98%EC%9D%98%20%EC%A6%9D%EC%8B%9C%EC%9D%BC%EC%A0%95&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004858639&amp;office_id=009&amp;mode=search&amp;query=%EC%98%A4%EB%8A%98%EC%9D%98%20%EC%A6%9D%EC%8B%9C%EC%9D%BC%EC%A0%95&amp;page=1"/>
-        <updated>2021-10-13T22:31:45.471Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004858639&amp;office_id=009&amp;mode=search&amp;query=오늘의 증시일정&amp;page=1">오늘의 증시 일정 (10월 1일)</a>]]></content>
     </entry>
 </feed>
