@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-11-09T10:07:36.583Z</updated>
+    <updated>2021-11-09T11:05:22.468Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[KT 구현모 대표, 대구시와 손잡고 ‘대구형 일자리’ 만든다]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003983347&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211109&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003983347&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211109&amp;page=1"/>
+        <updated>2021-11-09T11:04:10.034Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스마트팩토리용 AI업체 트윔에 7.6兆 ‘뭉칫돈’]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004626467&amp;office_id=015&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211109&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004626467&amp;office_id=015&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211109&amp;page=1"/>
+        <updated>2021-11-09T11:04:10.035Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국세청, 아시아나항공에 약 970억원 추징금 부과(종합)]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012781233&amp;office_id=001&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211109&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012781233&amp;office_id=001&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211109&amp;page=1"/>
+        <updated>2021-11-09T11:04:10.036Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[표]아시아 주요 증시 동향(11월 9일)]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003983345&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211109&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003983345&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211109&amp;page=1"/>
+        <updated>2021-11-09T11:04:10.037Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(영상)`올해 최악` 바이오株, 연말 반전 가능할까?]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005082244&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211109&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005082244&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211109&amp;page=1"/>
+        <updated>2021-11-09T11:04:10.038Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["또 내리라고?"...수수료 인하 분위기에 카드사 '좌불안석']]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000640112&amp;office_id=469&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211109&amp;page=1</id>
@@ -39,40 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000772750&amp;office_id=366&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211109&amp;page=1"/>
         <updated>2021-11-09T10:06:25.218Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국세청, 아시아나항공에 약 970억원 추징금 부과]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0012781121&amp;office_id=001&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211109&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012781121&amp;office_id=001&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211109&amp;page=1"/>
-        <updated>2021-11-09T10:06:25.218Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정은보 "대출금리는 시장에서 결정... 다만 그 과정은 신중하게 감독"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000640102&amp;office_id=469&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211109&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000640102&amp;office_id=469&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211109&amp;page=1"/>
-        <updated>2021-11-09T10:06:25.218Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[표]유가증권 코스닥 투자주체별 매매동향(11월 9일-최종치)]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003983335&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211109&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003983335&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211109&amp;page=1"/>
-        <updated>2021-11-09T10:06:25.219Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[표]코스닥 기관·외국인·개인 순매수·도 상위종목(11월 9일-최종치)]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003983333&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211109&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003983333&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211109&amp;page=1"/>
-        <updated>2021-11-09T10:06:25.222Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배당 앞세워 몸집 불린 리츠株···4년 만에 '시총 52배']]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003983332&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211109&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003983332&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211109&amp;page=1"/>
-        <updated>2021-11-09T10:06:25.222Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
