@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-09T01:49:32.730Z</updated>
+    <updated>2021-11-09T02:23:02.546Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -62,6 +62,13 @@
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[특징주] 제이씨현시스템, 전세계 NFT 기반 메타버스 서비스 ..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004736438&amp;office_id=014&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004736438&amp;office_id=014&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-09T10:16:00.000Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[국민연금, 운용역 정원 더 확대…대졸 운용역 늘어날까]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0010819972&amp;office_id=003&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0010819972&amp;office_id=003&amp;mode=RANK&amp;typ=0"/>
@@ -74,6 +81,13 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005081394&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-08T23:05:35.855Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 두산밥캣, 美 인프라 투자 확대에 강세]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000634361&amp;office_id=031&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000634361&amp;office_id=031&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-09T10:16:00.000Z</updated>
+        <content type="html"><![CDATA[아이뉴스24]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["CJ대한통운, 택배 이익 모멘텀 내년까지 유효"-한국]]></title>
@@ -111,6 +125,13 @@
         <content type="html"><![CDATA[아이뉴스24]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[특징주] 에스에너지, 中석탄발전 가동 제한...태양광 모듈 가..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004736451&amp;office_id=014&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004736451&amp;office_id=014&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-09T10:23:00.000Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[주식 매매 상위 종목 및 환율] 2021년 11월 8일자]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003651683&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003651683&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
@@ -123,6 +144,13 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005710270&amp;office_id=421&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-09T07:04:00.000Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 삼화페인트, 대선주자 대규모 주택공급 공약…페인트 가..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001910192&amp;office_id=016&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001910192&amp;office_id=016&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-09T10:44:00.000Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["ESG 안하면 남양처럼 외면받아…그중 G가 제일 중요"]]></title>
@@ -151,33 +179,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005710259&amp;office_id=421&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-09T06:49:00.000Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["주식 팔까" 머스크 트윗에 주가 5% 급락…천백슬라 '위태'(..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005081443&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005081443&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-09T07:16:00.000Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[CEO워치]'동국제강 쟤네 뭐해' 비아냥 뒤집은 장세욱]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000004690&amp;office_id=648&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000004690&amp;office_id=648&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-09T05:51:00.000Z</updated>
-        <content type="html"><![CDATA[비즈니스워치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴욕증시, 인프라법 통과에 소폭 상승…S&P 첫 4,700 돌파]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0012778826&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012778826&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-09T06:48:00.000Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[보호예수 폭탄이 몰려온다…카카오뱅크도 '휘청']]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005081404&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005081404&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-09T01:01:00.000Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
