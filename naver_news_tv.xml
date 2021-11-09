@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-11-09T16:09:07.289Z</updated>
+    <updated>2021-11-09T17:16:36.038Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[구글링에 털렸다…SK 지원자 1,600명 정보 유출]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000932459&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211110&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000932459&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211110&amp;page=1"/>
+        <updated>2021-11-10T02:00:00.000Z</updated>
+        <content type="html"><![CDATA[SBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[요소수 재고 한 달 남았다…"중국 물량 풀려야 숨 돌려"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000932454&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211110&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000932454&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211110&amp;page=1"/>
+        <updated>2021-11-10T01:43:00.000Z</updated>
+        <content type="html"><![CDATA[SBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[요소수 "한 통이라도" 구매 행렬…중고나라 "거래 제한"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000932453&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211110&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000932453&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211110&amp;page=1"/>
+        <updated>2021-11-10T01:40:00.000Z</updated>
+        <content type="html"><![CDATA[SBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["내년으로 미룰 세금으론 부족"…기재부 '갸웃']]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000932452&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211110&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000932452&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211110&amp;page=1"/>
+        <updated>2021-11-10T01:37:00.000Z</updated>
+        <content type="html"><![CDATA[SBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[위드 코로나, 경기 회복 체감은 아직..."송년회 예약 증가율 20%"]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001663195&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211110&amp;page=1</id>
@@ -46,33 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0011153532&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211110&amp;page=1"/>
         <updated>2021-11-09T15:05:08.770Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[고용브리핑365] "노동시장 불일치 심화"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000513203&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211110&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000513203&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211110&amp;page=1"/>
-        <updated>2021-11-09T15:05:08.772Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[반복되는 변전소 설비 고장…이유는?]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0011153505&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211110&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011153505&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211110&amp;page=1"/>
-        <updated>2021-11-09T15:05:08.773Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“출근이 지옥 같았다”…쿠팡, 직장 내 괴롭힘 첫 인정]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0011153500&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211110&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011153500&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211110&amp;page=1"/>
-        <updated>2021-11-09T15:05:08.774Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오피스텔도 규제?…공급 타격 우려에 정부 '진퇴양난']]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000343565&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211110&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000343565&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211110&amp;page=1"/>
-        <updated>2021-11-09T15:05:08.779Z</updated>
-        <content type="html"><![CDATA[TV조선]]></content>
     </entry>
 </feed>

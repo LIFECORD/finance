@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS2D&amp;section_id=101&amp;section_id2=258</id>
     <title>네이버 금융 ─ 뉴스 ─ 실시간 속보</title>
-    <updated>2021-11-09T16:09:07.311Z</updated>
+    <updated>2021-11-09T17:16:36.034Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[WSJ "테슬라 주주, 머스크처럼 주식 팔아라"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004626512&amp;office_id=015&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211110&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004626512&amp;office_id=015&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211110&amp;page=1"/>
+        <updated>2021-11-09T17:14:32.482Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004626512&amp;office_id=015&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211110&amp;page=1" title="WSJ &quot;테슬라 주주, 머스크처럼 주식 팔아라&quot;">WSJ "테슬라 주주, 머스크처럼 주식 팔아라"</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['천슬라'마저 위태롭다…돌연 하락하는 테슬라 주가]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005082290&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211110&amp;page=1</id>
@@ -60,12 +67,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000995837&amp;office_id=215&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211110&amp;page=1"/>
         <updated>2021-11-09T15:04:06.320Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000995837&amp;office_id=215&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211110&amp;page=1" title="'세월에 장사 없네'...'129년 GE' 기업분할 결정">'세월에 장사 없네'...'129년 GE' 기업분할 결정</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오락가락 정책에 "잔금 대출 약속 못 믿어"…밤샘 줄서기 진풍경]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001620254&amp;office_id=057&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211110&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001620254&amp;office_id=057&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211110&amp;page=1"/>
-        <updated>2021-11-09T15:04:06.322Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0001620254&amp;office_id=057&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211110&amp;page=1" title="오락가락 정책에 &quot;잔금 대출 약속 못 믿어&quot;…밤샘 줄서기 진풍경">오락가락 정책에 "잔금 대출 약속 못 믿어"…밤샘 줄서기 진풍경</a>]]></content>
     </entry>
 </feed>
