@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=429</id>
     <title>네이버 금융 ─ 뉴스 ─ 환율</title>
-    <updated>2021-11-09T09:06:16.442Z</updated>
+    <updated>2021-11-09T10:07:36.579Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[수입에 의존하던 텅스텐을 폐기물서 만들어낸다]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003983323&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211109&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003983323&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211109&amp;page=1"/>
+        <updated>2021-11-09T10:06:12.797Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003983323&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211109&amp;page=1" title="수입에 의존하던 텅스텐을 폐기물서 만들어낸다">수입에 의존하던 텅스텐을 폐기물서 만들어낸다</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[달러 약세에 환율 하락…5.9원 내린 1,177.2원 마감]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0012780700&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211109&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012777189&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211109&amp;page=1"/>
         <updated>2021-11-08T15:05:36.923Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012777189&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211109&amp;page=1" title="이주열 한은 총재, 국제결제은행 이사에 재선임">이주열 한은 총재, 국제결제은행 이사에 재선임</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요소·요소수 매점매석행위, 정부합동 단속 착수]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003982555&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211109&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003982555&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211109&amp;page=1"/>
-        <updated>2021-11-08T15:05:36.924Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003982555&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211109&amp;page=1" title="요소·요소수 매점매석행위, 정부합동 단속 착수">요소·요소수 매점매석행위, 정부합동 단속 착수</a>]]></content>
     </entry>
 </feed>
