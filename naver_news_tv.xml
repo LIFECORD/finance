@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-11-09T05:06:19.549Z</updated>
+    <updated>2021-11-09T06:08:00.269Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[편법적 부의 대물림 '대기업·사주일가' 30명 세무조사]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001662983&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211109&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001662983&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211109&amp;page=1"/>
+        <updated>2021-11-09T06:06:56.853Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[현장연결] 질병청 "위중증 환자 60대 이상에서 79.2% 차지"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000513132&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211109&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000513132&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211109&amp;page=1"/>
+        <updated>2021-11-09T06:06:56.853Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["코로나 이후 '재택' 가능 여부가 고용 영향"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000513131&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211109&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000513131&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211109&amp;page=1"/>
+        <updated>2021-11-09T06:06:56.853Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SK 입사지원자 1,600여 명 개인정보 유출..."관리 실수"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001662958&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211109&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001662958&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211109&amp;page=1"/>
+        <updated>2021-11-09T06:06:56.854Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[더뉴스] 미 증시 '고공행진'...코스피는 '박스권 지속']]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001662961&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211109&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001662961&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211109&amp;page=1"/>
+        <updated>2021-11-09T06:06:56.854Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴스초점] 삼성·SK, 미국에 반도체 정보 제출…"민감 정보 제외"]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000513128&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211109&amp;page=1</id>
@@ -39,40 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001662925&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211109&amp;page=1"/>
         <updated>2021-11-09T05:05:13.501Z</updated>
         <content type="html"><![CDATA[YTN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["국민 82% '디지털 쇼핑'…중장년 큰 폭 증가"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000513112&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211109&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000513112&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211109&amp;page=1"/>
-        <updated>2021-11-09T04:07:22.644Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수도권 상위 20% 아파트 '대출금지' 15억 넘어]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000513111&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211109&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000513111&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211109&amp;page=1"/>
-        <updated>2021-11-09T00:59:00.000Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제조업 공급 중 수입 비중 30%…역대 최고]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000513107&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211109&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000513107&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211109&amp;page=1"/>
-        <updated>2021-11-09T00:56:00.000Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[편법적 부의 대물림 '대기업·사주일가' 30명 세무조사]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001662924&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211109&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001662924&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211109&amp;page=1"/>
-        <updated>2021-11-09T00:47:00.000Z</updated>
-        <content type="html"><![CDATA[YTN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기업 사유화에 ‘콜옵션’ 편법 증여까지…대기업 사주 등 30명 세무조사]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0011153184&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211109&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011153184&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211109&amp;page=1"/>
-        <updated>2021-11-09T00:32:00.000Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
