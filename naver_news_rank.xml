@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-09T06:08:00.282Z</updated>
+    <updated>2021-11-09T07:06:49.005Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 한전기술, 브라질 원전 증설 소식에 강세…52주 신고..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000772630&amp;office_id=366&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000772630&amp;office_id=366&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-09T06:06:42.953Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[특징주] 액션스퀘어, 외국인·기관 동시 순매수에 5.8%↑]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0002980749&amp;office_id=030&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0002980749&amp;office_id=030&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-09T06:06:42.908Z</updated>
         <content type="html"><![CDATA[전자신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주] SNK 주가 22% 상승…NFT 알리바바 플랫폼 진출..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000772642&amp;office_id=366&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000772642&amp;office_id=366&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-09T07:05:38.053Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[속보] 테슬라 4.84% 급락한 1162달러에 마감돼]]></title>
@@ -83,6 +97,13 @@
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[특징주]경동나비엔, 3Q 실적 악화에 11% 급락]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005081972&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005081972&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-09T07:05:38.067Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[특징주] 제이씨현시스템, 전세계 NFT 기반 메타버스 서비스 ..]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004736438&amp;office_id=014&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004736438&amp;office_id=014&amp;mode=RANK&amp;typ=0"/>
@@ -109,13 +130,6 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000634361&amp;office_id=031&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-09T10:16:00.000Z</updated>
         <content type="html"><![CDATA[아이뉴스24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[특징주] 한전기술, 브라질 원전 증설 소식에 강세…52주 신고..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000772630&amp;office_id=366&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000772630&amp;office_id=366&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-09T06:06:42.953Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["CJ대한통운, 택배 이익 모멘텀 내년까지 유효"-한국]]></title>
@@ -165,19 +179,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000752422&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-09T06:06:42.960Z</updated>
         <content type="html"><![CDATA[머니S]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[특징주] 넷마블, 국내 최대 메타버스 VFX 연구소 설립… 4..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000752430&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000752430&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-09T06:06:42.961Z</updated>
-        <content type="html"><![CDATA[머니S]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[특징주] 에스에너지, 中석탄발전 가동 제한...태양광 모듈 가..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004736451&amp;office_id=014&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004736451&amp;office_id=014&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-09T10:23:00.000Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
     </entry>
 </feed>
