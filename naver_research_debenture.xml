@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/research/debenture_list.naver</id>
     <title>네이버 금융 ─ 리서치 ─ 채권분석 리포트</title>
-    <updated>2021-11-09T02:23:02.565Z</updated>
+    <updated>2021-11-09T03:06:28.082Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/research/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[High Pressure: 연준의 인내심을 확인하게 될 시간]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/debenture/1636426451831.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/debenture/1636426451831.pdf"/>
+        <updated>2021-11-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[하나금융투자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[새로운 듯 새롭지 않은]]></title>
         <id>https://ssl.pstatic.net/imgstock/upload/research/debenture/1636335066178.pdf</id>
@@ -206,13 +213,6 @@
         <id>https://ssl.pstatic.net/imgstock/upload/research/debenture/1631758567775.pdf</id>
         <link href="https://ssl.pstatic.net/imgstock/upload/research/debenture/1631758567775.pdf"/>
         <updated>2021-10-14T00:13:16.404Z</updated>
-        <content type="html"><![CDATA[하나금융투자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[밀림의 하이에나]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/debenture/1631670045103.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/debenture/1631670045103.pdf"/>
-        <updated>2021-10-14T00:13:16.405Z</updated>
         <content type="html"><![CDATA[하나금융투자]]></content>
     </entry>
 </feed>

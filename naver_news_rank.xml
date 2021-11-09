@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-09T02:23:02.546Z</updated>
+    <updated>2021-11-09T03:06:28.080Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003149172&amp;office_id=025&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-08T16:07:42.926Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주] NHN벅스, 3분기 호실적에 강세]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001910222&amp;office_id=016&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001910222&amp;office_id=016&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-09T11:05:00.000Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[개미 등치는 불법 주식리딩방 활개]]></title>
@@ -111,11 +118,25 @@
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[특징주]폴라리스오피스, 셀바스AI 2대주주로 메타버스 수혜 부..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004996475&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004996475&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-09T10:47:00.000Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[먹는 치료제 개발 본격화…국내 바이오株 운명은]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0010819982&amp;office_id=003&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0010819982&amp;office_id=003&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-09T06:00:00.000Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 삼화페인트, 대선주자 대규모 주택공급 공약…페인트 가..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001910192&amp;office_id=016&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001910192&amp;office_id=016&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-09T10:44:00.000Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[주린이의 공모주] 넥스트 디어유는 누구?…4사 4색 IPO 출..]]></title>
@@ -139,6 +160,13 @@
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[특징주] 메타버스 관련 '엔피' 10.41% 상승]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0002980671&amp;office_id=030&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0002980671&amp;office_id=030&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-09T11:16:00.000Z</updated>
+        <content type="html"><![CDATA[전자신문]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[로블록스 시간외 주가 35% 폭등…3분기 매출 전년비 2배]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005710270&amp;office_id=421&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005710270&amp;office_id=421&amp;mode=RANK&amp;typ=0"/>
@@ -146,38 +174,10 @@
         <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[특징주] 삼화페인트, 대선주자 대규모 주택공급 공약…페인트 가..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001910192&amp;office_id=016&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001910192&amp;office_id=016&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-09T10:44:00.000Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA["ESG 안하면 남양처럼 외면받아…그중 G가 제일 중요"]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005081416&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005081416&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-09T05:31:00.000Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인플레 우려 고조, 비트코인 5% 급등-이더리움 사상최고(종합)]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005710264&amp;office_id=421&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005710264&amp;office_id=421&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-09T06:54:00.000Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["가상자산, 투기 아닌 분산 투자 관점서 봐야"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005081419&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005081419&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-09T05:36:00.000Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[클라리다 美 연준 부의장, 내년 말 금리 인상 조건 충족]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005710259&amp;office_id=421&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005710259&amp;office_id=421&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-09T06:49:00.000Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
