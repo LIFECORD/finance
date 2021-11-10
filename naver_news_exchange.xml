@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=429</id>
     <title>네이버 금융 ─ 뉴스 ─ 환율</title>
-    <updated>2021-11-10T10:06:45.269Z</updated>
+    <updated>2021-11-10T11:05:27.377Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012783611&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211110&amp;page=1"/>
         <updated>2021-11-10T07:05:49.901Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012783611&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211110&amp;page=1" title="중국발 물가 불안 영향…환율 3.7원 오른 1,180.9원 마감">중국발 물가 불안 영향…환율 3.7원 오른 1,180.9원 마감</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수능일 외환시장 1시간 늦게 개장…마감 시간은 그대로]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012784327&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211110&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012784327&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211110&amp;page=1"/>
+        <updated>2021-11-10T11:04:09.175Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012784327&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211110&amp;page=1" title="수능일 외환시장 1시간 늦게 개장…마감 시간은 그대로">수능일 외환시장 1시간 늦게 개장…마감 시간은 그대로</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[디지털위안화 개인지갑 1.2억개 넘었다…거래액도 10조]]></title>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012781504&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211110&amp;page=1"/>
         <updated>2021-11-09T21:04:47.914Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012781504&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211110&amp;page=1" title="외국인, 지난달 韓주식 3조3천억원 순매도…한달만에 '팔자'">외국인, 지난달 韓주식 3조3천억원 순매도…한달만에 '팔자'</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수입에 의존하던 텅스텐을 폐기물서 만들어낸다]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003983323&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211110&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003983323&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211110&amp;page=1"/>
-        <updated>2021-11-09T15:04:49.567Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003983323&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211110&amp;page=1" title="수입에 의존하던 텅스텐을 폐기물서 만들어낸다">수입에 의존하던 텅스텐을 폐기물서 만들어낸다</a>]]></content>
     </entry>
 </feed>
