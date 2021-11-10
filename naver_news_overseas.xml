@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-11-10T06:08:30.715Z</updated>
+    <updated>2021-11-10T07:07:27.161Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[외환마감]강달러 전환+국내증시 부진…이틀 만에 1180원대 복귀]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005082847&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211110&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005082847&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211110&amp;page=1"/>
+        <updated>2021-11-10T07:05:26.296Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005082847&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211110&amp;page=1" title="[외환마감]강달러 전환+국내증시 부진…이틀 만에 1180원대 복귀">[외환마감]강달러 전환+국내증시 부진…이틀 만에 1180원대 복귀</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[애널리스트 칼럼] 소피테크, 핀테크 혁신의 아이콘]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004626756&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211110&amp;page=1</id>
@@ -46,19 +53,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000995953&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211110&amp;page=1"/>
         <updated>2021-11-10T02:21:34.376Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000995953&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211110&amp;page=1" title="'반지의 제왕' 감독 피터잭슨, 설립 회사 2조원에 매각">'반지의 제왕' 감독 피터잭슨, 설립 회사 2조원에 매각</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[`테슬라 대항마` 리비안, 공모가 78달러 확정]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000995952&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211110&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000995952&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211110&amp;page=1"/>
-        <updated>2021-11-10T02:21:34.378Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000995952&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211110&amp;page=1" title="`테슬라 대항마` 리비안, 공모가 78달러 확정">`테슬라 대항마` 리비안, 공모가 78달러 확정</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디파이 코인 투자했다가 5억원 날린 美 투자자의 눈물]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000995949&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211110&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000995949&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211110&amp;page=1"/>
-        <updated>2021-11-10T02:21:34.378Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000995949&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211110&amp;page=1" title="디파이 코인 투자했다가 5억원 날린 美 투자자의 눈물">디파이 코인 투자했다가 5억원 날린 美 투자자의 눈물</a>]]></content>
     </entry>
 </feed>
