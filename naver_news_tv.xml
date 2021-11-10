@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-11-10T07:07:27.166Z</updated>
+    <updated>2021-11-10T08:08:03.408Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['1억 이하' 아파트 거래, 투기 의혹 집중 조사]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001159155&amp;office_id=214&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211110&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001159155&amp;office_id=214&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211110&amp;page=1"/>
+        <updated>2021-11-10T08:06:55.858Z</updated>
+        <content type="html"><![CDATA[MBC]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[MBN 프레스룸] "오지 마라"…尹 광주행]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001620482&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211110&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001620482&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211110&amp;page=1"/>
+        <updated>2021-11-10T08:06:55.859Z</updated>
+        <content type="html"><![CDATA[MBN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[MBN 프레스룸] 李 "수사 미진하면 특검"]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001620476&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211110&amp;page=1</id>
@@ -60,19 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000263979&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211110&amp;page=1"/>
         <updated>2021-11-10T07:06:13.365Z</updated>
         <content type="html"><![CDATA[SBS Biz]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10월 취업자 65만 2천 명↑..."고용 회복세 지속"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001663513&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211110&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001663513&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211110&amp;page=1"/>
-        <updated>2021-11-10T07:06:13.366Z</updated>
-        <content type="html"><![CDATA[YTN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴스외전 경제 '쏙'] 요소수 3달치 수입, 한숨 돌려‥이번엔 중국발 마그네슘 대란?]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001159139&amp;office_id=214&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211110&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001159139&amp;office_id=214&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211110&amp;page=1"/>
-        <updated>2021-11-10T07:06:13.368Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>
