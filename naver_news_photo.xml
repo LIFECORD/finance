@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-11-10T16:09:07.643Z</updated>
+    <updated>2021-11-10T17:09:01.055Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['드라마야, 광고야'…지리산 덮은 PPL이 남긴 것]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005083140&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211111&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005083140&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211111&amp;page=1"/>
+        <updated>2021-11-11T01:31:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[동학개미 쿼바디스?…서학·코인개미로 변신]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005083139&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211111&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000640397&amp;office_id=469&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211111&amp;page=1"/>
         <updated>2021-11-10T15:05:03.217Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SM 손자 `따상`에 JYP도 흐뭇]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0002705553&amp;office_id=029&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211111&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0002705553&amp;office_id=029&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211111&amp;page=1"/>
-        <updated>2021-11-10T15:05:03.219Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
 </feed>
