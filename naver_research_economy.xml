@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/research/economy_list.naver</id>
     <title>네이버 금융 ─ 리서치 ─ 경제분석 리포트</title>
-    <updated>2021-11-10T01:50:00.669Z</updated>
+    <updated>2021-11-10T02:23:10.969Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/research/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[QE4 테이퍼링과 업종별 성과 추적 (VGT, VNQ)]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/economy/1636509031912.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/economy/1636509031912.pdf"/>
+        <updated>2021-11-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[IBK투자증권]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Balance]]></title>
         <id>https://ssl.pstatic.net/imgstock/upload/research/economy/1636338000974.pdf</id>
@@ -207,12 +214,5 @@
         <link href="https://ssl.pstatic.net/imgstock/upload/research/economy/1633657730907.pdf"/>
         <updated>2021-10-14T00:09:38.355Z</updated>
         <content type="html"><![CDATA[케이프투자증권]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Economy Monitor]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/economy/1633657131703.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/economy/1633657131703.pdf"/>
-        <updated>2021-10-14T00:09:38.356Z</updated>
-        <content type="html"><![CDATA[IBK투자증권]]></content>
     </entry>
 </feed>
