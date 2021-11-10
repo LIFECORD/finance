@@ -2,77 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-11-09T23:07:31.835Z</updated>
+    <updated>2021-11-10T00:20:34.598Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[어젯밤 9시까지 2,064명 확진…오늘 2천명대 중반 예상]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000513245&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211110&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000513245&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211110&amp;page=1"/>
-        <updated>2021-11-10T08:04:00.000Z</updated>
+        <title type="html"><![CDATA[[굿모닝MBN 날씨]주 후반까지 추위 지속…전국 곳곳 비·눈]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001620358&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211110&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001620358&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211110&amp;page=1"/>
+        <updated>2021-11-10T09:15:00.000Z</updated>
+        <content type="html"><![CDATA[MBN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[굿모닝월드] 사막에 뜬 항공모함?]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001620357&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211110&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001620357&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211110&amp;page=1"/>
+        <updated>2021-11-10T09:13:00.000Z</updated>
+        <content type="html"><![CDATA[MBN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[굿모닝월드] 피자를 타고 다니는 남자?]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001620354&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211110&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001620354&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211110&amp;page=1"/>
+        <updated>2021-11-10T09:11:00.000Z</updated>
+        <content type="html"><![CDATA[MBN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“중국에 요소 7천 톤 수출검사 신청 완료”]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0011153853&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211110&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011153853&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211110&amp;page=1"/>
+        <updated>2021-11-10T09:08:00.000Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[굿모닝월드] 으스스한 해골 축제]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001620352&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211110&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001620352&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211110&amp;page=1"/>
+        <updated>2021-11-10T09:07:00.000Z</updated>
+        <content type="html"><![CDATA[MBN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고용 8개월째 증가…제조업 줄고 공공서비스 40만↑]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000513258&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211110&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000513258&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211110&amp;page=1"/>
+        <updated>2021-11-10T09:06:00.000Z</updated>
         <content type="html"><![CDATA[연합뉴스TV]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[이슈분석] 대출금리 왜 이렇게 가파르게 오르지?…‘해도 너무하네’ 부글부글]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000263886&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211110&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000263886&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211110&amp;page=1"/>
-        <updated>2021-11-10T08:04:00.000Z</updated>
+        <title type="html"><![CDATA[지난달 취업자 65만2천명↑…코로나 4차 확산에도 8개월째 증가세]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000263891&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211110&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000263891&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211110&amp;page=1"/>
+        <updated>2021-11-10T08:56:00.000Z</updated>
         <content type="html"><![CDATA[SBS Biz]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한·미, '반도체 공급망' 논의…미국 추가 정보 요구했나?]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001620329&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211110&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001620329&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211110&amp;page=1"/>
-        <updated>2021-11-10T08:04:00.000Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미 아태 차관보 오늘 방한…여야 대선후보 만나]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001620327&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211110&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001620327&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211110&amp;page=1"/>
-        <updated>2021-11-10T07:59:00.000Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이슈분석] '요소수 대란', 근본 해결책은?]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000343584&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211110&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000343584&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211110&amp;page=1"/>
-        <updated>2021-11-10T07:58:00.000Z</updated>
-        <content type="html"><![CDATA[TV조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내부정보로 땅 투기한 혐의 LH 직원, 1심서 '무죄']]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001620326&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211110&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001620326&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211110&amp;page=1"/>
-        <updated>2021-11-10T07:57:00.000Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["코인 분석해 350% 수익"…투자 부추겨 90억 '꿀꺽']]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001620324&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211110&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001620324&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211110&amp;page=1"/>
-        <updated>2021-11-10T07:54:00.000Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[외국인 한 달 만에 주식 순매도…채권 잔액은 최대]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000513237&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211110&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000513237&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211110&amp;page=1"/>
-        <updated>2021-11-10T07:53:00.000Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[글로벌 비즈] “머스크 따라 테슬라 팔아라”…세 가지 흐름 지목]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000263885&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211110&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000263885&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211110&amp;page=1"/>
-        <updated>2021-11-10T07:50:00.000Z</updated>
+        <title type="html"><![CDATA[게임株 ‘실적 위크’ 돌입…개별 모멘텀에 관련주 ‘들썩’]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000263890&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211110&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000263890&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211110&amp;page=1"/>
+        <updated>2021-11-10T08:42:00.000Z</updated>
         <content type="html"><![CDATA[SBS Biz]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["1시간 30분간 도시가 멈췄다"…여주시 대규모 정전]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001620322&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211110&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001620322&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211110&amp;page=1"/>
-        <updated>2021-11-10T07:50:00.000Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
+        <title type="html"><![CDATA[파월 “고용 지표보다 노동시장 건전성·수요 강도 중요”]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000263889&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211110&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000263889&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211110&amp;page=1"/>
+        <updated>2021-11-10T08:28:00.000Z</updated>
+        <content type="html"><![CDATA[SBS Biz]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[김대호 박사의 오늘 기업·사람] 현대중공업·SK하이닉스·KT·포스코]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000263888&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211110&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000263888&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211110&amp;page=1"/>
+        <updated>2021-11-10T08:25:00.000Z</updated>
+        <content type="html"><![CDATA[SBS Biz]]></content>
     </entry>
 </feed>
