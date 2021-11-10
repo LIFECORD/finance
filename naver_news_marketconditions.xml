@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=401</id>
     <title>네이버 금융 ─ 뉴스 ─ 시황·전망</title>
-    <updated>2021-11-10T19:05:46.164Z</updated>
+    <updated>2021-11-10T20:06:48.497Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[머스크 트윗에 테슬라 시총, 장중 1조달러 하회했다 반등]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012784623&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211111&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012784623&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211111&amp;page=1"/>
+        <updated>2021-11-10T20:04:40.654Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012784623&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211111&amp;page=1" title="머스크 트윗에 테슬라 시총, 장중 1조달러 하회했다 반등">머스크 트윗에 테슬라 시총, 장중 1조달러 하회했다 반등</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['제 2의 테슬라' 리비안 상장 임박…국내 수혜주 찾기 본격화]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004877271&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211111&amp;page=1</id>
@@ -53,12 +60,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003983816&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211111&amp;page=1"/>
         <updated>2021-11-10T15:04:09.021Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003983816&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211111&amp;page=1" title="획일적 편입 규제에 수익 '쥐꼬리'···&quot;투자 바구니 다양화해야&quot;">획일적 편입 규제에 수익 '쥐꼬리'···"투자 바구니 다양화해야"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['액티브 ETF' 규제완화…운용사 진짜 실력 드러날까]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004877162&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211111&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004877162&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211111&amp;page=1"/>
-        <updated>2021-11-10T15:04:09.023Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004877162&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211111&amp;page=1" title="'액티브 ETF' 규제완화…운용사 진짜 실력 드러날까">'액티브 ETF' 규제완화…운용사 진짜 실력 드러날까</a>]]></content>
     </entry>
 </feed>

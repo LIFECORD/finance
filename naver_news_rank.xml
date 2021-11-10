@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-10T19:05:46.124Z</updated>
+    <updated>2021-11-10T20:06:48.503Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -27,17 +27,17 @@
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뉴욕증시, 소비자물가 급등에 하락 출발]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0012784596&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012784596&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-10T16:07:51.270Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[주식 매매 상위 종목 및 환율] 2021년 11월 10일자]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003652231&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003652231&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-11T03:03:00.000Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에코프로비엠, 배터리 강세에 코스닥 1위 눈앞]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003652221&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003652221&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-11T03:02:00.000Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
@@ -48,11 +48,11 @@
         <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[에코프로비엠, 배터리 강세에 코스닥 1위 눈앞]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003652221&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003652221&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-11T03:02:00.000Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
+        <title type="html"><![CDATA[뉴욕증시, 소비자물가 급등에 하락 출발]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012784596&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012784596&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-10T16:07:51.270Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[주요경제지표] 2021년 11월 10일자]]></title>
@@ -69,6 +69,13 @@
         <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[부꾸미]"이런 기업이 좋아요" 존리가 '콕' 찍은 좋은 기업이..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004668864&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004668864&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-11T03:30:00.000Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[유럽 증시, 美 높은 인플레 불구 실적 호조로 소폭 상승 마감]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0010825241&amp;office_id=003&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0010825241&amp;office_id=003&amp;mode=RANK&amp;typ=0"/>
@@ -76,10 +83,52 @@
         <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[부꾸미]"이런 기업이 좋아요" 존리가 '콕' 찍은 좋은 기업이..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004668864&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004668864&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-11T03:30:00.000Z</updated>
+        <title type="html"><![CDATA["미국 물가 7%까지 치솟을 수 있다"는 경고]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004627038&amp;office_id=015&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004627038&amp;office_id=015&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-11T04:08:00.000Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[머스크 트윗에 테슬라 시총, 장중 1조달러 하회했다 반등]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012784623&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012784623&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-11T04:09:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[돈에 초점을 맞춘 ESG, 'ESG 글로벌 로드쇼' 개막]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004668867&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004668867&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-11T04:16:00.000Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연기금과 기관 및 기업, ESG 경영·투자 머리 맞댄다]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004668868&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004668868&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-11T04:17:00.000Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[탄소중립·ESG가 바꾸는 경제지도, 대응방안 모색]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004668869&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004668869&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-11T04:18:00.000Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['대선 랠리' 올해도 온다 기대감… 이재명·윤석열 수혜주는 무엇..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000640446&amp;office_id=469&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000640446&amp;office_id=469&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-11T04:31:00.000Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[디어유 상장 첫날 종가, 공모가 2.5배…공모주 열기 살아날까?]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004668872&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004668872&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-11T04:35:00.000Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
