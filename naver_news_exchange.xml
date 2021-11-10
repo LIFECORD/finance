@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=429</id>
     <title>네이버 금융 ─ 뉴스 ─ 환율</title>
-    <updated>2021-11-10T09:06:09.269Z</updated>
+    <updated>2021-11-10T10:06:45.269Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[韓美, 중국發 공급난 맞서 "반도체 공조"···철강쿼터 확대 논의도]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003983831&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211110&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003983831&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211110&amp;page=1"/>
+        <updated>2021-11-10T10:05:25.275Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003983831&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211110&amp;page=1" title="韓美, 중국發 공급난 맞서 &quot;반도체 공조&quot;···철강쿼터 확대 논의도">韓美, 중국發 공급난 맞서 "반도체 공조"···철강쿼터 확대 논의도</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[중국발 물가 불안 영향…환율 3.7원 오른 1,180.9원 마감]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0012783611&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211110&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003983323&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211110&amp;page=1"/>
         <updated>2021-11-09T15:04:49.567Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003983323&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211110&amp;page=1" title="수입에 의존하던 텅스텐을 폐기물서 만들어낸다">수입에 의존하던 텅스텐을 폐기물서 만들어낸다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[달러 약세에 환율 하락…5.9원 내린 1,177.2원 마감]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0012780700&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211110&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012780700&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211110&amp;page=1"/>
-        <updated>2021-11-09T15:04:49.568Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012780700&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211110&amp;page=1" title="달러 약세에 환율 하락…5.9원 내린 1,177.2원 마감">달러 약세에 환율 하락…5.9원 내린 1,177.2원 마감</a>]]></content>
     </entry>
 </feed>
