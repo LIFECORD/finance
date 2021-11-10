@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=402</id>
     <title>네이버 금융 ─ 뉴스 ─ 기업 종목분석</title>
-    <updated>2021-11-10T03:07:19.746Z</updated>
+    <updated>2021-11-10T04:07:46.634Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대선 테마株를 조심하세요]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004997265&amp;office_id=277&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211110&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004997265&amp;office_id=277&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211110&amp;page=1"/>
+        <updated>2021-11-10T04:06:07.159Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004997265&amp;office_id=277&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211110&amp;page=1" title="대선 테마株를 조심하세요">대선 테마株를 조심하세요</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[트와이스, 정규 3집 선주문 63만 장 돌파 '자체 최고 기록 경신']]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004668515&amp;office_id=008&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211110&amp;page=1</id>
@@ -32,12 +39,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004668507&amp;office_id=008&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211110&amp;page=1"/>
         <updated>2021-11-10T03:05:26.393Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004668507&amp;office_id=008&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211110&amp;page=1" title="리사, 美 빌보드 핫100 2주 연속 차트인 'K팝 여성 솔로 최초'">리사, 美 빌보드 핫100 2주 연속 차트인 'K팝 여성 솔로 최초'</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디어유, 상장 첫날 따상 터치…공모주 열기 살아날까?]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004668490&amp;office_id=008&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211110&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004668490&amp;office_id=008&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211110&amp;page=1"/>
-        <updated>2021-11-10T03:05:26.396Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004668490&amp;office_id=008&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211110&amp;page=1" title="디어유, 상장 첫날 따상 터치…공모주 열기 살아날까?">디어유, 상장 첫날 따상 터치…공모주 열기 살아날까?</a>]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=429</id>
     <title>네이버 금융 ─ 뉴스 ─ 환율</title>
-    <updated>2021-11-10T03:07:19.745Z</updated>
+    <updated>2021-11-10T04:07:46.635Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[올해 10월까지 외국인 순매도 약 31조원…지난해 수준 이미 넘어(종합2보)]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012782743&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211110&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012782743&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211110&amp;page=1"/>
+        <updated>2021-11-10T04:06:30.974Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012782743&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211110&amp;page=1" title="올해 10월까지 외국인 순매도 약 31조원…지난해 수준 이미 넘어(종합2보)">올해 10월까지 외국인 순매도 약 31조원…지난해 수준 이미 넘어(종합2보)</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[올해 10월까지 외국인 순매도 약 31조원…지난해 수준 이미 넘어(종합)]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0012782153&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211110&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012778815&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211110&amp;page=1"/>
         <updated>2021-11-09T15:04:49.571Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012778815&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211110&amp;page=1" title="연준 2인자 등 고위인사들, 내년 금리인상 가능성 시사">연준 2인자 등 고위인사들, 내년 금리인상 가능성 시사</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['경유차 SCR 해제' 검토에···환경부 "200만대 리콜해야 가능"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003982858&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211110&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003982858&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211110&amp;page=1"/>
-        <updated>2021-11-09T15:04:49.572Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003982858&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211110&amp;page=1" title="'경유차 SCR 해제' 검토에···환경부 &quot;200만대 리콜해야 가능&quot;">'경유차 SCR 해제' 검토에···환경부 "200만대 리콜해야 가능"</a>]]></content>
     </entry>
 </feed>
