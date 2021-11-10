@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=429</id>
     <title>네이버 금융 ─ 뉴스 ─ 환율</title>
-    <updated>2021-11-10T22:06:44.168Z</updated>
+    <updated>2021-11-10T23:06:01.958Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[차량용 요소수 주유소에서만 판매···승용차 1대당 한 번에 10ℓ만 살 수 있다]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003983894&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211111&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003983894&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211111&amp;page=1"/>
+        <updated>2021-11-10T23:04:36.422Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003983894&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211111&amp;page=1" title="차량용 요소수 주유소에서만 판매···승용차 1대당 한 번에 10ℓ만 살 수 있다">차량용 요소수 주유소에서만 판매···승용차 1대당 한 번에 10ℓ만 살 수 있다</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[韓美, 중국發 공급난 맞서 "반도체 공조"···철강쿼터 확대 논의도]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003983831&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211111&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012781827&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211111&amp;page=1"/>
         <updated>2021-11-10T15:04:46.570Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012781827&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211111&amp;page=1" title="원/달러 환율, 상승 출발…1,180원 안팎서 등락">원/달러 환율, 상승 출발…1,180원 안팎서 등락</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[외국인, 지난달 韓주식 3조3천억원 순매도…한달만에 '팔자']]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0012781504&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211111&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012781504&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211111&amp;page=1"/>
-        <updated>2021-11-10T15:04:46.573Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012781504&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211111&amp;page=1" title="외국인, 지난달 韓주식 3조3천억원 순매도…한달만에 '팔자'">외국인, 지난달 韓주식 3조3천억원 순매도…한달만에 '팔자'</a>]]></content>
     </entry>
 </feed>
