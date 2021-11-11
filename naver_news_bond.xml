@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=404</id>
     <title>네이버 금융 ─ 뉴스 ─ 채권 선물</title>
-    <updated>2021-11-11T08:07:36.383Z</updated>
+    <updated>2021-11-11T09:06:38.365Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[불황 모르는 명품株ETF…수익률 눈부시네]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004877848&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211111&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004877848&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211111&amp;page=1"/>
+        <updated>2021-11-11T09:04:57.106Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004877848&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211111&amp;page=1" title="불황 모르는 명품株ETF…수익률 눈부시네">불황 모르는 명품株ETF…수익률 눈부시네</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[표]거래소주가지수선물·옵션시세표(11/11)]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005083838&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211111&amp;page=1</id>
@@ -32,12 +39,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012784967&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211111&amp;page=1"/>
         <updated>2021-11-11T01:49:16.152Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012784967&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211111&amp;page=1" title="'인플레 공포'에 코스피 하락…한때 2,900선 위협(종합)">'인플레 공포'에 코스피 하락…한때 2,900선 위협(종합)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['11월 옵션만기일'…금융투자기관, 대량 매물 쏟아내나]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0012784817&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211111&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012784817&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211111&amp;page=1"/>
-        <updated>2021-11-11T00:19:24.954Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012784817&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211111&amp;page=1" title="'11월 옵션만기일'…금융투자기관, 대량 매물 쏟아내나">'11월 옵션만기일'…금융투자기관, 대량 매물 쏟아내나</a>]]></content>
     </entry>
 </feed>
