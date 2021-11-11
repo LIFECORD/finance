@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-11-11T01:50:58.950Z</updated>
+    <updated>2021-11-11T02:23:07.628Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['긴급수급조치' 시행...요소수, 한번에 최대 10ℓ만 구매 가능]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001663833&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211111&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001663833&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211111&amp;page=1"/>
+        <updated>2021-11-11T10:59:00.000Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이슈앤 직설] 요소수 대란 급한 불 껐다…“비싼 수업료 냈다 생각”]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000264074&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211111&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001620646&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211111&amp;page=1"/>
         <updated>2021-11-11T09:54:00.000Z</updated>
         <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[버거운 김장비 아끼는 '농할상품권'…30% 싸게 사는 법]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000932763&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211111&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000932763&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211111&amp;page=1"/>
-        <updated>2021-11-11T09:48:00.000Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>

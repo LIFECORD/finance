@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-11T01:50:58.983Z</updated>
+    <updated>2021-11-11T02:23:07.636Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005715978&amp;office_id=421&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-11T06:05:00.000Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 미래에셋벤처투자, 매스프레소 구글 투자 유치에 지분보..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000753272&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000753272&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-11T10:19:00.000Z</updated>
+        <content type="html"><![CDATA[머니S]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[비트코인 인플레이션 우려에 사상최고치 경신했다 하락(상보)]]></title>
@@ -160,24 +167,17 @@
         <content type="html"><![CDATA[머니S]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[특징주] 리비안 美 증시 데뷔 성공…국내 수혜주 일제히 '강세..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000115528&amp;office_id=629&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000115528&amp;office_id=629&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-11T10:08:00.000Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[승계본색]LG 방계가 LT 구본식 삼보이엔씨에 꽂힌 이유]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000004738&amp;office_id=648&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000004738&amp;office_id=648&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-11T07:11:00.000Z</updated>
         <content type="html"><![CDATA[비즈니스워치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['테슬라 대항마' 리비안 상장…시장가치 1천억 달러 예상]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0012784615&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012784615&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-11T03:20:00.000Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넷마블, 3Q 어닝쇼크…내년 재평가 기대-현대차]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005083209&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005083209&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-11T08:16:00.000Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
