@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-11-11T12:10:54.288Z</updated>
+    <updated>2021-11-11T13:15:43.462Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[동시 상장한 기후변화 ETF 6종…지금 투자할까? [한경제의 솔깃한 경제]]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004627528&amp;office_id=015&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211111&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004627528&amp;office_id=015&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211111&amp;page=1"/>
+        <updated>2021-11-11T13:14:40.892Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스타트업 마켓 KSM, 5년간 코넥스 이전 '0']]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004738468&amp;office_id=014&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211111&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004738468&amp;office_id=014&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211111&amp;page=1"/>
+        <updated>2021-11-11T13:14:40.893Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[휴젤, 보톨리눔 제제 판매 재개···식약처 행정처분 효력 일시정지]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003984402&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211111&amp;page=1</id>
@@ -60,19 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0002705785&amp;office_id=029&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211111&amp;page=1"/>
         <updated>2021-11-11T11:04:43.209Z</updated>
         <content type="html"><![CDATA[디지털타임스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인플레 한파 몰려온다] "내년 상반기까지 물가 리스크"… 헤지수단 `金·비트코..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0002705784&amp;office_id=029&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211111&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0002705784&amp;office_id=029&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211111&amp;page=1"/>
-        <updated>2021-11-11T11:04:43.211Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[개인투자자 한 명이 엔씨소프트 50만주 순매수…"수천억 상당"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004998238&amp;office_id=277&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211111&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004998238&amp;office_id=277&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211111&amp;page=1"/>
-        <updated>2021-11-11T11:04:43.211Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
 </feed>
