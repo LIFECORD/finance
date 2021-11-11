@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-11T17:15:32.237Z</updated>
+    <updated>2021-11-11T18:07:30.397Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -18,5 +18,26 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005083988&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-12T01:31:00.000Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[마켓인]내년 분위기 모른다?…PEF 연말 M&A ‘라스트 댄스..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005083990&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005083990&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-12T02:01:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[리비안, 또 주가 20% 이상 폭등…GM 시총 제쳤다]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005083992&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005083992&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-12T02:20:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[알리바바 쌍십일 100조 매출 찍었지만 성장세 꺾여(종합2보)]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012787887&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012787887&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-12T02:32:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
