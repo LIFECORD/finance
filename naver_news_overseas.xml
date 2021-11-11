@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-11-11T19:05:33.244Z</updated>
+    <updated>2021-11-11T20:06:47.224Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우버, 영국 런던 내 요금 10% 인상]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000996389&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211112&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000996389&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211112&amp;page=1"/>
+        <updated>2021-11-11T20:05:16.607Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000996389&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211112&amp;page=1" title="우버, 영국 런던 내 요금 10% 인상">우버, 영국 런던 내 요금 10% 인상</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[유럽증시] 인플레 우려 속에도 상승 마감]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0012787889&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211112&amp;page=1</id>
@@ -53,12 +60,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004877879&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211112&amp;page=1"/>
         <updated>2021-11-11T15:05:04.244Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004877879&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211112&amp;page=1" title="&quot;산타랠리 없을수도&quot;">"산타랠리 없을수도"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["인플레는 일시적…내년이면 완화될 것"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004627422&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211112&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004627422&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211112&amp;page=1"/>
-        <updated>2021-11-11T15:05:04.246Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004627422&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211112&amp;page=1" title="&quot;인플레는 일시적…내년이면 완화될 것&quot;">"인플레는 일시적…내년이면 완화될 것"</a>]]></content>
     </entry>
 </feed>
