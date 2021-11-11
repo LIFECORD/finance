@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-11T02:23:07.636Z</updated>
+    <updated>2021-11-11T03:07:10.271Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[특징주] LG화학, 5거래일만에 상승 반전…3%대 ↑]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001911343&amp;office_id=016&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001911343&amp;office_id=016&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-11T10:45:00.000Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주]에코프로비엠, 리비안 상장 수혜 기대감에 강세]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001911342&amp;office_id=016&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001911342&amp;office_id=016&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-11T10:43:00.000Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주]엔씨소프트, NFT·블록체인 활용한 게임 출시 기대감 ..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004997858&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004997858&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-11T11:10:00.000Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[돈에 초점을 맞춘 ESG, 'ESG 글로벌 로드쇼' 개막]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004668867&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
@@ -67,6 +88,13 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004627045&amp;office_id=015&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-11T06:01:00.000Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 카카오페이, '영업손실'에 14만원대로 추락]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012785280&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012785280&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-11T10:42:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[기업공시  11월 10일]디엠티, 탑코 외 1인으로 최대주주 ..]]></title>
@@ -151,33 +179,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000018337&amp;office_id=243&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-11T06:01:00.000Z</updated>
         <content type="html"><![CDATA[이코노미스트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[클릭 e종목]"레이, 중국 JV 모멘텀 가시화…주가 저평가"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004997598&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004997598&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-11T07:32:00.000Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미래에셋·KB·NH·한투, IPO 왕좌 경쟁 '후끈']]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000753145&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000753145&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-11T06:45:00.000Z</updated>
-        <content type="html"><![CDATA[머니S]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[특징주] 리비안 美 증시 데뷔 성공…국내 수혜주 일제히 '강세..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000115528&amp;office_id=629&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000115528&amp;office_id=629&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-11T10:08:00.000Z</updated>
-        <content type="html"><![CDATA[더팩트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[승계본색]LG 방계가 LT 구본식 삼보이엔씨에 꽂힌 이유]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000004738&amp;office_id=648&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000004738&amp;office_id=648&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-11T07:11:00.000Z</updated>
-        <content type="html"><![CDATA[비즈니스워치]]></content>
     </entry>
 </feed>
