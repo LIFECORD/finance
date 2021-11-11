@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-11-11T13:15:43.483Z</updated>
+    <updated>2021-11-11T14:06:13.672Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[기아 2035년 유럽서 전기차만 판매…탄소중립 전략]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000513584&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211111&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000513584&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211111&amp;page=1"/>
+        <updated>2021-11-11T14:05:16.606Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정부 "제2 요소수 사태 방지" 관리품목 확대]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001664165&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211111&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001664165&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211111&amp;page=1"/>
+        <updated>2021-11-11T14:05:16.607Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['긴급수급조정조치' 시행...주유소에서 10리터만 가능]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001664164&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211111&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001664164&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211111&amp;page=1"/>
+        <updated>2021-11-11T14:05:16.608Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“우리 분유만 써달라”며 부당이익 제공…남양·매일유업 적발]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0011155306&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211111&amp;page=1</id>
@@ -53,26 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0011155254&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211111&amp;page=1"/>
         <updated>2021-11-11T13:14:46.768Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요소수 판매 주유소에서만…화물차 한 번에 30리터까지]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0011155253&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211111&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011155253&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211111&amp;page=1"/>
-        <updated>2021-11-11T13:14:46.768Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['역대급 종부세 고지서' 22일부터 발송…다주택자 선택은]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000343759&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211111&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000343759&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211111&amp;page=1"/>
-        <updated>2021-11-11T13:14:46.769Z</updated>
-        <content type="html"><![CDATA[TV조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[백운기의 뉴스와이드] '컨벤션 효과' 속 선대위 갈등…윤석열 승리 조건은?]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001620814&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211111&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001620814&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211111&amp;page=1"/>
-        <updated>2021-11-11T13:14:46.770Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
     </entry>
 </feed>
