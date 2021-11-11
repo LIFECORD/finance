@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=401</id>
     <title>네이버 금융 ─ 뉴스 ─ 시황·전망</title>
-    <updated>2021-11-11T21:05:37.287Z</updated>
+    <updated>2021-11-11T22:06:15.242Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[일일펀드동향] 韓 채권형펀드 2거래일간 3734억원 순유입]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004998300&amp;office_id=277&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211112&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004998300&amp;office_id=277&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211112&amp;page=1"/>
+        <updated>2021-11-11T22:04:08.267Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004998300&amp;office_id=277&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211112&amp;page=1" title="[일일펀드동향] 韓 채권형펀드 2거래일간 3734억원 순유입">[일일펀드동향] 韓 채권형펀드 2거래일간 3734억원 순유입</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[强달러에 베팅 ···한 달 새 900억 몰린 달러ETF]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003984391&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211112&amp;page=1</id>
@@ -39,12 +46,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004877893&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211112&amp;page=1"/>
         <updated>2021-11-11T15:04:50.979Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004877893&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211112&amp;page=1" title="[레이더M] 이랜드월드, ESG 회사채 수요예측 '대량 미매각'">[레이더M] 이랜드월드, ESG 회사채 수요예측 '대량 미매각'</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["'체인지 메이커' 키워낼 교육 시스템 중요"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004627435&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211112&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004627435&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211112&amp;page=1"/>
-        <updated>2021-11-11T15:04:50.980Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004627435&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211112&amp;page=1" title="&quot;'체인지 메이커' 키워낼 교육 시스템 중요&quot;">"'체인지 메이커' 키워낼 교육 시스템 중요"</a>]]></content>
     </entry>
 </feed>
