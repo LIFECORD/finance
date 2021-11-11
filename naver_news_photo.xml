@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-11-11T16:08:46.368Z</updated>
+    <updated>2021-11-11T17:15:32.251Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[마켓인]내년 분위기 모른다?…PEF 연말 M&A ‘라스트 댄스’]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005083990&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211112&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005083990&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211112&amp;page=1"/>
+        <updated>2021-11-12T02:01:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[메타버스·게임에 골프까지…국내 ETF 이색테마 타고 '쑥쑥']]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005083988&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211112&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005083988&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211112&amp;page=1"/>
+        <updated>2021-11-12T01:31:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뉴욕 증시, 인플레 우려·반발 매수 교차에 혼조 개장...다우 0.17%↓ 나스닥 0...]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0010828002&amp;office_id=003&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211112&amp;page=1</id>
@@ -60,19 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003984402&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211112&amp;page=1"/>
         <updated>2021-11-11T15:05:37.326Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일본 10월 기업물가 8.0%↑…40년 만에 최대폭 급등]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0012787651&amp;office_id=001&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211112&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012787651&amp;office_id=001&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211112&amp;page=1"/>
-        <updated>2021-11-11T15:05:37.327Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[친환경 열풍에 구리도 뜬다… ‘구리 상품’ 15종 쏟아져]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003652452&amp;office_id=023&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211112&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003652452&amp;office_id=023&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211112&amp;page=1"/>
-        <updated>2021-11-11T15:05:37.328Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
