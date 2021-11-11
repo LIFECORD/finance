@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=429</id>
     <title>네이버 금융 ─ 뉴스 ─ 환율</title>
-    <updated>2021-11-11T11:05:54.923Z</updated>
+    <updated>2021-11-11T12:10:54.267Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[일본 10월 기업물가 8.0%↑…40년 만에 최대폭 급등]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012787651&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211111&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012787651&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211111&amp;page=1"/>
+        <updated>2021-11-11T12:09:22.218Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012787651&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211111&amp;page=1" title="일본 10월 기업물가 8.0%↑…40년 만에 최대폭 급등">일본 10월 기업물가 8.0%↑…40년 만에 최대폭 급등</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[요소수 품질인증 기관 2곳뿐···동남아서 들여와도 의뢰폭주에 '검사 병목']]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003984359&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211111&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012783611&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211111&amp;page=1"/>
         <updated>2021-11-10T15:04:46.559Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012783611&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211111&amp;page=1" title="중국발 물가 불안 영향…환율 3.7원 오른 1,180.9원 마감">중국발 물가 불안 영향…환율 3.7원 오른 1,180.9원 마감</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수능일 외환시장 1시간 늦게 개장…마감 시간은 그대로]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0012784327&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211111&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012784327&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211111&amp;page=1"/>
-        <updated>2021-11-10T15:04:46.559Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012784327&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211111&amp;page=1" title="수능일 외환시장 1시간 늦게 개장…마감 시간은 그대로">수능일 외환시장 1시간 늦게 개장…마감 시간은 그대로</a>]]></content>
     </entry>
 </feed>
