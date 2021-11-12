@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=429</id>
     <title>네이버 금융 ─ 뉴스 ─ 환율</title>
-    <updated>2021-11-12T00:21:19.959Z</updated>
+    <updated>2021-11-12T01:51:16.552Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[원/달러 환율, 상승 출발…1,180원대 초반 등락]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012788179&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211112&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012788179&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211112&amp;page=1"/>
+        <updated>2021-11-12T01:49:47.826Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012788179&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211112&amp;page=1" title="원/달러 환율, 상승 출발…1,180원대 초반 등락">원/달러 환율, 상승 출발…1,180원대 초반 등락</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유럽서도 치솟는 물가…통화정책 정상화 빨라지나]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0012787854&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211112&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003983894&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211112&amp;page=1"/>
         <updated>2021-11-11T15:05:24.366Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003983894&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211112&amp;page=1" title="차량용 요소수 주유소에서만 판매···승용차 1대당 한 번에 10ℓ만 살 수 있다">차량용 요소수 주유소에서만 판매···승용차 1대당 한 번에 10ℓ만 살 수 있다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韓美, 중국發 공급난 맞서 "반도체 공조"···철강쿼터 확대 논의도]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003983831&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211112&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003983831&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211112&amp;page=1"/>
-        <updated>2021-11-11T15:05:24.367Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003983831&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211112&amp;page=1" title="韓美, 중국發 공급난 맞서 &quot;반도체 공조&quot;···철강쿼터 확대 논의도">韓美, 중국發 공급난 맞서 "반도체 공조"···철강쿼터 확대 논의도</a>]]></content>
     </entry>
 </feed>
