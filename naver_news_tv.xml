@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-11-12T22:06:55.911Z</updated>
+    <updated>2021-11-12T23:05:39.496Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["요소수 물량 풀었다는데"…현장은 여전히 '혼란']]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000933197&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211113&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000933197&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211113&amp;page=1"/>
+        <updated>2021-11-13T07:19:00.000Z</updated>
+        <content type="html"><![CDATA[SBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유류세 20% 인하 첫날…기름값 내린 주유소만 차량 몰려]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000933196&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211113&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000933196&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211113&amp;page=1"/>
+        <updated>2021-11-13T07:17:00.000Z</updated>
+        <content type="html"><![CDATA[SBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['라임사태' 증권 3사 제재‥ CEO 징계 빠진 이유는?]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001159722&amp;office_id=214&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211113&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001159722&amp;office_id=214&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211113&amp;page=1"/>
+        <updated>2021-11-13T07:16:00.000Z</updated>
+        <content type="html"><![CDATA[MBC]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[진에어 전산 장애로 '올스톱'…운용도 서버도 해외]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000933195&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211113&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000933195&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211113&amp;page=1"/>
+        <updated>2021-11-13T07:15:00.000Z</updated>
+        <content type="html"><![CDATA[SBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유류세 20% 내렸지만‥10곳 중 8곳 기름값 '그대로']]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001159712&amp;office_id=214&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211113&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001159712&amp;office_id=214&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211113&amp;page=1"/>
+        <updated>2021-11-13T07:03:00.000Z</updated>
+        <content type="html"><![CDATA[MBC]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘순정부품’ 안 쓰면 고장?…현대차 ‘표시광고법 위반’ 제재 의견]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0011156154&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211113&amp;page=1</id>
@@ -39,40 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0011156136&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211113&amp;page=1"/>
         <updated>2021-11-13T06:17:00.000Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[상암동 복덕방]  집값 상승세 또 주춤..."저가 아파트 투기 기획조사"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001664641&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211113&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001664641&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211113&amp;page=1"/>
-        <updated>2021-11-13T05:36:00.000Z</updated>
-        <content type="html"><![CDATA[YTN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방역지원금·손실보상금...납세유예·추경 편성 가능?]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001664639&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211113&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001664639&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211113&amp;page=1"/>
-        <updated>2021-11-13T05:29:00.000Z</updated>
-        <content type="html"><![CDATA[YTN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["강남땅을 구매"...'메타버스 + 부동산' 신규 투자처?]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001664634&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211113&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001664634&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211113&amp;page=1"/>
-        <updated>2021-11-13T05:02:00.000Z</updated>
-        <content type="html"><![CDATA[YTN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[저무는 내연기관 시대...배터리 경쟁 가열]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001664633&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211113&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001664633&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211113&amp;page=1"/>
-        <updated>2021-11-13T04:53:00.000Z</updated>
-        <content type="html"><![CDATA[YTN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유류세 20% 인하 첫날...가격 내린 주유소는 '북새통']]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001664573&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211113&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001664573&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211113&amp;page=1"/>
-        <updated>2021-11-12T15:05:29.212Z</updated>
-        <content type="html"><![CDATA[YTN]]></content>
     </entry>
 </feed>
