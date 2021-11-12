@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=401</id>
     <title>네이버 금융 ─ 뉴스 ─ 시황·전망</title>
-    <updated>2021-11-12T21:05:14.395Z</updated>
+    <updated>2021-11-12T22:06:55.897Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[너도나도 'NFT 합니다'…게임주·엔터주 줄줄이 급등]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012789998&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211113&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012789998&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211113&amp;page=1"/>
+        <updated>2021-11-12T22:04:50.674Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012789998&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211113&amp;page=1" title="너도나도 'NFT 합니다'…게임주·엔터주 줄줄이 급등">너도나도 'NFT 합니다'…게임주·엔터주 줄줄이 급등</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[표]유가증권 코스닥 투자주체별 매매동향(11월 12일-최종치)]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003984761&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211113&amp;page=1</id>
@@ -53,12 +60,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004878393&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211113&amp;page=1"/>
         <updated>2021-11-12T15:04:40.699Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004878393&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211113&amp;page=1" title="한국상륙 잔칫날에…울고싶은 디즈니">한국상륙 잔칫날에…울고싶은 디즈니</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[표] 주간 수익률 베스트&워스트]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004878386&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211113&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004878386&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211113&amp;page=1"/>
-        <updated>2021-11-12T15:04:40.700Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004878386&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211113&amp;page=1" title="[표] 주간 수익률 베스트&amp;워스트">[표] 주간 수익률 베스트&amp;워스트</a>]]></content>
     </entry>
 </feed>
