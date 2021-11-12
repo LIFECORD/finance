@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/research/market_info_list.naver</id>
     <title>네이버 금융 ─ 리서치 ─ 시황정보 리포트</title>
-    <updated>2021-11-12T01:51:16.550Z</updated>
+    <updated>2021-11-12T02:23:19.262Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/research/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[Start with IBKS] KOSPI는 글로벌 인플레이션 우려에..]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/market/1636681846482.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/market/1636681846482.pdf"/>
+        <updated>2021-11-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[IBK투자증권]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[교보박스 브리핑]]></title>
         <id>https://ssl.pstatic.net/imgstock/upload/research/market/1636600321880.pdf</id>
@@ -207,12 +214,5 @@
         <link href="https://ssl.pstatic.net/imgstock/upload/research/market/1635299768458.pdf"/>
         <updated>2021-10-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[교보증권]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[eBest Quant Daily]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/market/1635298271512.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/market/1635298271512.pdf"/>
-        <updated>2021-10-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[이베스트증권]]></content>
     </entry>
 </feed>

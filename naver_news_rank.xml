@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-12T01:51:16.546Z</updated>
+    <updated>2021-11-12T02:23:19.256Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -20,11 +20,25 @@
         <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[특징주] 에스디바이오센서, MSCI 한국지수 편입에 급등세]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000115758&amp;office_id=629&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000115758&amp;office_id=629&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-12T10:22:00.000Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[칼 거두는 금융당국…`드디어` 목소리 낸 금투협]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0002705815&amp;office_id=029&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0002705815&amp;office_id=029&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-11T16:07:22.416Z</updated>
         <content type="html"><![CDATA[디지털타임스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주] SD바이오센서, MSCI 편입·인도 신공장 증설에 급..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004738626&amp;office_id=014&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004738626&amp;office_id=014&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-12T10:16:00.000Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[불안한 증시에 핫한 '인컴 투자']]></title>
@@ -74,6 +88,13 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0010828107&amp;office_id=003&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-12T07:03:00.000Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 목표가 대폭 상향에도 엔씨소프트 장중 8%대 하락]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004998492&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004998492&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-12T10:11:00.000Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[증권가 "내년 코스피 3500P 도달"…'친환경·화학' 유망]]></title>
@@ -139,6 +160,13 @@
         <content type="html"><![CDATA[한국일보]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[위지윅스튜디오, '제2의 오징어게임' 만든다…콘텐츠社 리디와 맞..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004627651&amp;office_id=015&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004627651&amp;office_id=015&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-12T10:23:00.000Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[뉴욕증시, 인플레이션 우려에 혼조세…디즈니 7%대 급락]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004627554&amp;office_id=015&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004627554&amp;office_id=015&amp;mode=RANK&amp;typ=0"/>
@@ -151,33 +179,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004998316&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-12T07:27:00.000Z</updated>
         <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기자수첩]여의도의 봄을 기다리게 만든 정은보의 100일]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004669474&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004669474&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-12T04:34:00.000Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삼성화재 3분기 순익 2781억원..전년比 42.2%↑]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005084060&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005084060&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-12T08:31:00.000Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴욕증시, 인플레 우려 속 혼조세…리비안 22%↑ [출근전 꼭 ..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000996395&amp;office_id=215&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000996395&amp;office_id=215&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-12T06:51:00.000Z</updated>
-        <content type="html"><![CDATA[한국경제TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] 토스증권, 이번엔 해외주식 쏜다… 서학개미 본격 공략]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000753617&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000753617&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-12T07:17:00.000Z</updated>
-        <content type="html"><![CDATA[머니S]]></content>
     </entry>
 </feed>
