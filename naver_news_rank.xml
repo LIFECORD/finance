@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-12T06:08:22.948Z</updated>
+    <updated>2021-11-12T07:07:15.027Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[리비안, 또 주가 20% 이상 폭등…GM 시총 제쳤다]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005083992&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005083992&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-12T02:20:00.000Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[특징주] 서원, 비철금속 원자재 가격 폭등에 동합금 전문 제조..]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001912029&amp;office_id=016&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001912029&amp;office_id=016&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-12T06:07:11.930Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 삼보산업, 알미늄 2차전지 관련주 부각...시장점유율..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004738757&amp;office_id=014&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004738757&amp;office_id=014&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-12T06:07:11.966Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[리비안, 또 주가 20% 이상 폭등…GM 시총 제쳤다]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005083992&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005083992&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-12T02:20:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[속보] 테슬라 대항마 리비안 또 22% 폭등]]></title>
@@ -60,20 +67,6 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005718924&amp;office_id=421&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-12T06:01:00.000Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[특징주] 피제이메탈, 마그네슘 테마로 13.06% 상승]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0002981473&amp;office_id=030&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0002981473&amp;office_id=030&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-12T05:05:17.327Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[특징주] 삼아알미늄, 미중 기후변화 선언에 2차전지 관련주 부..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000753816&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000753816&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-12T05:05:17.324Z</updated>
-        <content type="html"><![CDATA[머니S]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[특징주] 신원, '한·미 종전선언 큰 원칙 합의' 소식에 강세]]></title>
@@ -139,13 +132,6 @@
         <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[특징주] 삼보산업, 알미늄 2차전지 관련주 부각...시장점유율..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004738757&amp;office_id=014&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004738757&amp;office_id=014&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-12T06:07:11.966Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[다시 '6만전자'…힘빠진 동학개미들]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0010828055&amp;office_id=003&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0010828055&amp;office_id=003&amp;mode=RANK&amp;typ=0"/>
@@ -179,5 +165,19 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005084016&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-12T07:00:00.000Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[비트코인 사상최고치 찍은 뒤 6만5000달러대로 급락(상보)]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005718970&amp;office_id=421&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005718970&amp;office_id=421&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-12T06:45:00.000Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MSCI코리아에 크래프톤 등 6종목 신규 편입]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001911953&amp;office_id=016&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001911953&amp;office_id=016&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-12T11:37:00.000Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>
