@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-11-12T07:07:15.013Z</updated>
+    <updated>2021-11-12T08:07:35.108Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['직영·알뜰' 주유소, 유류세 인하 즉각 반영]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001159643&amp;office_id=214&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211112&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001159643&amp;office_id=214&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211112&amp;page=1"/>
+        <updated>2021-11-12T08:06:37.992Z</updated>
+        <content type="html"><![CDATA[MBC]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오늘부터 유류세 20% 인하...전국 2천 개 주유소 동참]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001664438&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211112&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001664438&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211112&amp;page=1"/>
+        <updated>2021-11-12T08:06:37.993Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[MBN 프레스룸] 野 선대위 구성 '시끌']]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001621016&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211112&amp;page=1</id>
@@ -59,20 +73,6 @@
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001621004&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211112&amp;page=1</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001621004&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211112&amp;page=1"/>
         <updated>2021-11-12T07:06:09.141Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MBN 프레스룸] 11월 12일 오늘의 큐시트]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001621001&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211112&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001621001&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211112&amp;page=1"/>
-        <updated>2021-11-12T07:06:09.143Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[프레스룸 날씨]오늘 한낮에도 '쌀쌀'…주말 낮부터 추위 풀려]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001620999&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211112&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001620999&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211112&amp;page=1"/>
-        <updated>2021-11-12T07:06:09.145Z</updated>
         <content type="html"><![CDATA[MBN]]></content>
     </entry>
 </feed>

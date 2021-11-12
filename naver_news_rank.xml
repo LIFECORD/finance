@@ -2,22 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-12T07:07:15.027Z</updated>
+    <updated>2021-11-12T08:07:35.120Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[특징주] 서원, 비철금속 원자재 가격 폭등에 동합금 전문 제조..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001912029&amp;office_id=016&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001912029&amp;office_id=016&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-12T06:07:11.930Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[특징주] 삼보산업, 알미늄 2차전지 관련주 부각...시장점유율..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004738757&amp;office_id=014&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004738757&amp;office_id=014&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-12T06:07:11.966Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+        <title type="html"><![CDATA[[특징주] 셀트리온, 렉키로나 유럽 '승인 권고' 소식에 소폭 ..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012789334&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012789334&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-12T08:06:25.601Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[리비안, 또 주가 20% 이상 폭등…GM 시총 제쳤다]]></title>
@@ -32,6 +25,13 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005718923&amp;office_id=421&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-12T06:00:00.000Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 서원, 비철금속 원자재 가격 폭등에 동합금 전문 제조..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001912029&amp;office_id=016&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001912029&amp;office_id=016&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-12T06:07:11.930Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[특징주] 트루윈, 개별 3분기 누적 영업이익 63억…주가 13..]]></title>
@@ -52,6 +52,13 @@
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004738626&amp;office_id=014&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004738626&amp;office_id=014&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-12T10:16:00.000Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 삼보산업, 알미늄 2차전지 관련주 부각...시장점유율..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004738757&amp;office_id=014&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004738757&amp;office_id=014&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-12T06:07:11.966Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스]]></content>
     </entry>
     <entry>
@@ -172,12 +179,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005718970&amp;office_id=421&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-12T06:45:00.000Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MSCI코리아에 크래프톤 등 6종목 신규 편입]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001911953&amp;office_id=016&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001911953&amp;office_id=016&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-12T11:37:00.000Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>

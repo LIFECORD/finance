@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=429</id>
     <title>네이버 금융 ─ 뉴스 ─ 환율</title>
-    <updated>2021-11-12T07:07:15.044Z</updated>
+    <updated>2021-11-12T08:07:35.109Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미중 정상회담 앞두고 원/달러 환율 하락…1,179.6원 마감]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012789424&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211112&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012789424&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211112&amp;page=1"/>
+        <updated>2021-11-12T08:06:19.642Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012789424&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211112&amp;page=1" title="미중 정상회담 앞두고 원/달러 환율 하락…1,179.6원 마감">미중 정상회담 앞두고 원/달러 환율 하락…1,179.6원 마감</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정부, 요소수 검사 기관 추가 지정···검사 기간도 단축]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003984636&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211112&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003984029&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211112&amp;page=1"/>
         <updated>2021-11-11T15:05:24.363Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003984029&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211112&amp;page=1" title="한미 장관급 에너지정책대화 출범···한국, 내년초 국내 개최 제안">한미 장관급 에너지정책대화 출범···한국, 내년초 국내 개최 제안</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['인플레 공포'에 코스피 하락…한때 2,900선 위협(종합)]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0012784967&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211112&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012784967&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211112&amp;page=1"/>
-        <updated>2021-11-11T15:05:24.363Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012784967&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211112&amp;page=1" title="'인플레 공포'에 코스피 하락…한때 2,900선 위협(종합)">'인플레 공포'에 코스피 하락…한때 2,900선 위협(종합)</a>]]></content>
     </entry>
 </feed>
