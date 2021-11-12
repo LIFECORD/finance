@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/research/debenture_list.naver</id>
     <title>네이버 금융 ─ 리서치 ─ 채권분석 리포트</title>
-    <updated>2021-11-12T02:23:19.270Z</updated>
+    <updated>2021-11-12T03:07:45.953Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/research/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[금리 추가 하락 기대, 대응 전략 유지]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/debenture/1636685641391.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/debenture/1636685641391.pdf"/>
+        <updated>2021-11-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[미래에셋증권]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[숨은 기회 찾기]]></title>
         <id>https://ssl.pstatic.net/imgstock/upload/research/debenture/1636599996307.pdf</id>
@@ -206,13 +213,6 @@
         <id>https://ssl.pstatic.net/imgstock/upload/research/debenture/1632361278124.pdf</id>
         <link href="https://ssl.pstatic.net/imgstock/upload/research/debenture/1632361278124.pdf"/>
         <updated>2021-10-14T00:13:16.402Z</updated>
-        <content type="html"><![CDATA[이베스트증권]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9월 FOMC, 점도표에 이목이 쏠리고 있다]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/debenture/1631848314732.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/debenture/1631848314732.pdf"/>
-        <updated>2021-10-14T00:13:16.403Z</updated>
         <content type="html"><![CDATA[이베스트증권]]></content>
     </entry>
 </feed>
