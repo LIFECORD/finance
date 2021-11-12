@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=402</id>
     <title>네이버 금융 ─ 뉴스 ─ 기업 종목분석</title>
-    <updated>2021-11-12T16:09:19.629Z</updated>
+    <updated>2021-11-12T17:15:05.130Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[물가 오르면 몸값 오르는 '중고'…사야할 주식은 증시 새내기]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005084810&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211113&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005084810&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211113&amp;page=1"/>
+        <updated>2021-11-12T17:13:17.087Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005084810&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211113&amp;page=1" title="물가 오르면 몸값 오르는 '중고'…사야할 주식은 증시 새내기">물가 오르면 몸값 오르는 '중고'…사야할 주식은 증시 새내기</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[마켓인]마인즈랩 일반 경쟁률 90대 1…증거금 2039억]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005084768&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211113&amp;page=1</id>
@@ -46,12 +53,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003984752&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211113&amp;page=1"/>
         <updated>2021-11-12T15:04:46.277Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003984752&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211113&amp;page=1" title="[펀드줌인] 가치주 펀드의 터줏대감 'KB밸류포커스'...누적수익률 188%">[펀드줌인] 가치주 펀드의 터줏대감 'KB밸류포커스'...누적수익률 188%</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KPMG "기업 탈탄소화 전략 인적 자원 고려 필요"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004738887&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211113&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004738887&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211113&amp;page=1"/>
-        <updated>2021-11-12T15:04:46.279Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004738887&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211113&amp;page=1" title="KPMG &quot;기업 탈탄소화 전략 인적 자원 고려 필요&quot;">KPMG "기업 탈탄소화 전략 인적 자원 고려 필요"</a>]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-11-12T16:09:19.624Z</updated>
+    <updated>2021-11-12T17:15:05.134Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[머스크, 테슬라 주식 8100억원 더 팔아…'천슬라' 위태(종합)]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005084811&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211113&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005084811&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211113&amp;page=1"/>
+        <updated>2021-11-12T17:13:23.512Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005084811&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211113&amp;page=1" title="머스크, 테슬라 주식 8100억원 더 팔아…'천슬라' 위태(종합)">머스크, 테슬라 주식 8100억원 더 팔아…'천슬라' 위태(종합)</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[135년 역사 존슨앤드존슨, 소비재-제약으로 회사 분할]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004627990&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211113&amp;page=1</id>
@@ -60,12 +67,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004627967&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211113&amp;page=1"/>
         <updated>2021-11-12T15:04:51.724Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004627967&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211113&amp;page=1" title="도시바 3개社로 분할 공식 발표…日 대기업 중 처음">도시바 3개社로 분할 공식 발표…日 대기업 중 처음</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[표]아시아 주요 증시 동향(11월 12일)]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003984774&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211113&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003984774&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211113&amp;page=1"/>
-        <updated>2021-11-12T15:04:51.726Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003984774&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211113&amp;page=1" title="[표]아시아 주요 증시 동향(11월 12일)">[표]아시아 주요 증시 동향(11월 12일)</a>]]></content>
     </entry>
 </feed>
