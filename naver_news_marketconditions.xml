@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=401</id>
     <title>네이버 금융 ─ 뉴스 ─ 시황·전망</title>
-    <updated>2021-11-12T04:08:10.941Z</updated>
+    <updated>2021-11-12T05:06:28.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[오후 주식시장은]코스피 1.4% 올라 2,960대...외인·기관 순매수]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003984589&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211112&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003984589&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211112&amp;page=1"/>
+        <updated>2021-11-12T05:04:41.041Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003984589&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211112&amp;page=1" title="[오후 주식시장은]코스피 1.4% 올라 2,960대...외인·기관 순매수">[오후 주식시장은]코스피 1.4% 올라 2,960대...외인·기관 순매수</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하락장에서도 선방한 로보어드바이저…콴텍, 18%대 '깜짝' 수익률]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004878145&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211112&amp;page=1</id>
@@ -60,12 +67,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001911810&amp;office_id=016&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211112&amp;page=1"/>
         <updated>2021-11-12T01:49:12.899Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0001911810&amp;office_id=016&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211112&amp;page=1" title="사학연금, 직무상재해 전문조사관 제도 도입…대한직업환경의학회와 MOU">사학연금, 직무상재해 전문조사관 제도 도입…대한직업환경의학회와 MOU</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[셀트리온, 렉키로나 유럽 '승인 권고'에 강세]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001911798&amp;office_id=016&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211112&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001911798&amp;office_id=016&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211112&amp;page=1"/>
-        <updated>2021-11-12T01:49:12.899Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0001911798&amp;office_id=016&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211112&amp;page=1" title="셀트리온, 렉키로나 유럽 '승인 권고'에 강세">셀트리온, 렉키로나 유럽 '승인 권고'에 강세</a>]]></content>
     </entry>
 </feed>
