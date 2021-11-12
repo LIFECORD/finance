@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=429</id>
     <title>네이버 금융 ─ 뉴스 ─ 환율</title>
-    <updated>2021-11-12T08:07:35.109Z</updated>
+    <updated>2021-11-12T09:06:14.621Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연통TV] 전세계적 달러 파워! 북한에서는 약세?]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012789614&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211112&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012789614&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211112&amp;page=1"/>
+        <updated>2021-11-12T09:04:57.845Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012789614&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211112&amp;page=1" title="[연통TV] 전세계적 달러 파워! 북한에서는 약세?">[연통TV] 전세계적 달러 파워! 북한에서는 약세?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미중 정상회담 앞두고 원/달러 환율 하락…1,179.6원 마감]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0012789424&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211112&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012785472&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211112&amp;page=1"/>
         <updated>2021-11-11T15:05:24.357Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012785472&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211112&amp;page=1" title="광주은행, 외환 매매 예약 서비스…건당 100만 달러까지">광주은행, 외환 매매 예약 서비스…건당 100만 달러까지</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한미 장관급 에너지정책대화 출범···한국, 내년초 국내 개최 제안]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003984029&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211112&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003984029&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211112&amp;page=1"/>
-        <updated>2021-11-11T15:05:24.363Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003984029&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211112&amp;page=1" title="한미 장관급 에너지정책대화 출범···한국, 내년초 국내 개최 제안">한미 장관급 에너지정책대화 출범···한국, 내년초 국내 개최 제안</a>]]></content>
     </entry>
 </feed>
