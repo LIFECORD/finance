@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS2D&amp;section_id=101&amp;section_id2=258</id>
     <title>네이버 금융 ─ 뉴스 ─ 실시간 속보</title>
-    <updated>2021-11-13T17:13:17.363Z</updated>
+    <updated>2021-11-13T18:06:57.605Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[머스크, 일주일 내내 테슬라 주식 팔았다…8조1천억원어치 매도]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012790659&amp;office_id=001&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211114&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012790659&amp;office_id=001&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211114&amp;page=1"/>
+        <updated>2021-11-13T18:04:47.968Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012790659&amp;office_id=001&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211114&amp;page=1" title="머스크, 일주일 내내 테슬라 주식 팔았다…8조1천억원어치 매도">머스크, 일주일 내내 테슬라 주식 팔았다…8조1천억원어치 매도</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[빛나는 老테크③] 나는 DB형? DC형?]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004739042&amp;office_id=014&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211114&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000996732&amp;office_id=215&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211114&amp;page=1"/>
         <updated>2021-11-13T15:04:12.323Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000996732&amp;office_id=215&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211114&amp;page=1" title="홍콩, 3분기 경제 성장률 5.4%...예상치 하회">홍콩, 3분기 경제 성장률 5.4%...예상치 하회</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베트남산 신발, 전세계 신발 점유율 10% 상회 [KVINA]]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000996730&amp;office_id=215&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211114&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000996730&amp;office_id=215&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211114&amp;page=1"/>
-        <updated>2021-11-13T15:04:12.323Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000996730&amp;office_id=215&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211114&amp;page=1" title="베트남산 신발, 전세계 신발 점유율 10% 상회 [KVINA]">베트남산 신발, 전세계 신발 점유율 10% 상회 [KVINA]</a>]]></content>
     </entry>
 </feed>

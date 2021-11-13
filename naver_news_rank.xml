@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-13T17:13:17.386Z</updated>
+    <updated>2021-11-13T18:06:57.516Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -11,5 +11,12 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004739042&amp;office_id=014&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-13T16:06:43.414Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[머스크, 일주일 내내 테슬라 주식 팔았다…8조1천억원어치 매도]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012790659&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012790659&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-14T02:35:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
