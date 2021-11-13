@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-11-13T19:05:31.927Z</updated>
+    <updated>2021-11-13T20:06:34.262Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[반도체 수출 가격 올해 첫 하락...4% 성장 '빨간불']]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001664854&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211114&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001664854&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211114&amp;page=1"/>
+        <updated>2021-11-14T05:00:00.000Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[음식 배달·약품 전달도 척척…일상 파고드는 로봇]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000513858&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211114&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000513858&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211114&amp;page=1"/>
+        <updated>2021-11-14T04:51:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제2금융권보다 비싼 은행 대출이자…당국은 뒷짐만]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000513857&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211114&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000513857&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211114&amp;page=1"/>
+        <updated>2021-11-14T04:48:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[예대금리차 11년 만에 최대…은행만 좋은 규제?]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000513856&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211114&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000513856&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211114&amp;page=1"/>
+        <updated>2021-11-14T04:46:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오후 9시까지 2,262명 확진…어제보다 110명↑]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000513843&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211114&amp;page=1</id>
@@ -46,33 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000513841&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211114&amp;page=1"/>
         <updated>2021-11-13T15:05:28.105Z</updated>
         <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대출 증가 주춤해졌지만 금리 오름세는 여전]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0011156267&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211114&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011156267&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211114&amp;page=1"/>
-        <updated>2021-11-13T15:05:28.107Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中 산업용 요소 도착…차량용 품귀 현상은 계속]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0011156266&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211114&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011156266&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211114&amp;page=1"/>
-        <updated>2021-11-13T15:05:28.108Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[픽뉴스] 당당한 남자 / 간발의 차/ 2박 3일 결혼식/ 별별 아파트]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001621235&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211114&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001621235&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211114&amp;page=1"/>
-        <updated>2021-11-13T15:05:28.110Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[11월 13일 MBN종합뉴스 클로징]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001621234&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211114&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001621234&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211114&amp;page=1"/>
-        <updated>2021-11-13T15:05:28.113Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
     </entry>
 </feed>

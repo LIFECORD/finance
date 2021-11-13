@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/finance/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-13T19:05:31.979Z</updated>
+    <updated>2021-11-13T20:06:34.291Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[분기 최대 매출' 기프티쇼, 합병 KT알파 효자 역할 (네이버 금융 ─ 뉴스 ─ 실시간 속보)]]></title>
@@ -425,13 +425,6 @@
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012785472&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211114&amp;page=1" title="광주은행, 외환 매매 예약 서비스…건당 100만 달러까지">광주은행, 외환 매매 예약 서비스…건당 100만 달러까지</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[빛나는 老테크③] 나는 DB형? DC형? (네이버 금융 ─ 뉴스 ─ 많이 본 뉴스)]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004739042&amp;office_id=014&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004739042&amp;office_id=014&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-13T16:06:43.414Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[머스크, 일주일 내내 테슬라 주식 팔았다…8조1천억원어치 매도 (네이버 금융 ─ 뉴스 ─ 많이 본 뉴스)]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0012790659&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012790659&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
@@ -444,6 +437,13 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0010830518&amp;office_id=003&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-14T03:00:00.000Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[빛나는 老테크③] 나는 DB형? DC형? (네이버 금융 ─ 뉴스 ─ 많이 본 뉴스)]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004739042&amp;office_id=014&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004739042&amp;office_id=014&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-13T16:06:43.414Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[분기 최대 매출' 기프티쇼, 합병 KT알파 효자 역할 (네이버 금융 ─ 뉴스 ─ 포토뉴스)]]></title>
@@ -516,6 +516,34 @@
         <content type="html"><![CDATA[한국경제TV]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[반도체 수출 가격 올해 첫 하락...4% 성장 '빨간불' (네이버 금융 ─ 뉴스 ─ TV뉴스)]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001664854&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211114&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001664854&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211114&amp;page=1"/>
+        <updated>2021-11-14T05:00:00.000Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[음식 배달·약품 전달도 척척…일상 파고드는 로봇 (네이버 금융 ─ 뉴스 ─ TV뉴스)]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000513858&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211114&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000513858&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211114&amp;page=1"/>
+        <updated>2021-11-14T04:51:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제2금융권보다 비싼 은행 대출이자…당국은 뒷짐만 (네이버 금융 ─ 뉴스 ─ TV뉴스)]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000513857&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211114&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000513857&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211114&amp;page=1"/>
+        <updated>2021-11-14T04:48:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[예대금리차 11년 만에 최대…은행만 좋은 규제? (네이버 금융 ─ 뉴스 ─ TV뉴스)]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000513856&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211114&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000513856&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211114&amp;page=1"/>
+        <updated>2021-11-14T04:46:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[오후 9시까지 2,262명 확진…어제보다 110명↑ (네이버 금융 ─ 뉴스 ─ TV뉴스)]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000513843&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211114&amp;page=1</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000513843&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211114&amp;page=1"/>
@@ -558,34 +586,6 @@
         <content type="html"><![CDATA[연합뉴스TV]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[대출 증가 주춤해졌지만 금리 오름세는 여전 (네이버 금융 ─ 뉴스 ─ TV뉴스)]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0011156267&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211114&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011156267&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211114&amp;page=1"/>
-        <updated>2021-11-13T15:05:28.107Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中 산업용 요소 도착…차량용 품귀 현상은 계속 (네이버 금융 ─ 뉴스 ─ TV뉴스)]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0011156266&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211114&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011156266&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211114&amp;page=1"/>
-        <updated>2021-11-13T15:05:28.108Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[픽뉴스] 당당한 남자 / 간발의 차/ 2박 3일 결혼식/ 별별 아파트 (네이버 금융 ─ 뉴스 ─ TV뉴스)]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001621235&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211114&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001621235&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211114&amp;page=1"/>
-        <updated>2021-11-13T15:05:28.110Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[11월 13일 MBN종합뉴스 클로징 (네이버 금융 ─ 뉴스 ─ TV뉴스)]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001621234&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211114&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001621234&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211114&amp;page=1"/>
-        <updated>2021-11-13T15:05:28.113Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[(주)대유에이피 신주인수권행사가액의조정(제3회차) (네이버 금융 ─ 투자정보 ─ 공시정보)]]></title>
         <id>https://finance.naver.com/news/market_notice_read.naver?no=1187433&amp;type=&amp;keyword=</id>
         <link href="https://finance.naver.com/news/market_notice_read.naver?no=1187433&amp;type=&amp;keyword="/>
@@ -624,7 +624,7 @@
         <title type="html"><![CDATA[undefined (네이버 금융 ─ 투자정보 ─ 공시정보)]]></title>
         <id>https://LIFECORD.github.io/finance/all.xml</id>
         <link href="https://LIFECORD.github.io/finance/all.xml"/>
-        <updated>2021-11-13T19:04:38.260Z</updated>
+        <updated>2021-11-13T20:05:41.925Z</updated>
         <content type="html"><![CDATA[<td colspan="3" class="bdr"><hr></td>]]></content>
     </entry>
     <entry>
@@ -666,7 +666,7 @@
         <title type="html"><![CDATA[undefined (네이버 금융 ─ 투자정보 ─ 공시정보)]]></title>
         <id>https://LIFECORD.github.io/finance/all.xml</id>
         <link href="https://LIFECORD.github.io/finance/all.xml"/>
-        <updated>2021-11-13T19:04:38.260Z</updated>
+        <updated>2021-11-13T20:05:41.930Z</updated>
         <content type="html"><![CDATA[<td colspan="3" class="bdr"><hr></td>]]></content>
     </entry>
     <entry>
@@ -708,7 +708,7 @@
         <title type="html"><![CDATA[undefined (네이버 금융 ─ 투자정보 ─ 공시정보)]]></title>
         <id>https://LIFECORD.github.io/finance/all.xml</id>
         <link href="https://LIFECORD.github.io/finance/all.xml"/>
-        <updated>2021-11-13T19:04:38.264Z</updated>
+        <updated>2021-11-13T20:05:41.936Z</updated>
         <content type="html"><![CDATA[<td colspan="3" class="bdr"><hr></td>]]></content>
     </entry>
     <entry>
@@ -750,14 +750,14 @@
         <title type="html"><![CDATA[undefined (네이버 금융 ─ 투자정보 ─ 공시정보)]]></title>
         <id>https://LIFECORD.github.io/finance/all.xml</id>
         <link href="https://LIFECORD.github.io/finance/all.xml"/>
-        <updated>2021-11-13T19:04:38.274Z</updated>
+        <updated>2021-11-13T20:05:41.943Z</updated>
         <content type="html"><![CDATA[<td colspan="3" class="bdr"><hr></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (네이버 금융 ─ 투자정보 ─ 공시정보)]]></title>
         <id>https://LIFECORD.github.io/finance/all.xml</id>
         <link href="https://LIFECORD.github.io/finance/all.xml"/>
-        <updated>2021-11-13T19:04:38.275Z</updated>
+        <updated>2021-11-13T20:05:41.944Z</updated>
         <content type="html"><![CDATA[<td>
 					<table cellspacing="0" cellpadding="0" border="0">
 					<tbody><tr align="center">
@@ -807,7 +807,7 @@
         <title type="html"><![CDATA[undefined (네이버 금융 ─ 투자정보 ─ 공시정보)]]></title>
         <id>https://LIFECORD.github.io/finance/all.xml</id>
         <link href="https://LIFECORD.github.io/finance/all.xml"/>
-        <updated>2021-11-13T19:04:38.276Z</updated>
+        <updated>2021-11-13T20:05:41.966Z</updated>
         <content type="html"><![CDATA[<td class="on">
 				<a href="/news/market_notice.naver?&amp;page=1">1</a>
 				</td>
@@ -846,7 +846,7 @@
         <title type="html"><![CDATA[undefined (네이버 금융 ─ 투자정보 ─ 공시정보)]]></title>
         <id>https://LIFECORD.github.io/finance/all.xml</id>
         <link href="https://LIFECORD.github.io/finance/all.xml"/>
-        <updated>2021-11-13T19:04:38.278Z</updated>
+        <updated>2021-11-13T20:05:41.966Z</updated>
         <content type="html"><![CDATA[<td class="tr" align="right"><img src="https://ssl.pstatic.net/imgstock/images5/news/ico_n01.gif" alt="01" width="11" height="11"></td>
 						<td><a href="/item/main.naver?code=005930" class="company">삼성전자</a></td>
 						<td class="number">70,600</td>
@@ -856,40 +856,40 @@
         <title type="html"><![CDATA[undefined (네이버 금융 ─ 투자정보 ─ 공시정보)]]></title>
         <id>https://LIFECORD.github.io/finance/all.xml</id>
         <link href="https://LIFECORD.github.io/finance/all.xml"/>
-        <updated>2021-11-13T19:04:38.279Z</updated>
+        <updated>2021-11-13T20:05:41.967Z</updated>
         <content type="html"><![CDATA[<td class="tr" align="right"><img src="https://ssl.pstatic.net/imgstock/images5/news/ico_n02.gif" alt="01" width="11" height="11"></td>
-						<td><a href="/item/main.naver?code=035720" class="company">카카오</a></td>
-						<td class="number">127,000</td>
+						<td><a href="/item/main.naver?code=009540" class="company">한국조선해양</a></td>
+						<td class="number">101,500</td>
 						<td class="tc"><img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" alt="상승" class="updown" width="7" height="6"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (네이버 금융 ─ 투자정보 ─ 공시정보)]]></title>
         <id>https://LIFECORD.github.io/finance/all.xml</id>
         <link href="https://LIFECORD.github.io/finance/all.xml"/>
-        <updated>2021-11-13T19:04:38.280Z</updated>
+        <updated>2021-11-13T20:05:41.968Z</updated>
         <content type="html"><![CDATA[<td class="tr" align="right"><img src="https://ssl.pstatic.net/imgstock/images5/news/ico_n03.gif" alt="01" width="11" height="11"></td>
-						<td><a href="/item/main.naver?code=051910" class="company">LG화학</a></td>
-						<td class="number">774,000</td>
-						<td class="tc"><img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" alt="상승" class="updown" width="7" height="6"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (네이버 금융 ─ 투자정보 ─ 공시정보)]]></title>
-        <id>https://LIFECORD.github.io/finance/all.xml</id>
-        <link href="https://LIFECORD.github.io/finance/all.xml"/>
-        <updated>2021-11-13T19:04:38.285Z</updated>
-        <content type="html"><![CDATA[<td class="tr" align="right"><img src="https://ssl.pstatic.net/imgstock/images5/news/ico_n04.gif" alt="01" width="11" height="11"></td>
-						<td><a href="/item/main.naver?code=035420" class="company">NAVER</a></td>
-						<td class="number">409,000</td>
-						<td class="tc"><img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" alt="상승" class="updown" width="7" height="6"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (네이버 금융 ─ 투자정보 ─ 공시정보)]]></title>
-        <id>https://LIFECORD.github.io/finance/all.xml</id>
-        <link href="https://LIFECORD.github.io/finance/all.xml"/>
-        <updated>2021-11-13T19:04:38.286Z</updated>
-        <content type="html"><![CDATA[<td class="tr" align="right"><img src="https://ssl.pstatic.net/imgstock/images5/news/ico_n05.gif" alt="01" width="11" height="11"></td>
 						<td><a href="/item/main.naver?code=211900" class="company">KODEX 배당성장</a></td>
 						<td class="number">15,250</td>
+						<td class="tc"><img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" alt="상승" class="updown" width="7" height="6"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (네이버 금융 ─ 투자정보 ─ 공시정보)]]></title>
+        <id>https://LIFECORD.github.io/finance/all.xml</id>
+        <link href="https://LIFECORD.github.io/finance/all.xml"/>
+        <updated>2021-11-13T20:05:41.971Z</updated>
+        <content type="html"><![CDATA[<td class="tr" align="right"><img src="https://ssl.pstatic.net/imgstock/images5/news/ico_n04.gif" alt="01" width="11" height="11"></td>
+						<td><a href="/item/main.naver?code=005380" class="company">현대차</a></td>
+						<td class="number">208,000</td>
+						<td class="tc"><img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" alt="상승" class="updown" width="7" height="6"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (네이버 금융 ─ 투자정보 ─ 공시정보)]]></title>
+        <id>https://LIFECORD.github.io/finance/all.xml</id>
+        <link href="https://LIFECORD.github.io/finance/all.xml"/>
+        <updated>2021-11-13T20:05:41.982Z</updated>
+        <content type="html"><![CDATA[<td class="tr" align="right"><img src="https://ssl.pstatic.net/imgstock/images5/news/ico_n05.gif" alt="01" width="11" height="11"></td>
+						<td><a href="/item/main.naver?code=051910" class="company">LG화학</a></td>
+						<td class="number">774,000</td>
 						<td class="tc"><img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" alt="상승" class="updown" width="7" height="6"></td>]]></content>
     </entry>
     <entry>
@@ -931,7 +931,7 @@
         <title type="html"><![CDATA[undefined (네이버 금융 ─ 투자정보 ─ 장중특징주)]]></title>
         <id>https://LIFECORD.github.io/finance/all.xml</id>
         <link href="https://LIFECORD.github.io/finance/all.xml"/>
-        <updated>2021-11-13T19:04:44.819Z</updated>
+        <updated>2021-11-13T20:05:47.905Z</updated>
         <content type="html"><![CDATA[<td colspan="3" class="bdr"><hr></td>]]></content>
     </entry>
     <entry>
@@ -973,7 +973,7 @@
         <title type="html"><![CDATA[undefined (네이버 금융 ─ 투자정보 ─ 장중특징주)]]></title>
         <id>https://LIFECORD.github.io/finance/all.xml</id>
         <link href="https://LIFECORD.github.io/finance/all.xml"/>
-        <updated>2021-11-13T19:04:44.829Z</updated>
+        <updated>2021-11-13T20:05:47.907Z</updated>
         <content type="html"><![CDATA[<td colspan="3" class="bdr"><hr></td>]]></content>
     </entry>
     <entry>
@@ -1015,7 +1015,7 @@
         <title type="html"><![CDATA[undefined (네이버 금융 ─ 투자정보 ─ 장중특징주)]]></title>
         <id>https://LIFECORD.github.io/finance/all.xml</id>
         <link href="https://LIFECORD.github.io/finance/all.xml"/>
-        <updated>2021-11-13T19:04:44.831Z</updated>
+        <updated>2021-11-13T20:05:47.912Z</updated>
         <content type="html"><![CDATA[<td colspan="3" class="bdr"><hr></td>]]></content>
     </entry>
     <entry>
@@ -1057,14 +1057,14 @@
         <title type="html"><![CDATA[undefined (네이버 금융 ─ 투자정보 ─ 장중특징주)]]></title>
         <id>https://LIFECORD.github.io/finance/all.xml</id>
         <link href="https://LIFECORD.github.io/finance/all.xml"/>
-        <updated>2021-11-13T19:04:44.848Z</updated>
+        <updated>2021-11-13T20:05:47.921Z</updated>
         <content type="html"><![CDATA[<td colspan="3" class="bdr"><hr></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (네이버 금융 ─ 투자정보 ─ 장중특징주)]]></title>
         <id>https://LIFECORD.github.io/finance/all.xml</id>
         <link href="https://LIFECORD.github.io/finance/all.xml"/>
-        <updated>2021-11-13T19:04:44.850Z</updated>
+        <updated>2021-11-13T20:05:47.923Z</updated>
         <content type="html"><![CDATA[<td>
 					<table cellspacing="0" cellpadding="0" border="0">
 					<tbody><tr align="center">
@@ -1123,7 +1123,7 @@
         <title type="html"><![CDATA[undefined (네이버 금융 ─ 투자정보 ─ 장중특징주)]]></title>
         <id>https://LIFECORD.github.io/finance/all.xml</id>
         <link href="https://LIFECORD.github.io/finance/all.xml"/>
-        <updated>2021-11-13T19:04:44.851Z</updated>
+        <updated>2021-11-13T20:05:47.939Z</updated>
         <content type="html"><![CDATA[<td class="on">
 				<a href="/news/market_special.naver?&amp;page=1">1</a>
 				</td>
@@ -1171,7 +1171,7 @@
         <title type="html"><![CDATA[undefined (네이버 금융 ─ 투자정보 ─ 장중특징주)]]></title>
         <id>https://LIFECORD.github.io/finance/all.xml</id>
         <link href="https://LIFECORD.github.io/finance/all.xml"/>
-        <updated>2021-11-13T19:04:44.853Z</updated>
+        <updated>2021-11-13T20:05:47.940Z</updated>
         <content type="html"><![CDATA[<td class="tr" align="right"><img src="https://ssl.pstatic.net/imgstock/images5/news/ico_n01.gif" alt="01" width="11" height="11"></td>
 						<td><a href="/item/main.naver?code=005930" class="company">삼성전자</a></td>
 						<td class="number">70,600</td>
@@ -1181,40 +1181,40 @@
         <title type="html"><![CDATA[undefined (네이버 금융 ─ 투자정보 ─ 장중특징주)]]></title>
         <id>https://LIFECORD.github.io/finance/all.xml</id>
         <link href="https://LIFECORD.github.io/finance/all.xml"/>
-        <updated>2021-11-13T19:04:44.853Z</updated>
+        <updated>2021-11-13T20:05:47.941Z</updated>
         <content type="html"><![CDATA[<td class="tr" align="right"><img src="https://ssl.pstatic.net/imgstock/images5/news/ico_n02.gif" alt="01" width="11" height="11"></td>
-						<td><a href="/item/main.naver?code=035720" class="company">카카오</a></td>
-						<td class="number">127,000</td>
+						<td><a href="/item/main.naver?code=009540" class="company">한국조선해양</a></td>
+						<td class="number">101,500</td>
 						<td class="tc"><img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" alt="상승" class="updown" width="7" height="6"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (네이버 금융 ─ 투자정보 ─ 장중특징주)]]></title>
         <id>https://LIFECORD.github.io/finance/all.xml</id>
         <link href="https://LIFECORD.github.io/finance/all.xml"/>
-        <updated>2021-11-13T19:04:44.878Z</updated>
+        <updated>2021-11-13T20:05:47.942Z</updated>
         <content type="html"><![CDATA[<td class="tr" align="right"><img src="https://ssl.pstatic.net/imgstock/images5/news/ico_n03.gif" alt="01" width="11" height="11"></td>
-						<td><a href="/item/main.naver?code=051910" class="company">LG화학</a></td>
-						<td class="number">774,000</td>
-						<td class="tc"><img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" alt="상승" class="updown" width="7" height="6"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (네이버 금융 ─ 투자정보 ─ 장중특징주)]]></title>
-        <id>https://LIFECORD.github.io/finance/all.xml</id>
-        <link href="https://LIFECORD.github.io/finance/all.xml"/>
-        <updated>2021-11-13T19:04:44.900Z</updated>
-        <content type="html"><![CDATA[<td class="tr" align="right"><img src="https://ssl.pstatic.net/imgstock/images5/news/ico_n04.gif" alt="01" width="11" height="11"></td>
-						<td><a href="/item/main.naver?code=035420" class="company">NAVER</a></td>
-						<td class="number">409,000</td>
-						<td class="tc"><img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" alt="상승" class="updown" width="7" height="6"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (네이버 금융 ─ 투자정보 ─ 장중특징주)]]></title>
-        <id>https://LIFECORD.github.io/finance/all.xml</id>
-        <link href="https://LIFECORD.github.io/finance/all.xml"/>
-        <updated>2021-11-13T19:04:44.900Z</updated>
-        <content type="html"><![CDATA[<td class="tr" align="right"><img src="https://ssl.pstatic.net/imgstock/images5/news/ico_n05.gif" alt="01" width="11" height="11"></td>
 						<td><a href="/item/main.naver?code=211900" class="company">KODEX 배당성장</a></td>
 						<td class="number">15,250</td>
+						<td class="tc"><img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" alt="상승" class="updown" width="7" height="6"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (네이버 금융 ─ 투자정보 ─ 장중특징주)]]></title>
+        <id>https://LIFECORD.github.io/finance/all.xml</id>
+        <link href="https://LIFECORD.github.io/finance/all.xml"/>
+        <updated>2021-11-13T20:05:47.957Z</updated>
+        <content type="html"><![CDATA[<td class="tr" align="right"><img src="https://ssl.pstatic.net/imgstock/images5/news/ico_n04.gif" alt="01" width="11" height="11"></td>
+						<td><a href="/item/main.naver?code=005380" class="company">현대차</a></td>
+						<td class="number">208,000</td>
+						<td class="tc"><img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" alt="상승" class="updown" width="7" height="6"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (네이버 금융 ─ 투자정보 ─ 장중특징주)]]></title>
+        <id>https://LIFECORD.github.io/finance/all.xml</id>
+        <link href="https://LIFECORD.github.io/finance/all.xml"/>
+        <updated>2021-11-13T20:05:47.957Z</updated>
+        <content type="html"><![CDATA[<td class="tr" align="right"><img src="https://ssl.pstatic.net/imgstock/images5/news/ico_n05.gif" alt="01" width="11" height="11"></td>
+						<td><a href="/item/main.naver?code=051910" class="company">LG화학</a></td>
+						<td class="number">774,000</td>
 						<td class="tc"><img src="https://ssl.pstatic.net/imgstock/images/images4/ico_up.gif" alt="상승" class="updown" width="7" height="6"></td>]]></content>
     </entry>
     <entry>
@@ -1997,7 +1997,7 @@
 						<td>하나금융투자</td>
 						<td class="file"><a href="https://ssl.pstatic.net/imgstock/upload/research/industry/1636685132310.pdf" target="_blank"><img src="https://ssl.pstatic.net/imgstock/images5/down.gif" alt="pdf" align="absmiddle"></a></td>
 						<td class="date" style="padding-left:5px">21.11.12</td>
-						<td class="date">1049</td>]]></content>
+						<td class="date">1054</td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[IBKS Daily - 인터넷/게임 (네이버 금융 ─ 리서치 ─ 산업분석 리포트)]]></title>
@@ -2009,7 +2009,7 @@
 						<td>IBK투자증권</td>
 						<td class="file"><a href="https://ssl.pstatic.net/imgstock/upload/research/industry/1636681949142.pdf" target="_blank"><img src="https://ssl.pstatic.net/imgstock/images5/down.gif" alt="pdf" align="absmiddle"></a></td>
 						<td class="date" style="padding-left:5px">21.11.12</td>
-						<td class="date">600</td>]]></content>
+						<td class="date">602</td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GTC 2021, 이제 단순한 GPU 회사가 아니다 (네이버 금융 ─ 리서치 ─ 산업분석 리포트)]]></title>
@@ -2021,7 +2021,7 @@
 						<td>미래에셋증권</td>
 						<td class="file"><a href="https://ssl.pstatic.net/imgstock/upload/research/industry/1636601181739.pdf" target="_blank"><img src="https://ssl.pstatic.net/imgstock/images5/down.gif" alt="pdf" align="absmiddle"></a></td>
 						<td class="date" style="padding-left:5px">21.11.11</td>
-						<td class="date">1222</td>]]></content>
+						<td class="date">1226</td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[IBKS Daily - 인터넷/게임 (네이버 금융 ─ 리서치 ─ 산업분석 리포트)]]></title>
@@ -2045,7 +2045,7 @@
 						<td>교보증권</td>
 						<td class="file"><a href="https://ssl.pstatic.net/imgstock/upload/research/industry/1636510812707.pdf" target="_blank"><img src="https://ssl.pstatic.net/imgstock/images5/down.gif" alt="pdf" align="absmiddle"></a></td>
 						<td class="date" style="padding-left:5px">21.11.10</td>
-						<td class="date">2696</td>]]></content>
+						<td class="date">2700</td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[IBKS Daily - 인터넷/게임 (네이버 금융 ─ 리서치 ─ 산업분석 리포트)]]></title>
@@ -2129,7 +2129,7 @@
 						<td>이베스트증권</td>
 						<td class="file"><a href="https://ssl.pstatic.net/imgstock/upload/research/industry/1636336567291.pdf" target="_blank"><img src="https://ssl.pstatic.net/imgstock/images5/down.gif" alt="pdf" align="absmiddle"></a></td>
 						<td class="date" style="padding-left:5px">21.11.08</td>
-						<td class="date">1738</td>]]></content>
+						<td class="date">1739</td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Pfizer 코로나 치료제 발표, 미국 항공업종 .. (네이버 금융 ─ 리서치 ─ 산업분석 리포트)]]></title>
@@ -2177,7 +2177,7 @@
 						<td>하나금융투자</td>
 						<td class="file"><a href="https://ssl.pstatic.net/imgstock/upload/research/industry/1636076985375.pdf" target="_blank"><img src="https://ssl.pstatic.net/imgstock/images5/down.gif" alt="pdf" align="absmiddle"></a></td>
 						<td class="date" style="padding-left:5px">21.11.05</td>
-						<td class="date">1639</td>]]></content>
+						<td class="date">1640</td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[IBKS Daily - 인터넷/게임 (네이버 금융 ─ 리서치 ─ 산업분석 리포트)]]></title>
@@ -2201,7 +2201,7 @@
 						<td>NICE평가정보</td>
 						<td class="file"><a href="https://ssl.pstatic.net/imgstock/upload/research/industry/1635992214316.pdf" target="_blank"><img src="https://ssl.pstatic.net/imgstock/images5/down.gif" alt="pdf" align="absmiddle"></a></td>
 						<td class="date" style="padding-left:5px">21.11.04</td>
-						<td class="date">1499</td>]]></content>
+						<td class="date">1500</td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MS, 연례회의에서 드러낸 비전: 메타버스, 인.. (네이버 금융 ─ 리서치 ─ 산업분석 리포트)]]></title>
@@ -2249,7 +2249,7 @@
 						<td>미래에셋증권</td>
 						<td class="file"><a href="https://ssl.pstatic.net/imgstock/upload/research/industry/1635905782687.pdf" target="_blank"><img src="https://ssl.pstatic.net/imgstock/images5/down.gif" alt="pdf" align="absmiddle"></a></td>
 						<td class="date" style="padding-left:5px">21.11.03</td>
-						<td class="date">1235</td>]]></content>
+						<td class="date">1236</td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[부동산, 리스크에 대비해야 할 시기 (네이버 금융 ─ 리서치 ─ 산업분석 리포트)]]></title>
@@ -2261,7 +2261,7 @@
 						<td>교보증권</td>
 						<td class="file"><a href="https://ssl.pstatic.net/imgstock/upload/research/industry/1635905383240.pdf" target="_blank"><img src="https://ssl.pstatic.net/imgstock/images5/down.gif" alt="pdf" align="absmiddle"></a></td>
 						<td class="date" style="padding-left:5px">21.11.03</td>
-						<td class="date">2368</td>]]></content>
+						<td class="date">2369</td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2021년 10월 완성차 지역별 판매 (네이버 금융 ─ 리서치 ─ 산업분석 리포트)]]></title>
