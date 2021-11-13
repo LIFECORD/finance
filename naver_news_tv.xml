@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-11-13T07:06:40.069Z</updated>
+    <updated>2021-11-13T08:07:36.326Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000513808&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211113&amp;page=1"/>
         <updated>2021-11-13T07:05:43.975Z</updated>
         <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['기존계약' 중국 요소 첫 반입...광양항 2,980톤 도착]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001664730&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211113&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001664730&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211113&amp;page=1"/>
+        <updated>2021-11-13T08:06:31.139Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["주유소 찾아 삼만리"...요소수 '공급 혼선' 여전]]></title>
@@ -66,13 +73,6 @@
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001621156&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211113&amp;page=1</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001621156&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211113&amp;page=1"/>
         <updated>2021-11-13T11:48:00.000Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신문브리핑 2 ""듣고 또 듣겠다" 이재명 매타버스 시동" 외]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001621152&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211113&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001621152&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211113&amp;page=1"/>
-        <updated>2021-11-13T11:40:00.000Z</updated>
         <content type="html"><![CDATA[MBN]]></content>
     </entry>
 </feed>
