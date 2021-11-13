@@ -2,86 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-13T05:05:30.552Z</updated>
+    <updated>2021-11-13T06:06:55.196Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[머스크, 테슬라 주식 8000억 또 팔았다…주가 더 하락할까]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000115922&amp;office_id=629&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000115922&amp;office_id=629&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-13T10:40:00.000Z</updated>
-        <content type="html"><![CDATA[더팩트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CJ그룹은 왜 '세 가지 색'에 빠졌나]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000004786&amp;office_id=648&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000004786&amp;office_id=648&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-13T10:01:00.000Z</updated>
-        <content type="html"><![CDATA[비즈니스워치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리비안 3일간 66% 급등···'제2의 테슬라' 돌풍]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003984852&amp;office_id=011&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003984852&amp;office_id=011&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-13T11:00:00.000Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['시세 조종 있었나'···거래소 엔씨소프트 '슈퍼개미' 집중조사]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003984862&amp;office_id=011&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003984862&amp;office_id=011&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-13T11:50:00.000Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[벤처투자 외면하는 종금사들...금융당국, 유인책 내놓을까]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003984840&amp;office_id=011&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003984840&amp;office_id=011&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-13T10:01:00.000Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박스권 韓증시…"단기로는 코스닥, 연말 이후는 코스피 주목해야"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004998952&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004998952&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-13T11:50:00.000Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[암호화폐, 美 '비트코인ETF' 승인 거부에 하락… 이더리움, ..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000754042&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000754042&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-13T09:56:00.000Z</updated>
-        <content type="html"><![CDATA[머니S]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최고치 경신 후 주춤한 S&P500·강한 반등 없는 코스피…이제..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004998925&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004998925&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-13T10:00:00.000Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차류 브랜드 다미즐, 2021 카페쇼 참가]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004998928&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004998928&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-13T10:13:00.000Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["중국 반도체 수요만 해도"…화홍반도체 자신감 '뿜뿜']]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005084895&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005084895&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-13T11:03:00.000Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['규제 직격탄'…잘나가던 텐센트, 10년 만에 실적 뒷걸음]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005084910&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005084910&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-13T00:23:00.000Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[마켓인]"2021은 M&A의 해"…이미 사상 최대치 따놓은 당..]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005084890&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
@@ -90,11 +13,11 @@
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[엔씨소프트 상한가 친 날 3000억원어치 산 슈퍼개미의 정체…거..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004878555&amp;office_id=009&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004878555&amp;office_id=009&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-13T11:15:00.000Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
+        <title type="html"><![CDATA[[주간 추천주] 메타버스·NFT 쏠림 현상 지속…반도체·자동차도..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000635632&amp;office_id=031&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000635632&amp;office_id=031&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-13T06:05:46.560Z</updated>
+        <content type="html"><![CDATA[아이뉴스24]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[`美국채금리 따라가는` 달러값, 앞으로 더 뛴다]]></title>
@@ -104,11 +27,53 @@
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[차류 브랜드 다미즐, 2021 카페쇼 참가]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004998928&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004998928&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-13T10:13:00.000Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박스권 韓증시…"단기로는 코스닥, 연말 이후는 코스피 주목해야"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004998952&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004998952&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-13T11:50:00.000Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['희비교차' 코스닥 IPO 슈퍼위크'…결과는 예견됐다]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000004788&amp;office_id=648&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000004788&amp;office_id=648&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-13T06:05:46.563Z</updated>
+        <content type="html"><![CDATA[비즈니스워치]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국민연금, 다음달 초 기금위 전망…논의사항 산적]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005084913&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005084913&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-13T06:05:46.564Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[정부·한은의 시장 안정화 조치로…채권시장, 고비 넘겨]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001912168&amp;office_id=016&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001912168&amp;office_id=016&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-13T10:27:00.000Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[머스크, 테슬라 주식 8000억 또 팔았다…주가 더 하락할까]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000115922&amp;office_id=629&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000115922&amp;office_id=629&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-13T10:40:00.000Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['규제 직격탄'…잘나가던 텐센트, 10년 만에 실적 뒷걸음]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005084910&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005084910&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-13T00:23:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[미래에셋, 80년대생 33%·여성 21%...성과 중심 파격 인..]]></title>
@@ -123,6 +88,34 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000018462&amp;office_id=243&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-13T00:22:00.000Z</updated>
         <content type="html"><![CDATA[이코노미스트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["중국 반도체 수요만 해도"…화홍반도체 자신감 '뿜뿜']]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005084895&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005084895&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-13T11:03:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔씨소프트 상한가 친 날 3000억원어치 산 슈퍼개미의 정체…거..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004878555&amp;office_id=009&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004878555&amp;office_id=009&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-13T11:15:00.000Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CJ그룹은 왜 '세 가지 색'에 빠졌나]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000004786&amp;office_id=648&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000004786&amp;office_id=648&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-13T10:01:00.000Z</updated>
+        <content type="html"><![CDATA[비즈니스워치]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최고치 경신 후 주춤한 S&P500·강한 반등 없는 코스피…이제..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004998925&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004998925&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-13T10:00:00.000Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[금리인상 우려, 비트코인 최고점 찍은 뒤 연이틀 하락(상보)]]></title>
@@ -151,6 +144,13 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000004784&amp;office_id=648&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-13T07:41:00.000Z</updated>
         <content type="html"><![CDATA[비즈니스워치]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CEO가 안티?…머스크 매도에 테슬라 주가 20개월만에 '주르륵..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004628030&amp;office_id=015&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004628030&amp;office_id=015&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-13T06:05:46.583Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[테슬라 주가 한주간 15.4%↓…머스크 팔면 더 빠진다(재종합)]]></title>
