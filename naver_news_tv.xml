@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-11-13T09:05:55.622Z</updated>
+    <updated>2021-11-13T10:06:16.107Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[발품뉴스] '바닥나는' 원두…아메리카노 값 인상 임박?]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000280764&amp;office_id=437&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211113&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000280764&amp;office_id=437&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211113&amp;page=1"/>
+        <updated>2021-11-13T10:05:17.450Z</updated>
+        <content type="html"><![CDATA[JTBC]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[영상] 중국발 수급 불안, '요소수'에만 있는 게 아니다]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000933271&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211113&amp;page=1</id>
@@ -66,13 +73,6 @@
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000513788&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211113&amp;page=1</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000513788&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211113&amp;page=1"/>
         <updated>2021-11-13T00:50:00.000Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[개점 행사도 가상공간에서…'메타버스' 뛰어드는 기업들]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000513786&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211113&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000513786&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211113&amp;page=1"/>
-        <updated>2021-11-13T00:48:00.000Z</updated>
         <content type="html"><![CDATA[연합뉴스TV]]></content>
     </entry>
 </feed>
