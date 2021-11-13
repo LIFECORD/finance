@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=401</id>
     <title>네이버 금융 ─ 뉴스 ─ 시황·전망</title>
-    <updated>2021-11-13T00:20:43.261Z</updated>
+    <updated>2021-11-13T01:48:18.179Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엔씨소프트, 한마디 했을 뿐인데 주가 폭등했다…뭐라했길래]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004878538&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211113&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004878538&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211113&amp;page=1"/>
+        <updated>2021-11-13T01:46:18.019Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004878538&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211113&amp;page=1" title="엔씨소프트, 한마디 했을 뿐인데 주가 폭등했다…뭐라했길래">엔씨소프트, 한마디 했을 뿐인데 주가 폭등했다…뭐라했길래</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2,900선에 허덕이는 코스피 “공급난 완화 조짐···인플레 우려 과도” [다음주 증시전망..]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003984825&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211113&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003984745&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211113&amp;page=1"/>
         <updated>2021-11-12T15:04:40.695Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003984745&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211113&amp;page=1" title="천보 사상 최대 실적 업고 장중 12% ↑">천보 사상 최대 실적 업고 장중 12% ↑</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코스피 이제는 반등 타이밍?…'이 업종'에 주목하라]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004669884&amp;office_id=008&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211113&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004669884&amp;office_id=008&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211113&amp;page=1"/>
-        <updated>2021-11-12T15:04:40.697Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004669884&amp;office_id=008&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211113&amp;page=1" title="코스피 이제는 반등 타이밍?…'이 업종'에 주목하라">코스피 이제는 반등 타이밍?…'이 업종'에 주목하라</a>]]></content>
     </entry>
 </feed>
