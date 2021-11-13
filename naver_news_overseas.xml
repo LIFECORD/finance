@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-11-13T22:06:05.537Z</updated>
+    <updated>2021-11-13T23:06:07.066Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["오만하지 않은 CEO"…美증시를 계속 좋게 보는 이유들 [월가시각]]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004670079&amp;office_id=008&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211114&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004670079&amp;office_id=008&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211114&amp;page=1"/>
+        <updated>2021-11-13T23:04:31.847Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004670079&amp;office_id=008&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211114&amp;page=1" title="&quot;오만하지 않은 CEO&quot;…美증시를 계속 좋게 보는 이유들 [월가시각]">"오만하지 않은 CEO"…美증시를 계속 좋게 보는 이유들 [월가시각]</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[머스크, 일주일 내내 테슬라 주식 팔았다…8조1천억원어치 매도]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0012790659&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211114&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000996726&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211114&amp;page=1"/>
         <updated>2021-11-13T15:04:43.246Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000996726&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211114&amp;page=1" title="베트남 국회, 내년 경제성장률 6-6.5% 목표 [KVINA]">베트남 국회, 내년 경제성장률 6-6.5% 목표 [KVINA]</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베트남 호찌민시, 내년 코로나 백신 1.8천만 도스 필요 [KVINA]]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000996725&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211114&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000996725&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211114&amp;page=1"/>
-        <updated>2021-11-13T15:04:43.248Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000996725&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211114&amp;page=1" title="베트남 호찌민시, 내년 코로나 백신 1.8천만 도스 필요 [KVINA]">베트남 호찌민시, 내년 코로나 백신 1.8천만 도스 필요 [KVINA]</a>]]></content>
     </entry>
 </feed>
