@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=401</id>
     <title>네이버 금융 ─ 뉴스 ─ 시황·전망</title>
-    <updated>2021-11-13T02:23:23.136Z</updated>
+    <updated>2021-11-13T03:06:37.853Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['시세 조종 있었나'···거래소 엔씨소프트 '슈퍼개미' 집중조사]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003984862&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211113&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003984862&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211113&amp;page=1"/>
+        <updated>2021-11-13T03:04:47.644Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003984862&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211113&amp;page=1" title="'시세 조종 있었나'···거래소 엔씨소프트 '슈퍼개미' 집중조사">'시세 조종 있었나'···거래소 엔씨소프트 '슈퍼개미' 집중조사</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엔씨소프트 상한가 친 날 3000억원어치 산 슈퍼개미의 정체…거래소 거래 내역 살펴본다]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004878555&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211113&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003984752&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211113&amp;page=1"/>
         <updated>2021-11-12T15:04:40.692Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003984752&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211113&amp;page=1" title="[펀드줌인] 가치주 펀드의 터줏대감 'KB밸류포커스'...누적수익률 188%">[펀드줌인] 가치주 펀드의 터줏대감 'KB밸류포커스'...누적수익률 188%</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["中 안살아나면 도루묵"...항공·호텔·여행주 '우울']]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003984750&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211113&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003984750&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211113&amp;page=1"/>
-        <updated>2021-11-12T15:04:40.695Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003984750&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211113&amp;page=1" title="&quot;中 안살아나면 도루묵&quot;...항공·호텔·여행주 '우울'">"中 안살아나면 도루묵"...항공·호텔·여행주 '우울'</a>]]></content>
     </entry>
 </feed>

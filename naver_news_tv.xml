@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-11-13T02:23:23.163Z</updated>
+    <updated>2021-11-13T03:06:37.894Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신문브리핑 3 ""한·일 외교 '실종' 남북관계 '종속'…현시점 종전선언은 반대"" 외]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001621156&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211113&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001621156&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211113&amp;page=1"/>
+        <updated>2021-11-13T11:48:00.000Z</updated>
+        <content type="html"><![CDATA[MBN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신문브리핑 2 ""듣고 또 듣겠다" 이재명 매타버스 시동" 외]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001621152&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211113&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001621152&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211113&amp;page=1"/>
+        <updated>2021-11-13T11:40:00.000Z</updated>
+        <content type="html"><![CDATA[MBN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신문브리핑 1 "어린이집 방역 패스 도입…위드 코로나 후 확진 2배로 늘어 '비상'" 외]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001621149&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211113&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001621149&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211113&amp;page=1"/>
+        <updated>2021-11-13T11:32:00.000Z</updated>
+        <content type="html"><![CDATA[MBN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[쉬운우리말로 19회 '빅 텐트']]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001621148&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211113&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001621148&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211113&amp;page=1"/>
+        <updated>2021-11-13T11:27:00.000Z</updated>
+        <content type="html"><![CDATA[MBN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[위중증 또 최고치 경신…사망자도 4차 유행 후 최다]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000513780&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211113&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000513780&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211113&amp;page=1"/>
+        <updated>2021-11-13T11:24:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴스초점] 신규 확진 닷새째 2,000명대…위중증 또 최다치]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000513778&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211113&amp;page=1</id>
@@ -38,41 +73,6 @@
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000513757&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211113&amp;page=1</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000513757&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211113&amp;page=1"/>
         <updated>2021-11-13T09:36:00.000Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디즈니플러스 국내 상륙…치열해진 OTT 시장]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001621120&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211113&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001621120&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211113&amp;page=1"/>
-        <updated>2021-11-13T09:35:00.000Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[진에어 전산 장애로 10시간 마비…주말여행 날린 승객들 거센 항의]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001621117&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211113&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001621117&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211113&amp;page=1"/>
-        <updated>2021-11-13T09:29:00.000Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[카운트머니] 하이브+두나무= 한정판 디지털 굿즈?]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000264356&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211113&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000264356&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211113&amp;page=1"/>
-        <updated>2021-11-13T09:19:00.000Z</updated>
-        <content type="html"><![CDATA[SBS Biz]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차량용 요소수 180만L, 오늘부터 전국 100개 주유소에 공급]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000513752&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211113&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000513752&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211113&amp;page=1"/>
-        <updated>2021-11-13T09:18:00.000Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어젯밤 9시까지 2,152명 신규확진…오늘 2,300명대 예상]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000513750&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211113&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000513750&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211113&amp;page=1"/>
-        <updated>2021-11-13T09:12:00.000Z</updated>
         <content type="html"><![CDATA[연합뉴스TV]]></content>
     </entry>
 </feed>
