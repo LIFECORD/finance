@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-11-13T04:07:50.092Z</updated>
+    <updated>2021-11-13T05:05:30.531Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[CEO가 안티?…머스크 매도에 테슬라 주가 20개월만에 '주르륵']]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004628030&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211113&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004628030&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211113&amp;page=1"/>
+        <updated>2021-11-13T05:04:00.488Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004628030&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211113&amp;page=1" title="CEO가 안티?…머스크 매도에 테슬라 주가 20개월만에 '주르륵'">CEO가 안티?…머스크 매도에 테슬라 주가 20개월만에 '주르륵'</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[리비안 3일간 66% 급등···'제2의 테슬라' 돌풍]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003984852&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211113&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005084827&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211113&amp;page=1"/>
         <updated>2021-11-12T22:05:05.579Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005084827&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211113&amp;page=1" title="[뉴욕증시]덩치 큰 빅테크주 일제히 반등하자…살아난 투심">[뉴욕증시]덩치 큰 빅테크주 일제히 반등하자…살아난 투심</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴욕증시, 인플레 우려에도 지지…나스닥 1% 상승 마감]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0012789992&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211113&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012789992&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211113&amp;page=1"/>
-        <updated>2021-11-13T00:19:04.643Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012789992&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211113&amp;page=1" title="뉴욕증시, 인플레 우려에도 지지…나스닥 1% 상승 마감">뉴욕증시, 인플레 우려에도 지지…나스닥 1% 상승 마감</a>]]></content>
     </entry>
 </feed>
