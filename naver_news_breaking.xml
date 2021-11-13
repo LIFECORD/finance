@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS2D&amp;section_id=101&amp;section_id2=258</id>
     <title>네이버 금융 ─ 뉴스 ─ 실시간 속보</title>
-    <updated>2021-11-13T11:06:06.435Z</updated>
+    <updated>2021-11-13T12:09:56.384Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[비트코인, 7700만원대로 소폭 하락…美 SEC, 비트코인 현물 ETF 승인 거절]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004999005&amp;office_id=277&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211113&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004999005&amp;office_id=277&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211113&amp;page=1"/>
+        <updated>2021-11-13T12:07:44.552Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004999005&amp;office_id=277&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211113&amp;page=1" title="비트코인, 7700만원대로 소폭 하락…美 SEC, 비트코인 현물 ETF 승인 거절">비트코인, 7700만원대로 소폭 하락…美 SEC, 비트코인 현물 ETF 승인 거절</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴스추적] 중국산 요소 2,980톤 입항…요소수 대란 언제 풀리나?]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001621223&amp;office_id=057&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211113&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000996727&amp;office_id=215&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211113&amp;page=1"/>
         <updated>2021-11-13T11:03:55.636Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000996727&amp;office_id=215&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211113&amp;page=1" title="베트남, 내년 1분기부터 15개국 국제 정기 항공편 재개 [KVINA]">베트남, 내년 1분기부터 15개국 국제 정기 항공편 재개 [KVINA]</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베트남 국회, 내년 경제성장률 6-6.5% 목표 [KVINA]]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000996726&amp;office_id=215&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211113&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000996726&amp;office_id=215&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211113&amp;page=1"/>
-        <updated>2021-11-13T11:03:55.637Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000996726&amp;office_id=215&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211113&amp;page=1" title="베트남 국회, 내년 경제성장률 6-6.5% 목표 [KVINA]">베트남 국회, 내년 경제성장률 6-6.5% 목표 [KVINA]</a>]]></content>
     </entry>
 </feed>
