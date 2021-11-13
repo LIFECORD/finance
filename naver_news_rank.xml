@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-13T20:06:34.248Z</updated>
+    <updated>2021-11-13T21:05:40.737Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[빛나는 老테크③] 나는 DB형? DC형?]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004739042&amp;office_id=014&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004739042&amp;office_id=014&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-13T16:06:43.414Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[머스크, 일주일 내내 테슬라 주식 팔았다…8조1천억원어치 매도]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0012790659&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
@@ -20,10 +27,24 @@
         <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[빛나는 老테크③] 나는 DB형? DC형?]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004739042&amp;office_id=014&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004739042&amp;office_id=014&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-13T16:06:43.414Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+        <title type="html"><![CDATA['테슬라 찐사랑' 엘앤에프… "주가 36만원 간다"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000754091&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000754091&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-14T05:06:00.000Z</updated>
+        <content type="html"><![CDATA[머니S]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가계부채 조이기에 카드 대출 비상…'카드론' 금리 오른다]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012790676&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012790676&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-14T05:55:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[박스피 재현되나] 악몽 떠올리는 개미…'디커플링'에 발길 돌린..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005721687&amp;office_id=421&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005721687&amp;office_id=421&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-14T05:55:00.000Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
