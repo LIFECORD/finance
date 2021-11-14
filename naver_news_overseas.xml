@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-11-14T09:06:28.267Z</updated>
+    <updated>2021-11-14T10:07:16.818Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[중국 "홍콩증시 상장하려는 기업도 안보심사 받아야"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012792088&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211114&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012792088&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211114&amp;page=1"/>
+        <updated>2021-11-14T10:05:18.149Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012792088&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211114&amp;page=1" title="중국 &quot;홍콩증시 상장하려는 기업도 안보심사 받아야&quot;">중국 "홍콩증시 상장하려는 기업도 안보심사 받아야"</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[문어발 시대 끝났다…100년 넘은 J&J·GE·도시바 '쪼개기 혁신']]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004628217&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211114&amp;page=1</id>
@@ -46,12 +53,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003984950&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211114&amp;page=1"/>
         <updated>2021-11-14T02:22:20.171Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003984950&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211114&amp;page=1" title="[표]해외DR 가격(11월 12일)">[표]해외DR 가격(11월 12일)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[표]해외 주요 증시 동향(11월 12일)]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003984949&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211114&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003984949&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211114&amp;page=1"/>
-        <updated>2021-11-14T02:22:20.172Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003984949&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211114&amp;page=1" title="[표]해외 주요 증시 동향(11월 12일)">[표]해외 주요 증시 동향(11월 12일)</a>]]></content>
     </entry>
 </feed>
