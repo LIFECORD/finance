@@ -2,34 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-14T19:05:57.886Z</updated>
+    <updated>2021-11-14T20:06:57.414Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[누구냐 넌… 엔씨소프트 3천억 지른 슈퍼개미 미스터리]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001484186&amp;office_id=005&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001484186&amp;office_id=005&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-14T16:07:18.177Z</updated>
-        <content type="html"><![CDATA[국민일보]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[코스닥 주간메모] 11월 15일(월) ~ 11월 17일(수)]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004628302&amp;office_id=015&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004628302&amp;office_id=015&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-15T01:55:00.000Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[마켓인]‘너무 비싸’vs‘비싸도 장땡’…건기식 매물 두고 엇갈..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005085935&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005085935&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-15T01:31:00.000Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[유가증권 주간메모] 11월 15일(월) ~ 11월 17일(수)]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004628301&amp;office_id=015&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004628301&amp;office_id=015&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-15T01:55:00.000Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
     </entry>
@@ -41,11 +20,18 @@
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[1,000억 vs 100억···메타버스 ETF 몸집 ‘극과 극’]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003985111&amp;office_id=011&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003985111&amp;office_id=011&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-14T19:04:39.555Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
+        <title type="html"><![CDATA[[유가증권 주간메모] 11월 15일(월) ~ 11월 17일(수)]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004628301&amp;office_id=015&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004628301&amp;office_id=015&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-15T01:55:00.000Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[누구냐 넌… 엔씨소프트 3천억 지른 슈퍼개미 미스터리]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001484186&amp;office_id=005&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001484186&amp;office_id=005&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-14T16:07:18.177Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[올해 IPO 공모액 20조 넘어… 9월후 ‘따상’은 2곳뿐]]></title>
@@ -55,10 +41,38 @@
         <content type="html"><![CDATA[동아일보]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[마켓인]‘너무 비싸’vs‘비싸도 장땡’…건기식 매물 두고 엇갈..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005085935&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005085935&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-15T01:31:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[10만전자? 물타기도 지쳤다… 개미들, 1년만에 삼성전자 ‘손절..]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003393592&amp;office_id=020&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003393592&amp;office_id=020&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-15T03:03:00.000Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간 경제지표] 2021년 11월 12일자]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003653038&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003653038&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-15T04:32:00.000Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["ESG 핵심은 '성평등'…여성이 이끄는 회사가 돈도 잘번다"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004670233&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004670233&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-15T04:40:00.000Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가이드라인 개정만 7번... 금융권 "내년 1월 마이데이터 서비..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000641120&amp;office_id=469&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000641120&amp;office_id=469&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-15T04:31:00.000Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
 </feed>
