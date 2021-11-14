@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=401</id>
     <title>네이버 금융 ─ 뉴스 ─ 시황·전망</title>
-    <updated>2021-11-14T04:08:57.795Z</updated>
+    <updated>2021-11-14T05:06:29.005Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['인플레이션 우려'에 3000선 밑으로 간 코스피…반전 카드는?]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004670160&amp;office_id=008&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211114&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004670160&amp;office_id=008&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211114&amp;page=1"/>
+        <updated>2021-11-14T05:04:31.271Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004670160&amp;office_id=008&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211114&amp;page=1" title="'인플레이션 우려'에 3000선 밑으로 간 코스피…반전 카드는?">'인플레이션 우려'에 3000선 밑으로 간 코스피…반전 카드는?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[역대급 대어 쏟아진 올해 IPO 공모액 20조원 넘었다]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003984948&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211114&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012790713&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211114&amp;page=1"/>
         <updated>2021-11-13T22:04:20.421Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012790713&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211114&amp;page=1" title="'자본시장 상징' 여의도 거래소 황소상, 25년만에 실외로">'자본시장 상징' 여의도 거래소 황소상, 25년만에 실외로</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['물타기'도 지쳤다…개미들 1년만에 삼성전자 매도 우위로]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0012790711&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211114&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012790711&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211114&amp;page=1"/>
-        <updated>2021-11-13T22:04:20.423Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012790711&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211114&amp;page=1" title="'물타기'도 지쳤다…개미들 1년만에 삼성전자 매도 우위로">'물타기'도 지쳤다…개미들 1년만에 삼성전자 매도 우위로</a>]]></content>
     </entry>
 </feed>
