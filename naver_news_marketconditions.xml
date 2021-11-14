@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=401</id>
     <title>네이버 금융 ─ 뉴스 ─ 시황·전망</title>
-    <updated>2021-11-14T10:07:16.815Z</updated>
+    <updated>2021-11-14T11:06:04.656Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엔씨소프트 상한가 시세조종 있었나…거래소, '슈퍼개미' 조사]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012792117&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211114&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012792117&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211114&amp;page=1"/>
+        <updated>2021-11-14T11:04:03.346Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012792117&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211114&amp;page=1" title="엔씨소프트 상한가 시세조종 있었나…거래소, '슈퍼개미' 조사">엔씨소프트 상한가 시세조종 있었나…거래소, '슈퍼개미' 조사</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 퇴직연금 수익률 10배…은행서 증권사로 옮기길 잘했네]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004878867&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211114&amp;page=1</id>
@@ -53,12 +60,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004878791&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211114&amp;page=1"/>
         <updated>2021-11-14T09:04:42.982Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004878791&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211114&amp;page=1" title="'연말강자' 호칭 무색…힘 못쓰는 보험株">'연말강자' 호칭 무색…힘 못쓰는 보험株</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[표] 주간 주요 증시 지표]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004878788&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211114&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004878788&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211114&amp;page=1"/>
-        <updated>2021-11-14T09:04:42.983Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004878788&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211114&amp;page=1" title="[표] 주간 주요 증시 지표">[표] 주간 주요 증시 지표</a>]]></content>
     </entry>
 </feed>
