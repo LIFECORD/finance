@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=402</id>
     <title>네이버 금융 ─ 뉴스 ─ 기업 종목분석</title>
-    <updated>2021-11-14T21:05:37.964Z</updated>
+    <updated>2021-11-14T22:06:06.573Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[클릭 e종목]"대한항공, 화물 운임 상승이 이익 개선 견인"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004999300&amp;office_id=277&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211115&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004999300&amp;office_id=277&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211115&amp;page=1"/>
+        <updated>2021-11-14T22:04:24.456Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004999300&amp;office_id=277&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211115&amp;page=1" title="[클릭 e종목]&quot;대한항공, 화물 운임 상승이 이익 개선 견인&quot;">[클릭 e종목]"대한항공, 화물 운임 상승이 이익 개선 견인"</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['계륵'이었던 전해액 10여년만에 '잭팟'...올해만 122% 오른 이 기업]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004670237&amp;office_id=008&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211115&amp;page=1</id>
@@ -53,12 +60,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004739294&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211115&amp;page=1"/>
         <updated>2021-11-14T15:04:34.093Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004739294&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211115&amp;page=1" title="글로벌 컨설팅社 ‘머서’ 운용상품 편입… 분산투자 효과 노려 [이런 펀드 어때요?]">글로벌 컨설팅社 ‘머서’ 운용상품 편입… 분산투자 효과 노려 [이런 펀드 어때요?]</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NFT·메타버스 열풍에… 외국인·기관 몰리는 게임주]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004739292&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211115&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004739292&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211115&amp;page=1"/>
-        <updated>2021-11-14T15:04:34.095Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004739292&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211115&amp;page=1" title="NFT·메타버스 열풍에… 외국인·기관 몰리는 게임주">NFT·메타버스 열풍에… 외국인·기관 몰리는 게임주</a>]]></content>
     </entry>
 </feed>
