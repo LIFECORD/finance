@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=402</id>
     <title>네이버 금융 ─ 뉴스 ─ 기업 종목분석</title>
-    <updated>2021-11-14T12:09:32.567Z</updated>
+    <updated>2021-11-14T13:14:16.025Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["삼성전자 주주는 서러워"…필라델피아 반도체지수 강세인데 7만전자 맴돌아]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004878931&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211114&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004878931&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211114&amp;page=1"/>
+        <updated>2021-11-14T13:12:12.206Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004878931&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211114&amp;page=1" title="&quot;삼성전자 주주는 서러워&quot;…필라델피아 반도체지수 강세인데 7만전자 맴돌아">"삼성전자 주주는 서러워"…필라델피아 반도체지수 강세인데 7만전자 맴돌아</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엔씨 상한가 친 날, 시세 조종 있었나…3천억대 슈퍼개미 조사]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004878923&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211114&amp;page=1</id>
@@ -53,12 +60,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004739290&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211114&amp;page=1"/>
         <updated>2021-11-14T09:04:49.164Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004739290&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211114&amp;page=1" title="해외주식 250만원 넘게 벌었다면… 손실종목 파는게 유리">해외주식 250만원 넘게 벌었다면… 손실종목 파는게 유리</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한양證 3분기 누적 영업익 968억]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004739288&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211114&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004739288&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211114&amp;page=1"/>
-        <updated>2021-11-14T09:04:49.164Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004739288&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211114&amp;page=1" title="한양證 3분기 누적 영업익 968억">한양證 3분기 누적 영업익 968억</a>]]></content>
     </entry>
 </feed>
