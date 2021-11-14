@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-11-13T23:06:07.065Z</updated>
+    <updated>2021-11-14T00:21:50.685Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[중국산 요소 2,980톤 입항…요소수 대란 언제 풀리나?]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001621257&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211114&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001621257&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211114&amp;page=1"/>
+        <updated>2021-11-14T09:03:00.000Z</updated>
+        <content type="html"><![CDATA[MBN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정부 주유소 100곳 요소수 공급 시작…곳곳 혼선]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001621256&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211114&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001621256&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211114&amp;page=1"/>
+        <updated>2021-11-14T09:01:00.000Z</updated>
+        <content type="html"><![CDATA[MBN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[중앙보훈병원서 58명 집단감염…추가 확산 우려]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000513874&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211114&amp;page=1</id>
@@ -60,19 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001664854&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211114&amp;page=1"/>
         <updated>2021-11-14T05:00:00.000Z</updated>
         <content type="html"><![CDATA[YTN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[음식 배달·약품 전달도 척척…일상 파고드는 로봇]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000513858&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211114&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000513858&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211114&amp;page=1"/>
-        <updated>2021-11-14T04:51:00.000Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제2금융권보다 비싼 은행 대출이자…당국은 뒷짐만]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000513857&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211114&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000513857&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211114&amp;page=1"/>
-        <updated>2021-11-14T04:48:00.000Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
     </entry>
 </feed>
