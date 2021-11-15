@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=401</id>
     <title>네이버 금융 ─ 뉴스 ─ 시황·전망</title>
-    <updated>2021-11-15T18:05:56.705Z</updated>
+    <updated>2021-11-15T19:05:34.433Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[유럽증시] ECB 총재의 긴축 우려 불식 발언에 독·프 역대 최고]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012795049&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211116&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012795049&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211116&amp;page=1"/>
+        <updated>2021-11-15T19:03:29.676Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012795049&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211116&amp;page=1" title="[유럽증시] ECB 총재의 긴축 우려 불식 발언에 독·프 역대 최고">[유럽증시] ECB 총재의 긴축 우려 불식 발언에 독·프 역대 최고</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘닥터둠’의 경고 “내년 韓 증시 큰 폭 조정 온다"]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005086762&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211116&amp;page=1</id>
@@ -60,12 +67,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012794513&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211116&amp;page=1"/>
         <updated>2021-11-15T15:04:14.632Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012794513&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211116&amp;page=1" title="SK, 중국 배터리 재료 연구개발 기업과 전략협약">SK, 중국 배터리 재료 연구개발 기업과 전략협약</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['국민주' 삼성전자 소액주주 500만명 돌파]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0012794505&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211116&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012794505&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211116&amp;page=1"/>
-        <updated>2021-11-15T15:04:14.633Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012794505&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211116&amp;page=1" title="'국민주' 삼성전자 소액주주 500만명 돌파">'국민주' 삼성전자 소액주주 500만명 돌파</a>]]></content>
     </entry>
 </feed>
