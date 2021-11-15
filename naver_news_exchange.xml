@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=429</id>
     <title>네이버 금융 ─ 뉴스 ─ 환율</title>
-    <updated>2021-11-15T00:21:20.294Z</updated>
+    <updated>2021-11-15T01:49:32.716Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[원/달러 환율 상승 출발…장 초반 1,181원 후반대]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012792593&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211115&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012792593&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211115&amp;page=1"/>
+        <updated>2021-11-15T01:48:15.065Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012792593&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211115&amp;page=1" title="원/달러 환율 상승 출발…장 초반 1,181원 후반대">원/달러 환율 상승 출발…장 초반 1,181원 후반대</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연통TV] 전세계적 달러 파워! 북한에서는 약세?]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0012789614&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211115&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012787093&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211115&amp;page=1"/>
         <updated>2021-11-14T15:04:59.879Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012787093&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211115&amp;page=1" title="원/달러 환율 소폭 하락…0.1원 내린 1,180.8원 마감">원/달러 환율 소폭 하락…0.1원 내린 1,180.8원 마감</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[광주은행, 외환 매매 예약 서비스…건당 100만 달러까지]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0012785472&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211115&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012785472&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211115&amp;page=1"/>
-        <updated>2021-11-14T15:04:59.880Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012785472&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211115&amp;page=1" title="광주은행, 외환 매매 예약 서비스…건당 100만 달러까지">광주은행, 외환 매매 예약 서비스…건당 100만 달러까지</a>]]></content>
     </entry>
 </feed>
