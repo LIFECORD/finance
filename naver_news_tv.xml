@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-11-15T05:06:36.916Z</updated>
+    <updated>2021-11-15T06:08:42.858Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[상승폭 줄어도 오름세 지속…서울 집값 평균 8억원대]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000514050&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211115&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000514050&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211115&amp;page=1"/>
+        <updated>2021-11-15T06:07:40.817Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[김대호의 경제읽기] 한국 가계빚, GDP 대비 규모·증가세 모두 1위]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000514046&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211115&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000514046&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211115&amp;page=1"/>
+        <updated>2021-11-15T06:07:40.818Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[경제 톡톡톡]요소수 180만 리터 공급한다더니…이틀간 ‘찔끔’ 공급]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000217877&amp;office_id=449&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211115&amp;page=1</id>
@@ -59,20 +73,6 @@
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001665233&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211115&amp;page=1</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001665233&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211115&amp;page=1"/>
         <updated>2021-11-15T05:05:24.896Z</updated>
-        <content type="html"><![CDATA[YTN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요소수 공급에도 혼선 여전...유가보조금도 '불만']]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001665231&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211115&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001665231&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211115&amp;page=1"/>
-        <updated>2021-11-15T00:58:00.000Z</updated>
-        <content type="html"><![CDATA[YTN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[자막뉴스] "자원의 무기화"...'요소수' 교훈 삼아 대비해야 할 품목]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001665228&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211115&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001665228&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211115&amp;page=1"/>
-        <updated>2021-11-15T00:55:00.000Z</updated>
         <content type="html"><![CDATA[YTN]]></content>
     </entry>
 </feed>
