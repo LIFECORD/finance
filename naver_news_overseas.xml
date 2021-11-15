@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-11-15T03:07:03.803Z</updated>
+    <updated>2021-11-15T04:08:42.772Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[베이징증시 개장…500% 이상 폭등 종목도]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012793417&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211115&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012793417&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211115&amp;page=1"/>
+        <updated>2021-11-15T04:07:04.401Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012793417&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211115&amp;page=1" title="베이징증시 개장…500% 이상 폭등 종목도">베이징증시 개장…500% 이상 폭등 종목도</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[머스크, 부유세 촉구 샌더스 향해 "살아있었네? 주식 더 팔까?"(종합)]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0012793194&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211115&amp;page=1</id>
@@ -53,12 +60,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012792787&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211115&amp;page=1"/>
         <updated>2021-11-15T01:47:57.636Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012792787&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211115&amp;page=1" title="연내 원하는 증권사에서 해외주식 소수점 거래 가능해진다">연내 원하는 증권사에서 해외주식 소수점 거래 가능해진다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["애플 투자 조심해야...반도체 공급난 장기화 가능성"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000996917&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211115&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000996917&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211115&amp;page=1"/>
-        <updated>2021-11-15T01:47:57.637Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000996917&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211115&amp;page=1" title="&quot;애플 투자 조심해야...반도체 공급난 장기화 가능성&quot;">"애플 투자 조심해야...반도체 공급난 장기화 가능성"</a>]]></content>
     </entry>
 </feed>
