@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-15T06:08:42.850Z</updated>
+    <updated>2021-11-15T07:07:06.215Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 유니온, 국내최초 '바나듐 이온 배터리' 활용 소식에..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000754514&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000754514&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-15T06:07:27.475Z</updated>
+        <content type="html"><![CDATA[머니S]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['계륵'이었던 전해액 10여년만에 '잭팟'...올해만 122% ..]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004670237&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
@@ -132,11 +139,11 @@
         <content type="html"><![CDATA[한국경제TV]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[특징주] 유니온, 국내최초 '바나듐 이온 배터리' 활용 소식에..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000754514&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000754514&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-15T06:07:27.475Z</updated>
-        <content type="html"><![CDATA[머니S]]></content>
+        <title type="html"><![CDATA[[특징주] 렉키로나 EU 판매 승인에 셀트리온 3형제 동반 급등..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012794071&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012794071&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-15T07:05:56.052Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[말레이시아, 글로벌이슬람 경제지표 순위 8년째 1위]]></title>
@@ -172,12 +179,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004628490&amp;office_id=015&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-15T11:46:00.000Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[특징주] 제주반도체, 3분기 깜짝 실적에 강세… 30%↑]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000754468&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000754468&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-15T06:07:27.483Z</updated>
-        <content type="html"><![CDATA[머니S]]></content>
     </entry>
 </feed>
