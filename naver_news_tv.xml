@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-11-15T13:16:15.112Z</updated>
+    <updated>2021-11-15T14:06:12.360Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유학자금이 59억?…'김치 프리미엄' 노렸다 덜미]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000514143&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211115&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000514143&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211115&amp;page=1"/>
+        <updated>2021-11-15T14:05:11.576Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[요소수 재고 하루 2번 공개한다는데…"사이트 미정"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000514138&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211115&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000514138&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211115&amp;page=1"/>
+        <updated>2021-11-15T14:05:11.578Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[문승욱 "동남아 3곳·중동 2곳서 요소 수입 검토"]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000514137&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211115&amp;page=1</id>
@@ -20,7 +34,7 @@
         <content type="html"><![CDATA[KBS]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[감춰진 산재 ‘화장실 직업병’]]></title>
+        <title type="html"><![CDATA[‘화장실 참느라 병까지…’ 산재 신청은 엄두도 못 내]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0011157182&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211115&amp;page=1</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0011157182&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211115&amp;page=1"/>
         <updated>2021-11-15T13:15:16.851Z</updated>
@@ -60,19 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000344027&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211115&amp;page=1"/>
         <updated>2021-11-15T13:15:16.852Z</updated>
         <content type="html"><![CDATA[TV조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국 가계빚, '우울한 2관왕'…GDP 대비 규모·증가속도 1위]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000344022&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211115&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000344022&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211115&amp;page=1"/>
-        <updated>2021-11-15T13:15:16.852Z</updated>
-        <content type="html"><![CDATA[TV조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[핫클립] 박항서의 베트남 '내일 사우디전에선 첫 승점!']]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001621664&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211115&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001621664&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211115&amp;page=1"/>
-        <updated>2021-11-15T12:09:26.374Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
     </entry>
 </feed>
