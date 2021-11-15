@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-11-15T16:09:22.798Z</updated>
+    <updated>2021-11-15T17:15:20.047Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[혁신인가 거품인가…리비안, 글로벌 차업계 시총 3위 점프(종합)]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005086791&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211116&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005086791&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211116&amp;page=1"/>
+        <updated>2021-11-16T02:02:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['제2의 테슬라' 리비안 시동 걸자마자…폴크스바겐 위협]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005086790&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211116&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005086790&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211116&amp;page=1"/>
+        <updated>2021-11-16T01:14:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CJ CGV, 2년 연속 워스트레이팅 1위 '불명예']]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005086788&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211116&amp;page=1</id>
@@ -59,20 +73,6 @@
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005086771&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211116&amp;page=1</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005086771&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211116&amp;page=1"/>
         <updated>2021-11-15T15:04:58.664Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘닥터둠’의 경고 “내년 韓 증시 큰 폭 조정 온다"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005086762&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211116&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005086762&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211116&amp;page=1"/>
-        <updated>2021-11-15T15:04:58.666Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[금리 오른다는데도 굳건한 성장株…내년까지?]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005086761&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211116&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005086761&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211116&amp;page=1"/>
-        <updated>2021-11-15T15:04:58.667Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>

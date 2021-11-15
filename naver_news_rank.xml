@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-15T16:09:22.812Z</updated>
+    <updated>2021-11-15T17:15:20.031Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -27,17 +27,17 @@
         <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["쪼개고 붙이고, ESG까지"…내년 가장 기대되는 그룹은]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005086782&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005086782&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-15T16:07:56.821Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[신평사 신뢰도 '역대 최고'…한신평 1위 탈환]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005086786&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005086786&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-15T16:07:56.826Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["쪼개고 붙이고, ESG까지"…내년 가장 기대되는 그룹은]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005086782&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005086782&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-15T16:07:56.821Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
@@ -59,6 +59,13 @@
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005086788&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005086788&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-15T16:07:56.826Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['제2의 테슬라' 리비안 시동 걸자마자…폴크스바겐 위협]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005086790&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005086790&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-16T01:14:00.000Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
