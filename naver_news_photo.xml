@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-11-15T17:15:20.047Z</updated>
+    <updated>2021-11-15T18:05:56.706Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유럽 증시, 소폭 상승 마감…獨 0.34% 佛 0.53% ↑]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0010834017&amp;office_id=003&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211116&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0010834017&amp;office_id=003&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211116&amp;page=1"/>
+        <updated>2021-11-16T02:37:00.000Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[마켓인]미래 먹거리…NFT·메타버스만 붙으면 뭉칫돈 '투척']]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005086792&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211116&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005086792&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211116&amp;page=1"/>
+        <updated>2021-11-16T02:31:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[혁신인가 거품인가…리비안, 글로벌 차업계 시총 3위 점프(종합)]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005086791&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211116&amp;page=1</id>
@@ -60,19 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000997136&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211116&amp;page=1"/>
         <updated>2021-11-15T15:04:58.659Z</updated>
         <content type="html"><![CDATA[한국경제TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올해 IPO 시장은 끝?…리츠株 줄상장 기대받는 이유]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000116252&amp;office_id=629&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211116&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000116252&amp;office_id=629&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211116&amp;page=1"/>
-        <updated>2021-11-15T15:04:58.659Z</updated>
-        <content type="html"><![CDATA[더팩트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이달 개미 2.7조 순매도…대주주 양도세 회피 시작됐나]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005086771&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211116&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005086771&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211116&amp;page=1"/>
-        <updated>2021-11-15T15:04:58.664Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
