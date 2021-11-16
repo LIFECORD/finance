@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-11-16T16:07:23.059Z</updated>
+    <updated>2021-11-16T17:05:35.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[동학개미 덕에…증권사 올해 역대급 실적 잔치]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005087600&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211117&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005087600&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211117&amp;page=1"/>
+        <updated>2021-11-17T01:31:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[마켓인]위드 코로나 시대…‘뷰티 뉴노멀’ 투자 나선 PEF]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005087599&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211117&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005087599&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211117&amp;page=1"/>
+        <updated>2021-11-17T01:21:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[시장은 지금 전기차 열풍…테슬라·리비안 주가 또 폭등]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005087597&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211117&amp;page=1</id>
@@ -60,19 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000997401&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211117&amp;page=1"/>
         <updated>2021-11-16T15:05:56.986Z</updated>
         <content type="html"><![CDATA[한국경제TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['대출 조이기'에도 은행 수익은 '역대급'… "금리 올려 대출자만 피해"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000641543&amp;office_id=469&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211117&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000641543&amp;office_id=469&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211117&amp;page=1"/>
-        <updated>2021-11-16T15:05:56.989Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SK바사, 반등 청신호…아스트라제네카에 노바백스까지]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005087573&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211117&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005087573&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211117&amp;page=1"/>
-        <updated>2021-11-16T15:05:56.990Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>

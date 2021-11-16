@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-16T16:07:23.079Z</updated>
+    <updated>2021-11-16T17:05:35.756Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -31,6 +31,20 @@
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005087597&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005087597&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-16T16:06:10.307Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[마켓인]위드 코로나 시대…‘뷰티 뉴노멀’ 투자 나선 PEF]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005087599&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005087599&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-17T01:21:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[동학개미 덕에…증권사 올해 역대급 실적 잔치]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005087600&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005087600&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-17T01:31:00.000Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
