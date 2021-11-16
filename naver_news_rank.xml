@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-16T00:20:46.224Z</updated>
+    <updated>2021-11-16T01:50:42.254Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -132,13 +132,6 @@
         <content type="html"><![CDATA[데일리안]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[뉴욕마감]다우 0.04% 하락…대형 유통 실적 앞두고 관망]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005725884&amp;office_id=421&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005725884&amp;office_id=421&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-16T06:55:00.000Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[뉴욕증시, 고점 부담에 숨고르기…테슬라 1.9%↓ 리비안 15%..]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000997151&amp;office_id=215&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000997151&amp;office_id=215&amp;mode=RANK&amp;typ=0"/>
@@ -179,5 +172,12 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004628897&amp;office_id=015&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-16T07:15:00.000Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주식 매매 상위 종목 및 환율] 2021년 11월 15일자]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003653291&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003653291&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-16T03:05:00.000Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
