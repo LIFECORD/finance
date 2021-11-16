@@ -2,43 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-16T19:05:41.805Z</updated>
+    <updated>2021-11-16T20:06:26.579Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[마켓인]위드 코로나 시대…‘뷰티 뉴노멀’ 투자 나선 PEF]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005087599&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005087599&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-17T01:21:00.000Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한달간 40% 오른 에코프로비엠, 코스닥 시총 1위 넘본다]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005087595&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005087595&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-16T16:06:10.304Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시장은 지금 전기차 열풍…테슬라·리비안 주가 또 폭등]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005087597&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005087597&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-16T16:06:10.307Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[동학개미 덕에…증권사 올해 역대급 실적 잔치]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005087600&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005087600&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-17T01:31:00.000Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에프앤가이드, 테마형 액티브 ETF 비교지수 3종 선보여]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005087594&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005087594&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-16T16:06:10.305Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
+        <title type="html"><![CDATA[[주요경제지표] 2021년 11월 16일자]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003653480&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003653480&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-17T03:02:00.000Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뉴욕증시, 기업실적·소매판매 호조에 상승 출발]]></title>
@@ -48,11 +20,18 @@
         <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[주요경제지표] 2021년 11월 16일자]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003653480&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003653480&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-17T03:02:00.000Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
+        <title type="html"><![CDATA[시장은 지금 전기차 열풍…테슬라·리비안 주가 또 폭등]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005087597&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005087597&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-16T16:06:10.307Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[마켓인]위드 코로나 시대…‘뷰티 뉴노멀’ 투자 나선 PEF]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005087599&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005087599&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-17T01:21:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[머스크 지분 처분에… ‘천슬라’ 한때 무너진 테슬라]]></title>
@@ -62,11 +41,32 @@
         <content type="html"><![CDATA[동아일보]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[한달간 40% 오른 에코프로비엠, 코스닥 시총 1위 넘본다]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005087595&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005087595&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-16T16:06:10.304Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[주식 매매 상위 종목 및 환율] 2021년 11월 16일자]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003653524&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003653524&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-17T03:05:00.000Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에프앤가이드, 테마형 액티브 ETF 비교지수 3종 선보여]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005087594&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005087594&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-16T16:06:10.305Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[동학개미 덕에…증권사 올해 역대급 실적 잔치]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005087600&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005087600&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-17T01:31:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[유럽증시] 독일·프랑스 또 역대 최고치 경신…영국은 하락]]></title>
@@ -81,5 +81,26 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004671376&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-17T03:56:00.000Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[맞춤형 투자자 교육으로 돌다리도 두들겨 보자]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004671380&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004671380&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-17T04:20:00.000Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독]김상범 전 넥슨 CCO '두나무 지분 2.3%' 대박....]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004671383&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004671383&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-17T04:43:00.000Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뉴욕유가] IEA "원유 공급 증가"에 소폭 하락]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012797750&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012797750&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-17T04:55:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
