@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=429</id>
     <title>네이버 금융 ─ 뉴스 ─ 환율</title>
-    <updated>2021-11-16T06:08:43.622Z</updated>
+    <updated>2021-11-16T07:07:09.527Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[환율, 미중 정상회담에 '널뛰기'…1,179.9원 마감]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012797029&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211116&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012797029&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211116&amp;page=1"/>
+        <updated>2021-11-16T07:05:42.189Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012797029&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211116&amp;page=1" title="환율, 미중 정상회담에 '널뛰기'…1,179.9원 마감">환율, 미중 정상회담에 '널뛰기'…1,179.9원 마감</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[산업부·국토부·환경부 홈페이지에서 요소수 재고 확인하세요]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003985905&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211116&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012795281&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211116&amp;page=1"/>
         <updated>2021-11-16T01:48:52.003Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012795281&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211116&amp;page=1" title="코스피, 2,990대 하락 출발">코스피, 2,990대 하락 출발</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코스닥 1,020대 등락]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0012795280&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211116&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012795280&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211116&amp;page=1"/>
-        <updated>2021-11-16T01:48:52.003Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012795280&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211116&amp;page=1" title="코스닥 1,020대 등락">코스닥 1,020대 등락</a>]]></content>
     </entry>
 </feed>
