@@ -2,15 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-16T11:05:30.091Z</updated>
+    <updated>2021-11-16T12:10:28.946Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[에프앤가이드, 테마형 액티브 ETF 비교지수 3종 출시]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000774323&amp;office_id=366&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000774323&amp;office_id=366&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-16T10:05:28.253Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
+        <title type="html"><![CDATA[[시그널] MBK, 日 골프장 체인 매각해 3조 잭팟]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003986085&amp;office_id=011&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003986085&amp;office_id=011&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-16T11:04:20.492Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국테크놀로지,  NFT·부동산 코인 개발 4자 업무협약 체결]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004671320&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004671320&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-16T11:04:20.479Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“높아진 금리 변동성, 장기국채 매수 기회로 삼아야”]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005087553&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005087553&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-16T11:04:20.488Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KB증권, 'M-able 미니' 다운로드 수 34만 돌파]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004880090&amp;office_id=009&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004880090&amp;office_id=009&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-16T11:04:20.481Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[거래소 “오는 18일 NH올원리츠·바이옵트로 신규 상장”]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005087552&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005087552&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-16T11:04:20.486Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[네오위즈, 200억원에 게임 SW 개발업체 지분 100% 취득]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005087544&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005087544&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-16T11:04:20.477Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[에셋플러스자산운용, 액티브 ETF 상장 첫날 78만주 거래 '대..]]></title>
@@ -20,11 +55,11 @@
         <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[에이치엘비 컨소시엄, 지트리비앤티 인수 확정]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005087537&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005087537&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-16T11:04:20.473Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
+        <title type="html"><![CDATA[한국타이어 부분파업…대전·금산공장 4일간 6시간씩 가동중단]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012797427&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012797427&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-16T12:09:19.684Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[거래소 “나노캠텍, 상장적격성 실질심사 대상 결정”]]></title>
@@ -41,60 +76,11 @@
         <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[네오위즈, 200억원에 게임 SW 개발업체 지분 100% 취득]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005087544&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005087544&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-16T11:04:20.477Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국테크놀로지,  NFT·부동산 코인 개발 4자 업무협약 체결]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004671320&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004671320&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-16T11:04:20.479Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MBK파트너스, 일본 골프장 체인 '아코디아' 4조원에 매각]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0010836181&amp;office_id=003&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0010836181&amp;office_id=003&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-16T10:05:28.287Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KB증권, 'M-able 미니' 다운로드 수 34만 돌파]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004880090&amp;office_id=009&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004880090&amp;office_id=009&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-16T11:04:20.481Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6일째 파는 머스크에 청구소송까지…'천슬라' 결국 무너지나?]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004671314&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004671314&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-16T11:04:20.482Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에이치엘비, 지트리비앤티 인수 완료…사명 'HLB테라퓨틱스'로 ..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0010836180&amp;office_id=003&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0010836180&amp;office_id=003&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-16T11:04:20.483Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[특징주] 펄어비스, 중국 퍼블리싱 계약 소식에 '최고가'(종합..]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0012797043&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012797043&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-16T08:07:19.957Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[거래소 “오는 18일 NH올원리츠·바이옵트로 신규 상장”]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005087552&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005087552&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-16T11:04:20.486Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[메리츠금융·카카오페이, 내달 '코스피 200' 편입 기대]]></title>
@@ -104,13 +90,6 @@
         <content type="html"><![CDATA[서울경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“높아진 금리 변동성, 장기국채 매수 기회로 삼아야”]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005087553&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005087553&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-16T11:04:20.488Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[특징주] 메타버스 탑승한 '엔피' 30.0%↑...장중 상한가..]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0002982369&amp;office_id=030&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0002982369&amp;office_id=030&amp;mode=RANK&amp;typ=0"/>
@@ -118,11 +97,25 @@
         <content type="html"><![CDATA[전자신문]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[마켓인]MBK파트너스, 日 최대 골프체인 4조원에 매각]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005087533&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005087533&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-16T11:04:20.490Z</updated>
+        <title type="html"><![CDATA[에이치엘비 컨소시엄, 지트리비앤티 인수 확정]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005087537&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005087537&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-16T11:04:20.473Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(영상)반도체·원자재·운송비 ‘3중고’에 타이어株 휘청...투자..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005087562&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005087562&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-16T12:09:19.693Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['오랜 친구'라던 시진핑-바이든… 개인 친분에도 온기는 사라졌다]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000641520&amp;office_id=469&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000641520&amp;office_id=469&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-16T12:09:19.694Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[속보] 테슬라 1.91% 하락, 겨우 '천슬라' 지켜]]></title>
@@ -132,11 +125,11 @@
         <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[시그널] MBK, 日 골프장 체인 매각해 3조 잭팟]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003986085&amp;office_id=011&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003986085&amp;office_id=011&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-16T11:04:20.492Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
+        <title type="html"><![CDATA[MBK파트너스, 일본 골프장 체인 '아코디아' 4조원에 매각]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0010836181&amp;office_id=003&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0010836181&amp;office_id=003&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-16T10:05:28.287Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[속보]미 국채금리 1.6%대 반등…뉴욕 증시 약보합]]></title>
@@ -146,6 +139,20 @@
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[미래에셋자산운용 "글로벌 리츠로 부동산 투자업계 선도하겠다"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0002706415&amp;office_id=029&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0002706415&amp;office_id=029&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-16T12:09:19.703Z</updated>
+        <content type="html"><![CDATA[디지털타임스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에이치엘비, 지트리비앤티 인수 완료…사명 'HLB테라퓨틱스'로 ..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0010836180&amp;office_id=003&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0010836180&amp;office_id=003&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-16T11:04:20.483Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[단독]'업비트 대박' 두나무 기업가치 8년 만에 '주당 40원..]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004670826&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004670826&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
@@ -153,11 +160,11 @@
         <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한국타이어앤테크놀로지, 대전·금산공장 생산중단...“임단협 관련..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005087530&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005087530&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-16T10:05:28.259Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
+        <title type="html"><![CDATA[엔씨소프트 3000억 슈퍼개미, 주가 조작 조사에 주식 매도]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0002706414&amp;office_id=029&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0002706414&amp;office_id=029&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-16T12:09:19.709Z</updated>
+        <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[올해 IPO 시장은 끝?…리츠株 줄상장 기대받는 이유]]></title>
@@ -172,12 +179,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005000305&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-16T11:43:00.000Z</updated>
         <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['7만전자' 탈출 언제?…'공매도' 우려에 개미 이탈 변수]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0002548489&amp;office_id=119&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0002548489&amp;office_id=119&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-16T11:43:00.000Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
     </entry>
 </feed>
