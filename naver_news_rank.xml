@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-16T08:08:24.742Z</updated>
+    <updated>2021-11-16T09:06:33.613Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012797043&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-16T08:07:19.957Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 메타버스 탑승한 '엔피' 30.0%↑...장중 상한가..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0002982369&amp;office_id=030&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0002982369&amp;office_id=030&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-16T09:05:25.392Z</updated>
+        <content type="html"><![CDATA[전자신문]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[속보] 테슬라 1.91% 하락, 겨우 '천슬라' 지켜]]></title>
@@ -60,13 +67,6 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000018557&amp;office_id=243&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-16T06:01:00.000Z</updated>
         <content type="html"><![CDATA[이코노미스트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[특징주] 디어유, 이틀째 급등…9만원 돌파(종합)]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0012796819&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012796819&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-16T08:07:19.980Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[호재에 주가 뜬 보잉·실적 우려에도 달리는 루시드 [뉴욕증시 나..]]></title>
