@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-11-16T01:50:42.283Z</updated>
+    <updated>2021-11-16T02:22:56.214Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴스포커스] 신규확진 2,125명…부스터샷 간격 단축 검토]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000514194&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211116&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000514194&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211116&amp;page=1"/>
+        <updated>2021-11-16T10:58:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[이슈앤 직설] 대선후보 부동산 공약…‘종부세 폐지-양도세 완화’ 될까?]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000264616&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211116&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000264616&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211116&amp;page=1"/>
+        <updated>2021-11-16T10:53:00.000Z</updated>
+        <content type="html"><![CDATA[SBS Biz]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2,125명 확진…위중증 500명 육박해 또 최대]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000514189&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211116&amp;page=1</id>
@@ -60,19 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000264611&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211116&amp;page=1"/>
         <updated>2021-11-16T09:49:00.000Z</updated>
         <content type="html"><![CDATA[SBS Biz]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[송재경의 인사이트] ‘인플레’ 위기를 기회로…연말 투자 피난처는 농산물ETF?]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000264607&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211116&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000264607&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211116&amp;page=1"/>
-        <updated>2021-11-16T09:36:00.000Z</updated>
-        <content type="html"><![CDATA[SBS Biz]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["고령 소비자 휴대전화 관련 피해 해마다 증가"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000514182&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211116&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000514182&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211116&amp;page=1"/>
-        <updated>2021-11-16T09:16:00.000Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
     </entry>
 </feed>
