@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=429</id>
     <title>네이버 금융 ─ 뉴스 ─ 환율</title>
-    <updated>2021-11-16T05:06:24.929Z</updated>
+    <updated>2021-11-16T06:08:43.622Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[산업부·국토부·환경부 홈페이지에서 요소수 재고 확인하세요]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003985905&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211116&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003985905&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211116&amp;page=1"/>
+        <updated>2021-11-16T06:07:18.111Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003985905&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211116&amp;page=1" title="산업부·국토부·환경부 홈페이지에서 요소수 재고 확인하세요">산업부·국토부·환경부 홈페이지에서 요소수 재고 확인하세요</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[탄소 중립 위해 수소·암모니아 발전 2035년 상용화]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003985849&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211116&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012795280&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211116&amp;page=1"/>
         <updated>2021-11-16T01:48:52.003Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012795280&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211116&amp;page=1" title="코스닥 1,020대 등락">코스닥 1,020대 등락</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원/달러 환율 상승 출발]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0012795278&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211116&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012795278&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211116&amp;page=1"/>
-        <updated>2021-11-16T01:48:52.005Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012795278&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211116&amp;page=1" title="원/달러 환율 상승 출발">원/달러 환율 상승 출발</a>]]></content>
     </entry>
 </feed>
