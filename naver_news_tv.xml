@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-11-17T15:06:33.345Z</updated>
+    <updated>2021-11-17T16:09:26.425Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[요소수 가격 3~4배 차이…"사기 당하는 것 같다"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000934130&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211118&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000934130&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211118&amp;page=1"/>
+        <updated>2021-11-18T01:05:00.000Z</updated>
+        <content type="html"><![CDATA[SBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['다음' PC서 일시 접속 장애…"트래픽 병목 탓"]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000514482&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211118&amp;page=1</id>
@@ -66,13 +73,6 @@
         <id>https://finance.naver.com/news/news_read.naver?article_id=0011158811&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211118&amp;page=1</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0011158811&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211118&amp;page=1"/>
         <updated>2021-11-17T15:05:38.090Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“약자에 더 가혹” 소액결제 ‘연체료’…과징금 169억 원]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0011158810&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211118&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011158810&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211118&amp;page=1"/>
-        <updated>2021-11-17T15:05:38.092Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
