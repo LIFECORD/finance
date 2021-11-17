@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-17T16:09:26.433Z</updated>
+    <updated>2021-11-17T17:12:34.330Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[유안타증권, 삼성전자 배당금 중복지급 사고]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000774619&amp;office_id=366&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000774619&amp;office_id=366&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-17T16:07:56.674Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[뉴욕증시, 실적 호조에도 인플레 그림자에 하락 출발]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0012800917&amp;office_id=001&amp;mode=RANK&amp;typ=0</id>
@@ -25,6 +18,13 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000997681&amp;office_id=215&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-17T16:07:56.678Z</updated>
         <content type="html"><![CDATA[한국경제TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유안타증권, 삼성전자 배당금 중복지급 사고]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000774619&amp;office_id=366&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000774619&amp;office_id=366&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-17T16:07:56.674Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[골드만삭스 CEO "탐욕이 너무 앞섰다. 오래 가지 않는다"]]></title>
@@ -46,5 +46,12 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000997683&amp;office_id=215&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-17T16:07:56.686Z</updated>
         <content type="html"><![CDATA[한국경제TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[바이오 사라진 자리 차지한 2차 전지·게임株]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005088527&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005088527&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-18T01:31:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
