@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=401</id>
     <title>네이버 금융 ─ 뉴스 ─ 시황·전망</title>
-    <updated>2021-11-17T04:08:58.117Z</updated>
+    <updated>2021-11-17T05:06:12.380Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[오후 주식시장은]외국인·기관 매도에 코스피 1% 넘게 급락]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003986327&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211117&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003986327&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211117&amp;page=1"/>
+        <updated>2021-11-17T05:04:19.863Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003986327&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211117&amp;page=1" title="[오후 주식시장은]외국인·기관 매도에 코스피 1% 넘게 급락">[오후 주식시장은]외국인·기관 매도에 코스피 1% 넘게 급락</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["개미들이 많이 산 만큼 팔겠죠"…대주주 요건 회피 물량 나오기 시작했다]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004880321&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211117&amp;page=1</id>
@@ -53,12 +60,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001913656&amp;office_id=016&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211117&amp;page=1"/>
         <updated>2021-11-17T02:21:28.011Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0001913656&amp;office_id=016&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211117&amp;page=1" title="[특징주] LIG넥스원 9%대 상승">[특징주] LIG넥스원 9%대 상승</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[특징주] UAE, 韓 미사일 '천궁' 4조 구매 소식에 LIG넥스원 '축포']]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003986253&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211117&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003986253&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211117&amp;page=1"/>
-        <updated>2021-11-17T02:21:28.011Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003986253&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211117&amp;page=1" title="[특징주] UAE, 韓 미사일 '천궁' 4조 구매 소식에 LIG넥스원 '축포'">[특징주] UAE, 韓 미사일 '천궁' 4조 구매 소식에 LIG넥스원 '축포'</a>]]></content>
     </entry>
 </feed>
