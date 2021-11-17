@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-16T23:06:24.384Z</updated>
+    <updated>2021-11-17T00:21:38.409Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -111,13 +111,6 @@
         <content type="html"><![CDATA[한국경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[32nd SRE][Worst]롯데쇼핑, '낡은 이미지' 선두주..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005087644&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005087644&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-17T06:46:00.000Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[뉴욕증시, 실적 호조에 상승 마감…테슬라 4%↑]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000116475&amp;office_id=629&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000116475&amp;office_id=629&amp;mode=RANK&amp;typ=0"/>
@@ -144,6 +137,13 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003986115&amp;office_id=011&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-17T06:22:00.000Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대신증권 “네패스, 적자 지속에도 PMIC 패키징 가동률 회복”]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000774362&amp;office_id=366&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000774362&amp;office_id=366&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-17T08:33:00.000Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뉴욕증시, 기업실적 호조·강한 10월 소매판매…3대 지수 상승]]></title>
