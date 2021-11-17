@@ -2,15 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-17T02:23:26.260Z</updated>
+    <updated>2021-11-17T03:06:55.475Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[특징주] LIG넥스원 9%대 상승]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001913656&amp;office_id=016&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001913656&amp;office_id=016&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-17T10:53:00.000Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주]조이시티, 위믹스 플랫폼 활용 게임 출시 기대감 '상승..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005000894&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005000894&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-17T10:59:00.000Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한달간 40% 오른 에코프로비엠, 코스닥 시총 1위 넘본다]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005087595&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005087595&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-16T16:06:10.304Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주]초록뱀컴퍼니, MZ세대 ‘메타버스’ 싸이월드 오픈 소식..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004741138&amp;office_id=014&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004741138&amp;office_id=014&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-17T10:58:00.000Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[나스닥 0.8% 상승 마감…소매 판매 + 유통 실적 호재]]></title>
@@ -104,6 +125,13 @@
         <content type="html"><![CDATA[비즈니스워치]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[공장탐방]쓰리메디비젼, '메타버스 수의교육 플랫폼' 글로벌시장..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005000950&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005000950&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-17T11:26:00.000Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA["삼성전자, 올 4분기 바닥 확인…비중 확대 적기"-KB]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004629371&amp;office_id=015&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004629371&amp;office_id=015&amp;mode=RANK&amp;typ=0"/>
@@ -151,33 +179,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012797809&amp;office_id=001&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-17T06:34:00.000Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[특징주] 소프트캠프, MS 메타버스 '팀즈' 통합 추진 보안솔..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004741068&amp;office_id=014&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004741068&amp;office_id=014&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-17T10:10:00.000Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[32nd SRE][Industry]'사면초가' 공기업발전 업황..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005087663&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005087663&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-17T07:08:00.000Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[클릭 e종목]"에스제이그룹, 내년에도 캉골키즈 고성장 전망"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005000643&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005000643&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-17T07:02:00.000Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[e공시 눈에 띄네] 코스닥-16일]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005000652&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005000652&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-17T07:18:00.000Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
 </feed>

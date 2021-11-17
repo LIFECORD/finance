@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/research/debenture_list.naver</id>
     <title>네이버 금융 ─ 리서치 ─ 채권분석 리포트</title>
-    <updated>2021-11-17T02:23:26.239Z</updated>
+    <updated>2021-11-17T03:06:55.472Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/research/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[예측말고 대응]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/debenture/1637116097479.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/debenture/1637116097479.pdf"/>
+        <updated>2021-11-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[하나금융투자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국내채권: 중금리 · 중물가 시대로의 전환]]></title>
         <id>https://ssl.pstatic.net/imgstock/upload/research/debenture/1637032887844.pdf</id>
@@ -207,12 +214,5 @@
         <link href="https://ssl.pstatic.net/imgstock/upload/research/debenture/1632881420132.pdf"/>
         <updated>2021-10-14T00:13:16.399Z</updated>
         <content type="html"><![CDATA[IBK투자증권]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9월 FOMC: 11월 테이퍼링 시작에 무게]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/debenture/1632362661451.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/debenture/1632362661451.pdf"/>
-        <updated>2021-10-14T00:13:16.401Z</updated>
-        <content type="html"><![CDATA[교보증권]]></content>
     </entry>
 </feed>

@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/research/invest_list.naver</id>
     <title>네이버 금융 ─ 리서치 ─ 투자정보 리포트</title>
-    <updated>2021-11-17T02:23:26.254Z</updated>
+    <updated>2021-11-17T03:06:55.446Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/research/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미래에셋증권 Daily 종합]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/invest/1637117091247.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/invest/1637117091247.pdf"/>
+        <updated>2021-11-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[미래에셋증권]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미 증시, 견고한 소매판매와 종목 쏠림 현상에 힘입어..]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/invest/1637117049227.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/invest/1637117049227.pdf"/>
+        <updated>2021-11-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[미래에셋증권]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Global Issue & News]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/invest/1637115846583.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/invest/1637115846583.pdf"/>
+        <updated>2021-11-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[하나금융투자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[케이프 모닝브리프]]></title>
         <id>https://ssl.pstatic.net/imgstock/upload/research/invest/1637115721681.pdf</id>
@@ -193,26 +214,5 @@
         <link href="https://ssl.pstatic.net/imgstock/upload/research/invest/1636337830602.pdf"/>
         <updated>2021-11-08T00:00:00.000Z</updated>
         <content type="html"><![CDATA[하나금융투자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요소와 마그네슘 대란에서 보는 중국의 변화]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/invest/1636337751973.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/invest/1636337751973.pdf"/>
-        <updated>2021-11-08T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[하나금융투자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[케이프 모닝브리프]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/invest/1636337619824.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/invest/1636337619824.pdf"/>
-        <updated>2021-11-08T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[케이프투자증권]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EM 자금 순유입]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/invest/1636336734147.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/invest/1636336734147.pdf"/>
-        <updated>2021-11-08T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[이베스트증권]]></content>
     </entry>
 </feed>
