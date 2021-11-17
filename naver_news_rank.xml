@@ -2,23 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-17T07:07:14.403Z</updated>
+    <updated>2021-11-17T08:07:48.451Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[[특징주] 한글과컴퓨터, 싸이월드와 메타버스·NFT 사업 구축에..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000755345&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000755345&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-17T06:06:48.870Z</updated>
-        <content type="html"><![CDATA[머니S]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[특징주] 삼영에스앤씨 수소연료전지용 온습도 센서 개발 소식에 ..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003986363&amp;office_id=011&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003986363&amp;office_id=011&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-17T06:06:48.870Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[한달간 40% 오른 에코프로비엠, 코스닥 시총 1위 넘본다]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005087595&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
@@ -41,10 +27,24 @@
         <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[특징주] 삼영에스앤씨 수소연료전지용 온습도 센서 개발 소식에 ..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003986363&amp;office_id=011&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003986363&amp;office_id=011&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-17T06:06:48.870Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[특징주] 알로이스, 주당 1주 무상증자 결정에 '급등']]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000755319&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000755319&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-17T05:04:59.161Z</updated>
+        <content type="html"><![CDATA[머니S]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 한글과컴퓨터, 싸이월드와 메타버스·NFT 사업 구축에..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000755345&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000755345&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-17T06:06:48.870Z</updated>
         <content type="html"><![CDATA[머니S]]></content>
     </entry>
     <entry>
