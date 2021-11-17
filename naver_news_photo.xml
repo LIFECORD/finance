@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-11-17T17:12:34.338Z</updated>
+    <updated>2021-11-17T18:06:40.652Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[교보생명 IPO 3년만에 재추진… “내년 상반기 코스피 상장”]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003394349&amp;office_id=020&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211118&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003394349&amp;office_id=020&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211118&amp;page=1"/>
+        <updated>2021-11-18T03:05:00.000Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주식 매매 상위 종목 및 환율] 2021년 11월 17일자]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003653756&amp;office_id=023&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211118&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003653756&amp;office_id=023&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211118&amp;page=1"/>
+        <updated>2021-11-18T03:02:00.000Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[셀트리온 삼형제, 주가 회복세에도 공매도 잔고는 급증]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005088528&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211118&amp;page=1</id>
@@ -60,19 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000774619&amp;office_id=366&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211118&amp;page=1"/>
         <updated>2021-11-17T16:08:04.134Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['착한 기업'이 오히려 독···호실적에도 주가 급락한 타겟 [뉴욕증시 나우]]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000997681&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211118&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000997681&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211118&amp;page=1"/>
-        <updated>2021-11-17T16:08:04.135Z</updated>
-        <content type="html"><![CDATA[한국경제TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부채비율 낮아졌지만…여행株 자금난 여전]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005088519&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211118&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005088519&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211118&amp;page=1"/>
-        <updated>2021-11-17T15:05:32.066Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
