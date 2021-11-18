@@ -2,77 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-11-18T03:07:17.359Z</updated>
+    <updated>2021-11-18T04:07:54.207Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[이슈탐사] '국민 횟감'에 무슨 일이? 광어값 폭등의 비밀]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000934212&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211118&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000934212&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211118&amp;page=1"/>
-        <updated>2021-11-18T00:00:00.000Z</updated>
+        <title type="html"><![CDATA[한국소비자원, ‘형광램프 대체형 LED 램프’ 제품별 품질 1.7배 차이]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0011159367&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211118&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011159367&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211118&amp;page=1"/>
+        <updated>2021-11-18T04:06:49.061Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뉴스초점] 성인 61% "노력해도 못올라가"…끊어진 '계층 사다리']]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000514551&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211118&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000514551&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211118&amp;page=1"/>
+        <updated>2021-11-18T00:55:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SK바이오, AZ 코로나 백신 생산 계약 연말 종료 전망]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000514550&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211118&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000514550&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211118&amp;page=1"/>
+        <updated>2021-11-18T00:50:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이폰 13·12 통화끊김 현상…애플 새벽에 업데이트]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000514549&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211118&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000514549&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211118&amp;page=1"/>
+        <updated>2021-11-18T00:49:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[재난지원금에 3분기 가계소득 8% 증가…역대 최대폭]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000514544&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211118&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000514544&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211118&amp;page=1"/>
+        <updated>2021-11-18T00:41:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신규 확진 3,292명 '역대 최다'…위중증 500명대]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000514543&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211118&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000514543&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211118&amp;page=1"/>
+        <updated>2021-11-18T00:40:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["내 집 마련, 빌라로"…매매 비중 아파트보다 높아]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000934217&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211118&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000934217&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211118&amp;page=1"/>
+        <updated>2021-11-18T00:35:00.000Z</updated>
         <content type="html"><![CDATA[SBS]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“중대재해 최종 책임은 대표이사”…경영계 “여전히 구체적 부족”]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000264913&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211118&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000264913&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211118&amp;page=1"/>
-        <updated>2021-11-18T11:55:00.000Z</updated>
-        <content type="html"><![CDATA[SBS Biz]]></content>
+        <title type="html"><![CDATA[올해 종부세 다주택자 중심으로 4조원↑]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0011159348&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211118&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011159348&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211118&amp;page=1"/>
+        <updated>2021-11-18T00:35:00.000Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[은행 ‘이자파티’ 비판에 금융당국 “규제보다 대외영향 탓”]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000264912&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211118&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000264912&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211118&amp;page=1"/>
-        <updated>2021-11-18T11:52:00.000Z</updated>
-        <content type="html"><![CDATA[SBS Biz]]></content>
+        <title type="html"><![CDATA[플랫폼 종사자 220만 명…“보호 필요”]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0011159346&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211118&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011159346&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211118&amp;page=1"/>
+        <updated>2021-11-18T00:33:00.000Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[재난지원금 압박에…정부, 자영업자 손실보상안 발표 연기]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000264911&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211118&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000264911&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211118&amp;page=1"/>
-        <updated>2021-11-18T11:52:00.000Z</updated>
-        <content type="html"><![CDATA[SBS Biz]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LIG·한화·기아 ‘K-방산 어벤저스’ 잭팟…UAE에 4조 수출 임박]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000264909&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211118&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000264909&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211118&amp;page=1"/>
-        <updated>2021-11-18T11:50:00.000Z</updated>
-        <content type="html"><![CDATA[SBS Biz]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘예측가능하게 한다더니’…‘예측불가’ 종합검사에 우리금융 ‘당혹’]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000264908&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211118&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000264908&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211118&amp;page=1"/>
-        <updated>2021-11-18T11:49:00.000Z</updated>
-        <content type="html"><![CDATA[SBS Biz]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] BGF리테일, SK그룹 투자한 美 기업에 1000만달러 투자 ‘주목’]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000264907&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211118&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000264907&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211118&amp;page=1"/>
-        <updated>2021-11-18T11:44:00.000Z</updated>
-        <content type="html"><![CDATA[SBS Biz]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“미안하다 고맙다” 정용진 이번엔 “공산당 싫어요” 시끌]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000264906&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211118&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000264906&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211118&amp;page=1"/>
-        <updated>2021-11-18T11:41:00.000Z</updated>
-        <content type="html"><![CDATA[SBS Biz]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부품 불량·연료 누유…테슬라·BMW 등 4개사 2천530대 리콜]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000264904&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211118&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000264904&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211118&amp;page=1"/>
-        <updated>2021-11-18T11:39:00.000Z</updated>
-        <content type="html"><![CDATA[SBS Biz]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] KT, 통신장애 피해접수 더 받는다…‘보상 TF’ 구성도 추진]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000264903&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211118&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000264903&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211118&amp;page=1"/>
-        <updated>2021-11-18T11:36:00.000Z</updated>
-        <content type="html"><![CDATA[SBS Biz]]></content>
+        <title type="html"><![CDATA[하남 3~4억·과천 5~8억 원대…3차 공공분야 사전청약 오늘 시작]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0011159339&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211118&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011159339&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211118&amp;page=1"/>
+        <updated>2021-11-18T00:19:00.000Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
