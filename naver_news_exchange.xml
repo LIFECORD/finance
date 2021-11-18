@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=429</id>
     <title>네이버 금융 ─ 뉴스 ─ 환율</title>
-    <updated>2021-11-18T06:08:04.423Z</updated>
+    <updated>2021-11-18T07:07:58.189Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[원/달러 환율 1,180.4원 마감…2.1원 하락]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012803051&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211118&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012803051&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211118&amp;page=1"/>
+        <updated>2021-11-18T07:06:43.423Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012803051&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211118&amp;page=1" title="원/달러 환율 1,180.4원 마감…2.1원 하락">원/달러 환율 1,180.4원 마감…2.1원 하락</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[중국 총리 "경제 하방압력 있지만 통화완화 안 한다"]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0012802837&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211118&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012799495&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211118&amp;page=1"/>
         <updated>2021-11-17T15:05:20.312Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012799495&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211118&amp;page=1" title="인천세관 &quot;1만달러 넘는 외화 꼭 신고하세요&quot;…적발시 과태료">인천세관 "1만달러 넘는 외화 꼭 신고하세요"…적발시 과태료</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일본 엔화 가치, 4년8개월만에 최저…강달러 영향]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0012797992&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211118&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012797992&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211118&amp;page=1"/>
-        <updated>2021-11-17T15:05:20.313Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012797992&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211118&amp;page=1" title="일본 엔화 가치, 4년8개월만에 최저…강달러 영향">일본 엔화 가치, 4년8개월만에 최저…강달러 영향</a>]]></content>
     </entry>
 </feed>

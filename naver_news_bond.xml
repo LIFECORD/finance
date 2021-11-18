@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=404</id>
     <title>네이버 금융 ─ 뉴스 ─ 채권 선물</title>
-    <updated>2021-11-18T06:08:04.428Z</updated>
+    <updated>2021-11-18T07:07:58.187Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한화운용 "올해 수익률 상위 TDF 10개 중 4개 차지"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004881074&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211118&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004881074&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211118&amp;page=1"/>
+        <updated>2021-11-18T07:06:31.448Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004881074&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211118&amp;page=1" title="한화운용 &quot;올해 수익률 상위 TDF 10개 중 4개 차지&quot;">한화운용 "올해 수익률 상위 TDF 10개 중 4개 차지"</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한투운용 ‘KINDEX 미국S&P500 ETF’ 순자산 5000억 돌파]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005088731&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211118&amp;page=1</id>
