@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/research/company_list.naver</id>
     <title>네이버 금융 ─ 리서치 ─ 종목분석 리포트</title>
-    <updated>2021-11-18T00:21:20.733Z</updated>
+    <updated>2021-11-18T01:50:38.139Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/research/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[여전히 비용 부담이 관건]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/company/1637199826356.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1637199826356.pdf"/>
+        <updated>2021-11-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[와이솔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[발전 부문 실적 빠르게 개선되는 중]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/company/1637199756071.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1637199756071.pdf"/>
+        <updated>2021-11-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[삼천리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영역 확장으로 얻게 될 효과]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/company/1637198739142.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1637198739142.pdf"/>
+        <updated>2021-11-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[스카이라이프]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[착실한 성장을 보여주는 GA(독립법인보험대리..]]></title>
         <id>https://ssl.pstatic.net/imgstock/upload/research/company/1637116834752.pdf</id>
@@ -193,26 +214,5 @@
         <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1636945283236.pdf"/>
         <updated>2021-11-15T00:00:00.000Z</updated>
         <content type="html"><![CDATA[한세실업]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[압도적이지는 않지만 좋은 실적]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/company/1636945205557.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1636945205557.pdf"/>
-        <updated>2021-11-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[삼성화재]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[화물이 다 했다, 운송 Top-pick!]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/company/1636944597678.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1636944597678.pdf"/>
-        <updated>2021-11-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[대한항공]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[물류 병목현상은 지속되지만, 목표주가는 하..]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/company/1636944537004.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1636944537004.pdf"/>
-        <updated>2021-11-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[HMM]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/research/invest_list.naver</id>
     <title>네이버 금융 ─ 리서치 ─ 투자정보 리포트</title>
-    <updated>2021-11-18T00:21:20.707Z</updated>
+    <updated>2021-11-18T01:50:38.127Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/research/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Global Issue & News]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/invest/1637199450251.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/invest/1637199450251.pdf"/>
+        <updated>2021-11-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[하나금융투자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미래에셋증권 Daily 종합]]></title>
         <id>https://ssl.pstatic.net/imgstock/upload/research/invest/1637117091247.pdf</id>
@@ -205,13 +212,6 @@
         <title type="html"><![CDATA[미국과 한국은 왜 다를까]]></title>
         <id>https://ssl.pstatic.net/imgstock/upload/research/invest/1636337909384.pdf</id>
         <link href="https://ssl.pstatic.net/imgstock/upload/research/invest/1636337909384.pdf"/>
-        <updated>2021-11-08T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[하나금융투자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Global Issue & News]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/invest/1636337830602.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/invest/1636337830602.pdf"/>
         <updated>2021-11-08T00:00:00.000Z</updated>
         <content type="html"><![CDATA[하나금융투자]]></content>
     </entry>
