@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-11-18T01:50:38.124Z</updated>
+    <updated>2021-11-18T02:23:00.422Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[수도권 등 전국 9곳 정비사업 후보지 선정..."8천 가구 공급"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001666548&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211118&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001666548&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211118&amp;page=1"/>
+        <updated>2021-11-18T11:02:00.000Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[자막있슈] 요소수 주유소마다 가격 '천차만별'…대체 이유가 뭐길래?]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000934200&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211118&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000934200&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211118&amp;page=1"/>
+        <updated>2021-11-18T11:01:00.000Z</updated>
+        <content type="html"><![CDATA[SBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이슈앤 직설] 洪 “초과세수 사용처는 손실보상”…기재부, 제발로 걷어찬 ‘신뢰’]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000264891&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211118&amp;page=1</id>
@@ -60,19 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001622275&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211118&amp;page=1"/>
         <updated>2021-11-18T09:55:00.000Z</updated>
         <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신문브리핑 1 ""與 위기감 없어…비상사태 선포할 판"" 외 주요기사]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001622271&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211118&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001622271&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211118&amp;page=1"/>
-        <updated>2021-11-18T09:49:00.000Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열 “건설 중단된 원전 재추진하겠다”…관련주 ‘들썩’]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000264880&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211118&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000264880&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211118&amp;page=1"/>
-        <updated>2021-11-18T09:44:00.000Z</updated>
-        <content type="html"><![CDATA[SBS Biz]]></content>
     </entry>
 </feed>
