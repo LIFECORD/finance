@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-11-18T05:06:33.175Z</updated>
+    <updated>2021-11-18T06:08:04.436Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[이슈& 직설] 기재부, ‘초과세수 19조’ 번복 후폭풍…방역지원금 두고 당정 갈등 심화 ..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000264930&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211118&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000264930&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211118&amp;page=1"/>
+        <updated>2021-11-18T06:07:04.680Z</updated>
+        <content type="html"><![CDATA[SBS Biz]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[김대호의 경제읽기] 네이버 차기 CEO에 'MZ세대' 낙점…쇄신 본격화?]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000514566&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211118&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000514566&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211118&amp;page=1"/>
+        <updated>2021-11-18T06:07:04.686Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['일 vs 가정' 중 선택은?...2021년 사회조사 결과]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001666629&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211118&amp;page=1</id>
@@ -60,19 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001666601&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211118&amp;page=1"/>
         <updated>2021-11-18T05:05:24.635Z</updated>
         <content type="html"><![CDATA[YTN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국소비자원, ‘형광램프 대체형 LED 램프’ 제품별 품질 1.7배 차이]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0011159367&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211118&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011159367&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211118&amp;page=1"/>
-        <updated>2021-11-18T04:06:49.061Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴스초점] 성인 61% "노력해도 못올라가"…끊어진 '계층 사다리']]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000514551&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211118&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000514551&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211118&amp;page=1"/>
-        <updated>2021-11-18T00:55:00.000Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
     </entry>
 </feed>

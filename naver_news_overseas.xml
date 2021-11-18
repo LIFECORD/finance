@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-11-18T05:06:33.124Z</updated>
+    <updated>2021-11-18T06:08:04.424Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엔비디아 3분기 매출 50％↑…기대 상회 '깜짝 실적']]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0012802749&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211118&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012802749&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211118&amp;page=1"/>
+        <updated>2021-11-18T06:06:25.779Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012802749&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211118&amp;page=1" title="엔비디아 3분기 매출 50％↑…기대 상회 '깜짝 실적'">엔비디아 3분기 매출 50％↑…기대 상회 '깜짝 실적'</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['돈나무 언니' 캐시 우드 "포드·GM, 전기차 DNA 없어"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005089102&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211118&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005089102&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211118&amp;page=1"/>
+        <updated>2021-11-18T06:06:25.782Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005089102&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211118&amp;page=1" title="'돈나무 언니' 캐시 우드 &quot;포드·GM, 전기차 DNA 없어&quot;">'돈나무 언니' 캐시 우드 "포드·GM, 전기차 DNA 없어"</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[심상치 않은 농산물 가격 상승세...美 농산물ETF ‘쑥’]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003986852&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211118&amp;page=1</id>
@@ -53,12 +67,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005088849&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211118&amp;page=1"/>
         <updated>2021-11-18T01:48:31.665Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005088849&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211118&amp;page=1" title="환율, 1180원 초반 약보합 등락…달러화 약세">환율, 1180원 초반 약보합 등락…달러화 약세</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["SK하이닉스 中 공장 개량, 美 반대로 무산 가능성"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000997735&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211118&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000997735&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211118&amp;page=1"/>
-        <updated>2021-11-18T01:48:31.666Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000997735&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211118&amp;page=1" title="&quot;SK하이닉스 中 공장 개량, 美 반대로 무산 가능성&quot;">"SK하이닉스 中 공장 개량, 美 반대로 무산 가능성"</a>]]></content>
     </entry>
 </feed>
