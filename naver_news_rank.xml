@@ -2,30 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-18T08:07:50.115Z</updated>
+    <updated>2021-11-18T09:07:18.496Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[[특징주] 조이시티, 위메이드 블록체인 사업 업무협약 체결 부각]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000755839&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000755839&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-18T06:06:52.502Z</updated>
-        <content type="html"><![CDATA[머니S]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[특징주] 한국토지신탁, 후오비코리아 지분 투자 소식에 강세]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000755808&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000755808&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-18T06:06:52.500Z</updated>
-        <content type="html"><![CDATA[머니S]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[특징주]티사이언티픽, 비덴트 강세 속 빗썸 지분 8% 보유 ..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004741934&amp;office_id=014&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004741934&amp;office_id=014&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-18T06:06:52.493Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[특징주] 다날, '싸이월드 결제 서비스'·NFT 진출 소식에 ..]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005732245&amp;office_id=421&amp;mode=RANK&amp;typ=0</id>
@@ -39,6 +18,20 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005088524&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-17T16:07:56.685Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 한국토지신탁, 후오비코리아 지분 투자 소식에 강세]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000755808&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000755808&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-18T06:06:52.500Z</updated>
+        <content type="html"><![CDATA[머니S]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 조이시티, 위메이드 블록체인 사업 업무협약 체결 부각]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000755839&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000755839&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-18T06:06:52.502Z</updated>
+        <content type="html"><![CDATA[머니S]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[교보생명 IPO 3년만에 재추진… “내년 상반기 코스피 상장”]]></title>
@@ -67,6 +60,13 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005088528&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-18T02:01:00.000Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주]티사이언티픽, 비덴트 강세 속 빗썸 지분 8% 보유 ..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004741934&amp;office_id=014&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004741934&amp;office_id=014&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-18T06:06:52.493Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[속보] '저가 매수' 테슬라 3.25% 급등]]></title>
