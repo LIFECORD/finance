@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-11-18T12:10:51.656Z</updated>
+    <updated>2021-11-18T13:16:27.993Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[콜스, 3분기 순익 흑자전환…매출 16%↑]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000997855&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211118&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000997855&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211118&amp;page=1"/>
+        <updated>2021-11-18T13:14:49.145Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000997855&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211118&amp;page=1" title="콜스, 3분기 순익 흑자전환…매출 16%↑">콜스, 3분기 순익 흑자전환…매출 16%↑</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[표]아시아 주요 증시 동향(11월 18일)]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003987095&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211118&amp;page=1</id>
@@ -46,19 +53,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004881183&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211118&amp;page=1"/>
         <updated>2021-11-18T09:05:42.258Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004881183&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211118&amp;page=1" title="월가 지불결제株 위기…아마존이 거부한 비자카드 5% 하락 [자이앤트월드]">월가 지불결제株 위기…아마존이 거부한 비자카드 5% 하락 [자이앤트월드]</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리비안 말고 '태양광 전기차'…소노모터스 첫날 155% 폭등]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004881182&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211118&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004881182&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211118&amp;page=1"/>
-        <updated>2021-11-18T09:05:42.260Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004881182&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211118&amp;page=1" title="리비안 말고 '태양광 전기차'…소노모터스 첫날 155% 폭등">리비안 말고 '태양광 전기차'…소노모터스 첫날 155% 폭등</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바이든 '유가와의 전쟁'…"정유사 불법행위 조사하라"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004630274&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211118&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004630274&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211118&amp;page=1"/>
-        <updated>2021-11-18T09:05:42.261Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004630274&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211118&amp;page=1" title="바이든 '유가와의 전쟁'…&quot;정유사 불법행위 조사하라&quot;">바이든 '유가와의 전쟁'…"정유사 불법행위 조사하라"</a>]]></content>
     </entry>
 </feed>
