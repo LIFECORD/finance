@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-11-18T15:06:28.732Z</updated>
+    <updated>2021-11-18T16:09:03.767Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뉴욕증시, 기업실적 호조·경제지표 개선 불구 혼조세 출발]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000774899&amp;office_id=366&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211119&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000774899&amp;office_id=366&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211119&amp;page=1"/>
+        <updated>2021-11-18T16:07:45.186Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조정장에도 내년 황제주 넘보는 종목]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005089421&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211119&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005089421&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211119&amp;page=1"/>
+        <updated>2021-11-18T16:07:45.189Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美 신규 실업수당 청구건수, 7주 연속 감소]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000997864&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211119&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000997864&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211119&amp;page=1"/>
+        <updated>2021-11-18T16:07:45.190Z</updated>
+        <content type="html"><![CDATA[한국경제TV]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[리비안·루시드 담는 서학개미…테슬라 투심은 어디로?]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000116961&amp;office_id=629&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211119&amp;page=1</id>
@@ -53,26 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000642010&amp;office_id=469&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211119&amp;page=1"/>
         <updated>2021-11-18T15:05:19.860Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["내년 동박의 시대 온다"…증권업계가 주목한 세 가지 종목]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004630416&amp;office_id=015&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211119&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004630416&amp;office_id=015&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211119&amp;page=1"/>
-        <updated>2021-11-18T15:05:19.861Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[동일지배기업 합병 회계처리 `공정가치법` 변경 가능성]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0002706902&amp;office_id=029&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211119&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0002706902&amp;office_id=029&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211119&amp;page=1"/>
-        <updated>2021-11-18T15:05:19.864Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[`금투자`가 든든하네, KRX 거래량 27%↑]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0002706900&amp;office_id=029&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211119&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0002706900&amp;office_id=029&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211119&amp;page=1"/>
-        <updated>2021-11-18T15:05:19.865Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
 </feed>
