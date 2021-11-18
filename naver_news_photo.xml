@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-11-18T16:09:03.767Z</updated>
+    <updated>2021-11-18T17:14:46.221Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서학개미 PICK은 전기차…테·루·리 이달만 4900억원 베팅]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005089424&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211119&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005089424&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211119&amp;page=1"/>
+        <updated>2021-11-19T01:31:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뉴욕증시, 기업실적 호조·경제지표 개선 불구 혼조세 출발]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000774899&amp;office_id=366&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211119&amp;page=1</id>
@@ -13,7 +20,7 @@
         <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[조정장에도 내년 황제주 넘보는 종목]]></title>
+        <title type="html"><![CDATA['주당 100만원' 조정장에도 황제주 넘보는 종목 넷]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005089421&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211119&amp;page=1</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005089421&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211119&amp;page=1"/>
         <updated>2021-11-18T16:07:45.189Z</updated>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003654006&amp;office_id=023&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211119&amp;page=1"/>
         <updated>2021-11-18T15:05:19.860Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리금융 새 주주는 누구… 본입찰에 9곳 참여]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000642010&amp;office_id=469&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211119&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000642010&amp;office_id=469&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211119&amp;page=1"/>
-        <updated>2021-11-18T15:05:19.860Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
 </feed>

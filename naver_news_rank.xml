@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-18T16:09:03.778Z</updated>
+    <updated>2021-11-18T17:14:46.238Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -13,7 +13,7 @@
         <content type="html"><![CDATA[더팩트]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[조정장에도 내년 황제주 넘보는 종목]]></title>
+        <title type="html"><![CDATA['주당 100만원' 조정장에도 황제주 넘보는 종목 넷]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005089421&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005089421&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-18T16:07:37.948Z</updated>
@@ -32,5 +32,12 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000774899&amp;office_id=366&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-18T16:07:37.951Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서학개미 PICK은 전기차…테·루·리 이달만 4900억원 베팅]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005089424&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005089424&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-19T01:31:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>

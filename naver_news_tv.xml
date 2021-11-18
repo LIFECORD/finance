@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-11-18T16:09:03.779Z</updated>
+    <updated>2021-11-18T17:14:46.224Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["시세 조종으로 수익"…매수 몰리자 투자금 '먹튀']]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000934369&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211119&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000934369&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211119&amp;page=1"/>
+        <updated>2021-11-19T01:37:00.000Z</updated>
+        <content type="html"><![CDATA[SBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오늘 한미 FTA 회의...반도체·철강 관세 등 현안 논의]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001666875&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211119&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001666875&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211119&amp;page=1"/>
+        <updated>2021-11-18T17:13:44.064Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[소규모 주택정비 후보지 9곳 선정..."주택 8,500호 추가 확보"]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001666863&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211119&amp;page=1</id>
@@ -60,19 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0011159684&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211119&amp;page=1"/>
         <updated>2021-11-18T15:05:26.619Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美 압박에…SK 중국 반도체 공장 첨단화 무산되나]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000344331&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211119&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000344331&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211119&amp;page=1"/>
-        <updated>2021-11-18T15:05:26.620Z</updated>
-        <content type="html"><![CDATA[TV조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[반도체 부족에…수입차도 '첨단기능' 옵션 빼고 출고]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000344330&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211119&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000344330&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211119&amp;page=1"/>
-        <updated>2021-11-18T15:05:26.621Z</updated>
-        <content type="html"><![CDATA[TV조선]]></content>
     </entry>
 </feed>
