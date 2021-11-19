@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-11-19T15:06:51.710Z</updated>
+    <updated>2021-11-19T16:09:24.814Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[풋락커, 3분기 순익 1억 5800만달러…"긍정적 모멘텀 기대"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000998152&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211120&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000998152&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211120&amp;page=1"/>
+        <updated>2021-11-19T16:08:15.745Z</updated>
+        <content type="html"><![CDATA[한국경제TV]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주간사모펀드] MBK, 2兆 규모 펀드레이징 완료…업계 이목 '집중']]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000117140&amp;office_id=629&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211120&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000004899&amp;office_id=648&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211120&amp;page=1"/>
         <updated>2021-11-19T15:05:37.994Z</updated>
         <content type="html"><![CDATA[비즈니스워치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[표]코스닥 기관·외국인·개인 순매수·도 상위종목(11월 19일-최종치)]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003987421&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211120&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003987421&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211120&amp;page=1"/>
-        <updated>2021-11-19T15:05:37.994Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
