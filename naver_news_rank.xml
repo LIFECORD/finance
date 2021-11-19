@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-19T00:21:03.975Z</updated>
+    <updated>2021-11-19T01:50:45.594Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -174,10 +174,10 @@
         <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[뉴욕증시]실적 좋지만 인플레 우려 압박…다우↓·나스닥↑]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005089457&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005089457&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-19T07:17:00.000Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
+        <title type="html"><![CDATA["원유 공급부족 우려 일시적…내년 코로나19 이전으로 회귀"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005002017&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005002017&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-19T07:15:00.000Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
 </feed>
