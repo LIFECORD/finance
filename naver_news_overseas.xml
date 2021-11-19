@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-11-19T19:06:17.394Z</updated>
+    <updated>2021-11-19T20:06:49.552Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美 국방부, 아마존 구글 MSFT 오라클 등 4곳에 클라우드 계약 입찰 제의]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004630806&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211120&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004630806&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211120&amp;page=1"/>
+        <updated>2021-11-19T20:05:14.914Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004630806&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211120&amp;page=1" title="美 국방부, 아마존 구글 MSFT 오라클 등 4곳에 클라우드 계약 입찰 제의">美 국방부, 아마존 구글 MSFT 오라클 등 4곳에 클라우드 계약 입찰 제의</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[풋락커, 3분기 순익 1억 5800만달러…"긍정적 모멘텀 기대"]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000998152&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211120&amp;page=1</id>
@@ -60,12 +67,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004881757&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211120&amp;page=1"/>
         <updated>2021-11-19T15:05:04.885Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004881757&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211120&amp;page=1" title="전기차 수요 증가에…2차전지 투자 LIT 올 50% 상승">전기차 수요 증가에…2차전지 투자 LIT 올 50% 상승</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[앤드루 볼스 CIO "인플레 일시적…美 금리인상은 2023년"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004630726&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211120&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004630726&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211120&amp;page=1"/>
-        <updated>2021-11-19T15:05:04.887Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004630726&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211120&amp;page=1" title="앤드루 볼스 CIO &quot;인플레 일시적…美 금리인상은 2023년&quot;">앤드루 볼스 CIO "인플레 일시적…美 금리인상은 2023년"</a>]]></content>
     </entry>
 </feed>

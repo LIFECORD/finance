@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS2D&amp;section_id=101&amp;section_id2=258</id>
     <title>네이버 금융 ─ 뉴스 ─ 실시간 속보</title>
-    <updated>2021-11-19T19:06:17.397Z</updated>
+    <updated>2021-11-19T20:06:49.549Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유럽증시, 코로나19 재확산 경계감에 하락 마감]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0010843957&amp;office_id=003&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211120&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0010843957&amp;office_id=003&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211120&amp;page=1"/>
+        <updated>2021-11-19T20:04:49.625Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0010843957&amp;office_id=003&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211120&amp;page=1" title="유럽증시, 코로나19 재확산 경계감에 하락 마감">유럽증시, 코로나19 재확산 경계감에 하락 마감</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주식 매매 상위 종목 및 환율] 2021년 11월 19일자]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003654288&amp;office_id=023&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211120&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001622668&amp;office_id=057&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211120&amp;page=1"/>
         <updated>2021-11-19T15:04:39.522Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0001622668&amp;office_id=057&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211120&amp;page=1" title="생산자물가 13년 만에 최대폭 상승…인플레 우려">생산자물가 13년 만에 최대폭 상승…인플레 우려</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7개월 만에 아파트 '산다' 보다 팔겠다가 더 많아]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001622667&amp;office_id=057&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211120&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001622667&amp;office_id=057&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211120&amp;page=1"/>
-        <updated>2021-11-19T15:04:39.522Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0001622667&amp;office_id=057&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211120&amp;page=1" title="7개월 만에 아파트 '산다' 보다 팔겠다가 더 많아">7개월 만에 아파트 '산다' 보다 팔겠다가 더 많아</a>]]></content>
     </entry>
 </feed>

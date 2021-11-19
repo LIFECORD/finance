@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-19T19:06:17.393Z</updated>
+    <updated>2021-11-19T20:06:49.557Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주식 매매 상위 종목 및 환율] 2021년 11월 19일자]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003654288&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003654288&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-20T03:02:00.000Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[풋락커, 3분기 순익 1억 5800만달러…"긍정적 모멘텀 기대"]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000998152&amp;office_id=215&amp;mode=RANK&amp;typ=0</id>
@@ -13,10 +20,17 @@
         <content type="html"><![CDATA[한국경제TV]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[주식 매매 상위 종목 및 환율] 2021년 11월 19일자]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003654288&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003654288&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-20T03:02:00.000Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
+        <title type="html"><![CDATA[유럽증시, 코로나19 재확산 경계감에 하락 마감]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0010843957&amp;office_id=003&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0010843957&amp;office_id=003&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-20T04:31:00.000Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美 국방부, 아마존 구글 MSFT 오라클 등 4곳에 클라우드 계..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004630806&amp;office_id=015&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004630806&amp;office_id=015&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-20T04:55:00.000Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
