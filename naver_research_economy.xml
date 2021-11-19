@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/research/economy_list.naver</id>
     <title>네이버 금융 ─ 리서치 ─ 경제분석 리포트</title>
-    <updated>2021-11-19T01:50:45.586Z</updated>
+    <updated>2021-11-19T02:23:54.379Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/research/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[국제유가: 2022년에는 공급부족 점차 해소]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/economy/1637288151940.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/economy/1637288151940.pdf"/>
+        <updated>2021-11-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[하나금융투자]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[혼재된 소비심리]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/economy/1637287125621.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/economy/1637287125621.pdf"/>
+        <updated>2021-11-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[IBK투자증권]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국내외 경제이슈]]></title>
         <id>https://ssl.pstatic.net/imgstock/upload/research/economy/1637199346658.pdf</id>
@@ -199,20 +213,6 @@
         <id>https://ssl.pstatic.net/imgstock/upload/research/economy/1634088697716.pdf</id>
         <link href="https://ssl.pstatic.net/imgstock/upload/research/economy/1634088697716.pdf"/>
         <updated>2021-10-14T00:09:38.348Z</updated>
-        <content type="html"><![CDATA[IBK투자증권]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10월 금통위 Preview: 인상 소수의견과 동결 전망]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/economy/1634009510285.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/economy/1634009510285.pdf"/>
-        <updated>2021-10-14T00:09:38.350Z</updated>
-        <content type="html"><![CDATA[IBK투자증권]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중국 정부에 쏠린 눈]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/economy/1634009341550.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/economy/1634009341550.pdf"/>
-        <updated>2021-10-14T00:09:38.352Z</updated>
         <content type="html"><![CDATA[IBK투자증권]]></content>
     </entry>
 </feed>
