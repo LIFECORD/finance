@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-19T07:07:15.045Z</updated>
+    <updated>2021-11-19T08:08:18.492Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[[특징주] 지누스, SK네트워크 인수 협상 무산에 10% 하락]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000117050&amp;office_id=629&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000117050&amp;office_id=629&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-19T06:07:09.684Z</updated>
-        <content type="html"><![CDATA[더팩트]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[특징주] 전고체 배터리 소재 황화리튬 첫 선에 이수화학 급등]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003987289&amp;office_id=011&amp;mode=RANK&amp;typ=0</id>
@@ -25,6 +18,13 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000637541&amp;office_id=031&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-19T06:07:09.684Z</updated>
         <content type="html"><![CDATA[아이뉴스24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 지누스, SK네트워크 인수 협상 무산에 10% 하락]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000117050&amp;office_id=629&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000117050&amp;office_id=629&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-19T06:07:09.684Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[주식 매매 상위 종목 및 환율] 2021년 11월 18일자]]></title>
