@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-11-19T17:14:21.834Z</updated>
+    <updated>2021-11-19T18:07:28.790Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주식 매매 상위 종목 및 환율] 2021년 11월 19일자]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003654288&amp;office_id=023&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211120&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003654288&amp;office_id=023&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211120&amp;page=1"/>
+        <updated>2021-11-20T03:02:00.000Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[풋락커, 3분기 순익 1억 5800만달러…"긍정적 모멘텀 기대"]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000998152&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211120&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0010843799&amp;office_id=003&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211120&amp;page=1"/>
         <updated>2021-11-19T15:05:37.994Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[두산중공업, 두산건설 경영권 넘긴다]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000004899&amp;office_id=648&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211120&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000004899&amp;office_id=648&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211120&amp;page=1"/>
-        <updated>2021-11-19T15:05:37.994Z</updated>
-        <content type="html"><![CDATA[비즈니스워치]]></content>
     </entry>
 </feed>
