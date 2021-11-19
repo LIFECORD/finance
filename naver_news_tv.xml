@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-11-19T21:06:38.135Z</updated>
+    <updated>2021-11-19T22:06:07.831Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[금리 급등·이상 역전에 뒷북 회의…결론은 “시장 자율 결정”]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0011160621&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211120&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011160621&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211120&amp;page=1"/>
+        <updated>2021-11-20T07:00:00.000Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서울아파트 팔자는 사람이 더 많아졌다]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0011160620&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211120&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011160620&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211120&amp;page=1"/>
+        <updated>2021-11-20T07:00:00.000Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["내려라" vs "못 내린다"...또 '카드 수수료 인하' 신경전]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001667367&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211120&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001667367&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211120&amp;page=1"/>
+        <updated>2021-11-20T06:17:00.000Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['세금 전망' 사상 최대 오차...경기 회복 탓?]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001667366&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211120&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001667366&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211120&amp;page=1"/>
+        <updated>2021-11-20T06:14:00.000Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[상암동 복덕방] 집값은 '주춤'·임대차는 '불안'...풍선효과도 여전]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001667353&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211120&amp;page=1</id>
@@ -46,33 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000265078&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211120&amp;page=1"/>
         <updated>2021-11-19T15:05:44.870Z</updated>
         <content type="html"><![CDATA[SBS Biz]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['전 국민 철회'에 19조 어디 쓸까..."소상공인 지원"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001667289&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211120&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001667289&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211120&amp;page=1"/>
-        <updated>2021-11-19T15:05:44.872Z</updated>
-        <content type="html"><![CDATA[YTN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요소수 ‘대란’ 진정세…“일반 주유소 공급이 관건”]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0011160434&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211120&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011160434&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211120&amp;page=1"/>
-        <updated>2021-11-19T15:05:44.874Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오락가락 금리 기조…논란 자초한 금융당국]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0011160433&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211120&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011160433&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211120&amp;page=1"/>
-        <updated>2021-11-19T15:05:44.875Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대출금리 비난 여론에 뒷북 회의…결론은 “시장 자율 결정”]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0011160432&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211120&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011160432&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211120&amp;page=1"/>
-        <updated>2021-11-19T15:05:44.877Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
