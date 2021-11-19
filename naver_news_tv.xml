@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-11-19T05:06:19.970Z</updated>
+    <updated>2021-11-19T06:08:24.918Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[이슈&직설] ‘돈 풀기’ 반대 여론에 한발 물러선 이재명 “고집하지 않겠다”…전국민 재난..]]></title>
+        <title type="html"><![CDATA[[김대호의 경제읽기] 대출금리 급등 논란…금감원, 은행 임원들 긴급소집]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000514742&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211119&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000514742&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211119&amp;page=1"/>
+        <updated>2021-11-19T06:07:22.864Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[자막뉴스] 충격적인 건강검진 결과에...병원 가니 '이럴 수가']]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001667116&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211119&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001667116&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211119&amp;page=1"/>
+        <updated>2021-11-19T06:07:22.864Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[이슈& 직설] ‘돈 풀기’ 반대 여론에 한발 물러선 이재명 “고집하지 않겠다”…전국민 재..]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000265033&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211119&amp;page=1</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000265033&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211119&amp;page=1"/>
         <updated>2021-11-19T05:05:16.857Z</updated>
@@ -60,19 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000514718&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211119&amp;page=1"/>
         <updated>2021-11-19T00:43:00.000Z</updated>
         <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국내 증시,  외국인·개인 힘입어 상승세]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001160967&amp;office_id=214&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211119&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001160967&amp;office_id=214&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211119&amp;page=1"/>
-        <updated>2021-11-19T00:16:00.000Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[금융감독원, 오늘 은행 여신담당 소집…“금리 산정 체계 점검”]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0011160163&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211119&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011160163&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211119&amp;page=1"/>
-        <updated>2021-11-19T00:15:00.000Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
