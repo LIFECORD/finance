@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-19T02:23:54.361Z</updated>
+    <updated>2021-11-19T03:07:15.009Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[특징주] FSN, 딩고 콘텐츠 NFT화 기대감에 '신고가'… ..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000756127&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000756127&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-19T10:36:00.000Z</updated>
+        <content type="html"><![CDATA[머니S]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 지누스, SK네트웍스 인수 무산 소식에 급락]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003987262&amp;office_id=011&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003987262&amp;office_id=011&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-19T11:29:00.000Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주식 매매 상위 종목 및 환율] 2021년 11월 18일자]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003654041&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
@@ -74,13 +88,6 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005734669&amp;office_id=421&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-19T06:51:00.000Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[특징주] FSN, 딩고 콘텐츠 NFT화 기대감에 '신고가'… ..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000756127&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000756127&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-19T10:36:00.000Z</updated>
-        <content type="html"><![CDATA[머니S]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[뉴욕마감]지수별 혼조…다우 내리고 S&P-나스닥 오르고]]></title>
@@ -172,12 +179,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004881357&amp;office_id=009&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-19T06:51:00.000Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[특징주]애플 자율車 기대감에 라닉스·인포뱅크 상한가]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005089607&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005089607&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-19T09:55:00.000Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
