@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-11-20T09:06:49.947Z</updated>
+    <updated>2021-11-20T10:06:58.275Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[발품뉴스] 코앞에 닥친 '제2 요소수'…장례용품·패딩도 불안]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000281357&amp;office_id=437&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211120&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000281357&amp;office_id=437&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211120&amp;page=1"/>
+        <updated>2021-11-20T10:05:54.814Z</updated>
+        <content type="html"><![CDATA[JTBC]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[운전대 없이 자율주행, 현실로? 모터쇼에 등장한 '미래 차']]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000281355&amp;office_id=437&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211120&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000281355&amp;office_id=437&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211120&amp;page=1"/>
+        <updated>2021-11-20T10:05:54.815Z</updated>
+        <content type="html"><![CDATA[JTBC]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[확산세 커지는데 위험요인 줄대기…다시 거리두기?]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000514905&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211120&amp;page=1</id>
@@ -60,19 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001161135&amp;office_id=214&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211120&amp;page=1"/>
         <updated>2021-11-20T11:59:00.000Z</updated>
         <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신문브리핑1 "김 총리 "이번 위기 못 넘기면 일상회복 멈출 수밖에 없어""외 주요기사]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001622733&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211120&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001622733&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211120&amp;page=1"/>
-        <updated>2021-11-20T11:48:00.000Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쉬운우리말로 마지막회 '트윈데믹']]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001622730&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211120&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001622730&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211120&amp;page=1"/>
-        <updated>2021-11-20T11:38:00.000Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
     </entry>
 </feed>
