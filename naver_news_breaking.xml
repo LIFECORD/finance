@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS2D&amp;section_id=101&amp;section_id2=258</id>
     <title>네이버 금융 ─ 뉴스 ─ 실시간 속보</title>
-    <updated>2021-11-20T05:06:15.402Z</updated>
+    <updated>2021-11-20T06:10:07.376Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코스닥 왕좌의 게임…셀트리온헬스케어 vs 에코프로비엠 승자는]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0010844214&amp;office_id=003&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211120&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0010844214&amp;office_id=003&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211120&amp;page=1"/>
+        <updated>2021-11-20T06:08:08.256Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0010844214&amp;office_id=003&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211120&amp;page=1" title="코스닥 왕좌의 게임…셀트리온헬스케어 vs 에코프로비엠 승자는">코스닥 왕좌의 게임…셀트리온헬스케어 vs 에코프로비엠 승자는</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[마켓인]美 여성 창업 스타트업 자금조달 증가세…가치평가도 쑥]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005090144&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211120&amp;page=1</id>
@@ -60,12 +67,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003654382&amp;office_id=023&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211120&amp;page=1"/>
         <updated>2021-11-20T04:05:31.946Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003654382&amp;office_id=023&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211120&amp;page=1" title="[Market Watch] 한은 3개월 만에 기준금리 또 한번 인상할까">[Market Watch] 한은 3개월 만에 기준금리 또 한번 인상할까</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[위드코로나에도 '집꾸'는 계속된다…홈디포 주목]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005090123&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211120&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005090123&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211120&amp;page=1"/>
-        <updated>2021-11-20T02:23:04.300Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005090123&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211120&amp;page=1" title="위드코로나에도 '집꾸'는 계속된다…홈디포 주목">위드코로나에도 '집꾸'는 계속된다…홈디포 주목</a>]]></content>
     </entry>
 </feed>
