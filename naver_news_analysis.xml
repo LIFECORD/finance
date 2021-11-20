@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=402</id>
     <title>네이버 금융 ─ 뉴스 ─ 기업 종목분석</title>
-    <updated>2021-11-20T08:08:32.821Z</updated>
+    <updated>2021-11-20T09:06:49.926Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[듀얼소닉, 21일 NS홈쇼핑 론칭]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004673058&amp;office_id=008&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211120&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004673058&amp;office_id=008&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211120&amp;page=1"/>
+        <updated>2021-11-20T09:04:57.474Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004673058&amp;office_id=008&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211120&amp;page=1" title="듀얼소닉, 21일 NS홈쇼핑 론칭">듀얼소닉, 21일 NS홈쇼핑 론칭</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['지루한 횡보장'… 목표가 상향된 메타버스 종목은?]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005002592&amp;office_id=277&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211120&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003987400&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211120&amp;page=1"/>
         <updated>2021-11-19T15:04:58.241Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003987400&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211120&amp;page=1" title="돌아온 애플카···자율주행차 테마주 '부릉'">돌아온 애플카···자율주행차 테마주 '부릉'</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리안헤어, 상록보육원 김치냉장고 기증]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004672901&amp;office_id=008&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211120&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004672901&amp;office_id=008&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211120&amp;page=1"/>
-        <updated>2021-11-19T15:04:58.243Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004672901&amp;office_id=008&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211120&amp;page=1" title="리안헤어, 상록보육원 김치냉장고 기증">리안헤어, 상록보육원 김치냉장고 기증</a>]]></content>
     </entry>
 </feed>
