@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=401</id>
     <title>네이버 금융 ─ 뉴스 ─ 시황·전망</title>
-    <updated>2021-11-21T07:06:50.175Z</updated>
+    <updated>2021-11-21T08:07:41.127Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[표] 주간 주요 증시 지표]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004882121&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211121&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004882121&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211121&amp;page=1"/>
+        <updated>2021-11-21T08:05:48.385Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004882121&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211121&amp;page=1" title="[표] 주간 주요 증시 지표">[표] 주간 주요 증시 지표</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[11월 더 낮아진 22년 코스피 전망…최하단 2650~2740 의견도]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004882105&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211121&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004630886&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211121&amp;page=1"/>
         <updated>2021-11-20T23:04:18.366Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004630886&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211121&amp;page=1" title="美 블랙프라이데이 임박… 국내·외 증시에 호재될까 [주간전망]">美 블랙프라이데이 임박… 국내·외 증시에 호재될까 [주간전망]</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[앤츠랩]쓰레기처리? 환경산업! 전기차 배터리 재활용까지]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003152388&amp;office_id=025&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211121&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003152388&amp;office_id=025&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211121&amp;page=1"/>
-        <updated>2021-11-20T22:04:24.200Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003152388&amp;office_id=025&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211121&amp;page=1" title="[앤츠랩]쓰레기처리? 환경산업! 전기차 배터리 재활용까지">[앤츠랩]쓰레기처리? 환경산업! 전기차 배터리 재활용까지</a>]]></content>
     </entry>
 </feed>
