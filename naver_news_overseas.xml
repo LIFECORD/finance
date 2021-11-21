@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-11-21T21:05:51.599Z</updated>
+    <updated>2021-11-21T22:06:25.778Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뉴욕증시, FOMC 의사록·물가지표 주목 [출근전 꼭 글로벌 브리핑]]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000998310&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211122&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000998310&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211122&amp;page=1"/>
+        <updated>2021-11-21T22:04:45.213Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000998310&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211122&amp;page=1" title="뉴욕증시, FOMC 의사록·물가지표 주목 [출근전 꼭 글로벌 브리핑]">뉴욕증시, FOMC 의사록·물가지표 주목 [출근전 꼭 글로벌 브리핑]</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["공매도 몰리면 더 산다" 한방에 중독된 서학개미 [자이앤트월드]]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004882168&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211122&amp;page=1</id>
@@ -39,12 +46,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004882104&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211122&amp;page=1"/>
         <updated>2021-11-21T15:04:36.719Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004882104&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211122&amp;page=1" title="'미국주식, 공매도 몰리면 더 산다'…숏스퀴즈 노리는 개미들">'미국주식, 공매도 몰리면 더 산다'…숏스퀴즈 노리는 개미들</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["다시 떡상 가즈아"…테슬라 팔던 서학개미 이달들어 3690억 순매수]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004882088&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211122&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004882088&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211122&amp;page=1"/>
-        <updated>2021-11-21T15:04:36.720Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004882088&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211122&amp;page=1" title="&quot;다시 떡상 가즈아&quot;…테슬라 팔던 서학개미 이달들어 3690억 순매수">"다시 떡상 가즈아"…테슬라 팔던 서학개미 이달들어 3690억 순매수</a>]]></content>
     </entry>
 </feed>
