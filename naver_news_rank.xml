@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-21T09:06:48.114Z</updated>
+    <updated>2021-11-21T10:07:09.735Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0010844386&amp;office_id=003&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-21T06:00:00.000Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가상자산 뜨니… 투자 상장사 주가도 쑥쑥]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004743023&amp;office_id=014&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004743023&amp;office_id=014&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-21T10:05:52.850Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[넷플릭스 '지옥', 24시간 만에 전세계 1위…관련주 오를까]]></title>
