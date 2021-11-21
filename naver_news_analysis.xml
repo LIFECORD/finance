@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=402</id>
     <title>네이버 금융 ─ 뉴스 ─ 기업 종목분석</title>
-    <updated>2021-11-21T19:05:44.222Z</updated>
+    <updated>2021-11-21T20:06:40.002Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["PI첨단소재 주가 떨어졌다고? '글로벌 넘버원' 곧 오른다"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004673307&amp;office_id=008&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211122&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004673307&amp;office_id=008&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211122&amp;page=1"/>
+        <updated>2021-11-21T20:05:00.938Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004673307&amp;office_id=008&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211122&amp;page=1" title="&quot;PI첨단소재 주가 떨어졌다고? '글로벌 넘버원' 곧 오른다&quot;">"PI첨단소재 주가 떨어졌다고? '글로벌 넘버원' 곧 오른다"</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[8000만원 넣었는데 달랑 1주 배정…마마무 소속사 알비더블유 22일 따상 갈까]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004882253&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211122&amp;page=1</id>
@@ -60,12 +67,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004743028&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211122&amp;page=1"/>
         <updated>2021-11-21T15:04:31.075Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004743028&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211122&amp;page=1" title="저평가된 美 소형주에 집중… 경기회복기 큰폭 상승 기대 [이런 펀드 어때요?]">저평가된 美 소형주에 집중… 경기회복기 큰폭 상승 기대 [이런 펀드 어때요?]</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘유재석 효과’ 카카오엔터 장외가 52만원… 매물 잠겼다]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004743026&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211122&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004743026&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211122&amp;page=1"/>
-        <updated>2021-11-21T15:04:31.077Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004743026&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211122&amp;page=1" title="‘유재석 효과’ 카카오엔터 장외가 52만원… 매물 잠겼다">‘유재석 효과’ 카카오엔터 장외가 52만원… 매물 잠겼다</a>]]></content>
     </entry>
 </feed>
