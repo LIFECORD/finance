@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-11-21T22:06:25.778Z</updated>
+    <updated>2021-11-21T23:06:30.942Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[표]주간 해외 주요 증시 동향(11월 15일~19일)]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003987804&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211122&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003987804&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211122&amp;page=1"/>
+        <updated>2021-11-21T23:04:36.613Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003987804&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211122&amp;page=1" title="[표]주간 해외 주요 증시 동향(11월 15일~19일)">[표]주간 해외 주요 증시 동향(11월 15일~19일)</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뉴욕증시, FOMC 의사록·물가지표 주목 [출근전 꼭 글로벌 브리핑]]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000998310&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211122&amp;page=1</id>
@@ -39,12 +46,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004882123&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211122&amp;page=1"/>
         <updated>2021-11-21T15:04:36.717Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004882123&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211122&amp;page=1" title="[표] 주요국 증시 주간 동향">[표] 주요국 증시 주간 동향</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미국주식, 공매도 몰리면 더 산다'…숏스퀴즈 노리는 개미들]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004882104&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211122&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004882104&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211122&amp;page=1"/>
-        <updated>2021-11-21T15:04:36.719Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004882104&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211122&amp;page=1" title="'미국주식, 공매도 몰리면 더 산다'…숏스퀴즈 노리는 개미들">'미국주식, 공매도 몰리면 더 산다'…숏스퀴즈 노리는 개미들</a>]]></content>
     </entry>
 </feed>
