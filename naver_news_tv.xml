@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-11-21T12:10:18.323Z</updated>
+    <updated>2021-11-21T13:14:39.520Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[올해만 12만 개 창업…자리잡은 창업 생태계]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0011160923&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211121&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011160923&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211121&amp;page=1"/>
+        <updated>2021-11-21T13:13:35.919Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미세 플라스틱 '둥둥'…'친환경 부표'로 바꿔나가야]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000934814&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211121&amp;page=1</id>
@@ -66,13 +73,6 @@
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001622949&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211121&amp;page=1</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001622949&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211121&amp;page=1"/>
         <updated>2021-11-21T12:09:20.846Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[말 안 듣는다고…3살 아이 숨지게 한 의붓어머니 긴급 체포]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001622947&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211121&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001622947&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211121&amp;page=1"/>
-        <updated>2021-11-21T12:09:20.848Z</updated>
         <content type="html"><![CDATA[MBN]]></content>
     </entry>
 </feed>
