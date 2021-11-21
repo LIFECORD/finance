@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=429</id>
     <title>네이버 금융 ─ 뉴스 ─ 환율</title>
-    <updated>2021-11-21T08:07:41.138Z</updated>
+    <updated>2021-11-21T09:06:48.110Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[태양광 발전부터 폐모듈 재활용까지 척척]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003987718&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211121&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003987718&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211121&amp;page=1"/>
+        <updated>2021-11-21T09:05:14.611Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003987718&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211121&amp;page=1" title="태양광 발전부터 폐모듈 재활용까지 척척">태양광 발전부터 폐모듈 재활용까지 척척</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[원/달러 환율 1,180.4원 마감…2.1원 하락]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0012803051&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211121&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012799899&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211121&amp;page=1"/>
         <updated>2021-11-20T15:05:21.606Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012799899&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211121&amp;page=1" title="글로벌 강달러에 원/달러 환율 상승…1,182.5원 마감">글로벌 강달러에 원/달러 환율 상승…1,182.5원 마감</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천세관 "1만달러 넘는 외화 꼭 신고하세요"…적발시 과태료]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0012799495&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211121&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012799495&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211121&amp;page=1"/>
-        <updated>2021-11-20T15:05:21.607Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012799495&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211121&amp;page=1" title="인천세관 &quot;1만달러 넘는 외화 꼭 신고하세요&quot;…적발시 과태료">인천세관 "1만달러 넘는 외화 꼭 신고하세요"…적발시 과태료</a>]]></content>
     </entry>
 </feed>
