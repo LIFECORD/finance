@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-11-21T00:22:11.384Z</updated>
+    <updated>2021-11-21T01:52:56.759Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴스초점] 신규 확진 3,120명…"앞으로 3주가 고비"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000514979&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211121&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000514979&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211121&amp;page=1"/>
+        <updated>2021-11-21T10:49:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신규 확진 닷새 연속 3천명대…위중증 517명]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000514975&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211121&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000514975&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211121&amp;page=1"/>
+        <updated>2021-11-21T10:09:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[기업기상도] 코로나 구름 걷힌 기업 vs 천둥번개에 놀란 기업]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000514973&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211121&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000514973&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211121&amp;page=1"/>
+        <updated>2021-11-21T09:51:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[여행·공연 등 손실보상 제외업종에 최저금리 대출]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000514968&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211121&amp;page=1</id>
@@ -53,26 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000514934&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211121&amp;page=1"/>
         <updated>2021-11-21T04:07:00.000Z</updated>
         <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美 USTR 대표 "인도-태평양 경제 틀 구축 모색 중"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001667591&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211121&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001667591&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211121&amp;page=1"/>
-        <updated>2021-11-20T17:13:09.715Z</updated>
-        <content type="html"><![CDATA[YTN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[거점 주유소 주말 요소수 재고량 다소 낮은 수준]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001667585&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211121&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001667585&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211121&amp;page=1"/>
-        <updated>2021-11-20T15:05:43.721Z</updated>
-        <content type="html"><![CDATA[YTN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["김장철 김치가 금치"...배춧값 폭등에 소비자·생산자 모두 울상]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001667584&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211121&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001667584&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211121&amp;page=1"/>
-        <updated>2021-11-20T15:05:43.721Z</updated>
-        <content type="html"><![CDATA[YTN]]></content>
     </entry>
 </feed>
