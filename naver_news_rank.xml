@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-21T18:07:00.289Z</updated>
+    <updated>2021-11-21T19:05:44.227Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -20,13 +20,6 @@
         <content type="html"><![CDATA[한국경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[코스닥 주간메모] 11월 22일(월) ~ 11월 26일(금)]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004631087&amp;office_id=015&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004631087&amp;office_id=015&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-21T16:07:10.851Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA["연말 연초 지갑 열린다"…내년 1분기 실적 기대株는?]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005090830&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005090830&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
@@ -34,10 +27,38 @@
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[코스닥 주간메모] 11월 22일(월) ~ 11월 26일(금)]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004631087&amp;office_id=015&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004631087&amp;office_id=015&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-21T16:07:10.851Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[마켓인]내년 준비하는 기관투자자…투자심리 여전할까]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005090831&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005090831&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-22T02:31:00.000Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간경제지표] 2021년 11월 19일자]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003654578&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003654578&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-22T03:06:00.000Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[치솟던 대선 테마주, 후보 확정이후 ‘내리막’]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003395062&amp;office_id=020&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003395062&amp;office_id=020&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-22T03:03:00.000Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['IPO 4수생' 툴젠 출격…이번 주 청약할 만한 리츠는?]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004673304&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004673304&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-22T03:35:00.000Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
