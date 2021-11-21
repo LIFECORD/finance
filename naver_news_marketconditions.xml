@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=401</id>
     <title>네이버 금융 ─ 뉴스 ─ 시황·전망</title>
-    <updated>2021-11-21T10:07:09.722Z</updated>
+    <updated>2021-11-21T11:05:49.314Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독] 우리금융, 20년 만에 완전 민영화 성공]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003987750&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211121&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003987750&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211121&amp;page=1"/>
+        <updated>2021-11-21T11:04:00.408Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003987750&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211121&amp;page=1" title="[단독] 우리금융, 20년 만에 완전 민영화 성공">[단독] 우리금융, 20년 만에 완전 민영화 성공</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["포스코, 스프레드 축소에 4분기 역대급 실적 전망"]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001915193&amp;office_id=016&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211121&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003987614&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211121&amp;page=1"/>
         <updated>2021-11-21T05:04:06.435Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003987614&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211121&amp;page=1" title="LG유플러스, 통신·비통신 '투트랙의 힘'···영업익 1조 눈앞[스타즈IR]">LG유플러스, 통신·비통신 '투트랙의 힘'···영업익 1조 눈앞[스타즈IR]</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세계 1위 찍은 '지옥'···'천당' 갈 대표 관련주는?]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003987613&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211121&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003987613&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211121&amp;page=1"/>
-        <updated>2021-11-21T05:04:06.444Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003987613&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211121&amp;page=1" title="세계 1위 찍은 '지옥'···'천당' 갈 대표 관련주는?">세계 1위 찍은 '지옥'···'천당' 갈 대표 관련주는?</a>]]></content>
     </entry>
 </feed>
