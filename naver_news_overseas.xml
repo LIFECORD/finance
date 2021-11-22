@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-11-22T20:06:36.601Z</updated>
+    <updated>2021-11-22T21:06:06.028Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[속보]파월 연임에 국채금리 폭등…뉴욕증시 약세 압력]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005091707&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211123&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005091707&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211123&amp;page=1"/>
+        <updated>2021-11-22T21:04:16.970Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005091707&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211123&amp;page=1" title="[속보]파월 연임에 국채금리 폭등…뉴욕증시 약세 압력">[속보]파월 연임에 국채금리 폭등…뉴욕증시 약세 압력</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['롤러코스터' 리비안…포드와 결별하자마자 주가 폭락]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005091678&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211123&amp;page=1</id>
@@ -60,12 +67,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000998609&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211123&amp;page=1"/>
         <updated>2021-11-22T15:04:41.920Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000998609&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211123&amp;page=1" title="베트남, 올해 무역액 6,450억달러 전망...사상 최고 [KVINA]">베트남, 올해 무역액 6,450억달러 전망...사상 최고 [KVINA]</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올해 한국-베트남 교역액 700억달러 돌파 예상 [KVINA]]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000998608&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211123&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000998608&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211123&amp;page=1"/>
-        <updated>2021-11-22T15:04:41.924Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000998608&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211123&amp;page=1" title="올해 한국-베트남 교역액 700억달러 돌파 예상 [KVINA]">올해 한국-베트남 교역액 700억달러 돌파 예상 [KVINA]</a>]]></content>
     </entry>
 </feed>
