@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-22T06:09:34.514Z</updated>
+    <updated>2021-11-22T07:07:27.463Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[[특징주] 가온미디어 6.83↓…메타버스 테마 하락]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0002983390&amp;office_id=030&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0002983390&amp;office_id=030&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-22T06:08:16.985Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[특징주] 에스에이엠티, 반도체주 급등에 '삼성전자 반도체 최대..]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001915619&amp;office_id=016&amp;mode=RANK&amp;typ=0</id>
@@ -20,11 +13,18 @@
         <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[특징주]이노뎁, 삼성전자-MS 메타버스 협력…국내 유일 MS협..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004743501&amp;office_id=014&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004743501&amp;office_id=014&amp;mode=RANK&amp;typ=0"/>
+        <title type="html"><![CDATA[[특징주] 가온미디어 6.83↓…메타버스 테마 하락]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0002983390&amp;office_id=030&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0002983390&amp;office_id=030&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-22T06:08:16.985Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+        <content type="html"><![CDATA[전자신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[위지윅스튜디오·자이언트스텝 등 메타버스 관련주 일제히 급락[특징..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003988062&amp;office_id=011&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003988062&amp;office_id=011&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-22T07:06:11.190Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[특징주] '반도체주 훈풍'' 원익IPS 급등]]></title>
@@ -62,6 +62,20 @@
         <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[특징주]팜젠사이언스, '코에 접종' 광민감성 나노백신 개발 성..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004743564&amp;office_id=014&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004743564&amp;office_id=014&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-22T06:08:17.009Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 현대차, 유럽 전기차 판매 확대… 장중 22만원 '터..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000756959&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000756959&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-22T07:06:11.212Z</updated>
+        <content type="html"><![CDATA[머니S]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[株소설]테이퍼링 선언에 '무플' 단 시장…과연 끝일까?]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005090839&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005090839&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
@@ -94,13 +108,6 @@
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004743187&amp;office_id=014&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004743187&amp;office_id=014&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-22T06:49:00.000Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[특징주]팜젠사이언스, '코에 접종' 광민감성 나노백신 개발 성..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004743564&amp;office_id=014&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004743564&amp;office_id=014&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-22T06:08:17.009Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스]]></content>
     </entry>
     <entry>
@@ -172,12 +179,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000756844&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-22T06:08:17.026Z</updated>
         <content type="html"><![CDATA[머니S]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잘 번 동국제강, 고사 위기 중국 자회사는?]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000004917&amp;office_id=648&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000004917&amp;office_id=648&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-22T06:41:00.000Z</updated>
-        <content type="html"><![CDATA[비즈니스워치]]></content>
     </entry>
 </feed>
