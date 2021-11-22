@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-11-22T05:06:44.151Z</updated>
+    <updated>2021-11-22T06:09:34.501Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[현장연결] 질병청 "방역지표 악화, 방역패스 접종 유효기간 설정 검토필요"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000515123&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211122&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000515123&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211122&amp;page=1"/>
+        <updated>2021-11-22T06:08:30.657Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[영상] “가까운 곳은 로봇이 갑니다”…편의점 ‘배달 로봇’ 등장]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0011161356&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211122&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011161356&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211122&amp;page=1"/>
+        <updated>2021-11-22T06:08:30.660Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[김대호의 경제읽기] 종부세 95만명, 세액 3배 증가…김장물가 폭등]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000515121&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211122&amp;page=1</id>
@@ -60,19 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0011161317&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211122&amp;page=1"/>
         <updated>2021-11-22T00:46:00.000Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[통상본부장 "미국에 철강 232조 협상 개시 요구"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000515109&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211122&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000515109&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211122&amp;page=1"/>
-        <updated>2021-11-22T00:35:00.000Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이달 20일까지 수출 399억 달러…27.6%↑]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000515106&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211122&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000515106&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211122&amp;page=1"/>
-        <updated>2021-11-22T00:28:00.000Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
     </entry>
 </feed>
