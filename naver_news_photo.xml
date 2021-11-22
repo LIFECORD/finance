@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-11-22T18:07:23.660Z</updated>
+    <updated>2021-11-22T19:05:33.011Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유럽 증시, 코로나19 확산 경계에 혼조 마감...런던은 0.44%↑]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0010847674&amp;office_id=003&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211123&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0010847674&amp;office_id=003&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211123&amp;page=1"/>
+        <updated>2021-11-23T03:58:00.000Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[부꾸미]현금흐름으로 본 리비안…'제2 테슬라' 되기 위한 조건은?]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004673837&amp;office_id=008&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211123&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004673837&amp;office_id=008&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211123&amp;page=1"/>
+        <updated>2021-11-23T03:30:00.000Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ETF로 눈돌리던 동학개미, 반도체株로 다시 몰릴까]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003654770&amp;office_id=023&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211123&amp;page=1</id>
@@ -60,19 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005091674&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211123&amp;page=1"/>
         <updated>2021-11-22T16:08:52.553Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴욕 증시, 파월 의장 유임에 상승 출발...다우 0.6%↑ 나스닥 0.64%↑]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0010847657&amp;office_id=003&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211123&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0010847657&amp;office_id=003&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211123&amp;page=1"/>
-        <updated>2021-11-22T16:08:52.554Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제롬 파월 미 연준 의장 연임]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000998616&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211123&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000998616&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211123&amp;page=1"/>
-        <updated>2021-11-22T16:08:52.558Z</updated>
-        <content type="html"><![CDATA[한국경제TV]]></content>
     </entry>
 </feed>
