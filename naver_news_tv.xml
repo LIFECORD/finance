@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-11-22T13:16:44.506Z</updated>
+    <updated>2021-11-22T14:06:28.790Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["종부세 위헌 청구" vs "투기 억제 기대"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001668295&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211122&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001668295&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211122&amp;page=1"/>
+        <updated>2021-11-22T14:05:35.653Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1세대 1주택 종부세 67%↑...각종 공제로 3천억 깎아줘]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001668294&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211122&amp;page=1</id>
@@ -66,13 +73,6 @@
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000344611&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211122&amp;page=1</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000344611&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211122&amp;page=1"/>
         <updated>2021-11-22T13:15:41.002Z</updated>
-        <content type="html"><![CDATA[TV조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[與 "76만명"이라더니…종부세 94.7만명에 5.7조 부과]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000344610&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211122&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000344610&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211122&amp;page=1"/>
-        <updated>2021-11-22T13:15:41.003Z</updated>
         <content type="html"><![CDATA[TV조선]]></content>
     </entry>
 </feed>
