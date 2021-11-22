@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-22T16:09:54.145Z</updated>
+    <updated>2021-11-22T17:16:34.810Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -20,13 +20,6 @@
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[파월 연임에 주가↑ 금리↑ 달러↑ 모두 급등]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004631604&amp;office_id=015&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004631604&amp;office_id=015&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-22T16:08:47.196Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[한샘, 내년부터 분기 배당…600억 자사주도 매입]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004631605&amp;office_id=015&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004631605&amp;office_id=015&amp;mode=RANK&amp;typ=0"/>
@@ -39,5 +32,19 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0010847660&amp;office_id=003&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-22T16:08:47.199Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[파월 연임에 주가↑ 금리↑ 달러↑ 모두 급등]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004631604&amp;office_id=015&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004631604&amp;office_id=015&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-22T16:08:47.196Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[파월 연임에 증시 환호…S&P·나스닥 장중 신고점 경신]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005091677&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005091677&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-23T01:26:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
