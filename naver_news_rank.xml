@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-22T14:06:28.787Z</updated>
+    <updated>2021-11-22T15:06:26.312Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -11,13 +11,6 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0002707404&amp;office_id=029&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-22T12:10:57.955Z</updated>
         <content type="html"><![CDATA[디지털타임스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴스추적] 국민 98% 종부세 무관? ·우리나라만 종부세?·월..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001623194&amp;office_id=057&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001623194&amp;office_id=057&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-22T12:10:57.959Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[빗썸 신고수리… 코인거래소 4강체제 본격화]]></title>
@@ -39,13 +32,6 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0002707403&amp;office_id=029&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-22T12:10:57.963Z</updated>
         <content type="html"><![CDATA[디지털타임스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[모빌리티 혁명 신문명을 열다…내일 MBN 국민보고대회]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001623218&amp;office_id=057&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001623218&amp;office_id=057&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-22T13:15:27.295Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[종부세 폭탄 현실로…대상자 28만 명 늘고 세액은 3배 증가]]></title>
@@ -81,13 +67,6 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005003589&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-22T11:04:56.845Z</updated>
         <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스웨덴 에릭슨, 62억달러에 美 보나지 품는다]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004631581&amp;office_id=015&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004631581&amp;office_id=015&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-22T14:05:24.871Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[컴투스, 을지로에 신사옥 짓는다…그룹사 역량 거점]]></title>
@@ -179,5 +158,26 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0002550090&amp;office_id=119&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-22T05:01:00.000Z</updated>
         <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[신기림의 월가프리뷰]추수감사절 랠리 기대감과 연준 의장]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005738335&amp;office_id=421&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005738335&amp;office_id=421&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-22T07:00:00.000Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[넷마블, '메타버스' 이어 'NFT' 신사업 준비]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0010847577&amp;office_id=003&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0010847577&amp;office_id=003&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-22T15:05:07.831Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[증시이슈] 엔에스쇼핑, 하림지주 자회사로 편입…주가 ‘상승마감..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000018872&amp;office_id=243&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000018872&amp;office_id=243&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-22T15:05:07.833Z</updated>
+        <content type="html"><![CDATA[이코노미스트]]></content>
     </entry>
 </feed>
