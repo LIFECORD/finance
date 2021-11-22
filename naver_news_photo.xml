@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-11-22T12:12:07.652Z</updated>
+    <updated>2021-11-22T13:16:44.500Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스웨덴 에릭슨, 62억달러에 美 보나지 품는다]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004631581&amp;office_id=015&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211122&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004631581&amp;office_id=015&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211122&amp;page=1"/>
+        <updated>2021-11-22T13:15:33.612Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[반도체·자동차 대형주 상승… 14일만에 다시 삼천피]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0002707404&amp;office_id=029&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211122&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0010847590&amp;office_id=003&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211122&amp;page=1"/>
         <updated>2021-11-22T10:06:12.165Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엠브로컴퍼니, 코리아세일페스타에서 특별라이브 통해 프로모션 진행]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004673783&amp;office_id=008&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211122&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004673783&amp;office_id=008&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211122&amp;page=1"/>
-        <updated>2021-11-22T10:06:12.166Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
