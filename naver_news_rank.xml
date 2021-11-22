@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-22T08:10:46.718Z</updated>
+    <updated>2021-11-22T09:06:59.040Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[머니S]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[위지윅스튜디오·자이언트스텝 등 메타버스 관련주 일제히 급락[특징..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003988062&amp;office_id=011&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003988062&amp;office_id=011&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-22T07:06:11.190Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[특징주] 에스에이엠티, 반도체주 급등에 '삼성전자 반도체 최대..]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001915619&amp;office_id=016&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001915619&amp;office_id=016&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-22T06:08:16.985Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[위지윅스튜디오·자이언트스텝 등 메타버스 관련주 일제히 급락[특징..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003988062&amp;office_id=011&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003988062&amp;office_id=011&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-22T07:06:11.190Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[특징주] '반도체주 훈풍'' 원익IPS 급등]]></title>
@@ -146,6 +146,13 @@
         <content type="html"><![CDATA[매일경제]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[줌인 이종목] 비메모리 반도체 공급난…DB하이텍 최고가]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004882661&amp;office_id=009&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004882661&amp;office_id=009&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-22T09:05:43.986Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[특징주] 삼보판지, 골판지 업황 호조에 따른 수혜주 전망에 강..]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000756865&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000756865&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
@@ -172,12 +179,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000004917&amp;office_id=648&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-22T06:41:00.000Z</updated>
         <content type="html"><![CDATA[비즈니스워치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이번 주 추천주]실적·NFT 수혜...엔씨소프트·와이지엔터 주..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003987796&amp;office_id=011&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003987796&amp;office_id=011&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-22T06:41:00.000Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>

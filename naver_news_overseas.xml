@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-11-22T08:10:46.709Z</updated>
+    <updated>2021-11-22T09:06:59.048Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["강력 매수"…캐시 우드가 집중투자한 '삼총사']]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004631484&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211122&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004631484&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211122&amp;page=1"/>
+        <updated>2021-11-22T09:05:19.124Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004631484&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211122&amp;page=1" title="&quot;강력 매수&quot;…캐시 우드가 집중투자한 '삼총사'">"강력 매수"…캐시 우드가 집중투자한 '삼총사'</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中 헝다, 홍콩 주요지수 HSECI에서 제외된다]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005091505&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211122&amp;page=1</id>
@@ -39,19 +46,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000998493&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211122&amp;page=1"/>
         <updated>2021-11-22T06:07:50.481Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000998493&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211122&amp;page=1" title="&quot;동남아국가 중 베트남 부동산시장이 가장 급성장&quot; [KVINA]">"동남아국가 중 베트남 부동산시장이 가장 급성장" [KVINA]</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[말레이시아, 18세 이상 성인 95% 코로나 백신 접종 완료]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000998491&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211122&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000998491&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211122&amp;page=1"/>
-        <updated>2021-11-22T06:07:50.482Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000998491&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211122&amp;page=1" title="말레이시아, 18세 이상 성인 95% 코로나 백신 접종 완료">말레이시아, 18세 이상 성인 95% 코로나 백신 접종 완료</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["베트남 중앙은행, 내년 1분기까지 저금리 기조 유지 예상" [KVINA]]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000998489&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211122&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000998489&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211122&amp;page=1"/>
-        <updated>2021-11-22T06:07:50.484Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000998489&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211122&amp;page=1" title="&quot;베트남 중앙은행, 내년 1분기까지 저금리 기조 유지 예상&quot; [KVINA]">"베트남 중앙은행, 내년 1분기까지 저금리 기조 유지 예상" [KVINA]</a>]]></content>
     </entry>
 </feed>
