@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-22T01:50:59.872Z</updated>
+    <updated>2021-11-22T02:24:35.321Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005738335&amp;office_id=421&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-22T07:00:00.000Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 성호전자, 삼성전자 아마존·MS 메타버스 협력사업 논..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004743375&amp;office_id=014&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004743375&amp;office_id=014&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-22T10:37:00.000Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[株소설]테이퍼링 선언에 '무플' 단 시장…과연 끝일까?]]></title>
@@ -60,6 +67,13 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004743187&amp;office_id=014&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-22T06:49:00.000Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주]비덴트 최대주주 인바이오젠, '빗썸' 금융위 신고완료에..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005091099&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005091099&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-22T10:25:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘환호? 실망?’ 블랙프라이데이의 변수 [3분 미국주식]]]></title>
@@ -118,6 +132,13 @@
         <content type="html"><![CDATA[한국경제TV]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[특징주] 한미반도체, 반도체산업 부진 영향 선반영… 9%↑]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000756770&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000756770&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-22T10:12:00.000Z</updated>
+        <content type="html"><![CDATA[머니S]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[마켓인]내년 준비하는 기관투자자…투자심리 여전할까]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005090831&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005090831&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
@@ -139,6 +160,13 @@
         <content type="html"><![CDATA[동아일보]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[특징주] 유니온, 미·중 갈등심화에 희토류 무기화… 페라이트 ..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000756774&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000756774&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-22T10:22:00.000Z</updated>
+        <content type="html"><![CDATA[머니S]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[에이플러스에셋, 내년 분기 매출 700억원대 회복 예상-유안타증..]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000637730&amp;office_id=031&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000637730&amp;office_id=031&amp;mode=RANK&amp;typ=0"/>
@@ -151,33 +179,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000004918&amp;office_id=648&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-22T07:11:00.000Z</updated>
         <content type="html"><![CDATA[비즈니스워치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["떨어지는 유가...韓 증시 안정화에 기여할 것"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003987823&amp;office_id=011&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003987823&amp;office_id=011&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-22T08:22:00.000Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[클릭 e종목]"세아제강, 풍력·LNG강관 생산능력 확대 긍정적..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005002985&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005002985&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-22T07:10:00.000Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간경제지표] 2021년 11월 19일자]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003654578&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003654578&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-22T03:06:00.000Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[마켓인]국민연금 PEF 운용사 선정 이력 보니…‘기회는 돌아온..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005090861&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005090861&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-22T06:04:00.000Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
