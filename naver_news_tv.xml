@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-11-22T07:07:27.470Z</updated>
+    <updated>2021-11-22T08:10:46.701Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코스피 3010선 회복‥삼성전자·SK하이닉스 주가 급등]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001161465&amp;office_id=214&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211122&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001161465&amp;office_id=214&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211122&amp;page=1"/>
+        <updated>2021-11-22T08:09:51.773Z</updated>
+        <content type="html"><![CDATA[MBC]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[종부세 5조 7천억 부과‥"89%가 다주택·법인"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001161458&amp;office_id=214&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211122&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001161458&amp;office_id=214&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211122&amp;page=1"/>
+        <updated>2021-11-22T08:09:51.774Z</updated>
+        <content type="html"><![CDATA[MBC]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[현장영상] 종부세 대상 95만여 명, 42% 증가…종부세 폭탄?]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000934987&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211122&amp;page=1</id>
@@ -60,19 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001623147&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211122&amp;page=1"/>
         <updated>2021-11-22T07:06:24.006Z</updated>
         <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[프레스룸 날씨]절기'소설' 낮부터 기온 '뚝'…내일도 곳곳 비·눈]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001623145&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211122&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001623145&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211122&amp;page=1"/>
-        <updated>2021-11-22T07:06:24.009Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[현장연결] 질병청 "방역지표 악화, 방역패스 접종 유효기간 설정 검토필요"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000515123&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211122&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000515123&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211122&amp;page=1"/>
-        <updated>2021-11-22T06:08:30.657Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
     </entry>
 </feed>
