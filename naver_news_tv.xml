@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-11-22T04:09:19.255Z</updated>
+    <updated>2021-11-22T05:06:44.151Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[김대호의 경제읽기] 종부세 95만명, 세액 3배 증가…김장물가 폭등]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000515121&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211122&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000515121&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211122&amp;page=1"/>
+        <updated>2021-11-22T05:05:48.638Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[올해 종부세 94만 명이 5조7천억 낸다...세액 3배 증가]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001668053&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211122&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001668053&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211122&amp;page=1"/>
+        <updated>2021-11-22T05:05:48.639Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서비스업 생산 2분기째 전 시도에서 증가…인천 1위]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000515117&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211122&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000515117&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211122&amp;page=1"/>
+        <updated>2021-11-22T05:05:48.640Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[경제 톡톡톡]올해 종부세 대상 94만 7천 명…지난해보다 42% 늘어]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000218225&amp;office_id=449&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211122&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000218225&amp;office_id=449&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211122&amp;page=1"/>
+        <updated>2021-11-22T05:05:48.641Z</updated>
+        <content type="html"><![CDATA[채널A]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[오늘의 경제지표] 반도체 수급 개선 기대감...장중 '3천피' 탈환]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001668041&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211122&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001668041&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211122&amp;page=1"/>
+        <updated>2021-11-22T05:05:48.642Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[다중채무 청년에 채무감면 등 ‘통합채무조정’ 시행]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0011161326&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211122&amp;page=1</id>
@@ -39,40 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000515106&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211122&amp;page=1"/>
         <updated>2021-11-22T00:28:00.000Z</updated>
         <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공정위, 7개 렌털 서비스 사업자 불공정 약관 시정]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000934944&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211122&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000934944&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211122&amp;page=1"/>
-        <updated>2021-11-22T00:27:00.000Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나19 신규 확진 2,827명…일요일 기준 최다]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000515103&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211122&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000515103&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211122&amp;page=1"/>
-        <updated>2021-11-22T00:25:00.000Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올해 주택분 종부세 94만 7천 명에 고지…대상자 28만 명↑]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0011161303&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211122&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011161303&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211122&amp;page=1"/>
-        <updated>2021-11-22T00:19:00.000Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[반도체 업황 개선 전망에 삼성전자·SK하이닉스 강세‥코스닥은 하락세]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001161406&amp;office_id=214&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211122&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001161406&amp;office_id=214&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211122&amp;page=1"/>
-        <updated>2021-11-22T00:16:00.000Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["11월 들어 수출 전년 동기 대비 27.6% 증가"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001161405&amp;office_id=214&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211122&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001161405&amp;office_id=214&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211122&amp;page=1"/>
-        <updated>2021-11-22T00:15:00.000Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>
