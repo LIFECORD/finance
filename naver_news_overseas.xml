@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-11-23T13:16:47.659Z</updated>
+    <updated>2021-11-23T14:06:27.448Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[딕스스포팅굿즈, 3분기 순익 3억 1650만 달러 …전년비 79%↑]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000998876&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211123&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000998876&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211123&amp;page=1"/>
+        <updated>2021-11-23T14:04:31.321Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000998876&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211123&amp;page=1" title="딕스스포팅굿즈, 3분기 순익 3억 1650만 달러 …전년비 79%↑">딕스스포팅굿즈, 3분기 순익 3억 1650만 달러 …전년비 79%↑</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[달러트리, 3분기 순익 2억1680만 달러…전년비 34% 감소]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000998873&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211123&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004631941&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211123&amp;page=1"/>
         <updated>2021-11-23T09:05:11.859Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004631941&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211123&amp;page=1" title="스노우플레이크·로블록스…고성장 기술주 '추풍낙엽'">스노우플레이크·로블록스…고성장 기술주 '추풍낙엽'</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경기회복 선방, 연임 성공한 파월…'인플레 파이터'로 변신할까]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004631934&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211123&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004631934&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211123&amp;page=1"/>
-        <updated>2021-11-23T09:05:11.859Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004631934&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211123&amp;page=1" title="경기회복 선방, 연임 성공한 파월…'인플레 파이터'로 변신할까">경기회복 선방, 연임 성공한 파월…'인플레 파이터'로 변신할까</a>]]></content>
     </entry>
 </feed>
