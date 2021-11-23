@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-23T01:50:24.623Z</updated>
+    <updated>2021-11-23T02:23:44.527Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 호실적에 위드코로나 기대까지...중고·렌트카주 '들썩..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003988347&amp;office_id=011&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003988347&amp;office_id=011&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-23T10:12:00.000Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[비상장거래 ‘후끈’...삼성·신한·NH·KB 플랫폼 경쟁 치열]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0002550480&amp;office_id=119&amp;mode=RANK&amp;typ=0</id>
@@ -18,6 +25,13 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003654770&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-23T03:03:00.000Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 셀트리온, ‘분식회계 논란’ 금감원 감리 소식에 약세]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000775588&amp;office_id=366&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000775588&amp;office_id=366&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-23T10:22:00.000Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[9월 주식 발행액 2.5조...전월比 22%↑]]></title>
@@ -48,10 +62,24 @@
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[특징주] 분식 회계 이슈 다시 수면위로…셀트리온 6%↓]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000117536&amp;office_id=629&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000117536&amp;office_id=629&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-23T10:06:00.000Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[네패스아크, 시스템반도체 고성장 수혜-IBK]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004743880&amp;office_id=014&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004743880&amp;office_id=014&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-23T06:03:00.000Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 에스코넥, 삼성 AR 사업 부활 전망...삼성 VR ..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004744024&amp;office_id=014&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004744024&amp;office_id=014&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-23T10:02:00.000Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스]]></content>
     </entry>
     <entry>
@@ -150,34 +178,6 @@
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005740552&amp;office_id=421&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005740552&amp;office_id=421&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-23T06:35:00.000Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[테슬라 2% 상승하는데 리비안-루시드는 7~8% 급락(종합)]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005740568&amp;office_id=421&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005740568&amp;office_id=421&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-23T06:51:00.000Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[e공시 눈에 띄네]코스닥-22일]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005003655&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005003655&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-23T07:17:00.000Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“비트코인 대출 나온다”…제도권에 성큼 다가선 암호화폐, 과제는..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000018889&amp;office_id=243&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000018889&amp;office_id=243&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-23T06:43:00.000Z</updated>
-        <content type="html"><![CDATA[이코노미스트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엘살바도르 '비트코인 시티' 건설에도 비트코인 5% 급락(상보)]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005740584&amp;office_id=421&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005740584&amp;office_id=421&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-23T07:20:00.000Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>

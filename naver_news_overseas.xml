@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-11-23T01:50:24.616Z</updated>
+    <updated>2021-11-23T02:23:44.475Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美 백악관 "유럽과 다르게 전국 봉쇄령 시행 안해"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000998709&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211123&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000998709&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211123&amp;page=1"/>
+        <updated>2021-11-23T02:21:52.506Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000998709&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211123&amp;page=1" title="美 백악관 &quot;유럽과 다르게 전국 봉쇄령 시행 안해&quot;">美 백악관 "유럽과 다르게 전국 봉쇄령 시행 안해"</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JP모건 "바이든이 美증시 끌어올릴 묘책은"]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005091956&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211123&amp;page=1</id>
@@ -60,12 +67,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003988283&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211123&amp;page=1"/>
         <updated>2021-11-23T00:19:41.949Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003988283&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211123&amp;page=1" title="[표]해외DR 가격(11월 22일)">[표]해외DR 가격(11월 22일)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올해 IPO 기대주, 금리인상 불안감 속 일제히 급락]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000998652&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211123&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000998652&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211123&amp;page=1"/>
-        <updated>2021-11-23T00:19:41.952Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000998652&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211123&amp;page=1" title="올해 IPO 기대주, 금리인상 불안감 속 일제히 급락">올해 IPO 기대주, 금리인상 불안감 속 일제히 급락</a>]]></content>
     </entry>
 </feed>
