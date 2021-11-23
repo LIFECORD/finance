@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-11-23T19:05:07.736Z</updated>
+    <updated>2021-11-23T20:07:27.727Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[네이버·카카오 '부진의 늪'…단기 상승 어려운 2가지 이유]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004674382&amp;office_id=008&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211124&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004674382&amp;office_id=008&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211124&amp;page=1"/>
+        <updated>2021-11-24T05:05:00.000Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[케이카 '상한가'…상장후 최고의날, 골드만삭스 "목표가 8만5200원"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004674381&amp;office_id=008&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211124&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004674381&amp;office_id=008&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211124&amp;page=1"/>
+        <updated>2021-11-24T05:03:00.000Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[4분기 실적 프리뷰] 상장사 영업익 71% 증가...“성장 주춤, 내년 성과 기대”]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0002550838&amp;office_id=119&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211124&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0002550838&amp;office_id=119&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211124&amp;page=1"/>
+        <updated>2021-11-24T05:01:00.000Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주식 매매 상위 종목 및 환율] 2021년 11월 23일자]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003655030&amp;office_id=023&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211124&amp;page=1</id>
@@ -53,26 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004674366&amp;office_id=008&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211124&amp;page=1"/>
         <updated>2021-11-23T15:08:36.329Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BofA, 내년 주식시장 부정적 전망…"버블닷컴 상황과 유사"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000998880&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211124&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000998880&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211124&amp;page=1"/>
-        <updated>2021-11-23T15:08:36.329Z</updated>
-        <content type="html"><![CDATA[한국경제TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공급 우려 전망에 베스트바이 급락···중국 기업들 상승세 [뉴욕증시 나우]]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000998879&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211124&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000998879&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211124&amp;page=1"/>
-        <updated>2021-11-23T15:08:36.330Z</updated>
-        <content type="html"><![CDATA[한국경제TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쿠사마 ‘호박’ 54.5억원에 낙찰...“역대 최고가”]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000775809&amp;office_id=366&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211124&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000775809&amp;office_id=366&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211124&amp;page=1"/>
-        <updated>2021-11-23T15:08:36.332Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>
