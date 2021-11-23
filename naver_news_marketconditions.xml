@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=401</id>
     <title>네이버 금융 ─ 뉴스 ─ 시황·전망</title>
-    <updated>2021-11-23T02:23:44.458Z</updated>
+    <updated>2021-11-23T03:06:43.449Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[시그널] MBK, 한중일 3개국 회수 성공]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003988423&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211123&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003988423&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211123&amp;page=1"/>
+        <updated>2021-11-23T03:04:58.467Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003988423&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211123&amp;page=1" title="[시그널] MBK, 한중일 3개국 회수 성공">[시그널] MBK, 한중일 3개국 회수 성공</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[레이더M] MBK파트너스, 한·중·일서 투자 회수 성공]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004883016&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211123&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004883016&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211123&amp;page=1"/>
+        <updated>2021-11-23T03:04:58.468Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004883016&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211123&amp;page=1" title="[레이더M] MBK파트너스, 한·중·일서 투자 회수 성공">[레이더M] MBK파트너스, 한·중·일서 투자 회수 성공</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하루 만에 코스피 3000선 하회…부각되는 유동성 축소 우려]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005003892&amp;office_id=277&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211123&amp;page=1</id>
@@ -39,33 +53,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003988347&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211123&amp;page=1"/>
         <updated>2021-11-23T01:48:14.817Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003988347&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211123&amp;page=1" title="[특징주] 호실적에 위드코로나 기대까지...중고·렌트카주 '들썩'">[특징주] 호실적에 위드코로나 기대까지...중고·렌트카주 '들썩'</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[fn오전시황] 코스피, 기관 순매도에 3000선 위태]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004744034&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211123&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004744034&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211123&amp;page=1"/>
-        <updated>2021-11-23T01:48:14.825Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004744034&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211123&amp;page=1" title="[fn오전시황] 코스피, 기관 순매도에 3000선 위태">[fn오전시황] 코스피, 기관 순매도에 3000선 위태</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삼성전자, 7.5만원대 강보합…반도체株 오름세]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005091904&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211123&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005091904&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211123&amp;page=1"/>
-        <updated>2021-11-23T01:48:14.826Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005091904&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211123&amp;page=1" title="삼성전자, 7.5만원대 강보합…반도체株 오름세">삼성전자, 7.5만원대 강보합…반도체株 오름세</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기관 매도세에 부진한 코스피…장 초반 3002선까지 밀려]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005003797&amp;office_id=277&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211123&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005003797&amp;office_id=277&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211123&amp;page=1"/>
-        <updated>2021-11-23T01:48:14.827Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005003797&amp;office_id=277&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211123&amp;page=1" title="기관 매도세에 부진한 코스피…장 초반 3002선까지 밀려">기관 매도세에 부진한 코스피…장 초반 3002선까지 밀려</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[특징주]  ‘철강 232조’ 해결 요청 소식에 철강주 뜀박질]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003988324&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211123&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003988324&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211123&amp;page=1"/>
-        <updated>2021-11-23T01:48:14.829Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003988324&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211123&amp;page=1" title="[특징주]  ‘철강 232조’ 해결 요청 소식에 철강주 뜀박질">[특징주]  ‘철강 232조’ 해결 요청 소식에 철강주 뜀박질</a>]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-23T02:23:44.527Z</updated>
+    <updated>2021-11-23T03:06:43.430Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 셀트리온, ‘분식회계 논란’ 금감원 감리 소식에 약세]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000775588&amp;office_id=366&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000775588&amp;office_id=366&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-23T10:22:00.000Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[특징주] 호실적에 위드코로나 기대까지...중고·렌트카주 '들썩..]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003988347&amp;office_id=011&amp;mode=RANK&amp;typ=0</id>
@@ -20,18 +27,18 @@
         <content type="html"><![CDATA[데일리안]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[특징주] '빗썸 최대주주' 비덴트 강세...인바이오젠도 ↑]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004744127&amp;office_id=014&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004744127&amp;office_id=014&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-23T11:26:00.000Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ETF로 눈돌리던 동학개미, 반도체株로 다시 몰릴까]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003654770&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003654770&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-23T03:03:00.000Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[특징주] 셀트리온, ‘분식회계 논란’ 금감원 감리 소식에 약세]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000775588&amp;office_id=366&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000775588&amp;office_id=366&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-23T10:22:00.000Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[9월 주식 발행액 2.5조...전월比 22%↑]]></title>
@@ -172,12 +179,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000998624&amp;office_id=215&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-23T06:40:00.000Z</updated>
         <content type="html"><![CDATA[한국경제TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지난 주말 17% 폭등했던 루시드 주가 7% 급락(상보)]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005740552&amp;office_id=421&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005740552&amp;office_id=421&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-23T06:35:00.000Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
