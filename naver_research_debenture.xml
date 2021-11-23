@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/research/debenture_list.naver</id>
     <title>네이버 금융 ─ 리서치 ─ 채권분석 리포트</title>
-    <updated>2021-11-23T00:21:26.958Z</updated>
+    <updated>2021-11-23T01:50:24.645Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/research/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[분주한 시장과 확대되는 스프레드]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/debenture/1637630796162.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/debenture/1637630796162.pdf"/>
+        <updated>2021-11-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[하나금융투자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고민이 많아지는 시간]]></title>
         <id>https://ssl.pstatic.net/imgstock/upload/research/debenture/1637199548527.pdf</id>
@@ -206,13 +213,6 @@
         <id>https://ssl.pstatic.net/imgstock/upload/research/debenture/1632966968333.pdf</id>
         <link href="https://ssl.pstatic.net/imgstock/upload/research/debenture/1632966968333.pdf"/>
         <updated>2021-10-14T00:13:16.394Z</updated>
-        <content type="html"><![CDATA[하나금융투자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인플레이션에서 살아남기]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/debenture/1632966928451.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/debenture/1632966928451.pdf"/>
-        <updated>2021-10-14T00:13:16.396Z</updated>
         <content type="html"><![CDATA[하나금융투자]]></content>
     </entry>
 </feed>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/research/market_info_list.naver</id>
     <title>네이버 금융 ─ 리서치 ─ 시황정보 리포트</title>
-    <updated>2021-11-23T00:21:26.929Z</updated>
+    <updated>2021-11-23T01:50:24.639Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/research/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[eBest Quant Daily]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/market/1637629869966.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/market/1637629869966.pdf"/>
+        <updated>2021-11-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[이베스트증권]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Start with IBKS] KOSPI는 반도체 업종 주도로 상승..]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/market/1637629693217.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/market/1637629693217.pdf"/>
+        <updated>2021-11-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[IBK투자증권]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[eBest Quant Daily]]></title>
         <id>https://ssl.pstatic.net/imgstock/upload/research/market/1637545495805.pdf</id>
@@ -199,20 +213,6 @@
         <id>https://ssl.pstatic.net/imgstock/upload/research/market/1636424611350.pdf</id>
         <link href="https://ssl.pstatic.net/imgstock/upload/research/market/1636424611350.pdf"/>
         <updated>2021-11-09T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[IBK투자증권]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[교보박스 브리핑]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/market/1636338344770.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/market/1636338344770.pdf"/>
-        <updated>2021-11-08T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[교보증권]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Start with IBKS] KOSPI는 미 고용 지표 주시 속 기..]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/market/1636334659167.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/market/1636334659167.pdf"/>
-        <updated>2021-11-08T00:00:00.000Z</updated>
         <content type="html"><![CDATA[IBK투자증권]]></content>
     </entry>
 </feed>
