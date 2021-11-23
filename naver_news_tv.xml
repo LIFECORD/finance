@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-11-23T16:09:45.709Z</updated>
+    <updated>2021-11-23T17:14:50.312Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[중국산 차량용 요소 300t 울산항 도착...기존 계약 물량]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001668768&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211124&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001668768&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211124&amp;page=1"/>
+        <updated>2021-11-23T17:13:48.837Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["테슬라 주식을 만 원어치"...해외주식 소수점 거래 유의점은?]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001668758&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211124&amp;page=1</id>
@@ -66,13 +73,6 @@
         <id>https://finance.naver.com/news/news_read.naver?article_id=0011162466&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211124&amp;page=1</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0011162466&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211124&amp;page=1"/>
         <updated>2021-11-23T15:08:44.140Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[늘어난 종부세 어디에 쓰나?]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0011162465&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211124&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011162465&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211124&amp;page=1"/>
-        <updated>2021-11-23T15:08:44.142Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>

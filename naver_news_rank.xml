@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-23T16:09:45.702Z</updated>
+    <updated>2021-11-23T17:14:50.406Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -32,5 +32,12 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000117738&amp;office_id=629&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-23T16:08:35.823Z</updated>
         <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美 기술주 싫어하는 이유 두가지-찰스 슈왑]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004632062&amp;office_id=015&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004632062&amp;office_id=015&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-24T01:51:00.000Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
