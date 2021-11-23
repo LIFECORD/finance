@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-23T08:08:31.251Z</updated>
+    <updated>2021-11-23T09:06:45.545Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[파이낸셜뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[특징주] 아이앤씨, 이재명 첫 대선 공약 10조 지능형 전력망..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004744274&amp;office_id=014&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004744274&amp;office_id=014&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-23T07:05:12.634Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[특징주]케이카, 골드만삭스 ‘매수’ 리포트에 ‘상한가’]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005092288&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005092288&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-23T07:05:12.644Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 엇갈린 반도체株…삼성전자↑·SK하이닉스↓]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000117690&amp;office_id=629&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000117690&amp;office_id=629&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-23T09:05:35.648Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[비상장거래 ‘후끈’...삼성·신한·NH·KB 플랫폼 경쟁 치열]]></title>
@@ -39,6 +39,13 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003654770&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-23T03:03:00.000Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 아이앤씨, 이재명 첫 대선 공약 10조 지능형 전력망..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004744274&amp;office_id=014&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004744274&amp;office_id=014&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-23T07:05:12.634Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[특징주] 알비더블유, 상장 이튿날 강세… 17%↑]]></title>
@@ -172,12 +179,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004631853&amp;office_id=015&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-23T08:07:12.560Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기업공시 11월 22일]한샘, 주주가치 목적 300억 원 자사..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003988244&amp;office_id=011&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003988244&amp;office_id=011&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-23T06:04:00.000Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
