@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-11-23T07:06:26.345Z</updated>
+    <updated>2021-11-23T08:08:31.257Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["12.7조+α 민생 대책‥개별소비세 인하 연장"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001161698&amp;office_id=214&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211123&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001161698&amp;office_id=214&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211123&amp;page=1"/>
+        <updated>2021-11-23T08:07:26.735Z</updated>
+        <content type="html"><![CDATA[MBC]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[이슈체크] 연일 커지는 인플레 공포 …다시 떠오르는 ‘금’]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000265418&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211123&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000265418&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211123&amp;page=1"/>
+        <updated>2021-11-23T08:07:26.737Z</updated>
+        <content type="html"><![CDATA[SBS Biz]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[자막뉴스] 알고 계셨나요?...'금리 인하 요구권']]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001668601&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211123&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001668601&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211123&amp;page=1"/>
+        <updated>2021-11-23T08:07:26.738Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[MBN 프레스룸] 김종인 빠진 尹 선대위…전망은?]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001623391&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211123&amp;page=1</id>
@@ -48,31 +69,10 @@
         <content type="html"><![CDATA[YTN]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[더뉴스] 역대급 '종부세 고지서'?...부동산 시장 전망]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001668545&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211123&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001668545&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211123&amp;page=1"/>
-        <updated>2021-11-23T06:06:55.361Z</updated>
-        <content type="html"><![CDATA[YTN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[자막뉴스] 같은 아파트 주민이지만...세금은 '10배 차이']]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001668538&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211123&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001668538&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211123&amp;page=1"/>
-        <updated>2021-11-23T06:06:55.362Z</updated>
-        <content type="html"><![CDATA[YTN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전세·잔금대출 규제 완화…은행권 대출 '숨통']]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000515298&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211123&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000515298&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211123&amp;page=1"/>
-        <updated>2021-11-23T05:05:13.625Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울 주택분 종부세 1.6조↑…충북은 1년새 9배]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000515297&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211123&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000515297&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211123&amp;page=1"/>
-        <updated>2021-11-23T05:05:13.628Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
+        <title type="html"><![CDATA[[뉴스외전 경제 '쏙'] 미국 파월 연준의장 연임‥그런데 주가지수는 왜 하락?]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001161684&amp;office_id=214&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211123&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001161684&amp;office_id=214&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211123&amp;page=1"/>
+        <updated>2021-11-23T08:07:26.754Z</updated>
+        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>
