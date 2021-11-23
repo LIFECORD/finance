@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-11-23T15:09:56.502Z</updated>
+    <updated>2021-11-23T16:09:45.692Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["조정 받을만큼 받았다" 대형주 시대 돌아오나…반도체·자동차株 주목]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005092606&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211124&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005092606&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211124&amp;page=1"/>
+        <updated>2021-11-23T16:08:41.777Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[마켓인]군인공제회, 이르면 이번주 PE·VC 출자 선정]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005092605&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211124&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005092605&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211124&amp;page=1"/>
+        <updated>2021-11-23T16:08:41.778Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['금리 상승'이냐, '美 블프'냐…전문가 점치는 증시 전망은]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000117738&amp;office_id=629&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211124&amp;page=1</id>
@@ -60,19 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005004301&amp;office_id=277&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211124&amp;page=1"/>
         <updated>2021-11-23T15:08:36.336Z</updated>
         <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[용인 탈출 곰 1마리 또 사살…기상악화로 남은 1마리 수색중단]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005004300&amp;office_id=277&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211124&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005004300&amp;office_id=277&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211124&amp;page=1"/>
-        <updated>2021-11-23T15:08:36.338Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가상자산업법 초안 보니... "부당이득 시 징역형, 발행 시 백서 의무화"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000642840&amp;office_id=469&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211124&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000642840&amp;office_id=469&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211124&amp;page=1"/>
-        <updated>2021-11-23T15:08:36.339Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
 </feed>
