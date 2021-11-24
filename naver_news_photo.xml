@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-11-24T11:06:03.236Z</updated>
+    <updated>2021-11-24T12:10:41.502Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[레알 마드리드 공격수 벤제마…성관계 동영상 동료 협박 혐의 징역 1년·집유]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005093501&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211124&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005093501&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211124&amp;page=1"/>
+        <updated>2021-11-24T12:09:41.545Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[年 11% 준다길래 달려갔더니… 월 10만원 넣는 적금이더라]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003655260&amp;office_id=023&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211124&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003655260&amp;office_id=023&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211124&amp;page=1"/>
+        <updated>2021-11-24T12:09:41.548Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[카카오페이 코스피200 특례편입 확정]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0002707880&amp;office_id=029&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211124&amp;page=1</id>
@@ -60,19 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0010852463&amp;office_id=003&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211124&amp;page=1"/>
         <updated>2021-11-24T10:05:13.271Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[표]코스닥 기관·외국인·개인 순매수·도 상위종목(11월 24일-최종치)]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003989195&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211124&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003989195&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211124&amp;page=1"/>
-        <updated>2021-11-24T10:05:13.273Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[표]유가증권 기관·외국인·개인 순매수·도 상위종목(11월 24일-최종치)]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003989192&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211124&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003989192&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211124&amp;page=1"/>
-        <updated>2021-11-24T10:05:13.274Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>

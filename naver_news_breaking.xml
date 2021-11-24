@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS2D&amp;section_id=101&amp;section_id2=258</id>
     <title>네이버 금융 ─ 뉴스 ─ 실시간 속보</title>
-    <updated>2021-11-24T11:06:03.261Z</updated>
+    <updated>2021-11-24T12:10:41.519Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[픽뉴스] 판매자는 총살 / 오징어 복지법 / '사랑꾼' 남편 / 미국도 놀란 '헤어롤' ..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001623737&amp;office_id=057&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211124&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001623737&amp;office_id=057&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211124&amp;page=1"/>
+        <updated>2021-11-24T12:08:48.262Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0001623737&amp;office_id=057&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211124&amp;page=1" title="[픽뉴스] 판매자는 총살 / 오징어 복지법 / '사랑꾼' 남편 / 미국도 놀란 '헤어롤' / BTS가 왜 거기서 나와?">[픽뉴스] 판매자는 총살 / 오징어 복지법 / '사랑꾼' 남편 / 미국도 놀란 '헤어롤' ..</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[카카오페이 코스피200 특례편입 확정]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0002707880&amp;office_id=029&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211124&amp;page=1</id>
@@ -46,12 +53,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000638488&amp;office_id=031&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211124&amp;page=1"/>
         <updated>2021-11-24T10:04:24.425Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000638488&amp;office_id=031&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211124&amp;page=1" title="미래에셋글로벌리츠, 청약 경쟁률 753대 1…리츠 역대 최고">미래에셋글로벌리츠, 청약 경쟁률 753대 1…리츠 역대 최고</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[`사모펀드 사태` 옵티머스자산운용 문닫는다]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0002707854&amp;office_id=029&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211124&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0002707854&amp;office_id=029&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211124&amp;page=1"/>
-        <updated>2021-11-24T10:04:24.427Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0002707854&amp;office_id=029&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211124&amp;page=1" title="`사모펀드 사태` 옵티머스자산운용 문닫는다">`사모펀드 사태` 옵티머스자산운용 문닫는다</a>]]></content>
     </entry>
 </feed>
