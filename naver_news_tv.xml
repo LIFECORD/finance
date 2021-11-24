@@ -2,15 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-11-24T12:10:41.504Z</updated>
+    <updated>2021-11-24T13:15:58.571Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[종합뉴스 날씨]내일 아침 오늘보다 높은 기온…동해안 대기 건조]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001623751&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211124&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001623751&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211124&amp;page=1"/>
-        <updated>2021-11-24T12:09:48.016Z</updated>
+        <title type="html"><![CDATA[삼성, 美테일러시에 20조원 규모 반도체 공장 건설…시장 판도 바뀌나?]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0011163290&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211124&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011163290&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211124&amp;page=1"/>
+        <updated>2021-11-24T13:15:06.862Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["집 못 팔고 종부세만 내라고?"…'1+1 재건축' 잇단 철회]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000344834&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211124&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000344834&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211124&amp;page=1"/>
+        <updated>2021-11-24T13:15:06.865Z</updated>
+        <content type="html"><![CDATA[TV조선]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[삼성, 20조 투자 美 반도체 공장 부지 '테일러시' 확정]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000344833&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211124&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000344833&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211124&amp;page=1"/>
+        <updated>2021-11-24T13:15:06.865Z</updated>
+        <content type="html"><![CDATA[TV조선]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[백운기의 뉴스와이드] 윤석열-김종인 전격 회동 / 이재명 선대위 "쇄신"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001623752&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211124&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001623752&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211124&amp;page=1"/>
+        <updated>2021-11-24T13:15:06.865Z</updated>
         <content type="html"><![CDATA[MBN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[삼성 '20조 투자' 미국에 공장...이재용 "마음 무겁다"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001669195&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211124&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001669195&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211124&amp;page=1"/>
+        <updated>2021-11-24T13:15:06.865Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[종부세 100만 명 넘었다…깜짝 고지서 받았지만 "강남집 안 판다"]]></title>
@@ -46,33 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000515553&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211124&amp;page=1"/>
         <updated>2021-11-24T12:09:48.021Z</updated>
         <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[화물연대 내일(25일)부터 총파업…비상수송대책 시행]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000935565&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211124&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000935565&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211124&amp;page=1"/>
-        <updated>2021-11-24T12:09:48.022Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[야간 근로 실태조사 해보니…휴식 · 건강진단 '미흡']]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000935563&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211124&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000935563&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211124&amp;page=1"/>
-        <updated>2021-11-24T12:09:48.023Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["아랫집 여성 말에 우발적으로 벌인 일"…경찰관 2명 직위 해제]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001623744&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211124&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001623744&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211124&amp;page=1"/>
-        <updated>2021-11-24T12:09:48.024Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["종부세, 주거 안정 목적에 쓰자"…"수도권만 혜택"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000935562&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211124&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000935562&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211124&amp;page=1"/>
-        <updated>2021-11-24T12:09:48.025Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>
