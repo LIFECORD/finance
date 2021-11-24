@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/research/economy_list.naver</id>
     <title>네이버 금융 ─ 리서치 ─ 경제분석 리포트</title>
-    <updated>2021-11-24T01:51:42.449Z</updated>
+    <updated>2021-11-24T02:23:35.004Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/research/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[퀄리티 팩터 대응 지속 국면 (FQAL, VFQY)]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/economy/1637720180302.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/economy/1637720180302.pdf"/>
+        <updated>2021-11-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[IBK투자증권]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국내외 경제이슈]]></title>
         <id>https://ssl.pstatic.net/imgstock/upload/research/economy/1637630498573.pdf</id>
@@ -207,12 +214,5 @@
         <link href="https://ssl.pstatic.net/imgstock/upload/research/economy/1634261970449.pdf"/>
         <updated>2021-10-15T00:00:00.000Z</updated>
         <content type="html"><![CDATA[IBK투자증권]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유가가 도와준다]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/economy/1634177206548.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/economy/1634177206548.pdf"/>
-        <updated>2021-10-14T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[하나금융투자]]></content>
     </entry>
 </feed>
