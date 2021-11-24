@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=401</id>
     <title>네이버 금융 ─ 뉴스 ─ 시황·전망</title>
-    <updated>2021-11-24T09:06:38.870Z</updated>
+    <updated>2021-11-24T10:06:12.285Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[표]유가증권 코스닥 투자주체별 매매동향(11월 24일-최종치)]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003989190&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211124&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003989190&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211124&amp;page=1"/>
+        <updated>2021-11-24T10:04:34.773Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003989190&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211124&amp;page=1" title="[표]유가증권 코스닥 투자주체별 매매동향(11월 24일-최종치)">[표]유가증권 코스닥 투자주체별 매매동향(11월 24일-최종치)</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[레이더M] 행정공제회, 3년 연속 韓최우수 기관투자자상]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004883919&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211124&amp;page=1</id>
@@ -32,19 +39,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004883913&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211124&amp;page=1"/>
         <updated>2021-11-24T09:04:50.815Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004883913&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211124&amp;page=1" title="&quot;기관자금 대출펀드, 저위험 고수익 투자로 주목&quot;">"기관자금 대출펀드, 저위험 고수익 투자로 주목"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["한국 주식 싸다"…외국인 이달 들어 3조원 순매수]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004883906&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211124&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004883906&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211124&amp;page=1"/>
-        <updated>2021-11-24T09:04:50.817Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004883906&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211124&amp;page=1" title="&quot;한국 주식 싸다&quot;…외국인 이달 들어 3조원 순매수">"한국 주식 싸다"…외국인 이달 들어 3조원 순매수</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코스피200에 현대중공업·메리츠지주 등 편입...카카오페이도 특례충족]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003989143&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211124&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003989143&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211124&amp;page=1"/>
-        <updated>2021-11-24T09:04:50.818Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003989143&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211124&amp;page=1" title="코스피200에 현대중공업·메리츠지주 등 편입...카카오페이도 특례충족">코스피200에 현대중공업·메리츠지주 등 편입...카카오페이도 특례충족</a>]]></content>
     </entry>
 </feed>
