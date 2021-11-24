@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-24T16:09:22.523Z</updated>
+    <updated>2021-11-24T17:16:07.307Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -25,5 +25,12 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000776072&amp;office_id=366&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-24T16:08:07.109Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[마켓인]"F&B라 부르지 마세요"…`음료` 뜨고 `외식` 저문..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005093524&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005093524&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-25T01:31:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
