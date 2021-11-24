@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-24T17:16:07.307Z</updated>
+    <updated>2021-11-24T18:08:22.143Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA['슈퍼사이클' 기다리는 삼성전자, 숨고르기 들어갔나]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000117968&amp;office_id=629&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000117968&amp;office_id=629&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-24T16:08:07.108Z</updated>
-        <content type="html"><![CDATA[더팩트]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[돌아온 외국인…변동성 이길 수급유입 기대株는?]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005093522&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005093522&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-24T16:08:07.108Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['슈퍼사이클' 기다리는 삼성전자, 숨고르기 들어갔나]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000117968&amp;office_id=629&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000117968&amp;office_id=629&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-24T16:08:07.108Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뉴욕증시, FOMC 의사록 주시 속 하락세 출발]]></title>
