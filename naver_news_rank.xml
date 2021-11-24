@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-24T20:07:41.664Z</updated>
+    <updated>2021-11-24T21:05:45.425Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -13,24 +13,10 @@
         <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['슈퍼사이클' 기다리는 삼성전자, 숨고르기 들어갔나]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000117968&amp;office_id=629&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000117968&amp;office_id=629&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-24T16:08:07.108Z</updated>
-        <content type="html"><![CDATA[더팩트]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[돌아온 외국인…변동성 이길 수급유입 기대株는?]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005093522&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005093522&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-24T16:08:07.108Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[마켓인]"F&B라 부르지 마세요"…`음료` 뜨고 `외식` 저문..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005093524&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005093524&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-25T01:31:00.000Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
@@ -46,6 +32,20 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003395870&amp;office_id=020&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-25T03:09:00.000Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['슈퍼사이클' 기다리는 삼성전자, 숨고르기 들어갔나]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000117968&amp;office_id=629&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000117968&amp;office_id=629&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-24T16:08:07.108Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[마켓인]"F&B라 부르지 마세요"…`음료` 뜨고 `외식` 저문..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005093524&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005093524&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-25T01:31:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[주식 매매 상위 종목 및 환율] 2021년 11월 24일자]]></title>
@@ -74,5 +74,47 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004674912&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-25T04:45:00.000Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[동학개미 떠나자 거래대금 '반토막'…증권사가 본 증권株 전망은?]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004674918&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004674918&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-25T05:10:00.000Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[증권사 올해 코스피 전망 다 틀렸다...지수예상 무용론]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0002551228&amp;office_id=119&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0002551228&amp;office_id=119&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-25T05:01:00.000Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[자본연 "내년 기준금리 1.5%까지 오를 것"… 성장률은 3.2..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000757972&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000757972&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-25T05:09:00.000Z</updated>
+        <content type="html"><![CDATA[머니S]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["올해 코스피 IPO BBIG가 하드캐리"… 크래프톤 역대 공모..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000757974&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000757974&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-25T05:22:00.000Z</updated>
+        <content type="html"><![CDATA[머니S]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[올해 마지막 코스피200 정기변경… 현대중공업·카카오페이 신규 ..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000757984&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000757984&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-25T05:46:00.000Z</updated>
+        <content type="html"><![CDATA[머니S]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["MZ세대 골린이 공략할까"… 골프ETF, 첫날 성적표는 '기대..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000757981&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000757981&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-25T05:38:00.000Z</updated>
+        <content type="html"><![CDATA[머니S]]></content>
     </entry>
 </feed>

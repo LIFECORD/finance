@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-11-24T20:07:41.652Z</updated>
+    <updated>2021-11-24T21:05:45.426Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["인과성 인정만 바랄뿐"…질병청장 만난 백신피해자가족]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000515577&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211125&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000515577&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211125&amp;page=1"/>
+        <updated>2021-11-25T05:36:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어젯밤 9시까지 3,035명 신규확진…서울 동시간대 '최다']]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000515576&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211125&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000515576&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211125&amp;page=1"/>
+        <updated>2021-11-25T05:27:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["차량용 요소수 내년 2월까지 사용량 확보"]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000515574&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211125&amp;page=1</id>
@@ -60,19 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001669195&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211125&amp;page=1"/>
         <updated>2021-11-24T15:06:45.211Z</updated>
         <content type="html"><![CDATA[YTN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[종부세 100만 명 넘었다…깜짝 고지서 받았지만 "강남집 안 판다"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001623750&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211125&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001623750&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211125&amp;page=1"/>
-        <updated>2021-11-24T15:06:45.213Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삼성전자 미 테일러시 20조 파운드리 공장 건설…이재용 "냉혹한 현실 마음 무겁다"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001623749&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211125&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001623749&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211125&amp;page=1"/>
-        <updated>2021-11-24T15:06:45.217Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
     </entry>
 </feed>
