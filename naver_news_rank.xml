@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-24T07:07:48.009Z</updated>
+    <updated>2021-11-24T08:07:53.708Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[[특징주] 에코캡, 리비안 내년 3월부터 차량 인도 공급사 부각]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000757826&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000757826&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-24T07:06:24.512Z</updated>
-        <content type="html"><![CDATA[머니S]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[특징주] 오로스테크놀로지, 기관 순매수에 10.6% 상승]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0002983971&amp;office_id=030&amp;mode=RANK&amp;typ=0</id>
@@ -20,11 +13,11 @@
         <content type="html"><![CDATA[전자신문]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['금리 상승'이냐, '美 블프'냐…전문가 점치는 증시 전망은]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000117738&amp;office_id=629&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000117738&amp;office_id=629&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-23T16:08:35.823Z</updated>
-        <content type="html"><![CDATA[더팩트]]></content>
+        <title type="html"><![CDATA[[특징주] 에코캡, 리비안 내년 3월부터 차량 인도 공급사 부각]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000757826&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000757826&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-24T07:06:24.512Z</updated>
+        <content type="html"><![CDATA[머니S]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[특징주]신풍제약, '비자금 조성' 혐의 경찰 압수수색에 급락]]></title>
@@ -32,6 +25,13 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005004798&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-24T06:08:33.168Z</updated>
         <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['금리 상승'이냐, '美 블프'냐…전문가 점치는 증시 전망은]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000117738&amp;office_id=629&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000117738&amp;office_id=629&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-23T16:08:35.823Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[속보]국채금리 급등에 뉴욕증시 혼조…나스닥 0.5%↓]]></title>
