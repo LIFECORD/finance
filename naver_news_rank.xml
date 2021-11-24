@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-24T19:06:03.958Z</updated>
+    <updated>2021-11-24T20:07:41.664Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뉴욕증시, FOMC 의사록 주시 속 하락세 출발]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000776072&amp;office_id=366&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000776072&amp;office_id=366&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-24T16:08:07.109Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['슈퍼사이클' 기다리는 삼성전자, 숨고르기 들어갔나]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000117968&amp;office_id=629&amp;mode=RANK&amp;typ=0</id>
@@ -20,25 +27,11 @@
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뉴욕증시, FOMC 의사록 주시 속 하락세 출발]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000776072&amp;office_id=366&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000776072&amp;office_id=366&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-24T16:08:07.109Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[마켓인]"F&B라 부르지 마세요"…`음료` 뜨고 `외식` 저문..]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005093524&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005093524&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-25T01:31:00.000Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주식 매매 상위 종목 및 환율] 2021년 11월 24일자]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003655328&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003655328&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-25T03:04:00.000Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[주요경제지표] 2021년 11월 24일자]]></title>
@@ -55,10 +48,31 @@
         <content type="html"><![CDATA[동아일보]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[주식 매매 상위 종목 및 환율] 2021년 11월 24일자]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003655328&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003655328&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-25T03:04:00.000Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[부꾸미]1년새 2배 오른 美금융 ETF…내년에 또 오른다고?]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004674903&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004674903&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-25T03:30:00.000Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“대학생도 늦는다, 10대부터 잡아라”…은행권 청소년 고객 확보..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000643127&amp;office_id=469&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000643127&amp;office_id=469&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-25T04:31:00.000Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["지금 논의되는 가상자산업권법은 '반쪽'…돈 외에 기술도 봐달라..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004674912&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004674912&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-25T04:45:00.000Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
