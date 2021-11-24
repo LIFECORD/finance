@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-11-24T05:07:05.713Z</updated>
+    <updated>2021-11-24T06:09:44.457Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[삼성 '20조' 공장 텍사스 테일러로…TSMC 추격전]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000515480&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211124&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000515480&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211124&amp;page=1"/>
+        <updated>2021-11-24T06:08:45.456Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이슈& 직설] 소상공인 손실보상, 현금 대신 대출 “이미 빚더미, 또 대출?”…자영업자 ..]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000265530&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211124&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001623632&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211124&amp;page=1"/>
         <updated>2021-11-24T05:06:01.195Z</updated>
         <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[경제 톡톡톡]美 테일러시 낙점…삼성, 20조 원 들여 반도체 공장]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000218331&amp;office_id=449&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211124&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000218331&amp;office_id=449&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211124&amp;page=1"/>
-        <updated>2021-11-24T05:06:01.197Z</updated>
-        <content type="html"><![CDATA[채널A]]></content>
     </entry>
 </feed>
