@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-24T02:23:34.980Z</updated>
+    <updated>2021-11-24T03:06:57.598Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[특징주] '골드만삭스' 호평에...'케이카' 18.55%↑ 급..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0002983875&amp;office_id=030&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0002983875&amp;office_id=030&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-24T10:36:00.000Z</updated>
+        <content type="html"><![CDATA[전자신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주] '진단키트주' 씨젠, 코로나 확진 첫 4000명 돌파..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0002983890&amp;office_id=030&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0002983890&amp;office_id=030&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-24T10:53:00.000Z</updated>
+        <content type="html"><![CDATA[전자신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주]신풍제약, 압수수색 소식에 ‘약세’]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005092962&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005092962&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-24T10:58:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['금리 상승'이냐, '美 블프'냐…전문가 점치는 증시 전망은]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000117738&amp;office_id=629&amp;mode=RANK&amp;typ=0</id>
@@ -90,13 +111,6 @@
         <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[특징주] '골드만삭스' 호평에...'케이카' 18.55%↑ 급..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0002983875&amp;office_id=030&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0002983875&amp;office_id=030&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-24T10:36:00.000Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[상승세 탄 삼성전자 ‘8만전자’ 직행?…“올해는 쉽지 않을 듯”]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000018943&amp;office_id=243&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000018943&amp;office_id=243&amp;mode=RANK&amp;typ=0"/>
@@ -111,17 +125,17 @@
         <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[금리 우려에 미국 성장주 흔들리는데…마이크론은 왜 게속 오를까 ..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000998891&amp;office_id=215&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000998891&amp;office_id=215&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-24T06:46:00.000Z</updated>
-        <content type="html"><![CDATA[한국경제TV]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[특징주] 애니플러스, NFT 신사업 연계 기대 속 상한가]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000998974&amp;office_id=215&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000998974&amp;office_id=215&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-24T10:34:00.000Z</updated>
+        <content type="html"><![CDATA[한국경제TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[금리 우려에 미국 성장주 흔들리는데…마이크론은 왜 게속 오를까 ..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000998891&amp;office_id=215&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000998891&amp;office_id=215&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-24T06:46:00.000Z</updated>
         <content type="html"><![CDATA[한국경제TV]]></content>
     </entry>
     <entry>
@@ -165,19 +179,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005743043&amp;office_id=421&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-24T06:21:00.000Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["케어랩스, '바비톡' 태국진출 성사되면 기업가치 레벨업"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004674441&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004674441&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-24T08:26:00.000Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로스비보 “글로벌 제약사와 당뇨병 치료제 기술이전 가시화”]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004632075&amp;office_id=015&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004632075&amp;office_id=015&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-24T06:50:00.000Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
