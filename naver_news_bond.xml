@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=404</id>
     <title>네이버 금융 ─ 뉴스 ─ 채권 선물</title>
-    <updated>2021-11-25T06:11:13.187Z</updated>
+    <updated>2021-11-25T07:06:49.902Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -25,12 +25,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005093371&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211125&amp;page=1"/>
         <updated>2021-11-24T15:06:13.142Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005093371&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211125&amp;page=1" title="[표]거래소주가지수선물·옵션시세표(11/24)">[표]거래소주가지수선물·옵션시세표(11/24)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국내 주식형 펀드 자금, 3거래일 만에 순유출]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005092656&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211125&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005092656&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211125&amp;page=1"/>
-        <updated>2021-11-24T15:06:13.143Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005092656&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211125&amp;page=1" title="국내 주식형 펀드 자금, 3거래일 만에 순유출">국내 주식형 펀드 자금, 3거래일 만에 순유출</a>]]></content>
     </entry>
 </feed>
