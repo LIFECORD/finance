@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-11-25T05:07:32.157Z</updated>
+    <updated>2021-11-25T06:11:13.189Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[월가가 꼽은 블랙프라이데이 수혜주 5選]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005094065&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211125&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005094065&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211125&amp;page=1"/>
+        <updated>2021-11-25T06:09:37.692Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005094065&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211125&amp;page=1" title="월가가 꼽은 블랙프라이데이 수혜주 5選">월가가 꼽은 블랙프라이데이 수혜주 5選</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["中 공산당 발언 경솔했다"…고개 숙인 '월가의 황제' 다이먼]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004632772&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211125&amp;page=1</id>
@@ -60,12 +67,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000999225&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211125&amp;page=1"/>
         <updated>2021-11-25T01:49:43.825Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000999225&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211125&amp;page=1" title="월가 투자은행 &quot;내년 S&amp;P지수 5000선 돌파할것&quot;">월가 투자은행 "내년 S&amp;P지수 5000선 돌파할것"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[캐시우드 "애플, 기회 있을 때 테슬라 인수했어야"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000999215&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211125&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000999215&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211125&amp;page=1"/>
-        <updated>2021-11-25T01:49:43.827Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000999215&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211125&amp;page=1" title="캐시우드 &quot;애플, 기회 있을 때 테슬라 인수했어야&quot;">캐시우드 "애플, 기회 있을 때 테슬라 인수했어야"</a>]]></content>
     </entry>
 </feed>
