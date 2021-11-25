@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=401</id>
     <title>네이버 금융 ─ 뉴스 ─ 시황·전망</title>
-    <updated>2021-11-25T03:07:05.582Z</updated>
+    <updated>2021-11-25T04:07:48.618Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[속보] 이주열 총재 "내년 1분기 금리인상 가능성 열려있어"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003989485&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211125&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003989485&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211125&amp;page=1"/>
+        <updated>2021-11-25T04:05:59.014Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003989485&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211125&amp;page=1" title="[속보] 이주열 총재 &quot;내년 1분기 금리인상 가능성 열려있어&quot;">[속보] 이주열 총재 "내년 1분기 금리인상 가능성 열려있어"</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독] ETF에 꽃힌 개미…차이나전기차 ETF 11월 개인 순매수 1위 등극]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004884226&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211125&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001916938&amp;office_id=016&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211125&amp;page=1"/>
         <updated>2021-11-25T02:23:55.844Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0001916938&amp;office_id=016&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211125&amp;page=1" title="삼정KPMG '2021년 BIG3 의료기기 분야 성장 지원 세미나’ 개최">삼정KPMG '2021년 BIG3 의료기기 분야 성장 지원 세미나’ 개최</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[특징주] 씨앤투스성진, 200% 무상증자·자사주 소각 소식에 25% 급등]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003989409&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211125&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003989409&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211125&amp;page=1"/>
-        <updated>2021-11-25T01:49:31.684Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003989409&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211125&amp;page=1" title="[특징주] 씨앤투스성진, 200% 무상증자·자사주 소각 소식에 25% 급등">[특징주] 씨앤투스성진, 200% 무상증자·자사주 소각 소식에 25% 급등</a>]]></content>
     </entry>
 </feed>
