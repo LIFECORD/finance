@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-25T07:06:49.917Z</updated>
+    <updated>2021-11-25T08:08:28.505Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005005530&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-25T07:05:38.550Z</updated>
         <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 삼성전자?SK하이닉스, 'K-낸드' 매출 호조에도 내..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000118143&amp;office_id=629&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000118143&amp;office_id=629&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-25T08:07:10.484Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뉴욕증시, FOMC 의사록 주시 속 하락세 출발]]></title>
@@ -172,12 +179,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005005080&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-25T07:24:00.000Z</updated>
         <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴욕증시, 연준 '조기 금리인상' 시사에 혼조 마감…다우 0.0..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000117973&amp;office_id=629&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000117973&amp;office_id=629&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-25T07:19:00.000Z</updated>
-        <content type="html"><![CDATA[더팩트]]></content>
     </entry>
 </feed>
