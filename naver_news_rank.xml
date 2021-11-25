@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-25T02:26:02.799Z</updated>
+    <updated>2021-11-25T03:07:05.592Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 미투온, NFT테마 강세속 세계최초 메타버스·NFT ..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001916976&amp;office_id=016&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001916976&amp;office_id=016&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-25T11:08:00.000Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뉴욕증시, FOMC 의사록 주시 속 하락세 출발]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000776072&amp;office_id=366&amp;mode=RANK&amp;typ=0</id>
@@ -13,11 +20,11 @@
         <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[특징주] 디지캡, 최대주주 변경 무산 소식에 하한가]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000638560&amp;office_id=031&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000638560&amp;office_id=031&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-25T10:02:00.000Z</updated>
-        <content type="html"><![CDATA[아이뉴스24]]></content>
+        <title type="html"><![CDATA[[특징주] 엔피, 11.01% 상승..."메타버스 자회사 설립"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0002984116&amp;office_id=030&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0002984116&amp;office_id=030&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-25T10:25:00.000Z</updated>
+        <content type="html"><![CDATA[전자신문]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[특징주] NFT 테마 '블루베리 NFT' 10.24% 상승]]></title>
@@ -25,6 +32,13 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0002984117&amp;office_id=030&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-25T10:25:00.000Z</updated>
         <content type="html"><![CDATA[전자신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 디지캡, 최대주주 변경 무산 소식에 하한가]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000638560&amp;office_id=031&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000638560&amp;office_id=031&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-25T10:02:00.000Z</updated>
+        <content type="html"><![CDATA[아이뉴스24]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[올해 마지막 코스피200 정기변경… 현대중공업·카카오페이 신규 ..]]></title>
@@ -39,13 +53,6 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0010852721&amp;office_id=003&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-25T06:00:00.000Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[특징주] 엔피, 11.01% 상승..."메타버스 자회사 설립"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0002984116&amp;office_id=030&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0002984116&amp;office_id=030&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-25T10:25:00.000Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["올해 코스피 IPO BBIG가 하드캐리"… 크래프톤 역대 공모..]]></title>
@@ -125,6 +132,13 @@
         <content type="html"><![CDATA[파이낸셜뉴스]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[특징주] NFT 테마…서울옥션, 8.19%↑]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0002984146&amp;office_id=030&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0002984146&amp;office_id=030&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-25T11:40:00.000Z</updated>
+        <content type="html"><![CDATA[전자신문]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[클릭 e종목]"LG이노텍, 4분기 사상 최대 분기 실적 기대"]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005005073&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005005073&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
@@ -165,19 +179,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005093605&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-25T08:22:00.000Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['서학개미' 순매수 1위 종목은…국내는 '곱버스'에 베팅]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000999186&amp;office_id=215&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000999186&amp;office_id=215&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-25T07:10:00.000Z</updated>
-        <content type="html"><![CDATA[한국경제TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DB금투 "솔브레인, 중장기 성장 지속 전망"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0010852822&amp;office_id=003&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0010852822&amp;office_id=003&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-25T08:29:00.000Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
