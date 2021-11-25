@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-11-25T10:06:44.706Z</updated>
+    <updated>2021-11-25T11:05:53.408Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[표]아시아 주요 증시 동향(11월 25일)]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003989759&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211125&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003989759&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211125&amp;page=1"/>
+        <updated>2021-11-25T11:04:17.151Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003989759&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211125&amp;page=1" title="[표]아시아 주요 증시 동향(11월 25일)">[표]아시아 주요 증시 동향(11월 25일)</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[글로벌 핫스톡] 텐센트, 中규제 리스크 완화···메타버스 성장 수혜도]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003989713&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211125&amp;page=1</id>
@@ -32,12 +39,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005094260&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211125&amp;page=1"/>
         <updated>2021-11-25T09:05:27.779Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005094260&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211125&amp;page=1" title="&quot;테슬라 중심의 기술주 하락장 올 수 있다&quot;">"테슬라 중심의 기술주 하락장 올 수 있다"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[외환마감]美긴축 우려+국내증시 하락…환율, 한달여만에 1190원 상승]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005094160&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211125&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005094160&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211125&amp;page=1"/>
-        <updated>2021-11-25T07:05:15.200Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005094160&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211125&amp;page=1" title="[외환마감]美긴축 우려+국내증시 하락…환율, 한달여만에 1190원 상승">[외환마감]美긴축 우려+국내증시 하락…환율, 한달여만에 1190원 상승</a>]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=402</id>
     <title>네이버 금융 ─ 뉴스 ─ 기업 종목분석</title>
-    <updated>2021-11-25T10:06:44.710Z</updated>
+    <updated>2021-11-25T11:05:53.417Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[바이오니아, 글로벌센터 개소… '신약 개발 헬스케어 기업 2030' 비전 선포]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004884599&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211125&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004884599&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211125&amp;page=1"/>
+        <updated>2021-11-25T11:04:10.852Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004884599&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211125&amp;page=1" title="바이오니아, 글로벌센터 개소… '신약 개발 헬스케어 기업 2030' 비전 선포">바이오니아, 글로벌센터 개소… '신약 개발 헬스케어 기업 2030' 비전 선포</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[표]코스닥 기관·외국인·개인 순매수·도 상위종목(11월 25일-최종치)]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003989745&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211125&amp;page=1</id>
@@ -46,12 +53,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003989736&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211125&amp;page=1"/>
         <updated>2021-11-25T10:05:00.942Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003989736&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211125&amp;page=1" title="김남구 한국투자금융지주 회장 &quot;대체투자 강화해 명성 되찾아라&quot; 특명">김남구 한국투자금융지주 회장 "대체투자 강화해 명성 되찾아라" 특명</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LG엔솔·현대ENG… 내년 역대급 IPO 시장 열린다]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004745789&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211125&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004745789&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211125&amp;page=1"/>
-        <updated>2021-11-25T09:05:20.795Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004745789&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211125&amp;page=1" title="LG엔솔·현대ENG… 내년 역대급 IPO 시장 열린다">LG엔솔·현대ENG… 내년 역대급 IPO 시장 열린다</a>]]></content>
     </entry>
 </feed>
