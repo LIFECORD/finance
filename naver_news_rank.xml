@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-25T00:20:49.530Z</updated>
+    <updated>2021-11-25T01:51:17.188Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -160,6 +160,13 @@
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[특징주] 동방, 美건설업체와 해상운송 용역 계약 소식에 6%대..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000638541&amp;office_id=031&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000638541&amp;office_id=031&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-25T09:43:00.000Z</updated>
+        <content type="html"><![CDATA[아이뉴스24]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[뉴욕증시, 연준 '금리 인상 준비' 시사에 혼조 마감]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0010852745&amp;office_id=003&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0010852745&amp;office_id=003&amp;mode=RANK&amp;typ=0"/>
@@ -172,12 +179,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000757972&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-25T05:09:00.000Z</updated>
         <content type="html"><![CDATA[머니S]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BGF리테일, '위드 코로나' 맞이 편의점 시장 수혜 '집중'-..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005093572&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005093572&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-25T07:34:00.000Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
