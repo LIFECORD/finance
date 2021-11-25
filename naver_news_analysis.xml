@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=402</id>
     <title>네이버 금융 ─ 뉴스 ─ 기업 종목분석</title>
-    <updated>2021-11-25T21:05:56.282Z</updated>
+    <updated>2021-11-25T22:06:35.064Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[바이오플러스 “유착방지제, 글로벌 기업과 기술이전 논의 중”]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004633188&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211126&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004633188&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211126&amp;page=1"/>
+        <updated>2021-11-25T22:04:48.092Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004633188&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211126&amp;page=1" title="바이오플러스 “유착방지제, 글로벌 기업과 기술이전 논의 중”">바이오플러스 “유착방지제, 글로벌 기업과 기술이전 논의 중”</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방송국 시대 갔다…'K-드라마' 업고 날아오르는 제작사]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004675534&amp;office_id=008&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211126&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003989738&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211126&amp;page=1"/>
         <updated>2021-11-25T15:05:41.425Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003989738&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211126&amp;page=1" title="소강 상태 접어든 IPO 시장···공모주 펀드 자금 ‘썰물’">소강 상태 접어든 IPO 시장···공모주 펀드 자금 ‘썰물’</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잇단 호재에 연기금 '사자'…카카오페이 급등]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004633094&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211126&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004633094&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211126&amp;page=1"/>
-        <updated>2021-11-25T15:05:41.425Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004633094&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211126&amp;page=1" title="잇단 호재에 연기금 '사자'…카카오페이 급등">잇단 호재에 연기금 '사자'…카카오페이 급등</a>]]></content>
     </entry>
 </feed>
