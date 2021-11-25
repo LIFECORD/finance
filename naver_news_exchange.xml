@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=429</id>
     <title>네이버 금융 ─ 뉴스 ─ 환율</title>
-    <updated>2021-11-25T08:08:28.517Z</updated>
+    <updated>2021-11-25T09:07:09.923Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[기자의눈] 환경부의 수소 일구이언]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003989698&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211125&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003989698&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211125&amp;page=1"/>
+        <updated>2021-11-25T09:05:45.768Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003989698&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211125&amp;page=1" title="[기자의눈] 환경부의 수소 일구이언">[기자의눈] 환경부의 수소 일구이언</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정부, 국민이 낸 전기요금으로 탈원전 비용 마련한다]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003989477&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211125&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0012803051&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211125&amp;page=1"/>
         <updated>2021-11-24T15:06:24.923Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012803051&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211125&amp;page=1" title="원/달러 환율 1,180.4원 마감…2.1원 하락">원/달러 환율 1,180.4원 마감…2.1원 하락</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중국 총리 "경제 하방압력 있지만 통화완화 안 한다"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0012802837&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211125&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0012802837&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211125&amp;page=1"/>
-        <updated>2021-11-24T15:06:24.925Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0012802837&amp;office_id=001&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211125&amp;page=1" title="중국 총리 &quot;경제 하방압력 있지만 통화완화 안 한다&quot;">중국 총리 "경제 하방압력 있지만 통화완화 안 한다"</a>]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-25T08:08:28.505Z</updated>
+    <updated>2021-11-25T09:07:09.935Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[특징주]디에이테크놀로지, 유럽 전기차 배터리 시장 진출 기대감..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005005530&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005005530&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-25T07:05:38.550Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[특징주] 삼성전자?SK하이닉스, 'K-낸드' 매출 호조에도 내..]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000118143&amp;office_id=629&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000118143&amp;office_id=629&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-25T08:07:10.484Z</updated>
         <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주]디에이테크놀로지, 유럽 전기차 배터리 시장 진출 기대감..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005005530&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005005530&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-25T07:05:38.550Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뉴욕증시, FOMC 의사록 주시 속 하락세 출발]]></title>
@@ -39,13 +39,6 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000638560&amp;office_id=031&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-25T10:02:00.000Z</updated>
         <content type="html"><![CDATA[아이뉴스24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[특징주] 삼성전자·SK하이닉스 1%대 약세…반등은 언제?]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000118104&amp;office_id=629&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000118104&amp;office_id=629&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-25T07:05:38.552Z</updated>
-        <content type="html"><![CDATA[더팩트]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[올해 마지막 코스피200 정기변경… 현대중공업·카카오페이 신규 ..]]></title>
@@ -116,6 +109,13 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000758085&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-25T09:55:00.000Z</updated>
         <content type="html"><![CDATA[머니S]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미래에셋자산운용, 판교 알파돔시티 복합시설 준공]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004675436&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004675436&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-25T09:05:52.655Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[특징주]영화테크, 20조 규모 '폐배터리 시장' 獨다임러까지 ..]]></title>
