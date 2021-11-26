@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-26T00:21:34.852Z</updated>
+    <updated>2021-11-26T01:48:53.837Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -97,13 +97,6 @@
         <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[하이트진로, 4Q 회복세 속 '위드 코로나' 추이 핵심 변수 -..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005094458&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005094458&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-26T07:37:00.000Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[투자 열풍 호실적에… 증권사·거래소 ‘1조 클럽’ 속속 가입]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001487076&amp;office_id=005&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001487076&amp;office_id=005&amp;mode=RANK&amp;typ=0"/>
@@ -118,13 +111,6 @@
         <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한화에어로스페이스, 해외수주 재개…장기 성장성도 부각 -키움]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005094456&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005094456&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-26T07:36:00.000Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[하이트진로, '위드 코로나' 지속 여부가 변수 -IBK證]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000638797&amp;office_id=031&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000638797&amp;office_id=031&amp;mode=RANK&amp;typ=0"/>
@@ -137,13 +123,6 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000999451&amp;office_id=215&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-26T07:28:00.000Z</updated>
         <content type="html"><![CDATA[한국경제TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삼성전자, 4분기 D램가격·주문량 예상치 상회..상대적 주가 매..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004745898&amp;office_id=014&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004745898&amp;office_id=014&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-26T07:44:00.000Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아시아개발은행, 인니 사회기반 개혁용 5억달러 대출 승인]]></title>
@@ -179,5 +158,26 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000638796&amp;office_id=031&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-26T08:02:00.000Z</updated>
         <content type="html"><![CDATA[아이뉴스24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[바이오플러스 “유착방지제, 글로벌 기업과 기술이전 논의 중”]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004633188&amp;office_id=015&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004633188&amp;office_id=015&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-26T07:02:00.000Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中정부 "텐센트 앱 업데이트·신규 출시 연말까지 금지"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000999435&amp;office_id=215&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000999435&amp;office_id=215&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-26T06:42:00.000Z</updated>
+        <content type="html"><![CDATA[한국경제TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[베트남, 핀테크 서비스 이용률 4년 만에 3.5배 증가 [KVI..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000999443&amp;office_id=215&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000999443&amp;office_id=215&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-26T07:15:00.000Z</updated>
+        <content type="html"><![CDATA[한국경제TV]]></content>
     </entry>
 </feed>
