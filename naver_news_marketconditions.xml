@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=401</id>
     <title>네이버 금융 ─ 뉴스 ─ 시황·전망</title>
-    <updated>2021-11-26T03:07:20.987Z</updated>
+    <updated>2021-11-26T04:08:10.788Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['가짜뉴스'로 상한가…램테크놀러지 부사장, 7만주 던졌다]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003154080&amp;office_id=025&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211126&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003154080&amp;office_id=025&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211126&amp;page=1"/>
+        <updated>2021-11-26T04:06:19.674Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003154080&amp;office_id=025&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211126&amp;page=1" title="'가짜뉴스'로 상한가…램테크놀러지 부사장, 7만주 던졌다">'가짜뉴스'로 상한가…램테크놀러지 부사장, 7만주 던졌다</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[코스피, 기관 팔자에 약세 '2950선' 턱걸이...코스닥 하락 전환]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005006099&amp;office_id=277&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211126&amp;page=1</id>
@@ -53,12 +60,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004884780&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211126&amp;page=1"/>
         <updated>2021-11-26T01:46:57.578Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004884780&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211126&amp;page=1" title="[레이더M] 신생 사모펀드 제이앤PE, '2차전지 장비' 대보마그네틱 펀드 청산">[레이더M] 신생 사모펀드 제이앤PE, '2차전지 장비' 대보마그네틱 펀드 청산</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[특징주]신규 확진자 증가세에 진단키트株 ‘강세’]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005094624&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211126&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005094624&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211126&amp;page=1"/>
-        <updated>2021-11-26T01:46:57.578Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005094624&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211126&amp;page=1" title="[특징주]신규 확진자 증가세에 진단키트株 ‘강세’">[특징주]신규 확진자 증가세에 진단키트株 ‘강세’</a>]]></content>
     </entry>
 </feed>
