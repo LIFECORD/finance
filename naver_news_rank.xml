@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-26T16:08:58.672Z</updated>
+    <updated>2021-11-26T17:15:04.587Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[美 공포 지수, 38% 급등…10개월 만에 최대폭 상승]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000999710&amp;office_id=215&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000999710&amp;office_id=215&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-26T16:07:36.326Z</updated>
-        <content type="html"><![CDATA[한국경제TV]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA['블랙 프라이데이'에 떠오른 코로나 공포…수혜주는 급등 [뉴욕증..]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000999709&amp;office_id=215&amp;mode=RANK&amp;typ=0</id>
@@ -20,7 +13,14 @@
         <content type="html"><![CDATA[한국경제TV]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[美 뉴욕증시, ‘누 변이’ 공포에 급락 출발]]></title>
+        <title type="html"><![CDATA[美 공포 지수, 38% 급등…10개월 만에 최대폭 상승]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000999710&amp;office_id=215&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000999710&amp;office_id=215&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-26T16:07:36.326Z</updated>
+        <content type="html"><![CDATA[한국경제TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[글로벌 증시 덮친 ‘누 변이’… 미국·유럽도 동반 하락(종합)]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000776591&amp;office_id=366&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000776591&amp;office_id=366&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-26T16:07:36.329Z</updated>
@@ -31,6 +31,20 @@
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005095129&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005095129&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-26T16:07:36.331Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['신종 변이'에 하늘길 또 막히나…항공주 10%대 폭락]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005095132&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005095132&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-27T01:13:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['델타보다 더 센 놈'…미·유럽 증시 폭락·유가 70달러 깨져(..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005095135&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005095135&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-27T01:52:00.000Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
