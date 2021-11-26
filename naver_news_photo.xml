@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-11-26T15:06:05.833Z</updated>
+    <updated>2021-11-26T16:08:58.662Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엎친데 덮친격…남아공 변이에 뉴욕증시 '묻지마 투매']]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005095129&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211127&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005095129&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211127&amp;page=1"/>
+        <updated>2021-11-26T16:07:43.737Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美 뉴욕증시, ‘누 변이’ 공포에 급락 출발]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000776591&amp;office_id=366&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211127&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000776591&amp;office_id=366&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211127&amp;page=1"/>
+        <updated>2021-11-26T16:07:43.738Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美 공포 지수, 38% 급등…10개월 만에 최대폭 상승]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000999710&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211127&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000999710&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211127&amp;page=1"/>
+        <updated>2021-11-26T16:07:43.740Z</updated>
+        <content type="html"><![CDATA[한국경제TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['블랙 프라이데이'에 떠오른 코로나 공포…수혜주는 급등 [뉴욕증시 나우]]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000999709&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211127&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000999709&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211127&amp;page=1"/>
+        <updated>2021-11-26T16:07:43.741Z</updated>
+        <content type="html"><![CDATA[한국경제TV]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주간사모펀드] '빅딜' 뜸했던 MBK파트너스, '다나와'로 입지 넓힌다]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000118394&amp;office_id=629&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211127&amp;page=1</id>
@@ -13,7 +41,7 @@
         <content type="html"><![CDATA[더팩트]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[델타 보다 세다… ‘누 변이’ 쇼크에 글로벌 증시 급락]]></title>
+        <title type="html"><![CDATA[델타보다 세다… ‘누 변이’ 쇼크에 유럽도 증시 급락]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000776589&amp;office_id=366&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211127&amp;page=1</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000776589&amp;office_id=366&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211127&amp;page=1"/>
         <updated>2021-11-26T15:04:58.889Z</updated>
@@ -45,34 +73,6 @@
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000999699&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211127&amp;page=1</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000999699&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211127&amp;page=1"/>
         <updated>2021-11-26T15:04:58.893Z</updated>
-        <content type="html"><![CDATA[한국경제TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[금융위 "이재명 캠프 합류한 이상복 증선위원 면직"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004675917&amp;office_id=008&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211127&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004675917&amp;office_id=008&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211127&amp;page=1"/>
-        <updated>2021-11-26T15:04:58.894Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["무료 우주여행 가게됐다"…버진갤럭틱 이벤트 당첨자는?]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000999696&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211127&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000999696&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211127&amp;page=1"/>
-        <updated>2021-11-26T15:04:58.895Z</updated>
-        <content type="html"><![CDATA[한국경제TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2만명 울린 '햄스터' 정체…전직 암호화폐 트레이더]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000999690&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211127&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000999690&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211127&amp;page=1"/>
-        <updated>2021-11-26T15:04:58.896Z</updated>
-        <content type="html"><![CDATA[한국경제TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍콩까지 밀려온 '새 변이' 소식에 국제유가 급락]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000999687&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211127&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000999687&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211127&amp;page=1"/>
-        <updated>2021-11-26T15:04:58.897Z</updated>
         <content type="html"><![CDATA[한국경제TV]]></content>
     </entry>
 </feed>
