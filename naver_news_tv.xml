@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-11-26T04:08:10.813Z</updated>
+    <updated>2021-11-26T05:06:39.748Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[경제읽기] 대출규제·금리인상 영향?…서울 아파트 매수보단 매각]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000515827&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211126&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000515827&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211126&amp;page=1"/>
+        <updated>2021-11-26T05:05:39.581Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내년 중반부터 저소득 청년에 월세 20만원 지원]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000515819&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211126&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000515819&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211126&amp;page=1"/>
+        <updated>2021-11-26T05:05:39.584Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[외국인 보유토지 256.7㎢…국토 0.26% 차지]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000515818&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211126&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000515818&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211126&amp;page=1"/>
+        <updated>2021-11-26T05:05:39.586Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[경제 톡톡톡]“금리 인상으로 가구당 이자부담 149만 원↑”]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000218458&amp;office_id=449&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211126&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000218458&amp;office_id=449&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211126&amp;page=1"/>
+        <updated>2021-11-26T05:05:39.588Z</updated>
+        <content type="html"><![CDATA[채널A]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[중대본 "방역패스 유효기간 6개월 설정 방안 논의"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000515813&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211126&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000515813&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211126&amp;page=1"/>
+        <updated>2021-11-26T05:05:39.590Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가계대출 금리 2년5개월 만에 최고…"더 오를 것"]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000515809&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211126&amp;page=1</id>
@@ -39,40 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0011164610&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211126&amp;page=1"/>
         <updated>2021-11-26T00:34:00.000Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여전히 4천명 육박…위중증 최대치 또 경신]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000515802&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211126&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000515802&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211126&amp;page=1"/>
-        <updated>2021-11-26T00:34:00.000Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내년부터 청년 15만 명에 월 최대 20만 원 월세 지원]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000935958&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211126&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000935958&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211126&amp;page=1"/>
-        <updated>2021-11-26T00:26:00.000Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“금리 인상, 긴축 아닌 정상화”…이자 부담↑]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0011164602&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211126&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011164602&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211126&amp;page=1"/>
-        <updated>2021-11-26T00:18:00.000Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나19 재확산 우려에 코스피 1% 넘게 하락·코스닥 약보합세]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001162339&amp;office_id=214&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211126&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001162339&amp;office_id=214&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211126&amp;page=1"/>
-        <updated>2021-11-26T00:16:00.000Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울 아파트 2주 연속 '팔 사람' 더 많아]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001162337&amp;office_id=214&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211126&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001162337&amp;office_id=214&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211126&amp;page=1"/>
-        <updated>2021-11-26T00:14:00.000Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>
