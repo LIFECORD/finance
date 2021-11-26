@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/research/debenture_list.naver</id>
     <title>네이버 금융 ─ 리서치 ─ 채권분석 리포트</title>
-    <updated>2021-11-26T06:09:09.677Z</updated>
+    <updated>2021-11-26T07:07:13.700Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/research/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[11월 금통위: 좁혀진 간극, 불확실성 해소]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/debenture/1637907519496.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/debenture/1637907519496.pdf"/>
+        <updated>2021-11-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[하나금융투자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lockdown 없는 미국: 잠재적 금리 제어 요인]]></title>
         <id>https://ssl.pstatic.net/imgstock/upload/research/debenture/1637803479476.pdf</id>
@@ -206,13 +213,6 @@
         <id>https://ssl.pstatic.net/imgstock/upload/research/debenture/1633573925097.pdf</id>
         <link href="https://ssl.pstatic.net/imgstock/upload/research/debenture/1633573925097.pdf"/>
         <updated>2021-10-14T00:13:16.389Z</updated>
-        <content type="html"><![CDATA[하나금융투자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[No nice to see you again!]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/debenture/1633486331347.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/debenture/1633486331347.pdf"/>
-        <updated>2021-10-14T00:13:16.391Z</updated>
         <content type="html"><![CDATA[하나금융투자]]></content>
     </entry>
 </feed>
