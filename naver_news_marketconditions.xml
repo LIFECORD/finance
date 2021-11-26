@@ -2,42 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=401</id>
     <title>네이버 금융 ─ 뉴스 ─ 시황·전망</title>
-    <updated>2021-11-26T07:07:13.669Z</updated>
+    <updated>2021-11-26T08:09:32.922Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[표]코스피 기관/외국인 매매동향(11/26 3시30분)]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005094918&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211126&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005094918&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211126&amp;page=1"/>
+        <updated>2021-11-26T08:07:43.948Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005094918&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211126&amp;page=1" title="[표]코스피 기관/외국인 매매동향(11/26 3시30분)">[표]코스피 기관/외국인 매매동향(11/26 3시30분)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[표]코스닥 기관/외국인 매매동향(11/26 3시30분)]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005094917&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211126&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005094917&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211126&amp;page=1"/>
+        <updated>2021-11-26T08:07:43.949Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005094917&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211126&amp;page=1" title="[표]코스닥 기관/외국인 매매동향(11/26 3시30분)">[표]코스닥 기관/외국인 매매동향(11/26 3시30분)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[표]채권 수익률 현황(11월 26일)]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003990070&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211126&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003990070&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211126&amp;page=1"/>
+        <updated>2021-11-26T08:07:43.949Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003990070&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211126&amp;page=1" title="[표]채권 수익률 현황(11월 26일)">[표]채권 수익률 현황(11월 26일)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[마감시황] '뉴 변이' 바이러스 등장에 코스피 직격탄···2,930선 마감]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003990069&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211126&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003990069&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211126&amp;page=1"/>
+        <updated>2021-11-26T08:07:43.950Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003990069&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211126&amp;page=1" title="[마감시황] '뉴 변이' 바이러스 등장에 코스피 직격탄···2,930선 마감">[마감시황] '뉴 변이' 바이러스 등장에 코스피 직격탄···2,930선 마감</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[외국인·기관 쌍끌이 매도에 코스피 나흘째 하락…2936 마감]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004884954&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211126&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004884954&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211126&amp;page=1"/>
+        <updated>2021-11-26T08:07:43.953Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004884954&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211126&amp;page=1" title="외국인·기관 쌍끌이 매도에 코스피 나흘째 하락…2936 마감">외국인·기관 쌍끌이 매도에 코스피 나흘째 하락…2936 마감</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코스피, 외인·기관 매도에 1.4% 하락...2930선까지 뚝]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005006253&amp;office_id=277&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211126&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005006253&amp;office_id=277&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211126&amp;page=1"/>
+        <updated>2021-11-26T08:07:43.954Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005006253&amp;office_id=277&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211126&amp;page=1" title="코스피, 외인·기관 매도에 1.4% 하락...2930선까지 뚝">코스피, 외인·기관 매도에 1.4% 하락...2930선까지 뚝</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코로나 변이 '누' 공포에 질린 코스피…리오프닝株도 울상]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004675816&amp;office_id=008&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211126&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004675816&amp;office_id=008&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211126&amp;page=1"/>
+        <updated>2021-11-26T08:07:43.955Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004675816&amp;office_id=008&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211126&amp;page=1" title="코로나 변이 '누' 공포에 질린 코스피…리오프닝株도 울상">코로나 변이 '누' 공포에 질린 코스피…리오프닝株도 울상</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[코스피, 새로운 변이 등장에 ‘와르르’…바이오만 올라]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004633396&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211126&amp;page=1</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004633396&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211126&amp;page=1"/>
         <updated>2021-11-26T07:05:14.102Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004633396&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211126&amp;page=1" title="코스피, 새로운 변이 등장에 ‘와르르’…바이오만 올라">코스피, 새로운 변이 등장에 ‘와르르’…바이오만 올라</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[표]IPO장외 주요 종목 시세(11월 26일)]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003990053&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211126&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003990053&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211126&amp;page=1"/>
-        <updated>2021-11-26T07:05:14.108Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003990053&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211126&amp;page=1" title="[표]IPO장외 주요 종목 시세(11월 26일)">[표]IPO장외 주요 종목 시세(11월 26일)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["개미는 치킨값이나 벌고 증권사는 실적 파티"…공모주 청약 수수료 '와글와글']]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004884940&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211126&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004884940&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211126&amp;page=1"/>
-        <updated>2021-11-26T07:05:14.114Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004884940&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211126&amp;page=1" title="&quot;개미는 치킨값이나 벌고 증권사는 실적 파티&quot;…공모주 청약 수수료 '와글와글'">"개미는 치킨값이나 벌고 증권사는 실적 파티"…공모주 청약 수수료 '와글와글'</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[코스피 마감]기관 나흘째 순매도 랠리에 1%대 ↓…‘2930선’]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005094849&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211126&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005094849&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211126&amp;page=1"/>
-        <updated>2021-11-26T07:05:14.117Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005094849&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211126&amp;page=1" title="[코스피 마감]기관 나흘째 순매도 랠리에 1%대 ↓…‘2930선’">[코스피 마감]기관 나흘째 순매도 랠리에 1%대 ↓…‘2930선’</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[표]유가증권 코스닥 투자주체별 매매동향(11월 26일)]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003990051&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211126&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003990051&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211126&amp;page=1"/>
-        <updated>2021-11-26T07:05:14.118Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003990051&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211126&amp;page=1" title="[표]유가증권 코스닥 투자주체별 매매동향(11월 26일)">[표]유가증권 코스닥 투자주체별 매매동향(11월 26일)</a>]]></content>
     </entry>
 </feed>
