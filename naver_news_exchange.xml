@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=429</id>
     <title>네이버 금융 ─ 뉴스 ─ 환율</title>
-    <updated>2021-11-26T09:06:16.498Z</updated>
+    <updated>2021-11-26T10:07:14.735Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["탄소중립, 원전과 함께 가야"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003990134&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211126&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003990134&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211126&amp;page=1"/>
+        <updated>2021-11-26T10:05:56.880Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003990134&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211126&amp;page=1" title="&quot;탄소중립, 원전과 함께 가야&quot;">"탄소중립, 원전과 함께 가야"</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정부, 청정수소 자급률 2050년 60%까지 높인다]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003989971&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211126&amp;page=1</id>
@@ -60,12 +67,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003989177&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211126&amp;page=1"/>
         <updated>2021-11-25T15:06:07.015Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003989177&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211126&amp;page=1" title="[에너지 전략 포럼] 박종배 교수 &quot;재생에너지 변동성 완화···ESS 등 백업시스템 구축 필요&quot;">[에너지 전략 포럼] 박종배 교수 "재생에너지 변동성 완화···ESS 등 백업시스템 구축 ..</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내년 수출, 정유·2차전지 맑음, 조선·가전 흐림]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003989112&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211126&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003989112&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211126&amp;page=1"/>
-        <updated>2021-11-25T15:06:07.015Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003989112&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211126&amp;page=1" title="내년 수출, 정유·2차전지 맑음, 조선·가전 흐림">내년 수출, 정유·2차전지 맑음, 조선·가전 흐림</a>]]></content>
     </entry>
 </feed>
