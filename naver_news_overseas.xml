@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-11-26T18:08:11.821Z</updated>
+    <updated>2021-11-26T19:06:15.695Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美도 코로나 새 공포 강타···S&P -2.27% 급락 [데일리 국제금융시장]]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003990168&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211127&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003990168&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211127&amp;page=1"/>
+        <updated>2021-11-26T19:04:35.311Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003990168&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211127&amp;page=1" title="美도 코로나 새 공포 강타···S&amp;P -2.27% 급락 [데일리 국제금융시장]">美도 코로나 새 공포 강타···S&amp;P -2.27% 급락 [데일리 국제금융시장]</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[속보]'신종 변이' 공포에 뉴욕증시 급락…다우 2.5%↓]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005095137&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211127&amp;page=1</id>
@@ -60,12 +67,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000999704&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211127&amp;page=1"/>
         <updated>2021-11-26T15:04:29.228Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000999704&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211127&amp;page=1" title="&quot;메타버스·NFT, 1조달러 시장으로 성장할것&quot;">"메타버스·NFT, 1조달러 시장으로 성장할것"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남아공 새 변이 "역대 최악"…여행주 급락]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000999703&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211127&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000999703&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211127&amp;page=1"/>
-        <updated>2021-11-26T15:04:29.231Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000999703&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211127&amp;page=1" title="남아공 새 변이 &quot;역대 최악&quot;…여행주 급락">남아공 새 변이 "역대 최악"…여행주 급락</a>]]></content>
     </entry>
 </feed>
