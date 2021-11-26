@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS2D&amp;section_id=101&amp;section_id2=258</id>
     <title>네이버 금융 ─ 뉴스 ─ 실시간 속보</title>
-    <updated>2021-11-26T17:15:04.566Z</updated>
+    <updated>2021-11-26T18:08:11.820Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코로나19 새 변이 바이러스 공포에 비트코인도 폭락]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0010856926&amp;office_id=003&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211127&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0010856926&amp;office_id=003&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211127&amp;page=1"/>
+        <updated>2021-11-26T18:05:56.822Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0010856926&amp;office_id=003&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211127&amp;page=1" title="코로나19 새 변이 바이러스 공포에 비트코인도 폭락">코로나19 새 변이 바이러스 공포에 비트코인도 폭락</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['델타보다 더 센 놈'…미·유럽 증시 폭락·유가 70달러 깨져(종합)]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005095135&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211127&amp;page=1</id>
@@ -60,12 +67,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000776589&amp;office_id=366&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211127&amp;page=1"/>
         <updated>2021-11-26T15:04:04.749Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000776589&amp;office_id=366&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211127&amp;page=1" title="델타보다 세다… ‘누 변이’ 쇼크에 유럽도 증시 급락">델타보다 세다… ‘누 변이’ 쇼크에 유럽도 증시 급락</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[줌·펠로튼 등 재택 관련주, 코로나 변이 우려에 강세]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000999706&amp;office_id=215&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211127&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000999706&amp;office_id=215&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211127&amp;page=1"/>
-        <updated>2021-11-26T15:04:04.749Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000999706&amp;office_id=215&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211127&amp;page=1" title="줌·펠로튼 등 재택 관련주, 코로나 변이 우려에 강세">줌·펠로튼 등 재택 관련주, 코로나 변이 우려에 강세</a>]]></content>
     </entry>
 </feed>
