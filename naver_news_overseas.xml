@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-11-26T13:15:50.155Z</updated>
+    <updated>2021-11-26T14:06:14.155Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["메타버스·NFT, 1조달러 시장으로 성장할것"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000999704&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211126&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000999704&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211126&amp;page=1"/>
+        <updated>2021-11-26T14:04:42.482Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000999704&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211126&amp;page=1" title="&quot;메타버스·NFT, 1조달러 시장으로 성장할것&quot;">"메타버스·NFT, 1조달러 시장으로 성장할것"</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[남아공 새 변이 "역대 최악"…여행·항공주 급락]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000999703&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211126&amp;page=1</id>
@@ -60,12 +67,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004885073&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211126&amp;page=1"/>
         <updated>2021-11-26T09:04:44.270Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004885073&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211126&amp;page=1" title="수퍼 변이 '누' 등장…아시아 증시 와르르">수퍼 변이 '누' 등장…아시아 증시 와르르</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["이러다 다시 국경봉쇄"…항공 여행주 급락에 아시아 증시 휘청]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004885068&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211126&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004885068&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211126&amp;page=1"/>
-        <updated>2021-11-26T09:04:44.271Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004885068&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211126&amp;page=1" title="&quot;이러다 다시 국경봉쇄&quot;…항공 여행주 급락에 아시아 증시 휘청">"이러다 다시 국경봉쇄"…항공 여행주 급락에 아시아 증시 휘청</a>]]></content>
     </entry>
 </feed>
