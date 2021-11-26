@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=401</id>
     <title>네이버 금융 ─ 뉴스 ─ 시황·전망</title>
-    <updated>2021-11-26T22:07:02.882Z</updated>
+    <updated>2021-11-26T23:06:45.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2년새 주가 무려 50배나 뛴 대선 테마주··· 그 끝은 [코주부]]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003990176&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211127&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003990176&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211127&amp;page=1"/>
+        <updated>2021-11-26T23:04:45.859Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003990176&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211127&amp;page=1" title="2년새 주가 무려 50배나 뛴 대선 테마주··· 그 끝은 [코주부]">2년새 주가 무려 50배나 뛴 대선 테마주··· 그 끝은 [코주부]</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[표]유가증권 코스닥 투자주체별 매매동향(11월 26일-최종치)]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003990140&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211127&amp;page=1</id>
@@ -39,19 +46,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003990115&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211127&amp;page=1"/>
         <updated>2021-11-26T15:04:16.942Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003990115&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211127&amp;page=1" title="커지는 서학개미···키움증권, 외환거래 조직 신설">커지는 서학개미···키움증권, 외환거래 조직 신설</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韓증시도 불안불안…하루새 '코스피 하락 상품'에 1600억 뭉칫돈]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004885067&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211127&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004885067&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211127&amp;page=1"/>
-        <updated>2021-11-26T15:04:16.943Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004885067&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211127&amp;page=1" title="韓증시도 불안불안…하루새 '코스피 하락 상품'에 1600억 뭉칫돈">韓증시도 불안불안…하루새 '코스피 하락 상품'에 1600억 뭉칫돈</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[표]코스피200지수 옵션 시세(11월 26일)]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003990105&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211127&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003990105&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211127&amp;page=1"/>
-        <updated>2021-11-26T15:04:16.945Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003990105&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211127&amp;page=1" title="[표]코스피200지수 옵션 시세(11월 26일)">[표]코스피200지수 옵션 시세(11월 26일)</a>]]></content>
     </entry>
 </feed>

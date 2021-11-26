@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-11-26T22:07:02.882Z</updated>
+    <updated>2021-11-26T23:06:45.273Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오미크론發 금융시장 '검은 금요일'…일각서 "매수 기회"(재종합)]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005095159&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211127&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005095159&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211127&amp;page=1"/>
+        <updated>2021-11-26T23:04:59.107Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005095159&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211127&amp;page=1" title="오미크론發 금융시장 '검은 금요일'…일각서 &quot;매수 기회&quot;(재종합)">오미크론發 금융시장 '검은 금요일'…일각서 "매수 기회"(재종합)</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴욕증시]오미크론發 '추수감사절 악몽'…월가 공포지수 54%↑]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005095140&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211127&amp;page=1</id>
@@ -60,12 +67,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000999709&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211127&amp;page=1"/>
         <updated>2021-11-26T16:07:08.224Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000999709&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211127&amp;page=1" title="'블랙 프라이데이'에 떠오른 코로나 공포…수혜주는 급등 [뉴욕증시 나우]">'블랙 프라이데이'에 떠오른 코로나 공포…수혜주는 급등 [뉴욕증시 나우]</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[줌·펠로튼 등 재택 관련주, 코로나 변이 우려에 강세]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000999706&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211127&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000999706&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211127&amp;page=1"/>
-        <updated>2021-11-26T15:04:29.228Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000999706&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211127&amp;page=1" title="줌·펠로튼 등 재택 관련주, 코로나 변이 우려에 강세">줌·펠로튼 등 재택 관련주, 코로나 변이 우려에 강세</a>]]></content>
     </entry>
 </feed>
