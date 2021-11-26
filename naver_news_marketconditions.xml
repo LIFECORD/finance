@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=401</id>
     <title>네이버 금융 ─ 뉴스 ─ 시황·전망</title>
-    <updated>2021-11-26T05:06:39.771Z</updated>
+    <updated>2021-11-26T06:09:09.659Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코스피, 외인·기관 매도세 뚜렷 '2930선' 뚝...천스닥도 위태]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005006196&amp;office_id=277&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211126&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005006196&amp;office_id=277&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211126&amp;page=1"/>
+        <updated>2021-11-26T06:07:11.793Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005006196&amp;office_id=277&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211126&amp;page=1" title="코스피, 외인·기관 매도세 뚜렷 '2930선' 뚝...천스닥도 위태">코스피, 외인·기관 매도세 뚜렷 '2930선' 뚝...천스닥도 위태</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[오후시황] 코스피, 외인마저 매도세 전환에 2,940선···코스닥도 하락 전환]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003990002&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211126&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004884817&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211126&amp;page=1"/>
         <updated>2021-11-26T03:05:30.313Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004884817&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211126&amp;page=1" title="이틀간 33% 빠진 신풍제약, 장중 12% 급등">이틀간 33% 빠진 신풍제약, 장중 12% 급등</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주식 초고수는 지금] '빗썸' 인수 기대감에 비덴트 거래 활발]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003989969&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211126&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003989969&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211126&amp;page=1"/>
-        <updated>2021-11-26T03:05:30.318Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003989969&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211126&amp;page=1" title="[주식 초고수는 지금] '빗썸' 인수 기대감에 비덴트 거래 활발">[주식 초고수는 지금] '빗썸' 인수 기대감에 비덴트 거래 활발</a>]]></content>
     </entry>
 </feed>
