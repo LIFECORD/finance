@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-11-27T10:06:56.219Z</updated>
+    <updated>2021-11-27T11:05:26.463Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[10월 기업 직접금융 실적…주식 늘고 회사채 줄고 [체크리포트]]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000019157&amp;office_id=243&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211127&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000019157&amp;office_id=243&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211127&amp;page=1"/>
+        <updated>2021-11-27T11:04:19.903Z</updated>
+        <content type="html"><![CDATA[이코노미스트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[비엠티, 부산 신공장 기공식 개최…다음달 착공]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004746385&amp;office_id=014&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211127&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004885337&amp;office_id=009&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211127&amp;page=1"/>
         <updated>2021-11-27T08:07:38.130Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“머스크가 테슬라 지분을 매각한 이유는? 세금” 1위 ‘테슬라’ [주간 株토픽]]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000019152&amp;office_id=243&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211127&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000019152&amp;office_id=243&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211127&amp;page=1"/>
-        <updated>2021-11-27T08:07:38.131Z</updated>
-        <content type="html"><![CDATA[이코노미스트]]></content>
     </entry>
 </feed>
