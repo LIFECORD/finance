@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=401</id>
     <title>네이버 금융 ─ 뉴스 ─ 시황·전망</title>
-    <updated>2021-11-27T02:24:32.868Z</updated>
+    <updated>2021-11-27T03:06:44.819Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['美 뮤지컬 거장' 스티브 손드하임 별세]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005095227&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211127&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005095227&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211127&amp;page=1"/>
+        <updated>2021-11-27T03:04:55.039Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005095227&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211127&amp;page=1" title="'美 뮤지컬 거장' 스티브 손드하임 별세">'美 뮤지컬 거장' 스티브 손드하임 별세</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[금융硏 “내년 韓성장률 3.2% 전망, 성장 하방 위험도↑”]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005095219&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211127&amp;page=1</id>
@@ -39,12 +46,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003990128&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211127&amp;page=1"/>
         <updated>2021-11-26T15:04:16.939Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003990128&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211127&amp;page=1" title="델타보다 센 '누' 변이, 글로벌 증시 덮쳤다">델타보다 센 '누' 변이, 글로벌 증시 덮쳤다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“내년엔 반격 시작”... 美 독주에 가려졌던 신흥국펀드 해뜰까]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003990122&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211127&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003990122&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211127&amp;page=1"/>
-        <updated>2021-11-26T15:04:16.940Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003990122&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211127&amp;page=1" title="“내년엔 반격 시작”... 美 독주에 가려졌던 신흥국펀드 해뜰까">“내년엔 반격 시작”... 美 독주에 가려졌던 신흥국펀드 해뜰까</a>]]></content>
     </entry>
 </feed>

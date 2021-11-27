@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-11-27T02:24:33.023Z</updated>
+    <updated>2021-11-27T03:06:44.819Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신문브리핑2 "윤석열 선대위 '원톱' 김병준…이준석 "총괄 관리 맡길 것"" 외 주요기사]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001624366&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211127&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001624366&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211127&amp;page=1"/>
+        <updated>2021-11-27T11:45:00.000Z</updated>
+        <content type="html"><![CDATA[MBN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신문브리핑1 "이재명 "호남 없이 민주당 없다" 3박 4일 열띤 구애" 외 주요기사]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001624365&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211127&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001624365&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211127&amp;page=1"/>
+        <updated>2021-11-27T11:38:00.000Z</updated>
+        <content type="html"><![CDATA[MBN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[자막뉴스] '2억 원' 종부세 고지서 받은 20대 청년의 호소]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001670222&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211127&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001670222&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211127&amp;page=1"/>
+        <updated>2021-11-27T11:22:00.000Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신규 확진 다시 4천명대…하루 사망자 역대 최다치]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000515953&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211127&amp;page=1</id>
@@ -53,26 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000515930&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211127&amp;page=1"/>
         <updated>2021-11-27T09:32:00.000Z</updated>
         <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 은행원까지 등장…금융권 채용 구조 바뀔 듯]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000515925&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211127&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000515925&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211127&amp;page=1"/>
-        <updated>2021-11-27T09:22:00.000Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[영상] 2021 서울모빌리티쇼 개막…대세는 ‘전기차’]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0011165154&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211127&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011165154&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211127&amp;page=1"/>
-        <updated>2021-11-27T09:00:00.000Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022년 메가 트렌드 메타버스·NFT·자율주행 [염승환 이베스트투자증권 이사]]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000265892&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211127&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000265892&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211127&amp;page=1"/>
-        <updated>2021-11-27T08:56:00.000Z</updated>
-        <content type="html"><![CDATA[SBS Biz]]></content>
     </entry>
 </feed>
