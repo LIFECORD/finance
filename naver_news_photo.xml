@@ -2,11 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-11-27T09:06:23.594Z</updated>
+    <updated>2021-11-27T10:06:56.219Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA["이런 기업만 샀죠"…'수익률 52%' 베테랑 펀드매니저의 조언 [심성미의 투자의..]]></title>
+        <title type="html"><![CDATA[비엠티, 부산 신공장 기공식 개최…다음달 착공]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004746385&amp;office_id=014&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211127&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004746385&amp;office_id=014&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211127&amp;page=1"/>
+        <updated>2021-11-27T10:05:48.655Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[홍콩, 10월 민간주택 가격 2개월 연속 하락]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000999772&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211127&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000999772&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211127&amp;page=1"/>
+        <updated>2021-11-27T10:05:48.659Z</updated>
+        <content type="html"><![CDATA[한국경제TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인도 "자체 개발 6G 기술 2023년 출시 목표"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000999770&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211127&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000999770&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211127&amp;page=1"/>
+        <updated>2021-11-27T10:05:48.661Z</updated>
+        <content type="html"><![CDATA[한국경제TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[싱가포르, 10월 제조업 생산량 전월비 17% 증가]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000999769&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211127&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000999769&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211127&amp;page=1"/>
+        <updated>2021-11-27T10:05:48.662Z</updated>
+        <content type="html"><![CDATA[한국경제TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["이런 기업만 샀죠"…'수익률 52%' 펀드매니저의 필승투자법 [심성미의 투자의 ..]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004633718&amp;office_id=015&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211127&amp;page=1</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004633718&amp;office_id=015&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211127&amp;page=1"/>
         <updated>2021-11-27T09:05:15.924Z</updated>
@@ -46,33 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000019152&amp;office_id=243&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211127&amp;page=1"/>
         <updated>2021-11-27T08:07:38.131Z</updated>
         <content type="html"><![CDATA[이코노미스트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[보스틱 연은총재 “인플레 우려, 테이퍼링 속도 합리적”]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005095263&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211127&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005095263&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211127&amp;page=1"/>
-        <updated>2021-11-27T07:05:18.182Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['BTS 군면제' 사실상 무산…"그럼 하이브 주가는요?" 안절부절]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004633708&amp;office_id=015&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211127&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004633708&amp;office_id=015&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211127&amp;page=1"/>
-        <updated>2021-11-27T08:07:38.136Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가짜뉴스·테마에 흔들흔들…급등락 K-증시]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0010857258&amp;office_id=003&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211127&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0010857258&amp;office_id=003&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211127&amp;page=1"/>
-        <updated>2021-11-27T06:09:14.192Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美기업 대다수 "베트남 철수 계획없다" [KVINA]]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000999754&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211127&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000999754&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211127&amp;page=1"/>
-        <updated>2021-11-27T06:09:14.192Z</updated>
-        <content type="html"><![CDATA[한국경제TV]]></content>
     </entry>
 </feed>
