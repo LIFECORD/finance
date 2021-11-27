@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS2D&amp;section_id=101&amp;section_id2=258</id>
     <title>네이버 금융 ─ 뉴스 ─ 실시간 속보</title>
-    <updated>2021-11-27T06:10:21.822Z</updated>
+    <updated>2021-11-27T07:06:23.172Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[보스틱 연은총재 “인플레 우려, 테이퍼링 속도 합리적”]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005095263&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211127&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005095263&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211127&amp;page=1"/>
+        <updated>2021-11-27T07:04:19.823Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005095263&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211127&amp;page=1" title="보스틱 연은총재 “인플레 우려, 테이퍼링 속도 합리적”">보스틱 연은총재 “인플레 우려, 테이퍼링 속도 합리적”</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가짜뉴스·테마에 흔들흔들…급등락 K-증시]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0010857258&amp;office_id=003&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211127&amp;page=1</id>
@@ -60,12 +67,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000999745&amp;office_id=215&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211127&amp;page=1"/>
         <updated>2021-11-27T06:08:16.504Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000999745&amp;office_id=215&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211127&amp;page=1" title="베트남, 아프리카돼지열병 전국 확산 주의보 [KVINA]">베트남, 아프리카돼지열병 전국 확산 주의보 [KVINA]</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베트남, 올해도 수출액 1위 상품은 '휴대전화' [KVINA]]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000999744&amp;office_id=215&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211127&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000999744&amp;office_id=215&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211127&amp;page=1"/>
-        <updated>2021-11-27T06:08:16.506Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000999744&amp;office_id=215&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211127&amp;page=1" title="베트남, 올해도 수출액 1위 상품은 '휴대전화' [KVINA]">베트남, 올해도 수출액 1위 상품은 '휴대전화' [KVINA]</a>]]></content>
     </entry>
 </feed>
