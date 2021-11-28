@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=402</id>
     <title>네이버 금융 ─ 뉴스 ─ 기업 종목분석</title>
-    <updated>2021-11-28T06:07:59.498Z</updated>
+    <updated>2021-11-28T07:07:09.125Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[개미 털자 주가 오르는 ‘삼전’, 연말 비중 확대 적기]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004746580&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211128&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004746580&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211128&amp;page=1"/>
+        <updated>2021-11-28T07:05:22.046Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004746580&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211128&amp;page=1" title="개미 털자 주가 오르는 ‘삼전’, 연말 비중 확대 적기">개미 털자 주가 오르는 ‘삼전’, 연말 비중 확대 적기</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주간증시전망]‘오미크론’ 확산 우려 놓인 증시…경제지표 지켜봐야]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004746571&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211128&amp;page=1</id>
@@ -60,12 +67,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005006609&amp;office_id=277&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211128&amp;page=1"/>
         <updated>2021-11-28T02:21:42.415Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005006609&amp;office_id=277&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211128&amp;page=1" title="NH투자증권, 빅데이터 경진대회 '데이터, 문화가 되다' 성료">NH투자증권, 빅데이터 경진대회 '데이터, 문화가 되다' 성료</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새 변이 오미크론 등장…국내 증시 어디로 "변동성 출렁 긴장"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005006605&amp;office_id=277&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211128&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005006605&amp;office_id=277&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211128&amp;page=1"/>
-        <updated>2021-11-28T02:21:42.417Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005006605&amp;office_id=277&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211128&amp;page=1" title="새 변이 오미크론 등장…국내 증시 어디로 &quot;변동성 출렁 긴장&quot;">새 변이 오미크론 등장…국내 증시 어디로 "변동성 출렁 긴장"</a>]]></content>
     </entry>
 </feed>
