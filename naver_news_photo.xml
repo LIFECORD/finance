@@ -2,11 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-11-28T09:06:03.521Z</updated>
+    <updated>2021-11-28T10:06:44.582Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[대형주 베팅한 개인···-18% 참담한 수익률]]></title>
+        <title type="html"><![CDATA[증권사 3분기 순익 10.5%↑]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0002494028&amp;office_id=021&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211128&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0002494028&amp;office_id=021&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211128&amp;page=1"/>
+        <updated>2021-11-28T10:05:38.220Z</updated>
+        <content type="html"><![CDATA[문화일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[증시 개장이 두렵다…오미크론發 패닉셀 오나]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005095591&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211128&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005095591&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211128&amp;page=1"/>
+        <updated>2021-11-28T10:05:38.224Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[길어지는 박스권 장세 ···중소형주 갈아타는 개미]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003990424&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211128&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003990424&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211128&amp;page=1"/>
+        <updated>2021-11-28T10:05:38.225Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美 연말 소비시즌···해외 명품·유통株 뛰나]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003990422&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211128&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003990422&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211128&amp;page=1"/>
+        <updated>2021-11-28T10:05:38.226Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대형주 담은 개인 '울상'···중소형주 산 외인 '방긋']]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003990421&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211128&amp;page=1</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003990421&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211128&amp;page=1"/>
         <updated>2021-11-28T09:05:00.242Z</updated>
@@ -46,33 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004885550&amp;office_id=009&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211128&amp;page=1"/>
         <updated>2021-11-28T09:05:00.251Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[표] 주요국 증시 주간 동향]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004885549&amp;office_id=009&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211128&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004885549&amp;office_id=009&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211128&amp;page=1"/>
-        <updated>2021-11-28T09:05:00.253Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[철강株, 역대급 실적에도 주가 뒷걸음]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004885547&amp;office_id=009&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211128&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004885547&amp;office_id=009&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211128&amp;page=1"/>
-        <updated>2021-11-28T09:05:00.253Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[화이자·모더나 급등…코스피 백신주 더 간다]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004885544&amp;office_id=009&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211128&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004885544&amp;office_id=009&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211128&amp;page=1"/>
-        <updated>2021-11-28T09:05:00.255Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다우 13개월 만에 최대 급락…Fed '테이퍼링 시계' 늦추나]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004633883&amp;office_id=015&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211128&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004633883&amp;office_id=015&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211128&amp;page=1"/>
-        <updated>2021-11-28T09:05:00.256Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>

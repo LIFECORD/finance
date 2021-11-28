@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=401</id>
     <title>네이버 금융 ─ 뉴스 ─ 시황·전망</title>
-    <updated>2021-11-28T09:06:03.509Z</updated>
+    <updated>2021-11-28T10:06:44.583Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[대형주 베팅한 개인···-18% 참담한 수익률]]></title>
+        <title type="html"><![CDATA[증시 개장이 두렵다…오미크론發 패닉셀 오나]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005095591&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211128&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005095591&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211128&amp;page=1"/>
+        <updated>2021-11-28T10:04:56.301Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005095591&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211128&amp;page=1" title="증시 개장이 두렵다…오미크론發 패닉셀 오나">증시 개장이 두렵다…오미크론發 패닉셀 오나</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美 연말 소비시즌···해외 명품·유통株 뛰나]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003990422&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211128&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003990422&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211128&amp;page=1"/>
+        <updated>2021-11-28T10:04:56.305Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003990422&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211128&amp;page=1" title="美 연말 소비시즌···해외 명품·유통株 뛰나">美 연말 소비시즌···해외 명품·유통株 뛰나</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대형주 담은 개인 '울상'···중소형주 산 외인 '방긋']]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003990421&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211128&amp;page=1</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003990421&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211128&amp;page=1"/>
         <updated>2021-11-28T09:04:18.759Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003990421&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211128&amp;page=1" title="대형주 베팅한 개인···-18% 참담한 수익률">대형주 베팅한 개인···-18% 참담한 수익률</a>]]></content>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003990421&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211128&amp;page=1" title="대형주 담은 개인 '울상'···중소형주 산 외인 '방긋'">대형주 담은 개인 '울상'···중소형주 산 외인 '방긋'</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[전세계 덮친 오미크론 공포] "코스피 자금이탈 우려...5~10% 조정 대비해야"]]></title>
@@ -46,26 +60,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003990391&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211128&amp;page=1"/>
         <updated>2021-11-28T09:04:18.765Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003990391&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211128&amp;page=1" title="넉달째 뚝뚝...시름 깊어가는 LG생건">넉달째 뚝뚝...시름 깊어가는 LG생건</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[서경스타즈IR] "D램값 오를 일만"...SK하이닉스, 역대급 실적 계속된다]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003990389&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211128&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003990389&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211128&amp;page=1"/>
-        <updated>2021-11-28T09:04:18.766Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003990389&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211128&amp;page=1" title="[서경스타즈IR] &quot;D램값 오를 일만&quot;...SK하이닉스, 역대급 실적 계속된다">[서경스타즈IR] "D램값 오를 일만"...SK하이닉스, 역대급 실적 계속된다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SKT, 내일 분할 후 재상장···주가 날아오를까]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003990379&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211128&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003990379&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211128&amp;page=1"/>
-        <updated>2021-11-28T09:04:18.768Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003990379&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211128&amp;page=1" title="SKT, 내일 분할 후 재상장···주가 날아오를까">SKT, 내일 분할 후 재상장···주가 날아오를까</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[표]주간 유가증권·코스닥 투자주체별 매매동향(11월 22일~26일)]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003990357&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211128&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003990357&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211128&amp;page=1"/>
-        <updated>2021-11-28T08:05:28.025Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003990357&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211128&amp;page=1" title="[표]주간 유가증권·코스닥 투자주체별 매매동향(11월 22일~26일)">[표]주간 유가증권·코스닥 투자주체별 매매동향(11월 22일~26일)</a>]]></content>
     </entry>
 </feed>
