@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-11-28T00:22:18.198Z</updated>
+    <updated>2021-11-28T01:47:15.455Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[편의점·치킨집도 수제 버거 눈독…업계 경쟁 치열]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000516036&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211128&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000516036&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211128&amp;page=1"/>
+        <updated>2021-11-28T10:42:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["냉혹한 현실"…사활 건 '파운드리 삼국지']]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000516025&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211128&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000516025&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211128&amp;page=1"/>
+        <updated>2021-11-28T09:55:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[기업기상도] 햇살 비춘 '대박 기업' vs 미세먼지에 가린 기업]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000516022&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211128&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000516022&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211128&amp;page=1"/>
+        <updated>2021-11-28T09:51:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["더 빠르게"…코로나 시대 속도 경쟁 내몰린 배달기사]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000516019&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211128&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000516019&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211128&amp;page=1"/>
+        <updated>2021-11-28T09:41:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['오미크론 대응' 남아공 등 8개국발 외국인 입국금지]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000516013&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211128&amp;page=1</id>
@@ -46,33 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001670417&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211128&amp;page=1"/>
         <updated>2021-11-28T04:51:00.000Z</updated>
         <content type="html"><![CDATA[YTN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올해 인구 더 줄어든다...정부 '선제대응' 효과 있을까]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001670362&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211128&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001670362&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211128&amp;page=1"/>
-        <updated>2021-11-27T15:05:03.630Z</updated>
-        <content type="html"><![CDATA[YTN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백신 뚫는 '새 변이 공포'...요동치는 국내 금융시장]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001670344&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211128&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001670344&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211128&amp;page=1"/>
-        <updated>2021-11-27T15:05:03.632Z</updated>
-        <content type="html"><![CDATA[YTN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주문따라 조리, 완성되면 서빙…배달도 하는 요즘 로봇]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000936191&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211128&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000936191&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211128&amp;page=1"/>
-        <updated>2021-11-27T15:05:03.632Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[숙박 할인 '우왕좌왕'…"플랫폼만 이익"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000936189&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211128&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000936189&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211128&amp;page=1"/>
-        <updated>2021-11-27T15:05:03.633Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>
