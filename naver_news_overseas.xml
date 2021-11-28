@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-11-28T05:06:07.429Z</updated>
+    <updated>2021-11-28T06:07:59.498Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["오미크론 불확실성에 긴축 스케줄 꼬여…연준 손발 묶였다"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005095481&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211128&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005095481&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211128&amp;page=1"/>
+        <updated>2021-11-28T06:06:21.051Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005095481&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211128&amp;page=1" title="&quot;오미크론 불확실성에 긴축 스케줄 꼬여…연준 손발 묶였다&quot;">"오미크론 불확실성에 긴축 스케줄 꼬여…연준 손발 묶였다"</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오미크론發 시장 충격 커질까…월가 일각에선 "10% 조정론"]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005095471&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211128&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000999750&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211128&amp;page=1"/>
         <updated>2021-11-27T15:04:26.828Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000999750&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211128&amp;page=1" title="베트남, 6주만에 코로나 확진자수 4배 증가 [KVINA]">베트남, 6주만에 코로나 확진자수 4배 증가 [KVINA]</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[캐리람 홍콩 행정장관 "5년 임기 2번이면 충분...중임은 없다"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000999749&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211128&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000999749&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211128&amp;page=1"/>
-        <updated>2021-11-27T15:04:26.830Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000999749&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211128&amp;page=1" title="캐리람 홍콩 행정장관 &quot;5년 임기 2번이면 충분...중임은 없다&quot;">캐리람 홍콩 행정장관 "5년 임기 2번이면 충분...중임은 없다"</a>]]></content>
     </entry>
 </feed>
