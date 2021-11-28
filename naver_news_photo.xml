@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-11-28T03:07:06.228Z</updated>
+    <updated>2021-11-28T04:07:06.769Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['오미크론'에 움츠린 세계 증시…증권가가 본 반등 변수 2가지]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004676127&amp;office_id=008&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211128&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004676127&amp;office_id=008&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211128&amp;page=1"/>
+        <updated>2021-11-28T00:35:00.000Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[증시 거래대금 감소에도...국내 증권사 순이익 전 분기比 10% 이상 늘었다]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003990309&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211128&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003990309&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211128&amp;page=1"/>
+        <updated>2021-11-28T00:13:00.000Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SiC 웨이퍼 ‘한우물’ 20년…21세기 반도체 생태계의 ‘고려청자’에 도전한다 ..]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001917861&amp;office_id=016&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211128&amp;page=1</id>
@@ -60,19 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0010857804&amp;office_id=003&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211128&amp;page=1"/>
         <updated>2021-11-28T00:00:00.000Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[증권사 3분기 순이익 10.5%↑..."IPO시장 활황·IB수익 증가 영향"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005006622&amp;office_id=277&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211128&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005006622&amp;office_id=277&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211128&amp;page=1"/>
-        <updated>2021-11-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박스권 갇힌 증시...증소형주·ETF 사들이는 개미들]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0002552184&amp;office_id=119&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211128&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0002552184&amp;office_id=119&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211128&amp;page=1"/>
-        <updated>2021-11-28T11:42:00.000Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
     </entry>
 </feed>
