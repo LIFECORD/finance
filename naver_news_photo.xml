@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-11-28T16:08:11.160Z</updated>
+    <updated>2021-11-28T17:13:51.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[마켓인]M&A 블프 시즌?…CJ·SK 자본시장 행보 ‘바쁘다 바빠’]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005095632&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211129&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005095632&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211129&amp;page=1"/>
+        <updated>2021-11-29T01:31:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KTB증권, 미국 뉴저지 'UBS타워' 투자]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005006746&amp;office_id=277&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211129&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005095622&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211129&amp;page=1"/>
         <updated>2021-11-28T15:04:53.932Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대유위니아, ‘못 사는’ 남양유업 지분 인수 예약?]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001917937&amp;office_id=016&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211129&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001917937&amp;office_id=016&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211129&amp;page=1"/>
-        <updated>2021-11-28T15:04:53.933Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>

@@ -2,21 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-28T16:08:11.203Z</updated>
+    <updated>2021-11-28T17:13:51.311Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[SK텔레콤, 오늘(29일)부터 주식거래 재개…국민주 거듭날까]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000118526&amp;office_id=629&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000118526&amp;office_id=629&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-28T16:06:55.691Z</updated>
-        <content type="html"><![CDATA[더팩트]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA['메타버스 ETF'로 맞붙은 삼성·미래운용…승자는?]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000118530&amp;office_id=629&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000118530&amp;office_id=629&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-28T16:06:55.695Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SK텔레콤, 오늘(29일)부터 주식거래 재개…국민주 거듭날까]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000118526&amp;office_id=629&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000118526&amp;office_id=629&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-28T16:06:55.691Z</updated>
         <content type="html"><![CDATA[더팩트]]></content>
     </entry>
     <entry>
@@ -46,5 +46,12 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005006746&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-28T16:06:55.700Z</updated>
         <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[마켓인]M&A 블프 시즌?…CJ·SK 자본시장 행보 ‘바쁘다 ..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005095632&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005095632&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-29T01:31:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
