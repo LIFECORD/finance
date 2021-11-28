@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=401</id>
     <title>네이버 금융 ─ 뉴스 ─ 시황·전망</title>
-    <updated>2021-11-28T07:07:09.127Z</updated>
+    <updated>2021-11-28T08:07:17.215Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[표]주간 유가증권·코스닥 투자주체별 매매동향(11월 22일~26일)]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003990357&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211128&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003990357&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211128&amp;page=1"/>
+        <updated>2021-11-28T08:05:28.025Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003990357&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211128&amp;page=1" title="[표]주간 유가증권·코스닥 투자주체별 매매동향(11월 22일~26일)">[표]주간 유가증권·코스닥 투자주체별 매매동향(11월 22일~26일)</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['오미크론'에 움츠린 세계 증시…증권가가 본 반등 변수 2가지]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004676127&amp;office_id=008&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211128&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004746366&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211128&amp;page=1"/>
         <updated>2021-11-27T15:04:15.215Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004746366&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211128&amp;page=1" title="오미크론發 악재, 내주 주목할 증시 유망테마는?">오미크론發 악재, 내주 주목할 증시 유망테마는?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[금융硏 “내년 韓성장률 3.2% 전망, 성장 하방 위험도↑”]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005095219&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211128&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005095219&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211128&amp;page=1"/>
-        <updated>2021-11-27T15:04:15.218Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005095219&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211128&amp;page=1" title="금융硏 “내년 韓성장률 3.2% 전망, 성장 하방 위험도↑”">금융硏 “내년 韓성장률 3.2% 전망, 성장 하방 위험도↑”</a>]]></content>
     </entry>
 </feed>
