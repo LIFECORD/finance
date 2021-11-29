@@ -2,29 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-29T19:06:02.706Z</updated>
+    <updated>2021-11-29T20:08:02.550Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[마켓인]‘이슈株냐 실적株냐’...증시 입성 투자社에 관심 집중]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005096550&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005096550&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-30T01:21:00.000Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[변동성에 강한 '리츠', 오미크론에도 인기 이어간다]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005096549&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005096549&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-29T16:08:34.130Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['오미크론'에 무너진 코스피서 솟아날 주식은?]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005096551&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005096551&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-30T02:01:00.000Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
+        <title type="html"><![CDATA[급락했던 비트코인, 3% 넘게 반등]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003656299&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003656299&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-30T03:05:00.000Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[따라했더니, 내 돈!… ‘주식 리딩방’ 개미 절반 돈 잃어]]></title>
@@ -34,13 +20,6 @@
         <content type="html"><![CDATA[국민일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["달러 더 오르겠지만, 강세는 끝물" -BCA리서치]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004634413&amp;office_id=015&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004634413&amp;office_id=015&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-30T02:21:00.000Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[‘오미크론 쇼크’ 亞증시 줄줄이 하락]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003396631&amp;office_id=020&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003396631&amp;office_id=020&amp;mode=RANK&amp;typ=0"/>
@@ -48,11 +27,25 @@
         <content type="html"><![CDATA[동아일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[급락했던 비트코인, 3% 넘게 반등]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003656299&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003656299&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-30T03:05:00.000Z</updated>
+        <title type="html"><![CDATA['오미크론'에 무너진 코스피서 솟아날 주식은?]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005096551&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005096551&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-30T02:01:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주요경제지표] 2021년 11월 29일자]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003656283&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003656283&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-30T03:03:00.000Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[마켓인]‘이슈株냐 실적株냐’...증시 입성 투자社에 관심 집중]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005096550&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005096550&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-30T01:21:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[새마을금고 이어 신협도 가계대출 중단]]></title>
@@ -62,11 +55,18 @@
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[주요경제지표] 2021년 11월 29일자]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003656283&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003656283&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-30T03:03:00.000Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
+        <title type="html"><![CDATA["달러 더 오르겠지만, 강세는 끝물" -BCA리서치]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004634413&amp;office_id=015&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004634413&amp;office_id=015&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-30T02:21:00.000Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[변동성에 강한 '리츠', 오미크론에도 인기 이어간다]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005096549&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005096549&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-29T16:08:34.130Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[주식 매매 상위 종목 및 환율] 2021년 11월 29일자]]></title>
@@ -81,5 +81,19 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004676757&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-30T03:30:00.000Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[외국인 주식으로 6.4조 벌었지만 세금은 1000억원 가까이 줄..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001487800&amp;office_id=005&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001487800&amp;office_id=005&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-30T04:08:00.000Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘검은 월요일’에 선방한 한국… ‘변이 학습효과’가 충격 줄였다]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001487778&amp;office_id=005&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001487778&amp;office_id=005&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-30T04:04:00.000Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
     </entry>
 </feed>

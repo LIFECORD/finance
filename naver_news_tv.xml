@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-11-29T19:06:02.703Z</updated>
+    <updated>2021-11-29T20:08:02.566Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['오미크론' 우려에 코스피 하락...'천스닥'도 붕괴]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001671128&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001671128&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1"/>
+        <updated>2021-11-30T04:29:00.000Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['오미크론' 악재 영향 덜했지만..."변동성은 불가피"]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001671088&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000345211&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1"/>
         <updated>2021-11-29T15:06:05.220Z</updated>
         <content type="html"><![CDATA[TV조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가상화폐 과세 연기·양도세 완화 기재위 소위 통과]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0011166118&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011166118&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1"/>
-        <updated>2021-11-29T15:06:05.222Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
