@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-11-29T11:05:45.337Z</updated>
+    <updated>2021-11-29T12:11:16.593Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[리오토, 3분기 매출 전년비 3배↑…장전 거래서 주가 7.8% 올라]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001000149&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211129&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001000149&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211129&amp;page=1"/>
+        <updated>2021-11-29T12:09:27.477Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0001000149&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211129&amp;page=1" title="리오토, 3분기 매출 전년비 3배↑…장전 거래서 주가 7.8% 올라">리오토, 3분기 매출 전년비 3배↑…장전 거래서 주가 7.8% 올라</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[표]아시아 주요 증시 동향(11월 29일)]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003990879&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211129&amp;page=1</id>
@@ -39,12 +46,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005096300&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211129&amp;page=1"/>
         <updated>2021-11-29T07:05:43.512Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005096300&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211129&amp;page=1" title="도요타, 반도체 공급난에 생산량 26% 감소">도요타, 반도체 공급난에 생산량 26% 감소</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[외환마감]오미크론發 공포 진정…환율, 사흘 만에 약보합]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005096297&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211129&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005096297&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211129&amp;page=1"/>
-        <updated>2021-11-29T07:05:43.512Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005096297&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211129&amp;page=1" title="[외환마감]오미크론發 공포 진정…환율, 사흘 만에 약보합">[외환마감]오미크론發 공포 진정…환율, 사흘 만에 약보합</a>]]></content>
     </entry>
 </feed>
