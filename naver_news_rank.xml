@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-29T17:16:27.553Z</updated>
+    <updated>2021-11-29T18:12:23.914Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[따라했더니, 내 돈!… ‘주식 리딩방’ 개미 절반 돈 잃어]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001487736&amp;office_id=005&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001487736&amp;office_id=005&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-29T16:08:34.127Z</updated>
-        <content type="html"><![CDATA[국민일보]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[변동성에 강한 '리츠', 오미크론에도 인기 이어간다]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005096549&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
@@ -25,5 +18,26 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005096550&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-30T01:21:00.000Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[따라했더니, 내 돈!… ‘주식 리딩방’ 개미 절반 돈 잃어]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001487736&amp;office_id=005&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001487736&amp;office_id=005&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-29T16:08:34.127Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['오미크론'에 무너진 코스피서 솟아날 주식은?]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005096551&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005096551&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-30T02:01:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["달러 더 오르겠지만, 강세는 끝물" -BCA리서치]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004634413&amp;office_id=015&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004634413&amp;office_id=015&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-30T02:21:00.000Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
