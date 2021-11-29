@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-11-29T05:07:42.190Z</updated>
+    <updated>2021-11-29T06:08:42.242Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[올 2월 문 연 '더현대서울' 의류매장 천장 붕괴…3명 경상]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000345151&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211129&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000345151&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211129&amp;page=1"/>
+        <updated>2021-11-29T06:07:42.699Z</updated>
+        <content type="html"><![CDATA[TV조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[경제 톡톡톡]팔기 힘들고 사기 겁나네…서울 아파트 매매 ‘꽁꽁’]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000218563&amp;office_id=449&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211129&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000936414&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211129&amp;page=1"/>
         <updated>2021-11-29T00:28:00.000Z</updated>
         <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3,309명 확진…수도권 중환자 병상 96개 남아]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000516176&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211129&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000516176&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211129&amp;page=1"/>
-        <updated>2021-11-29T00:28:00.000Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
     </entry>
 </feed>
