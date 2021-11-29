@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=404</id>
     <title>네이버 금융 ─ 뉴스 ─ 채권 선물</title>
-    <updated>2021-11-29T06:08:42.225Z</updated>
+    <updated>2021-11-29T07:07:24.593Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[메리츠증권, 인플레이션 대비 한미 물가연동국채 추종 ETN 4종 '주목']]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004885940&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211129&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004885940&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211129&amp;page=1"/>
+        <updated>2021-11-29T07:05:50.313Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004885940&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211129&amp;page=1" title="메리츠증권, 인플레이션 대비 한미 물가연동국채 추종 ETN 4종 '주목'">메리츠증권, 인플레이션 대비 한미 물가연동국채 추종 ETN 4종 '주목'</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[삼성 글로벌 반도체 펀드, 출시 두 달만에 수익률 13.8%]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004885866&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211129&amp;page=1</id>
@@ -32,19 +39,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005095622&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211129&amp;page=1"/>
         <updated>2021-11-28T15:04:28.428Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005095622&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211129&amp;page=1" title="더듬이 바짝 세운 서학개미…성장주 다음은 NFT·메타버스">더듬이 바짝 세운 서학개미…성장주 다음은 NFT·메타버스</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美주식 소수점 매매 실전투자도]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004885560&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211129&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004885560&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211129&amp;page=1"/>
-        <updated>2021-11-28T15:04:28.429Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004885560&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211129&amp;page=1" title="美주식 소수점 매매 실전투자도">美주식 소수점 매매 실전투자도</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미래에셋 타이거ETF, 올해 순자산 11조원 급증]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004885493&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211129&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004885493&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211129&amp;page=1"/>
-        <updated>2021-11-28T15:04:28.430Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004885493&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211129&amp;page=1" title="미래에셋 타이거ETF, 올해 순자산 11조원 급증">미래에셋 타이거ETF, 올해 순자산 11조원 급증</a>]]></content>
     </entry>
 </feed>
