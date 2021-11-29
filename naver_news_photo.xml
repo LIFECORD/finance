@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-11-29T15:07:03.928Z</updated>
+    <updated>2021-11-29T16:09:49.419Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[변동성에 강한 '리츠', 오미크론에도 인기 이어간다]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005096549&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211130&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005096549&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211130&amp;page=1"/>
+        <updated>2021-11-29T16:08:40.381Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[따라했더니, 내 돈!… ‘주식 리딩방’ 개미 절반 돈 잃어]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001487736&amp;office_id=005&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211130&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001000160&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211130&amp;page=1"/>
         <updated>2021-11-29T15:05:58.948Z</updated>
         <content type="html"><![CDATA[한국경제TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[화이자 백신 공동개발한 바이오엔테크, 오미크론 차단 백신 개발 착수]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004634389&amp;office_id=015&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211130&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004634389&amp;office_id=015&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211130&amp;page=1"/>
-        <updated>2021-11-29T15:05:58.950Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
