@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-11-29T20:08:02.552Z</updated>
+    <updated>2021-11-29T21:06:07.420Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[속보]바이든 "봉쇄 논의 안해"…뉴욕증시 일제히 반등]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005096570&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211130&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005096570&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211130&amp;page=1"/>
+        <updated>2021-11-29T21:04:30.438Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005096570&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211130&amp;page=1" title="[속보]바이든 &quot;봉쇄 논의 안해&quot;…뉴욕증시 일제히 반등">[속보]바이든 "봉쇄 논의 안해"…뉴욕증시 일제히 반등</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["달러 더 오르겠지만, 강세는 끝물" -BCA리서치]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004634413&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211130&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001000149&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211130&amp;page=1"/>
         <updated>2021-11-29T15:05:28.369Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0001000149&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211130&amp;page=1" title="리오토, 3분기 매출 전년비 3배↑…장전 거래서 주가 7.8% 올라">리오토, 3분기 매출 전년비 3배↑…장전 거래서 주가 7.8% 올라</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[표]아시아 주요 증시 동향(11월 29일)]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003990879&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211130&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003990879&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211130&amp;page=1"/>
-        <updated>2021-11-29T15:05:28.371Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003990879&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211130&amp;page=1" title="[표]아시아 주요 증시 동향(11월 29일)">[표]아시아 주요 증시 동향(11월 29일)</a>]]></content>
     </entry>
 </feed>
