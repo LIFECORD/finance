@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-11-29T03:07:04.018Z</updated>
+    <updated>2021-11-29T04:09:35.502Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이노레드, '제9회 소프트웨어 산업보호대상' 행안부 장관상 수상]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003990649&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211129&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003990649&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211129&amp;page=1"/>
+        <updated>2021-11-29T04:08:23.078Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이노베이션 아카데미, 내달 1일 성과공유 컨퍼런스 개최한다]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003990647&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211129&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003990647&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211129&amp;page=1"/>
+        <updated>2021-11-29T04:08:23.079Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국투자증권, 스텝다운형 ELS 50억 모집]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0010859341&amp;office_id=003&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211129&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0010859341&amp;office_id=003&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211129&amp;page=1"/>
+        <updated>2021-11-29T00:05:00.000Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[다음 달부터 사모신기술조합에도 금소법상 판매규제 적용된다]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003990641&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211129&amp;page=1</id>
@@ -53,26 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004676457&amp;office_id=008&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211129&amp;page=1"/>
         <updated>2021-11-29T00:00:00.000Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[금감원, 증권사 신기술조합 규제 강화…"금소법 준용해야"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0010859324&amp;office_id=003&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211129&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0010859324&amp;office_id=003&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211129&amp;page=1"/>
-        <updated>2021-11-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국내기관, 3분기 해외투자 사상최대…3856억달러]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0010859318&amp;office_id=003&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211129&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0010859318&amp;office_id=003&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211129&amp;page=1"/>
-        <updated>2021-11-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[금감원 "증권사 신기술조합 투자 권유때 금소법 준용해야"...내달 행정지도 시행]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005007048&amp;office_id=277&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211129&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005007048&amp;office_id=277&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211129&amp;page=1"/>
-        <updated>2021-11-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
 </feed>
