@@ -2,14 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-29T04:09:35.506Z</updated>
+    <updated>2021-11-29T05:07:42.214Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[포스코인터내셔널, 호주 세넥스 에너지 인수 독점 협상 중]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005096030&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005096030&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-29T11:40:00.000Z</updated>
+        <title type="html"><![CDATA["추억으로 돈 버세요"…싸이월드 3200만 회원 사진 NFT로 ..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004676456&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004676456&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-29T11:53:00.000Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국내기관, 3분기 해외투자 사상최대…3856억달러]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0010859318&amp;office_id=003&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0010859318&amp;office_id=003&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[금감원 "증권사 신기술조합 투자 권유때 금소법 준용해야"...내..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005007048&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005007048&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[다음달 1일부터 신기술조합 투자때도 '금소법' 적용]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004676457&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004676457&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[금융당국, 12월부터 증권사 ‘사모 신기술조합 투자권유’ 행정지..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004747013&amp;office_id=014&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004747013&amp;office_id=014&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-29T00:01:00.000Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[증권사, 내달부터 '사모 신기술조합 투자' 판매 시 금소법 적용]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0002552431&amp;office_id=119&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0002552431&amp;office_id=119&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-29T00:01:00.000Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[금감원, 증권사 신기술조합 투자 관리·감독 강화]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000776902&amp;office_id=366&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000776902&amp;office_id=366&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-29T00:01:00.000Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[금감원 "증권사, 신기술조합 투자권유시 보호장치 마련해야"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005096046&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005096046&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-29T00:01:00.000Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
@@ -20,11 +69,11 @@
         <content type="html"><![CDATA[전자신문]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[삼성SDI, 희망나눔캠페인 8억7000만원 기부]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0010859218&amp;office_id=003&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0010859218&amp;office_id=003&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-29T11:38:00.000Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
+        <title type="html"><![CDATA[포스코인터내셔널, 호주 세넥스 에너지 인수 독점 협상 중]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005096030&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005096030&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-29T11:40:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['인천 십정3구역' 재개발 사업비 1100억 조달]]></title>
@@ -34,11 +83,11 @@
         <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[알에스오토메이션, 3자배정 유상증자 결정]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0010859220&amp;office_id=003&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0010859220&amp;office_id=003&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-29T11:39:00.000Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
+        <title type="html"><![CDATA[다음 달부터 사모신기술조합에도 금소법상 판매규제 적용된다]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003990641&amp;office_id=011&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003990641&amp;office_id=011&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-29T00:04:00.000Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[특징주] 메타버스 테마 '위지윅스튜디오' 10.76%↑]]></title>
@@ -48,18 +97,32 @@
         <content type="html"><![CDATA[전자신문]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[증시이슈] '오미크론' 변이 바이러스 공포에…면세점 관련주도 ..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000019202&amp;office_id=243&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000019202&amp;office_id=243&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-29T11:59:00.000Z</updated>
+        <content type="html"><![CDATA[이코노미스트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[알에스오토메이션, 3자배정 유상증자 결정]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0010859220&amp;office_id=003&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0010859220&amp;office_id=003&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-29T11:39:00.000Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[금감원, 증권사 신기술조합 규제 강화…"금소법 준용해야"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0010859324&amp;office_id=003&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0010859324&amp;office_id=003&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[레드캡투어, 8회차 CB 전환가액 하향조정]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0010859219&amp;office_id=003&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0010859219&amp;office_id=003&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-29T11:38:00.000Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["추억으로 돈 버세요"…싸이월드 3200만 회원 사진 NFT로 ..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004676456&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004676456&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-29T11:53:00.000Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[공시부터 유망종목 발굴까지…알짜정보 모은 '신한알파']]></title>
@@ -69,17 +132,10 @@
         <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[다음달 1일부터 신기술조합 투자때도 '금소법' 적용]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004676457&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004676457&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국내기관, 3분기 해외투자 사상최대…3856억달러]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0010859318&amp;office_id=003&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0010859318&amp;office_id=003&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-29T00:00:00.000Z</updated>
+        <title type="html"><![CDATA[삼성SDI, 희망나눔캠페인 8억7000만원 기부]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0010859218&amp;office_id=003&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0010859218&amp;office_id=003&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-29T11:38:00.000Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
     <entry>
@@ -97,6 +153,13 @@
         <content type="html"><![CDATA[비즈니스워치]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[이노레드, '제9회 소프트웨어 산업보호대상' 행안부 장관상 수상]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003990649&amp;office_id=011&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003990649&amp;office_id=011&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-29T05:06:24.711Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[고객 유형별 '투트랙 공략' 통했다…KB證 '마블·마블미니']]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004676218&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004676218&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
@@ -104,11 +167,11 @@
         <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[금감원 "증권사, 신기술조합 투자권유시 보호장치 마련해야"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005096046&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005096046&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-29T00:01:00.000Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
+        <title type="html"><![CDATA[이노베이션 아카데미, 내달 1일 성과공유 컨퍼런스 개최한다]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003990647&amp;office_id=011&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003990647&amp;office_id=011&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-29T05:06:24.714Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘삼성 vs 미래에셋’ ETF 전쟁… 이 구역 최강자는 ‘나야 ..]]></title>
@@ -116,68 +179,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000759037&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-29T06:50:00.000Z</updated>
         <content type="html"><![CDATA[머니S]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[신기림의 월가프리뷰]오미크론 변이 얼마나 위협적일까]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005751642&amp;office_id=421&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005751642&amp;office_id=421&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-29T07:00:00.000Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올해 일본서 가장 손에 땀을 쥐게 한 M&A 공방전 [정영효의 ..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004633952&amp;office_id=015&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004633952&amp;office_id=015&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-29T07:03:00.000Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[증권사, 내달부터 '사모 신기술조합 투자' 판매 시 금소법 적용]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0002552431&amp;office_id=119&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0002552431&amp;office_id=119&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-29T00:01:00.000Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비태식도 ‘오미크론’은 무서웠지만…비트코인, 29일 7000만원..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000019185&amp;office_id=243&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000019185&amp;office_id=243&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-29T07:10:00.000Z</updated>
-        <content type="html"><![CDATA[이코노미스트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[금감원 "증권사 신기술조합 투자 권유때 금소법 준용해야"...내..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005007048&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005007048&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“박스피에 지쳤다”… ETF로 눈 돌리는 개미]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000759034&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000759034&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-29T06:35:00.000Z</updated>
-        <content type="html"><![CDATA[머니S]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[금감원, 증권사 신기술조합 투자 관리·감독 강화]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000776902&amp;office_id=366&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000776902&amp;office_id=366&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-29T00:01:00.000Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[금감원, 증권사 신기술조합 규제 강화…"금소법 준용해야"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0010859324&amp;office_id=003&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0010859324&amp;office_id=003&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[금융당국, 12월부터 증권사 ‘사모 신기술조합 투자권유’ 행정지..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004747013&amp;office_id=014&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004747013&amp;office_id=014&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-29T00:01:00.000Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
     </entry>
 </feed>
