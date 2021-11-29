@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-11-29T07:07:24.529Z</updated>
+    <updated>2021-11-29T08:10:02.246Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아이 10명 중 6명, 낮에 부모가 직접 돌봐]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001162795&amp;office_id=214&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211129&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001162795&amp;office_id=214&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211129&amp;page=1"/>
+        <updated>2021-11-29T08:08:58.704Z</updated>
+        <content type="html"><![CDATA[MBC]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[MBN 프레스룸] 손학규 네 번째 대선 출사표]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001624777&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211129&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001624777&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211129&amp;page=1"/>
+        <updated>2021-11-29T08:08:58.704Z</updated>
+        <content type="html"><![CDATA[MBN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[MBN 프레스룸] '李 vs 尹' 2030 표심 경쟁]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001624776&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211129&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001624776&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211129&amp;page=1"/>
+        <updated>2021-11-29T08:08:58.706Z</updated>
+        <content type="html"><![CDATA[MBN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[MBN 프레스룸] 尹 선대위 '원톱' 출범]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001624773&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211129&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001624773&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211129&amp;page=1"/>
+        <updated>2021-11-29T08:08:58.706Z</updated>
+        <content type="html"><![CDATA[MBN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[MBN 프레스룸] D-100…민심 '안갯속'?]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001624770&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211129&amp;page=1</id>
@@ -46,33 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001624764&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211129&amp;page=1"/>
         <updated>2021-11-29T07:06:22.763Z</updated>
         <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올 2월 문 연 '더현대서울' 의류매장 천장 붕괴…3명 경상]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000345151&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211129&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000345151&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211129&amp;page=1"/>
-        <updated>2021-11-29T06:07:42.699Z</updated>
-        <content type="html"><![CDATA[TV조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[경제 톡톡톡]팔기 힘들고 사기 겁나네…서울 아파트 매매 ‘꽁꽁’]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000218563&amp;office_id=449&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211129&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000218563&amp;office_id=449&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211129&amp;page=1"/>
-        <updated>2021-11-29T05:06:37.658Z</updated>
-        <content type="html"><![CDATA[채널A]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[김대호의 경제읽기] 코로나19 새 변이 '오미크론' 확산…경제적 파급력은?]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000516199&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211129&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000516199&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211129&amp;page=1"/>
-        <updated>2021-11-29T05:06:37.660Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코스피, '오미크론' 여파에 1%대 하락 뒤 낙폭 줄여]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001670830&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211129&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001670830&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211129&amp;page=1"/>
-        <updated>2021-11-29T05:06:37.661Z</updated>
-        <content type="html"><![CDATA[YTN]]></content>
     </entry>
 </feed>

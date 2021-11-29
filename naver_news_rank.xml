@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-29T07:07:24.524Z</updated>
+    <updated>2021-11-29T08:10:02.467Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -132,6 +132,13 @@
         <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[이케이자산운용, 아레스와 IPO·자금조달 자문계약 체결]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004676603&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004676603&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-29T08:08:45.943Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[미래에셋 'M스톡', MZ세대도 '고수'처럼 투자한다]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004676220&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004676220&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
@@ -153,6 +160,13 @@
         <content type="html"><![CDATA[매일경제]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[인트로메딕, 200억원 규모 전환사채 발행 결정]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005096330&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005096330&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-29T08:08:45.950Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[금감원 "증권사 신기술조합 투자 권유때 금소법 준용해야"...내..]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005007048&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005007048&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
@@ -165,19 +179,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004676217&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-29T03:58:00.000Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이번주 추천주] '주가 방어력 확보' 메리츠화재·포스코케미칼 ..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003990456&amp;office_id=011&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003990456&amp;office_id=011&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-29T06:31:00.000Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ETF의 그림자, 잇단 상폐에 소송전까지…]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000759038&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000759038&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-29T07:05:00.000Z</updated>
-        <content type="html"><![CDATA[머니S]]></content>
     </entry>
 </feed>
