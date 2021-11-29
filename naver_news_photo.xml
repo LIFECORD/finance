@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-11-29T18:12:23.914Z</updated>
+    <updated>2021-11-29T19:06:02.723Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘검은 월요일’에 선방한 한국… ‘변이 학습효과’가 충격 줄였다]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001487778&amp;office_id=005&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211130&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001487778&amp;office_id=005&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211130&amp;page=1"/>
+        <updated>2021-11-30T04:04:00.000Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[부꾸미]반도체 전문가가 "슈퍼사이클 의미 없다"고 말하는 이유]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004676757&amp;office_id=008&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211130&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004676757&amp;office_id=008&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211130&amp;page=1"/>
+        <updated>2021-11-30T03:30:00.000Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주요경제지표] 2021년 11월 29일자]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003656283&amp;office_id=023&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211130&amp;page=1</id>
@@ -60,19 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001000166&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211130&amp;page=1"/>
         <updated>2021-11-29T15:05:58.937Z</updated>
         <content type="html"><![CDATA[한국경제TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CNBC "잭 도시, 트위터 CEO 물러난다"…주가 11% 급등]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004634400&amp;office_id=015&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211130&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004634400&amp;office_id=015&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211130&amp;page=1"/>
-        <updated>2021-11-29T15:05:58.939Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오미크론發 투매 일단 진정…뉴욕증시 1% 안팎 반등]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005096544&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211130&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005096544&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211130&amp;page=1"/>
-        <updated>2021-11-29T15:05:58.940Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
