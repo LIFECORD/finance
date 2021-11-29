@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-11-29T13:16:42.418Z</updated>
+    <updated>2021-11-29T14:05:52.427Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["오미크론, 변동성 키울 것"…월가 주요 은행 전략은?]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001000163&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211129&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001000163&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211129&amp;page=1"/>
+        <updated>2021-11-29T14:04:48.378Z</updated>
+        <content type="html"><![CDATA[한국경제TV]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연말 확진자 증가에 오미크론까지…진단키트株 ‘쑥’]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005096535&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211129&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004676731&amp;office_id=008&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211129&amp;page=1"/>
         <updated>2021-11-29T11:04:39.031Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[금감원, 내년부터 금융상품 초밀착 모니터링]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0002708559&amp;office_id=029&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211129&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0002708559&amp;office_id=029&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211129&amp;page=1"/>
-        <updated>2021-11-29T11:04:39.033Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
 </feed>

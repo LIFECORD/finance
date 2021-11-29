@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS2D&amp;section_id=101&amp;section_id2=258</id>
     <title>네이버 금융 ─ 뉴스 ─ 실시간 속보</title>
-    <updated>2021-11-29T13:16:42.396Z</updated>
+    <updated>2021-11-29T14:05:52.421Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["오미크론, 변동성 키울 것"…월가 주요 은행 전략은?]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001000163&amp;office_id=215&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211129&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001000163&amp;office_id=215&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211129&amp;page=1"/>
+        <updated>2021-11-29T14:03:55.820Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0001000163&amp;office_id=215&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211129&amp;page=1" title="&quot;오미크론, 변동성 키울 것&quot;…월가 주요 은행 전략은?">"오미크론, 변동성 키울 것"…월가 주요 은행 전략은?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연말 확진자 증가에 오미크론까지…진단키트株 ‘쑥’]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005096535&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211129&amp;page=1</id>
@@ -53,12 +60,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003990886&amp;office_id=011&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211129&amp;page=1"/>
         <updated>2021-11-29T12:08:59.796Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003990886&amp;office_id=011&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211129&amp;page=1" title="국민연금, 9월말까지 67.4조 운용 수익...수익률 8%">국민연금, 9월말까지 67.4조 운용 수익...수익률 8%</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오미크론 공포... 여행·항공·유통株 다시 움츠러들었다]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003656243&amp;office_id=023&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211129&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003656243&amp;office_id=023&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211129&amp;page=1"/>
-        <updated>2021-11-29T12:08:59.801Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003656243&amp;office_id=023&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211129&amp;page=1" title="오미크론 공포... 여행·항공·유통株 다시 움츠러들었다">오미크론 공포... 여행·항공·유통株 다시 움츠러들었다</a>]]></content>
     </entry>
 </feed>
