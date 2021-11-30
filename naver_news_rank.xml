@@ -2,21 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-11-30T18:07:29.336Z</updated>
+    <updated>2021-11-30T19:06:00.499Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[마켓인]코로나가 불붙인 대체육 열풍…글로벌 M&A 활활]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005097336&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005097336&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-01T02:01:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조정장에도 레버리지 취한 시장…불나방된 개미]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005097329&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005097329&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-11-30T16:08:12.684Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[금소법에서도 사각지대…'전문투자자']]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005097331&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005097331&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-11-30T16:08:12.686Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
@@ -34,17 +34,10 @@
         <content type="html"><![CDATA[한국경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[마켓인]코로나가 불붙인 대체육 열풍…글로벌 M&A 활활]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005097336&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005097336&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-01T02:01:00.000Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하락장에 베팅…대차거래 잔고 80조원 육박]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005097337&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005097337&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-01T02:31:00.000Z</updated>
+        <title type="html"><![CDATA[금소법에서도 사각지대…'전문투자자']]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005097331&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005097331&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-11-30T16:08:12.686Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
@@ -55,10 +48,45 @@
         <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[하락장에 베팅…대차거래 잔고 80조원 육박]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005097337&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005097337&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-01T02:31:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주식 매매 상위 종목 및 환율] 2021년 11월 30일자]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003656545&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003656545&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-01T03:03:00.000Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주요경제지표] 2021년 11월 30일자]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003656555&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003656555&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-01T03:03:00.000Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[BoA도 JP모건도 "내년엔 대형주보다 소형주 담아야…에너지 섹..]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001000449&amp;office_id=215&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001000449&amp;office_id=215&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-12-01T02:40:00.000Z</updated>
         <content type="html"><![CDATA[한국경제TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘오미크론 공포’ 코스피 연중 최저 급락]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003396903&amp;office_id=020&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003396903&amp;office_id=020&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-01T03:01:00.000Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국내 오미크론 의심환자 4명 발생]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003656612&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003656612&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-01T03:07:00.000Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
