@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-11-30T13:06:11.490Z</updated>
+    <updated>2021-11-30T14:05:36.886Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[모임 제한 가능성 열어둔 정부…엇갈리는 희비]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000516455&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000516455&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1"/>
+        <updated>2021-11-30T14:04:37.782Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[기업 생존전략된 ‘RE100’…뒤처지면 수출 40%↓]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0011166913&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0011166889&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1"/>
         <updated>2021-11-30T13:05:06.417Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MBN 특별취재팀, '대장동 사건 핵심 인물·돈 흐름' 이달의 방송기자상]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001625114&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001625114&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1"/>
-        <updated>2021-11-30T12:07:33.598Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
     </entry>
 </feed>

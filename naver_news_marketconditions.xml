@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=401</id>
     <title>네이버 금융 ─ 뉴스 ─ 시황·전망</title>
-    <updated>2021-11-30T13:06:11.489Z</updated>
+    <updated>2021-11-30T14:05:36.884Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오미크론發 조정장에 상승 베팅한 개미…기관은 '곱버스' 샀다]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004886799&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211130&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004886799&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211130&amp;page=1"/>
+        <updated>2021-11-30T14:03:47.568Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004886799&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211130&amp;page=1" title="오미크론發 조정장에 상승 베팅한 개미…기관은 '곱버스' 샀다">오미크론發 조정장에 상승 베팅한 개미…기관은 '곱버스' 샀다</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오미크론도 못막는 LG이노텍의 질주···40만원까지 가나]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003991392&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211130&amp;page=1</id>
@@ -60,12 +67,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004886760&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211130&amp;page=1"/>
         <updated>2021-11-30T10:04:18.362Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004886760&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211130&amp;page=1" title="새파랗게 질린 亞증시…코스피 2900 뚫려 연중 최저">새파랗게 질린 亞증시…코스피 2900 뚫려 연중 최저</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연일 급락 코스피…메타버스·NFT가 대피처 될까]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004886732&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211130&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004886732&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211130&amp;page=1"/>
-        <updated>2021-11-30T09:04:09.193Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004886732&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211130&amp;page=1" title="연일 급락 코스피…메타버스·NFT가 대피처 될까">연일 급락 코스피…메타버스·NFT가 대피처 될까</a>]]></content>
     </entry>
 </feed>
