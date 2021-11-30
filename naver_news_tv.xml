@@ -2,77 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-11-30T00:21:24.516Z</updated>
+    <updated>2021-11-30T01:44:15.301Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[오미크론 우려…WHO “오미크론 봉쇄, 심각한 결과 초래할 수 있어”]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000266140&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000266140&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1"/>
-        <updated>2021-11-30T09:17:00.000Z</updated>
+        <title type="html"><![CDATA[[뉴스포커스] 4주간 특별방역대책 기간…'오미크론' 확산세 비상]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000516343&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000516343&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1"/>
+        <updated>2021-11-30T10:41:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['미디어 정상화와 미래비전' 토론회 개최]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001624947&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001624947&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1"/>
+        <updated>2021-11-30T10:27:00.000Z</updated>
+        <content type="html"><![CDATA[MBN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스토킹 살인 김병찬 "죄송하다"…범행 전 흉기 등 인터넷 검색]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001624939&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001624939&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1"/>
+        <updated>2021-11-30T10:13:00.000Z</updated>
+        <content type="html"><![CDATA[MBN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신문브리핑 4 "이재명 "윤석열 '50조 지원 공약' 수용"…尹 "뒤늦게 깨달아 다행"" ..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001624936&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001624936&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1"/>
+        <updated>2021-11-30T10:12:00.000Z</updated>
+        <content type="html"><![CDATA[MBN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10월 산업생산 -1.9%…작년 4월 이후 최대감소]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000516340&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000516340&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1"/>
+        <updated>2021-11-30T10:11:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신문브리핑 3 "李 '원팀' 보여 줄 '이낙연계' 오영훈 " 외 주요기사]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001624933&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001624933&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1"/>
+        <updated>2021-11-30T10:08:00.000Z</updated>
+        <content type="html"><![CDATA[MBN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3,032명 확진…위중증 661명 또 역대 최다]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000516337&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000516337&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1"/>
+        <updated>2021-11-30T10:02:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신문브리핑 2 "충청 방문 패싱 당했다는 이준석 "尹, 정치 잘 몰라"" 외 주요기사]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001624931&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001624931&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1"/>
+        <updated>2021-11-30T10:02:00.000Z</updated>
+        <content type="html"><![CDATA[MBN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신문브리핑 1 "오미크론 비상…韓 '부스터샷 확대', 日 '외국인 입국금지'" 외 주요기사]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001624926&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001624926&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1"/>
+        <updated>2021-11-30T09:55:00.000Z</updated>
+        <content type="html"><![CDATA[MBN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[김석환의 인사이트] 2021년 증시 해피엔딩되려면…12월엔 ‘바벨전략’?]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000266149&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000266149&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1"/>
+        <updated>2021-11-30T09:44:00.000Z</updated>
         <content type="html"><![CDATA[SBS Biz]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘가상화폐 과세 연기·양도세 완화’ 기재위 소위 통과]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0011166442&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011166442&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1"/>
-        <updated>2021-11-30T09:13:00.000Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[자막뉴스] "한국 국민들, 심각한 상황"...통계청이 공개한 충격적인 자료]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001671182&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001671182&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1"/>
-        <updated>2021-11-30T09:00:00.000Z</updated>
-        <content type="html"><![CDATA[YTN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[3분전략] 오미크론 위기는 ‘줍줍’ 기회…관심 업종은?]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000266138&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000266138&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1"/>
-        <updated>2021-11-30T08:59:00.000Z</updated>
-        <content type="html"><![CDATA[SBS Biz]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“스푸트니크V, 오미크론에 가장 효과적 백신”…관련주 급등]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000266137&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000266137&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1"/>
-        <updated>2021-11-30T08:51:00.000Z</updated>
-        <content type="html"><![CDATA[SBS Biz]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[김대호 박사의 오늘의 키워드] 오미크론 공포 화이자 백신 올림픽 빨간불 홍백기 홍결기 대..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000266136&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000266136&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1"/>
-        <updated>2021-11-30T08:47:00.000Z</updated>
-        <content type="html"><![CDATA[SBS Biz]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[김대호 박사의 오늘 기업·사람] 삼성전자·현대백화점·SK·셀트리온]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000266135&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000266135&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1"/>
-        <updated>2021-11-30T08:43:00.000Z</updated>
-        <content type="html"><![CDATA[SBS Biz]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[글로벌 비즈] 닛산, 전기차에 21조원 투자…2030년 판매 절반 전기차로]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000266134&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000266134&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1"/>
-        <updated>2021-11-30T08:33:00.000Z</updated>
-        <content type="html"><![CDATA[SBS Biz]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[모닝 인사이트] 트위터 CEO 잭 도시 사임…“옳은 방향으로 나아가는 단계”]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000266132&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000266132&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1"/>
-        <updated>2021-11-30T08:14:00.000Z</updated>
-        <content type="html"><![CDATA[SBS Biz]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴스체크｜경제] 1주택 양도세 비과세 12억 상향]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000282140&amp;office_id=437&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000282140&amp;office_id=437&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1"/>
-        <updated>2021-11-30T08:14:00.000Z</updated>
-        <content type="html"><![CDATA[JTBC]]></content>
     </entry>
 </feed>
