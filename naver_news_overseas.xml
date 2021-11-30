@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-11-30T20:07:44.597Z</updated>
+    <updated>2021-11-30T21:06:32.311Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[속보]오미크론 공포 와중에 긴축 가속화…뉴욕증시 급락]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005097363&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211201&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005097363&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211201&amp;page=1"/>
+        <updated>2021-11-30T21:04:43.704Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005097363&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211201&amp;page=1" title="[속보]오미크론 공포 와중에 긴축 가속화…뉴욕증시 급락">[속보]오미크론 공포 와중에 긴축 가속화…뉴욕증시 급락</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BoA도 JP모건도 "내년엔 대형주보다 소형주 담아야…에너지 섹터 유망"]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001000449&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211201&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001000435&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211201&amp;page=1"/>
         <updated>2021-11-30T15:07:02.087Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0001000435&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211201&amp;page=1" title="모건스탠리, 솔라엣지 투자의견 '비중확대→동일비중'…목표가는 상향">모건스탠리, 솔라엣지 투자의견 '비중확대→동일비중'…목표가는 상향</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[표]아시아 주요 증시 동향(11월 30일)]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003991401&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211201&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003991401&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211201&amp;page=1"/>
-        <updated>2021-11-30T15:07:02.089Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003991401&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211201&amp;page=1" title="[표]아시아 주요 증시 동향(11월 30일)">[표]아시아 주요 증시 동향(11월 30일)</a>]]></content>
     </entry>
 </feed>
