@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=404</id>
     <title>네이버 금융 ─ 뉴스 ─ 채권 선물</title>
-    <updated>2021-11-30T22:06:45.058Z</updated>
+    <updated>2021-11-30T23:06:55.147Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[국내 주식형 펀드 자금, 이틀 연속 순유입]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005097387&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211201&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005097387&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211201&amp;page=1"/>
+        <updated>2021-11-30T23:05:11.884Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005097387&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211201&amp;page=1" title="국내 주식형 펀드 자금, 이틀 연속 순유입">국내 주식형 펀드 자금, 이틀 연속 순유입</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신영밸류고배당펀드, 배당수익률 5%이상 종목에 집중투자]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004886645&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211201&amp;page=1</id>
@@ -39,12 +46,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004886516&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211201&amp;page=1"/>
         <updated>2021-11-30T15:07:08.280Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004886516&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211201&amp;page=1" title="삼성자산운용 KODEX 200미국채혼합 ETF 퇴직연금 100% 투자 가능">삼성자산운용 KODEX 200미국채혼합 ETF 퇴직연금 100% 투자 가능</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국내 주식형 펀드 자금, 5거래일 만에 순유입 전환]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005096591&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211201&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005096591&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211201&amp;page=1"/>
-        <updated>2021-11-30T15:07:08.281Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005096591&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211201&amp;page=1" title="국내 주식형 펀드 자금, 5거래일 만에 순유입 전환">국내 주식형 펀드 자금, 5거래일 만에 순유입 전환</a>]]></content>
     </entry>
 </feed>
