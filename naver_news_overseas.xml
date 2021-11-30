@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-11-30T17:15:52.641Z</updated>
+    <updated>2021-11-30T18:07:29.330Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[BoA도 JP모건도 "내년엔 대형주보다 소형주 담아야…에너지 섹터 유망"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001000449&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211201&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001000449&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211201&amp;page=1"/>
+        <updated>2021-11-30T18:05:42.691Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0001000449&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211201&amp;page=1" title="BoA도 JP모건도 &quot;내년엔 대형주보다 소형주 담아야…에너지 섹터 유망&quot;">BoA도 JP모건도 "내년엔 대형주보다 소형주 담아야…에너지 섹터 유망"</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[파월 "테이퍼 가속화 논의, 인플레 '일시적' 단어 포기"…뉴욕 증시 폭락]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004634911&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211201&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003991401&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211201&amp;page=1"/>
         <updated>2021-11-30T15:07:02.089Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003991401&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211201&amp;page=1" title="[표]아시아 주요 증시 동향(11월 30일)">[표]아시아 주요 증시 동향(11월 30일)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[O의 공포···코스피, 1년전으로 돌아갔다]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003991365&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211201&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003991365&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211201&amp;page=1"/>
-        <updated>2021-11-30T15:07:02.090Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003991365&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211201&amp;page=1" title="O의 공포···코스피, 1년전으로 돌아갔다">O의 공포···코스피, 1년전으로 돌아갔다</a>]]></content>
     </entry>
 </feed>

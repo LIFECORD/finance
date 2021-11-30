@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-11-30T17:15:52.644Z</updated>
+    <updated>2021-11-30T18:07:29.354Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주요경제지표] 2021년 11월 30일자]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003656555&amp;office_id=023&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211201&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003656555&amp;office_id=023&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211201&amp;page=1"/>
+        <updated>2021-12-01T03:03:00.000Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주식 매매 상위 종목 및 환율] 2021년 11월 30일자]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003656545&amp;office_id=023&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211201&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003656545&amp;office_id=023&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211201&amp;page=1"/>
+        <updated>2021-12-01T03:03:00.000Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘오미크론 공포’ 코스피 연중 최저 급락]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003396903&amp;office_id=020&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211201&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003396903&amp;office_id=020&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211201&amp;page=1"/>
+        <updated>2021-12-01T03:01:00.000Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유럽 증시, 파월 발언 및 오미크론 우려로 큰 폭 하락]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0010863260&amp;office_id=003&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211201&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0010863260&amp;office_id=003&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211201&amp;page=1"/>
+        <updated>2021-12-01T02:40:00.000Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BoA도 JP모건도 "내년엔 대형주보다 소형주 담아야…에너지 섹터 유망"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001000449&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211201&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001000449&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211201&amp;page=1"/>
+        <updated>2021-12-01T02:40:00.000Z</updated>
+        <content type="html"><![CDATA[한국경제TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하락장에 베팅…대차거래 잔고 80조원 육박]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005097337&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211201&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005097337&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211201&amp;page=1"/>
+        <updated>2021-12-01T02:31:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[마켓인]코로나가 불붙인 대체육 열풍…글로벌 M&A 활활]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005097336&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211201&amp;page=1</id>
@@ -31,48 +73,6 @@
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005097331&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211201&amp;page=1</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005097331&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211201&amp;page=1"/>
         <updated>2021-11-30T16:08:18.870Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조정장에도 레버리지 취한 시장…불나방된 개미]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005097329&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211201&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005097329&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211201&amp;page=1"/>
-        <updated>2021-11-30T16:08:18.873Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정영채 NH투자증권 대표, 금융위 최종심에 재연임 '안갯속']]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000119015&amp;office_id=629&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211201&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000119015&amp;office_id=629&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211201&amp;page=1"/>
-        <updated>2021-11-30T15:07:31.836Z</updated>
-        <content type="html"><![CDATA[더팩트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[모더나 CEO "백신 효과 부정적"…뉴욕증시 곧바로 하락]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005097326&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211201&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005097326&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211201&amp;page=1"/>
-        <updated>2021-11-30T15:07:31.837Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美 사이버먼데이 매출 107억 달러…전년비 1.4% 감소]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001000445&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211201&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001000445&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211201&amp;page=1"/>
-        <updated>2021-11-30T15:07:31.841Z</updated>
-        <content type="html"><![CDATA[한국경제TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴욕증시 하락 출발···오미크론·소비 부문 우려 [뉴욕증시 나우]]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001000444&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211201&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001000444&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211201&amp;page=1"/>
-        <updated>2021-11-30T15:07:31.842Z</updated>
-        <content type="html"><![CDATA[한국경제TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[돈만 있으면 전문투자자 뚝딱…틈새 타고 CFD 급성장]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005097325&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211201&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005097325&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211201&amp;page=1"/>
-        <updated>2021-11-30T15:07:31.843Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
