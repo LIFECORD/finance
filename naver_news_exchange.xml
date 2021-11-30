@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=429</id>
     <title>네이버 금융 ─ 뉴스 ─ 환율</title>
-    <updated>2021-11-29T23:06:45.737Z</updated>
+    <updated>2021-11-30T00:21:24.483Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오미크론에 원·달러 환율도 '화들짝'…"당분간 상승세 전망"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004634438&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211130&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004634438&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211130&amp;page=1"/>
+        <updated>2021-11-30T00:20:04.725Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004634438&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211130&amp;page=1" title="오미크론에 원·달러 환율도 '화들짝'…&quot;당분간 상승세 전망&quot;">오미크론에 원·달러 환율도 '화들짝'…"당분간 상승세 전망"</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["투자·세제 지원, 규제 개혁···기업 친환경 전환 뒷받침해야"]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003990860&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211130&amp;page=1</id>
@@ -60,12 +67,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003989698&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211130&amp;page=1"/>
         <updated>2021-11-29T15:05:47.006Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003989698&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211130&amp;page=1" title="[기자의눈] 환경부의 수소 일구이언">[기자의눈] 환경부의 수소 일구이언</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정부, 국민이 낸 전기요금으로 탈원전 비용 마련한다]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003989477&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211130&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003989477&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211130&amp;page=1"/>
-        <updated>2021-11-29T15:05:47.007Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003989477&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211130&amp;page=1" title="정부, 국민이 낸 전기요금으로 탈원전 비용 마련한다">정부, 국민이 낸 전기요금으로 탈원전 비용 마련한다</a>]]></content>
     </entry>
 </feed>
