@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-11-30T05:05:21.674Z</updated>
+    <updated>2021-11-30T06:06:44.484Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[더뉴스] '기대반, 우려반'...자율주행 버스 상용화]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001671346&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001671346&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1"/>
+        <updated>2021-11-30T06:05:42.902Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[더뉴스] 자율주행 택시 첫 운행...내년부터 버스도 상용화]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001671341&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001671341&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1"/>
+        <updated>2021-11-30T06:05:42.903Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[이슈& 직설] 코로나19 변이 ‘오미크론’ 충격 속 불안한 자영업계…숨통 트이나 했더니 ..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000266217&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000266217&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1"/>
+        <updated>2021-11-30T06:05:42.905Z</updated>
+        <content type="html"><![CDATA[SBS Biz]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[경제읽기] 오미크론에 세계경제 불확실성 가중…"경제하방 위험"]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000516372&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1</id>
@@ -27,7 +48,7 @@
         <content type="html"><![CDATA[연합뉴스TV]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[무자녀 기혼 여성 절반 “아이 게획 無”…코로나 영향까지]]></title>
+        <title type="html"><![CDATA[무자녀 기혼 여성 절반 “아이 계획 無”…코로나 영향까지]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0011166596&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0011166596&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1"/>
         <updated>2021-11-30T00:38:00.000Z</updated>
@@ -53,26 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000936641&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1"/>
         <updated>2021-11-30T00:28:00.000Z</updated>
         <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경기·부산 3곳 민간주택 사전청약…"6천호 공급"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000516354&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000516354&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1"/>
-        <updated>2021-11-30T00:25:00.000Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10월 산업생산 18개월 만에 최대감소…불확실성 커져]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000516353&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000516353&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1"/>
-        <updated>2021-11-30T00:23:00.000Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오산세교 등 2,500가구…민간사전청약 시작]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0011166588&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011166588&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1"/>
-        <updated>2021-11-30T00:20:00.000Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>

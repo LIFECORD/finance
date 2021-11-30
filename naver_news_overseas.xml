@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-11-30T05:05:21.672Z</updated>
+    <updated>2021-11-30T06:06:44.506Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["새 백신 필요"…日증시 ‘오미크론 공포’에 하락반전]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005097023&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211130&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005097023&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211130&amp;page=1"/>
+        <updated>2021-11-30T06:05:03.536Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005097023&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211130&amp;page=1" title="&quot;새 백신 필요&quot;…日증시 ‘오미크론 공포’에 하락반전">"새 백신 필요"…日증시 ‘오미크론 공포’에 하락반전</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[틈새시장 넘버원 일본 구레하, 한·중 배터리 경쟁에 웃는다 [이슬기의 주식오마카세]]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004634545&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211130&amp;page=1</id>
@@ -53,12 +60,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001000245&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211130&amp;page=1"/>
         <updated>2021-11-30T01:42:23.808Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0001000245&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211130&amp;page=1" title="&quot;사라진 산타클로스&quot;...美 코로나19 사태로 산타 부족 직면">"사라진 산타클로스"...美 코로나19 사태로 산타 부족 직면</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['오미크론' 이름가진 암호화폐 한때 100% 폭등]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001000224&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211130&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001000224&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211130&amp;page=1"/>
-        <updated>2021-11-30T01:42:23.810Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0001000224&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211130&amp;page=1" title="'오미크론' 이름가진 암호화폐 한때 100% 폭등">'오미크론' 이름가진 암호화폐 한때 100% 폭등</a>]]></content>
     </entry>
 </feed>
