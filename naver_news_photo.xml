@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-11-30T16:09:28.142Z</updated>
+    <updated>2021-11-30T17:15:52.644Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[마켓인]코로나가 불붙인 대체육 열풍…글로벌 M&A 활활]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005097336&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211201&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005097336&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211201&amp;page=1"/>
+        <updated>2021-12-01T02:01:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[파월 "테이퍼 가속화 논의, 인플레 '일시적' 단어 포기"…뉴욕 증시 폭락]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004634911&amp;office_id=015&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211201&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004634911&amp;office_id=015&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211201&amp;page=1"/>
+        <updated>2021-12-01T01:14:00.000Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[낮아진 문턱 탓에…‘개미’ 눈물만 남긴 사모펀드]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005097332&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211201&amp;page=1</id>
@@ -59,20 +73,6 @@
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005097325&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211201&amp;page=1</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005097325&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211201&amp;page=1"/>
         <updated>2021-11-30T15:07:31.843Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JP모건 "내년 S&P500 최고 5050…인플레 민감주 주목"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001000443&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211201&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001000443&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211201&amp;page=1"/>
-        <updated>2021-11-30T15:07:31.845Z</updated>
-        <content type="html"><![CDATA[한국경제TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['따상'은 없어도 11월 상장 새내기주 성적표…'나쁘지 않네']]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005097321&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211201&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005097321&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211201&amp;page=1"/>
-        <updated>2021-11-30T15:07:31.846Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
