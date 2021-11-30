@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-11-30T10:06:19.432Z</updated>
+    <updated>2021-11-30T11:06:19.122Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[표]아시아 주요 증시 동향(11월 30일)]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003991401&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211130&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003991401&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211130&amp;page=1"/>
+        <updated>2021-11-30T11:04:22.853Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003991401&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211130&amp;page=1" title="[표]아시아 주요 증시 동향(11월 30일)">[표]아시아 주요 증시 동향(11월 30일)</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[O의 공포···코스피, 1년전으로 돌아갔다]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003991365&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211130&amp;page=1</id>
@@ -20,11 +27,11 @@
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004886724&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211130&amp;page=1" title="산타랠리냐 오미크론發 하락이냐…&quot;그래도 믿을건 기술주&quot; [자이앤트월드]">산타랠리냐 오미크론發 하락이냐…"그래도 믿을건 기술주" [자이앤트월드]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[美, 가격결정력 높은 종목 유리…中, 친환경·식품주 주목]]></title>
+        <title type="html"><![CDATA[美, 가격결정력 높은 종목 유리 …中, 친환경·식품주 주목]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004886723&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211130&amp;page=1</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004886723&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211130&amp;page=1"/>
         <updated>2021-11-30T09:04:22.638Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004886723&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211130&amp;page=1" title="美, 가격결정력 높은 종목 유리…中, 친환경·식품주 주목">美, 가격결정력 높은 종목 유리…中, 친환경·식품주 주목</a>]]></content>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004886723&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211130&amp;page=1" title="美, 가격결정력 높은 종목 유리 …中, 친환경·식품주 주목">美, 가격결정력 높은 종목 유리 …中, 친환경·식품주 주목</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[머스크 이메일 한 통에 '천백슬라' 회복…무슨 내용이길래]]></title>
@@ -46,12 +53,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004886644&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211130&amp;page=1"/>
         <updated>2021-11-30T09:04:22.643Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004886644&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211130&amp;page=1" title="[클릭! 해외증시 이 종목] 캐터필러, 美 건설경기 살아나자 '쑥'">[클릭! 해외증시 이 종목] 캐터필러, 美 건설경기 살아나자 '쑥'</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[외환마감]오미크론 공포 누른 월말 네고…환율, 1180원대 중후반 하락]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005097086&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211130&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005097086&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211130&amp;page=1"/>
-        <updated>2021-11-30T07:04:23.607Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005097086&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211130&amp;page=1" title="[외환마감]오미크론 공포 누른 월말 네고…환율, 1180원대 중후반 하락">[외환마감]오미크론 공포 누른 월말 네고…환율, 1180원대 중후반 하락</a>]]></content>
     </entry>
 </feed>

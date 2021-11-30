@@ -2,77 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-11-30T10:06:19.452Z</updated>
+    <updated>2021-11-30T11:06:19.162Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[MBN 뉴스파이터-"여기까지" 사라진 이준석·이재명, 1호 인재 영입]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001625079&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001625079&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1"/>
-        <updated>2021-11-30T10:05:11.746Z</updated>
+        <title type="html"><![CDATA[[속보] "나이지리아 방문 부부 오미크론 변이 의심…검사중"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000516429&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000516429&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1"/>
+        <updated>2021-11-30T11:05:08.544Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오미크론 공포에 아시아 증시 휘청…코스피 연중 최저]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000282225&amp;office_id=437&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000282225&amp;office_id=437&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1"/>
+        <updated>2021-11-30T11:05:08.544Z</updated>
+        <content type="html"><![CDATA[JTBC]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코스피 연중 최저로 폭락…오미크론 우려감 번지자 와르르]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001625088&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001625088&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1"/>
+        <updated>2021-11-30T11:05:08.547Z</updated>
         <content type="html"><![CDATA[MBN]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MBN 뉴스파이터-개장 9개월 만에 천장 무너진 백화점…직원 3명 '날벼락']]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001625078&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001625078&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1"/>
-        <updated>2021-11-30T10:05:11.748Z</updated>
+        <title type="html"><![CDATA[정부 "확진 이력 있으면 추가접종 권고 안 해"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000516428&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000516428&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1"/>
+        <updated>2021-11-30T11:05:08.548Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["재택치료 거부해도 강제 가능"…공동시설 감염 위험 없나]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001625086&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001625086&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1"/>
+        <updated>2021-11-30T11:05:08.549Z</updated>
         <content type="html"><![CDATA[MBN]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MBN 뉴스파이터-처음 만난 남성과 공모…4살 딸 도로에 버린 친모]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001625077&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001625077&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1"/>
-        <updated>2021-11-30T10:05:11.749Z</updated>
+        <title type="html"><![CDATA[수도권 중환자 병상 가동률 88.5%…의료 역량 한계]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001625085&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001625085&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1"/>
+        <updated>2021-11-30T11:05:08.550Z</updated>
         <content type="html"><![CDATA[MBN]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[10월 생산, 1년 반만에 최대 폭 하락...'오미크론 변수' 먹구름]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001671494&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001671494&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1"/>
-        <updated>2021-11-30T10:05:11.749Z</updated>
-        <content type="html"><![CDATA[YTN]]></content>
+        <title type="html"><![CDATA[김 총리 "오미크론 유입되면 감당 못 해"…10세 미만 첫 사망]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001625084&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001625084&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1"/>
+        <updated>2021-11-30T11:05:08.552Z</updated>
+        <content type="html"><![CDATA[MBN]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[美 뉴욕증시 반등했지만...코스피 올해 최저치 추락]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001671493&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001671493&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1"/>
-        <updated>2021-11-30T10:05:11.751Z</updated>
-        <content type="html"><![CDATA[YTN]]></content>
+        <title type="html"><![CDATA[“코로나 블루, 반려식물과 함께 이겨내요”]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0011166808&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011166808&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1"/>
+        <updated>2021-11-30T11:05:08.555Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가상으로 안경 써보고 온라인 구매까지…정부 가이드라인 마련키로]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000266270&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000266270&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1"/>
-        <updated>2021-11-30T10:05:11.756Z</updated>
-        <content type="html"><![CDATA[SBS Biz]]></content>
+        <title type="html"><![CDATA[김주하 앵커가 전하는 11월 30일 종합뉴스 주요뉴스]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001625083&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001625083&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1"/>
+        <updated>2021-11-30T11:05:08.559Z</updated>
+        <content type="html"><![CDATA[MBN]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이동걸 “에디슨 계획 의구심…쌍용차 인수에 자금지원 없다”]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000266269&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000266269&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1"/>
-        <updated>2021-11-30T10:05:11.759Z</updated>
-        <content type="html"><![CDATA[SBS Biz]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삼성 노사 임금교섭 평행선…사측 “7.5% 초과 인상·44개 요구 불가”]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000266268&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000266268&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1"/>
-        <updated>2021-11-30T10:05:11.759Z</updated>
-        <content type="html"><![CDATA[SBS Biz]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국민연금 운용역 성과급이 인당 7500만원?…오해와 진실]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000266267&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000266267&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1"/>
-        <updated>2021-11-30T10:05:11.760Z</updated>
-        <content type="html"><![CDATA[SBS Biz]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오산·평택 20평 아파트 3억대에, 민간 아파트도 첫 사전청약]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000266266&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000266266&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1"/>
-        <updated>2021-11-30T10:05:11.761Z</updated>
-        <content type="html"><![CDATA[SBS Biz]]></content>
+        <title type="html"><![CDATA["네덜란드·독일서 입국 확진자 오미크론 여부 분석"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000516417&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000516417&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211130&amp;page=1"/>
+        <updated>2021-11-30T11:05:08.564Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
     </entry>
 </feed>
