@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/research/company_list.naver</id>
     <title>네이버 금융 ─ 리서치 ─ 종목분석 리포트</title>
-    <updated>2021-11-30T01:44:15.311Z</updated>
+    <updated>2021-11-30T02:13:18.904Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/research/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[잠깐 힘들지만, 묵묵히 갈 길을 간다]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/company/1638237763644.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1638237763644.pdf"/>
+        <updated>2021-11-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[PI첨단소재]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이제는 어엿한 사업 지주회사]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/company/1638237417833.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1638237417833.pdf"/>
+        <updated>2021-11-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[한국앤컴퍼니]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내년에도 이어질 실적 모멘텀]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/company/1638237322015.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1638237322015.pdf"/>
+        <updated>2021-11-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[신세계푸드]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[체질 개선과 시너지 창출 기대]]></title>
         <id>https://ssl.pstatic.net/imgstock/upload/research/company/1638236064306.pdf</id>
@@ -193,26 +214,5 @@
         <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1637906087394.pdf"/>
         <updated>2021-11-26T00:00:00.000Z</updated>
         <content type="html"><![CDATA[만도]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[재고 확충 수혜 기대 + 전동화 투자 긍정적새..]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/company/1637906021664.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1637906021664.pdf"/>
-        <updated>2021-11-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[현대모비스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사업구조, 주주친화정책 변신 중]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/company/1637905954928.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1637905954928.pdf"/>
-        <updated>2021-11-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[메리츠증권]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일회성 제외해도 이익창출력 향상]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/company/1637905861623.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1637905861623.pdf"/>
-        <updated>2021-11-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[한국금융지주]]></content>
     </entry>
 </feed>
