@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=429</id>
     <title>네이버 금융 ─ 뉴스 ─ 환율</title>
-    <updated>2021-11-30T04:06:16.155Z</updated>
+    <updated>2021-11-30T05:05:21.703Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["불필요한 메일 한 통 삭제할 때마다 온실가스 4g 저감"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003991151&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211130&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003991151&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211130&amp;page=1"/>
+        <updated>2021-11-30T05:04:04.260Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003991151&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211130&amp;page=1" title="&quot;불필요한 메일 한 통 삭제할 때마다 온실가스 4g 저감&quot;">"불필요한 메일 한 통 삭제할 때마다 온실가스 4g 저감"</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오미크론에 원·달러 환율도 '화들짝'…"당분간 상승세 전망"]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004634438&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211130&amp;page=1</id>
@@ -60,12 +67,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003989741&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211130&amp;page=1"/>
         <updated>2021-11-29T15:05:47.005Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003989741&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211130&amp;page=1" title="원전 5기 손실 비용 6,666억원···&quot;국민 전기요금 부담 더 커질 것&quot;">원전 5기 손실 비용 6,666억원···"국민 전기요금 부담 더 커질 것"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기자의눈] 환경부의 수소 일구이언]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003989698&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211130&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003989698&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211130&amp;page=1"/>
-        <updated>2021-11-29T15:05:47.006Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003989698&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211130&amp;page=1" title="[기자의눈] 환경부의 수소 일구이언">[기자의눈] 환경부의 수소 일구이언</a>]]></content>
     </entry>
 </feed>
