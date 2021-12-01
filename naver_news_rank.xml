@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-12-01T04:09:29.271Z</updated>
+    <updated>2021-12-01T05:08:45.905Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['오미크론 공포'에 변동성 커진 코스피…"성장주·배당주 주목"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004887077&amp;office_id=009&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004887077&amp;office_id=009&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-01T00:15:00.000Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['유전자가위' 특허 보유한 툴젠, 수요예측 부진 털어낼까]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000759861&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
@@ -18,13 +25,6 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000119111&amp;office_id=629&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-12-01T11:56:00.000Z</updated>
         <content type="html"><![CDATA[더팩트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김영식 공인회계사회 회장 "회계개혁 3년 가시적 성과...정도감..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005008455&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005008455&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-01T11:51:00.000Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[마켓인]코로나가 불붙인 대체육 열풍…글로벌 M&A 활활]]></title>
@@ -41,11 +41,39 @@
         <content type="html"><![CDATA[머니S]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[소프트캠프, 10억원 규모 정부원격근무시스템 문서보안 SW구매 ..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0010864421&amp;office_id=003&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0010864421&amp;office_id=003&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-01T00:26:00.000Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마이크로디지탈, 55억원 규모 코로나19 대용량 항체진단키트 공..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0010864422&amp;office_id=003&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0010864422&amp;office_id=003&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-01T00:26:00.000Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[유럽 증시, 파월 발언 및 오미크론 우려로 큰 폭 하락]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0010863260&amp;office_id=003&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0010863260&amp;office_id=003&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-12-01T02:40:00.000Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KTB투자증권, 기업신용등급 등급전망 'Positive'로 변경]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005097777&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005097777&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-01T00:03:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[해외 거래처에 보낸 대금, 해커가 꿀꺽…5년간 무역 사기, 14..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000644287&amp;office_id=469&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000644287&amp;office_id=469&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-01T00:01:00.000Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[대체투자 기지개...운용사들 '떼고 붙이고'  조직 만든다]]></title>
@@ -55,17 +83,38 @@
         <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['오미크론 공포'에 변동성 커진 코스피…"성장주·배당주 주목"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004887077&amp;office_id=009&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004887077&amp;office_id=009&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-01T00:15:00.000Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[현장에서]가상자산 과세 유예…동학·서학개미와의 형평성]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005097343&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005097343&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-12-01T05:01:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김영식 공인회계사회 회장 "회계개혁 3년 가시적 성과...정도감..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005008455&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005008455&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-01T11:51:00.000Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['13월의 월급' 못잃어…연말 오기 전 '연금 벼락치기' 하세요]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004677356&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004677356&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-01T04:52:00.000Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코스피, 외국인 매수에 상승폭 확대…2880선 회복]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004635071&amp;office_id=015&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004635071&amp;office_id=015&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-01T00:04:00.000Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조비, 38억 규모 비료 납품계약 체결]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005097811&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005097811&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-01T00:32:00.000Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
@@ -76,18 +125,11 @@
         <content type="html"><![CDATA[문화일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['13월의 월급' 못잃어…연말 오기 전 '연금 벼락치기' 하세요]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004677356&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004677356&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-01T04:52:00.000Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[긴급진단] 김승현 유안타證 센터장 "내년 초까지 하방 압력....]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000639723&amp;office_id=031&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000639723&amp;office_id=031&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-01T11:51:00.000Z</updated>
-        <content type="html"><![CDATA[아이뉴스24]]></content>
+        <title type="html"><![CDATA[증권사도 신용금리 인상 시동… ‘빚투’ 줄어드나]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0002494489&amp;office_id=021&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0002494489&amp;office_id=021&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-01T00:11:00.000Z</updated>
+        <content type="html"><![CDATA[문화일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[하락장에 베팅…대차거래 잔고 80조원 육박]]></title>
@@ -97,11 +139,11 @@
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[KTB투자증권, 기업신용등급 등급전망 'Positive'로 변경]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005097777&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005097777&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-01T00:03:00.000Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
+        <title type="html"><![CDATA[키움證, 마이데이터 'MY자산' 오픈…'투자스타일 분석·여유자금..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005757438&amp;office_id=421&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005757438&amp;office_id=421&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-01T11:53:00.000Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독]마켓컬리, 2500억 프리IPO 성공…몸값 3조7500억..]]></title>
@@ -111,25 +153,18 @@
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[“나 떨고 있니” 오미크론에 세계증시 출렁, 코스피도 철렁]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000019328&amp;office_id=243&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000019328&amp;office_id=243&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-01T00:11:00.000Z</updated>
+        <content type="html"><![CDATA[이코노미스트]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[서학개미 '주목'… KB증권이 꼽은 내년 해외주식 톱픽은?]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000759852&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000759852&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-12-01T05:12:00.000Z</updated>
         <content type="html"><![CDATA[머니S]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해외 거래처에 보낸 대금, 해커가 꿀꺽…5년간 무역 사기, 14..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000644287&amp;office_id=469&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000644287&amp;office_id=469&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-01T00:01:00.000Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[키움證, 마이데이터 'MY자산' 오픈…'투자스타일 분석·여유자금..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005757438&amp;office_id=421&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005757438&amp;office_id=421&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-01T11:53:00.000Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[파월 "테이퍼링 가속화 논의, 인플레 '일시적' 단어 포기"…뉴..]]></title>
@@ -139,45 +174,10 @@
         <content type="html"><![CDATA[한국경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[긴급진단] 현대차증권 "불확실성이 가장 큰 적…밸류에이션 매력..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000639720&amp;office_id=031&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000639720&amp;office_id=031&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-01T11:47:00.000Z</updated>
+        <title type="html"><![CDATA[[긴급진단] 김승현 유안타證 센터장 "내년 초까지 하방 압력....]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000639723&amp;office_id=031&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000639723&amp;office_id=031&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-01T11:51:00.000Z</updated>
         <content type="html"><![CDATA[아이뉴스24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['테이퍼링 가속·오미크론 공포' 3대지수 급락…모더나 4.3%↓..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001000457&amp;office_id=215&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001000457&amp;office_id=215&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-01T06:49:00.000Z</updated>
-        <content type="html"><![CDATA[한국경제TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기업공시 11월 30일]게임빌, 컴투스홀딩스로 상호 변경 등]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003991448&amp;office_id=011&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003991448&amp;office_id=011&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-01T07:07:00.000Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소프트캠프, 10억원 규모 정부원격근무시스템 문서보안 SW구매 ..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0010864421&amp;office_id=003&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0010864421&amp;office_id=003&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-01T00:26:00.000Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['테슬라·리비안 협력' 디티알오토모티브, 두산공작기계 품고 '레..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004677391&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004677391&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-01T07:05:00.000Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마이크로디지탈, 55억 규모 COVID-19 대용량 항체진단키트..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001919321&amp;office_id=016&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001919321&amp;office_id=016&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-01T11:43:00.000Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>
