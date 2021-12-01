@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-12-01T17:17:34.860Z</updated>
+    <updated>2021-12-01T18:07:32.199Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -11,13 +11,6 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000119269&amp;office_id=629&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-12-01T16:08:15.875Z</updated>
         <content type="html"><![CDATA[더팩트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[퇴직연금 '디폴트옵션' 내년 도입]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004887557&amp;office_id=009&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004887557&amp;office_id=009&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-01T16:08:15.876Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오미크론 와중에…'대장주' 애플 주가 또 장중 신고점]]></title>
@@ -32,5 +25,12 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004635535&amp;office_id=015&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-12-01T16:08:15.878Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[퇴직연금 '디폴트옵션' 내년 도입]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004887557&amp;office_id=009&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004887557&amp;office_id=009&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-01T16:08:15.876Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
