@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-12-01T15:07:25.377Z</updated>
+    <updated>2021-12-01T16:09:19.898Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오미크론 와중에…'대장주' 애플 주가 또 장중 신고점]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005098246&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211202&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005098246&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211202&amp;page=1"/>
+        <updated>2021-12-01T16:08:22.148Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[수요예측서 체면구긴 툴젠에 한투 '긴장'…풋백옵션 독 되나]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000119269&amp;office_id=629&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211202&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004677963&amp;office_id=008&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211202&amp;page=1"/>
         <updated>2021-12-01T15:06:14.559Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[표]아시아 주요 증시 동향(12월 1일)]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003991918&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211202&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003991918&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211202&amp;page=1"/>
-        <updated>2021-12-01T15:06:14.560Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
