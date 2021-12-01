@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-12-01T03:06:59.763Z</updated>
+    <updated>2021-12-01T04:09:29.256Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“반려 식물 기르며 코로나로 생긴 우울감 극복해요”]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0011167428&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211201&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011167428&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211201&amp;page=1"/>
+        <updated>2021-12-01T00:53:00.000Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1주택자 양도세 부담 줄여준다…“다주택자도 검토 중”]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0011167418&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211201&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011167418&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211201&amp;page=1"/>
+        <updated>2021-12-01T00:36:00.000Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기대수명 83.5세…사망원인 중 ‘패혈증’ 큰 폭 증가]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0011167417&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211201&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011167417&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211201&amp;page=1"/>
+        <updated>2021-12-01T00:35:00.000Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[11월 수출 첫 600억 달러 돌파…역대 최고액 경신]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0011167410&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211201&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011167410&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211201&amp;page=1"/>
+        <updated>2021-12-01T00:19:00.000Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제롬 파월 테이퍼링 가속화 발언으로 1%대 하락률]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001163266&amp;office_id=214&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211201&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001163266&amp;office_id=214&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211201&amp;page=1"/>
+        <updated>2021-12-01T00:17:00.000Z</updated>
+        <content type="html"><![CDATA[MBC]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[산 높으면 골 깊다…IPO 풍년 속 가려진 상장폐지]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000266359&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211201&amp;page=1</id>
@@ -38,41 +73,6 @@
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000266355&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211201&amp;page=1</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000266355&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211201&amp;page=1"/>
         <updated>2021-12-01T11:48:00.000Z</updated>
-        <content type="html"><![CDATA[SBS Biz]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내년 전기차 보조금 확 주나…GV60 600만원 더 줘야]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000266354&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211201&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000266354&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211201&amp;page=1"/>
-        <updated>2021-12-01T11:47:00.000Z</updated>
-        <content type="html"><![CDATA[SBS Biz]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[상속세 10년까지 나눠 낸다…미술품 물납도 허용]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000266352&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211201&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000266352&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211201&amp;page=1"/>
-        <updated>2021-12-01T11:43:00.000Z</updated>
-        <content type="html"><![CDATA[SBS Biz]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[양도세, 1주택 완화 이어 다주택도 만지작]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000266350&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211201&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000266350&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211201&amp;page=1"/>
-        <updated>2021-12-01T11:42:00.000Z</updated>
-        <content type="html"><![CDATA[SBS Biz]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[11월 수출 사상 첫 600억 달러 또 ‘신기원’…오미크론에 공급망 차질 불안요인 산적]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000266349&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211201&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000266349&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211201&amp;page=1"/>
-        <updated>2021-12-01T11:39:00.000Z</updated>
-        <content type="html"><![CDATA[SBS Biz]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코스피, 하루 만에 반등 시도…파월 청문회 발언에 美 증시 급락]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000266342&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211201&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000266342&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211201&amp;page=1"/>
-        <updated>2021-12-01T11:33:00.000Z</updated>
         <content type="html"><![CDATA[SBS Biz]]></content>
     </entry>
 </feed>
