@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-12-01T01:56:56.756Z</updated>
+    <updated>2021-12-01T02:29:20.090Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[현장연결] 중대본 "어제 5,123명 코로나 신규 확진…첫 5천명대"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000516516&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211201&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000516516&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211201&amp;page=1"/>
+        <updated>2021-12-01T11:23:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[월간 수출 첫 600억 달러 돌파...무역수지 19개월 연속 흑자]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001671773&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211201&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001671773&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211201&amp;page=1"/>
+        <updated>2021-12-01T11:15:00.000Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신규 확진 5천명도 넘어…위중증도 723명 '최대']]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000516512&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211201&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000516512&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211201&amp;page=1"/>
+        <updated>2021-12-01T11:08:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이슈앤 직설] 이재용의 ‘실리콘밸리式 인사’…삼성 ‘30대 임원’ 발탁 예고]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000266326&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211201&amp;page=1</id>
@@ -41,13 +62,6 @@
         <content type="html"><![CDATA[MBN]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[월간 수출 사상 첫 600억 달러 돌파...무역수지 19개월 연속 흑자]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001671700&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211201&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001671700&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211201&amp;page=1"/>
-        <updated>2021-12-01T09:48:00.000Z</updated>
-        <content type="html"><![CDATA[YTN]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[신문브리핑 1 "제1야당 대표의 잠적…"대선 코앞에 두고 처음 보는 광경"" 외 주요기사]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001625212&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211201&amp;page=1</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001625212&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211201&amp;page=1"/>
@@ -60,19 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000266315&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211201&amp;page=1"/>
         <updated>2021-12-01T09:42:00.000Z</updated>
         <content type="html"><![CDATA[SBS Biz]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파월 “인플레이션 일시적 아냐…테이퍼링 가속화 논의해야”]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000266313&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211201&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000266313&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211201&amp;page=1"/>
-        <updated>2021-12-01T09:34:00.000Z</updated>
-        <content type="html"><![CDATA[SBS Biz]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[친절한 경제] 1주택자 양도세 비과세 기준 '9억→12억' 상향]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000936850&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211201&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000936850&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211201&amp;page=1"/>
-        <updated>2021-12-01T09:33:00.000Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>
