@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=402</id>
     <title>네이버 금융 ─ 뉴스 ─ 기업 종목분석</title>
-    <updated>2021-12-01T21:06:45.222Z</updated>
+    <updated>2021-12-01T22:06:15.292Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[BTS 멤버들, 고점에 하이브 주식 못 팔았다]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001000800&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211202&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001000800&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211202&amp;page=1"/>
+        <updated>2021-12-01T22:04:24.484Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0001000800&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211202&amp;page=1" title="BTS 멤버들, 고점에 하이브 주식 못 팔았다">BTS 멤버들, 고점에 하이브 주식 못 팔았다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[클릭 e종목]"삼성중공업, 더딘 실적 개선…목표가 13%↓"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005008911&amp;office_id=277&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211202&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005008911&amp;office_id=277&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211202&amp;page=1"/>
+        <updated>2021-12-01T22:04:24.485Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005008911&amp;office_id=277&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211202&amp;page=1" title="[클릭 e종목]&quot;삼성중공업, 더딘 실적 개선…목표가 13%↓&quot;">[클릭 e종목]"삼성중공업, 더딘 실적 개선…목표가 13%↓"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[실적 좋은데···목표가 대비 '반토막株' 속출]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003991959&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211202&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003991959&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211202&amp;page=1"/>
+        <updated>2021-12-01T22:04:24.487Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003991959&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211202&amp;page=1" title="실적 좋은데···목표가 대비 '반토막株' 속출">실적 좋은데···목표가 대비 '반토막株' 속출</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[실적 살아나도 주가 와르르…유통株 그래도 매력적인 이유]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004678024&amp;office_id=008&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211202&amp;page=1</id>
@@ -46,19 +67,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003991877&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211202&amp;page=1"/>
         <updated>2021-12-01T15:05:36.765Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003991877&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211202&amp;page=1" title="삼성전자 4%↑···외국인 넉달만에 최대 매수 [코스피 2% 뛰며 7일만에 반등]">삼성전자 4%↑···외국인 넉달만에 최대 매수 [코스피 2% 뛰며 7일만에 반등]</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라바웨이브, 대한적십자사와 '청소년 동영상유포 협박 피해 근절' 라디오 캠페인 실시]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004748746&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211202&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004748746&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211202&amp;page=1"/>
-        <updated>2021-12-01T15:05:36.766Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004748746&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211202&amp;page=1" title="라바웨이브, 대한적십자사와 '청소년 동영상유포 협박 피해 근절' 라디오 캠페인 실시">라바웨이브, 대한적십자사와 '청소년 동영상유포 협박 피해 근절' 라디오 캠페인 실시</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“한화시스템과 합작법인 통해 협력 확대” [코스닥 CEO 인터뷰]]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004748740&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211202&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004748740&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211202&amp;page=1"/>
-        <updated>2021-12-01T15:05:36.768Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004748740&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211202&amp;page=1" title="“한화시스템과 합작법인 통해 협력 확대” [코스닥 CEO 인터뷰]">“한화시스템과 합작법인 통해 협력 확대” [코스닥 CEO 인터뷰]</a>]]></content>
     </entry>
 </feed>
