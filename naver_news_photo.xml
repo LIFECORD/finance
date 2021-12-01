@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-12-01T18:07:32.197Z</updated>
+    <updated>2021-12-01T19:06:26.618Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[부꾸미]전문가가 설명하는 반도체 알짜 기업…"삼성전자 미래는?"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004678007&amp;office_id=008&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211202&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004678007&amp;office_id=008&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211202&amp;page=1"/>
+        <updated>2021-12-02T03:30:00.000Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[코스피 연중 최저치 찍은 11월 30일 공매도 1조… 7개월만에 최대]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003656844&amp;office_id=023&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211202&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005098222&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211202&amp;page=1"/>
         <updated>2021-12-01T15:06:14.550Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“버텨라 개미들, 삼성전자 연말이나 내년초 반등”]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003656805&amp;office_id=023&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211202&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003656805&amp;office_id=023&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211202&amp;page=1"/>
-        <updated>2021-12-01T15:06:14.555Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
