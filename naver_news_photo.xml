@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-12-01T10:07:04.038Z</updated>
+    <updated>2021-12-01T11:06:12.536Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[여·야, 퇴직연금 디폴트옵션 도입 합의..원금보장 상품 포함]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004677963&amp;office_id=008&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211201&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004677963&amp;office_id=008&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211201&amp;page=1"/>
+        <updated>2021-12-01T11:05:02.029Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[표]아시아 주요 증시 동향(12월 1일)]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003991918&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211201&amp;page=1</id>
@@ -20,7 +27,7 @@
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3분기 자영업자 대출 또 11조 늘었지만… 여전히 놓지 못하는 '대출지원' 딜레마]]></title>
+        <title type="html"><![CDATA[3분기 자영업자 대출 또 11조 늘었지만… "폐업 촉진 뇌관 될라"]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000644425&amp;office_id=469&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211201&amp;page=1</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000644425&amp;office_id=469&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211201&amp;page=1"/>
         <updated>2021-12-01T10:05:55.192Z</updated>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0002553421&amp;office_id=119&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211201&amp;page=1"/>
         <updated>2021-12-01T10:05:55.200Z</updated>
         <content type="html"><![CDATA[데일리안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["전문투자자로만 구성된 사모펀드, 인원수 제한 대폭 완화해야"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005758879&amp;office_id=421&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211201&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005758879&amp;office_id=421&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211201&amp;page=1"/>
-        <updated>2021-12-01T10:05:55.201Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
