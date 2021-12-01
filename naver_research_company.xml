@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/research/company_list.naver</id>
     <title>네이버 금융 ─ 리서치 ─ 종목분석 리포트</title>
-    <updated>2021-12-01T00:23:05.299Z</updated>
+    <updated>2021-12-01T01:56:56.781Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/research/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Pure Telco로 새롭게 시작]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/company/1638322462858.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1638322462858.pdf"/>
+        <updated>2021-12-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[SK텔레콤]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4Q 업데이트: 우려와 달리 순항 중]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/company/1638322358028.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1638322358028.pdf"/>
+        <updated>2021-12-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[현대백화점]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[잠깐 힘들지만, 묵묵히 갈 길을 간다]]></title>
         <id>https://ssl.pstatic.net/imgstock/upload/research/company/1638237763644.pdf</id>
@@ -200,19 +214,5 @@
         <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1637906281012.pdf"/>
         <updated>2021-11-26T00:00:00.000Z</updated>
         <content type="html"><![CDATA[덕산네오룩스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올릭스가 올라갈 때]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/company/1637906230809.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1637906230809.pdf"/>
-        <updated>2021-11-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[올릭스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[든든한 수주와 실적 성장 그리고 남은 과제]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/company/1637906087394.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1637906087394.pdf"/>
-        <updated>2021-11-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[만도]]></content>
     </entry>
 </feed>

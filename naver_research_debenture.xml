@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/research/debenture_list.naver</id>
     <title>네이버 금융 ─ 리서치 ─ 채권분석 리포트</title>
-    <updated>2021-12-01T00:23:05.301Z</updated>
+    <updated>2021-12-01T01:56:56.783Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/research/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오비이락(烏飛梨落)]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/debenture/1638323791741.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/debenture/1638323791741.pdf"/>
+        <updated>2021-12-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[하나금융투자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[11월 금통위: 좁혀진 간극, 불확실성 해소]]></title>
         <id>https://ssl.pstatic.net/imgstock/upload/research/debenture/1637907519496.pdf</id>
@@ -206,13 +213,6 @@
         <id>https://ssl.pstatic.net/imgstock/upload/research/debenture/1634017502141.pdf</id>
         <link href="https://ssl.pstatic.net/imgstock/upload/research/debenture/1634017502141.pdf"/>
         <updated>2021-10-14T00:13:16.388Z</updated>
-        <content type="html"><![CDATA[하나금융투자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10월 금통위 프리뷰: 한은 마음 속 기준금리]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/debenture/1633573925097.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/debenture/1633573925097.pdf"/>
-        <updated>2021-10-14T00:13:16.389Z</updated>
         <content type="html"><![CDATA[하나금융투자]]></content>
     </entry>
 </feed>
