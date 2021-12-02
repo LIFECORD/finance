@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-12-02T06:11:44.205Z</updated>
+    <updated>2021-12-02T07:09:23.395Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -167,17 +167,17 @@
         <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[동성제약, 10억 규모 자사주 취득 결정]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001919898&amp;office_id=016&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001919898&amp;office_id=016&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-02T06:10:17.656Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[특징주]"BTS도 팔았다" 하이브, 7거래일 연속 하락…5%↓]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005009226&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005009226&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-12-02T11:38:00.000Z</updated>
         <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[툴젠, 오늘 공모주 청약 돌입… "주가 떨어지면 환매 가능"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000760283&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000760283&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-02T05:36:00.000Z</updated>
+        <content type="html"><![CDATA[머니S]]></content>
     </entry>
 </feed>
