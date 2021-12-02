@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-12-02T04:07:39.997Z</updated>
+    <updated>2021-12-02T05:07:39.601Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[이슈& 직설] ‘오미크론 쇼크’ 예측불허 증시 변동성에 경제 회복 급제동…연말 ‘산타랠리..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000266532&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211202&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000266532&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211202&amp;page=1"/>
+        <updated>2021-12-02T05:06:29.348Z</updated>
+        <content type="html"><![CDATA[SBS Biz]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[이슈& 직설] 파월, 테이퍼링 가속화 시사…“더이상 일시적 인플레이션 아니다”]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000266531&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211202&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000266531&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211202&amp;page=1"/>
+        <updated>2021-12-02T05:06:29.350Z</updated>
+        <content type="html"><![CDATA[SBS Biz]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[물가 10년 만에 최고…기름값·집세·식재료 다 올랐다]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000516716&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211202&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000516716&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211202&amp;page=1"/>
+        <updated>2021-12-02T05:06:29.360Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[경제 톡톡톡]11월 소비자물가 3.7% 상승…10년 만에 최고치]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000218736&amp;office_id=449&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211202&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000218736&amp;office_id=449&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211202&amp;page=1"/>
+        <updated>2021-12-02T05:06:29.361Z</updated>
+        <content type="html"><![CDATA[채널A]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴스초점] 오미크론 국내서도 첫 확진…방역 대책은?]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000516712&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211202&amp;page=1</id>
@@ -46,33 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000937150&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211202&amp;page=1"/>
         <updated>2021-12-02T00:30:00.000Z</updated>
         <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[11월 소비자물가 3.7% 상승…10년 만에 최대폭]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000937148&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211202&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000937148&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211202&amp;page=1"/>
-        <updated>2021-12-02T00:26:00.000Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코스피, 외국인 매수세에 상승 전환‥반도체 대장주 상승세↑]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001163530&amp;office_id=214&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211202&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001163530&amp;office_id=214&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211202&amp;page=1"/>
-        <updated>2021-12-02T00:17:00.000Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[11월 소비자물가 3.7%↑…9년 11개월 만에 최고]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0011168247&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211202&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011168247&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211202&amp;page=1"/>
-        <updated>2021-12-02T00:13:00.000Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[11월 물가 상승률 3.7%‥10년 만에 '최대']]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001163525&amp;office_id=214&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211202&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001163525&amp;office_id=214&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211202&amp;page=1"/>
-        <updated>2021-12-02T00:10:00.000Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>
