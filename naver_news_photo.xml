@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-12-02T11:06:24.370Z</updated>
+    <updated>2021-12-02T12:10:58.508Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[삼성생명 주식 2200억 시간외 대량매매]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004888198&amp;office_id=009&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211202&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004888198&amp;office_id=009&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211202&amp;page=1"/>
+        <updated>2021-12-02T12:09:51.456Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서울드래곤시티, GKL 세븐럭카지노 단독협상자로 선정]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005009561&amp;office_id=277&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211202&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003992448&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211202&amp;page=1"/>
         <updated>2021-12-02T11:05:05.574Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[올댓차이나] 중국 음악 서비스 윈인웨 홍콩 상장 4900억원 조달]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0010868255&amp;office_id=003&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211202&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0010868255&amp;office_id=003&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211202&amp;page=1"/>
-        <updated>2021-12-02T10:05:41.715Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
