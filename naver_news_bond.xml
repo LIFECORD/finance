@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=404</id>
     <title>네이버 금융 ─ 뉴스 ─ 채권 선물</title>
-    <updated>2021-12-02T22:06:35.719Z</updated>
+    <updated>2021-12-02T23:08:19.762Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[국내 주식형 펀드 자금, 나흘 연속 순유입]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005099275&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211203&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005099275&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211203&amp;page=1"/>
+        <updated>2021-12-02T23:06:43.121Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005099275&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211203&amp;page=1" title="국내 주식형 펀드 자금, 나흘 연속 순유입">국내 주식형 펀드 자금, 나흘 연속 순유입</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["내년 국내 채권금리 완만한 상승…투자성과 부진할 수도"]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005099056&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211203&amp;page=1</id>
@@ -39,12 +46,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005098289&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211203&amp;page=1"/>
         <updated>2021-12-02T15:03:44.589Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005098289&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211203&amp;page=1" title="국내 주식형 펀드 자금, 사흘 연속 순유입">국내 주식형 펀드 자금, 사흘 연속 순유입</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[액티브 ETF ‘올해가 성장 원년’…중소형사도 속속 합류]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005098284&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211203&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005098284&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211203&amp;page=1"/>
-        <updated>2021-12-02T15:03:44.589Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005098284&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211203&amp;page=1" title="액티브 ETF ‘올해가 성장 원년’…중소형사도 속속 합류">액티브 ETF ‘올해가 성장 원년’…중소형사도 속속 합류</a>]]></content>
     </entry>
 </feed>
