@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/research/debenture_list.naver</id>
     <title>네이버 금융 ─ 리서치 ─ 채권분석 리포트</title>
-    <updated>2021-12-02T02:25:06.200Z</updated>
+    <updated>2021-12-02T03:07:38.974Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/research/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오미크론 확산이 금리에 미칠 영향]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/debenture/1638413477870.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/debenture/1638413477870.pdf"/>
+        <updated>2021-12-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[하나금융투자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오비이락(烏飛梨落)]]></title>
         <id>https://ssl.pstatic.net/imgstock/upload/research/debenture/1638323791741.pdf</id>
@@ -207,12 +214,5 @@
         <link href="https://ssl.pstatic.net/imgstock/upload/research/debenture/1634018876241.pdf"/>
         <updated>2021-10-14T00:13:16.386Z</updated>
         <content type="html"><![CDATA[교보증권]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국의 9월 고용보고서와 채권시장: 추세 유지]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/debenture/1634017502141.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/debenture/1634017502141.pdf"/>
-        <updated>2021-10-14T00:13:16.388Z</updated>
-        <content type="html"><![CDATA[하나금융투자]]></content>
     </entry>
 </feed>
