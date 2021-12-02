@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-12-02T17:15:51.485Z</updated>
+    <updated>2021-12-02T18:06:51.304Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[BTS 진·RM·제이홉 팔아치운 '하이브'…증권가 전망 살펴보니]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000119511&amp;office_id=629&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000119511&amp;office_id=629&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-02T16:11:09.720Z</updated>
-        <content type="html"><![CDATA[더팩트]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[요즘 핫한 NFT 잘 아시나요?…"사실 모릅니다"]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005099234&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005099234&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-12-02T16:11:09.721Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BTS 진·RM·제이홉 팔아치운 '하이브'…증권가 전망 살펴보니]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000119511&amp;office_id=629&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000119511&amp;office_id=629&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-02T16:11:09.720Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[JP모건 콜라노비치 전략가 "공포 과장…저가 매수 기회"]]></title>
