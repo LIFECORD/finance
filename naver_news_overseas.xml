@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-12-03T16:09:42.794Z</updated>
+    <updated>2021-12-03T17:16:08.159Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[빅랏츠, 3분기 430만 달러 순손실]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001001334&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211204&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001001334&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211204&amp;page=1"/>
+        <updated>2021-12-03T17:14:30.635Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0001001334&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211204&amp;page=1" title="빅랏츠, 3분기 430만 달러 순손실">빅랏츠, 3분기 430만 달러 순손실</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3대지수 상승출발···실업률 줄었지만 고용 둔화한 미국 [뉴욕증시 나우]]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001001331&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211204&amp;page=1</id>
@@ -53,12 +60,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001001265&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211204&amp;page=1"/>
         <updated>2021-12-03T15:04:26.073Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0001001265&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211204&amp;page=1" title="&quot;머스크 테슬라주식 1조원어치 추가 매각&quot;">"머스크 테슬라주식 1조원어치 추가 매각"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['중국 상폐리스크'↑ 디디추싱, 나스닥서 조속히 상폐키로 하자…샤오펑도 흔들]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004888452&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211204&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004888452&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211204&amp;page=1"/>
-        <updated>2021-12-03T15:04:26.075Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004888452&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211204&amp;page=1" title="'중국 상폐리스크'↑ 디디추싱, 나스닥서 조속히 상폐키로 하자…샤오펑도 흔들">'중국 상폐리스크'↑ 디디추싱, 나스닥서 조속히 상폐키로 하자…샤오펑도 흔들</a>]]></content>
     </entry>
 </feed>
