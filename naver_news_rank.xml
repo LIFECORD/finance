@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-12-03T06:08:36.859Z</updated>
+    <updated>2021-12-03T07:07:24.853Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -139,6 +139,13 @@
         <content type="html"><![CDATA[한국경제TV]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[부경대 유준교수 연구팀, 녹색수소 공급망 분석 연구성과 영국 왕..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003992729&amp;office_id=011&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003992729&amp;office_id=011&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-03T07:06:04.579Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[美 증시, 오미크론 확진자에도 반발 매수로 상승…델타 등 항공株..]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004636216&amp;office_id=015&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004636216&amp;office_id=015&amp;mode=RANK&amp;typ=0"/>
@@ -171,13 +178,6 @@
         <id>https://finance.naver.com/news/news_read.naver?article_id=0010869318&amp;office_id=003&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0010869318&amp;office_id=003&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-12-03T11:48:00.000Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대우조선해양, 해상풍력발전기 설치선 수주]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0010869322&amp;office_id=003&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0010869322&amp;office_id=003&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-03T11:49:00.000Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
