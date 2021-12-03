@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-12-03T19:06:22.777Z</updated>
+    <updated>2021-12-03T20:07:43.617Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[상암동 복덕방] 1주택자 양도세 비과세 기준 높였지만..."영향 제한적"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001673081&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211204&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001673081&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211204&amp;page=1"/>
+        <updated>2021-12-04T04:47:00.000Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[열흘 격리 조치에 전원 예약 취소...연말특수 '물거품']]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001673041&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211204&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001625917&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211204&amp;page=1"/>
         <updated>2021-12-03T15:05:08.598Z</updated>
         <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[열기 식는 부동산…대출 규제에 거래 급감, 미분양 속출]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000345594&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211204&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000345594&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211204&amp;page=1"/>
-        <updated>2021-12-03T15:05:08.599Z</updated>
-        <content type="html"><![CDATA[TV조선]]></content>
     </entry>
 </feed>
