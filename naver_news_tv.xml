@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-12-03T20:07:43.617Z</updated>
+    <updated>2021-12-03T21:06:01.778Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[높아진 아파트 청약 문턱에...2030, 오피스텔 관심 ↑]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001673087&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211204&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001673087&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211204&amp;page=1"/>
+        <updated>2021-12-04T05:30:00.000Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI·VR·온라인, 비대면 시대의 취업 준비]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001673088&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211204&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001673088&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211204&amp;page=1"/>
+        <updated>2021-12-04T05:25:00.000Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[상암동 복덕방] 1주택자 양도세 비과세 기준 높였지만..."영향 제한적"]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001673081&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211204&amp;page=1</id>
@@ -60,19 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000345595&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211204&amp;page=1"/>
         <updated>2021-12-03T15:05:08.595Z</updated>
         <content type="html"><![CDATA[TV조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오미크론 확산에 정유 '빨간 불'…차·전자 '구름']]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000516959&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211204&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000516959&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211204&amp;page=1"/>
-        <updated>2021-12-03T15:05:08.596Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[백운기의 뉴스와이드] 윤석열-이준석 울산 회동 / 조동연, 민주당 선대위원장 사퇴]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001625917&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211204&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001625917&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211204&amp;page=1"/>
-        <updated>2021-12-03T15:05:08.598Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
     </entry>
 </feed>

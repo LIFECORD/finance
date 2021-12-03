@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-12-03T20:07:43.618Z</updated>
+    <updated>2021-12-03T21:06:01.735Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -24,6 +24,20 @@
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004679114&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004679114&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-12-04T03:30:00.000Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BTS 멤버들 하이브 팔았다는데…주가 전망은?]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004679117&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004679117&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-04T05:00:00.000Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오미크론 쇼크에 떨어지나 했더니…여행·항공株 오히려 오르는 이유]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004679120&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004679120&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-04T05:55:00.000Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
