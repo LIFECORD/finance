@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=401</id>
     <title>네이버 금융 ─ 뉴스 ─ 시황·전망</title>
-    <updated>2021-12-03T03:06:54.406Z</updated>
+    <updated>2021-12-03T04:08:53.948Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코스피, 개인·외국인 동반 매수세에 상승 전환…‘2960선’]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005099632&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211203&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005099632&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211203&amp;page=1"/>
+        <updated>2021-12-03T04:07:06.189Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005099632&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211203&amp;page=1" title="코스피, 개인·외국인 동반 매수세에 상승 전환…‘2960선’">코스피, 개인·외국인 동반 매수세에 상승 전환…‘2960선’</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[특징주]액션스퀘어, 신작 '앤빌' 韓 스팀 판매 1위 등극에 '上']]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005099601&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211203&amp;page=1</id>
@@ -53,12 +60,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003992566&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211203&amp;page=1"/>
         <updated>2021-12-03T01:49:21.158Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003992566&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211203&amp;page=1" title="[특징주]카카오페이, 보호예수 해제 부담에 장 초반 약세">[특징주]카카오페이, 보호예수 해제 부담에 장 초반 약세</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기관 매도세에…코스피 장 초반 하락세]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005009763&amp;office_id=277&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211203&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005009763&amp;office_id=277&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211203&amp;page=1"/>
-        <updated>2021-12-03T01:49:21.159Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005009763&amp;office_id=277&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211203&amp;page=1" title="기관 매도세에…코스피 장 초반 하락세">기관 매도세에…코스피 장 초반 하락세</a>]]></content>
     </entry>
 </feed>
