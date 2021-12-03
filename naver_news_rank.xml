@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-12-03T02:24:22.964Z</updated>
+    <updated>2021-12-03T03:06:54.437Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -167,17 +167,17 @@
         <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[신보 '신용보증·매출채권보험통계', 통계청 국가통계로 승인]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0002985731&amp;office_id=030&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0002985731&amp;office_id=030&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-03T11:19:00.000Z</updated>
+        <content type="html"><![CDATA[전자신문]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[e공시 눈에 띄네] 코스닥-2일]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005009641&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005009641&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-12-03T07:22:00.000Z</updated>
         <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아하정보통신, '위드 코로나' 시대 수혜 기대-리서치알음]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004678676&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004678676&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-03T08:23:00.000Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
