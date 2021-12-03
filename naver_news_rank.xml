@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-12-03T18:08:03.189Z</updated>
+    <updated>2021-12-03T19:06:22.775Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -11,5 +11,19 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001001334&amp;office_id=215&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-12-04T01:30:00.000Z</updated>
         <content type="html"><![CDATA[한국경제TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주식 매매 상위 종목 및 환율] 2021년 12월 3일자]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003657334&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003657334&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-04T03:01:00.000Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[부꾸미]장기투자자, 지금 패션·명품株 사야하는 이유]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004679114&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004679114&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-04T03:30:00.000Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>

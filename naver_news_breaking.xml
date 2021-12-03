@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS2D&amp;section_id=101&amp;section_id2=258</id>
     <title>네이버 금융 ─ 뉴스 ─ 실시간 속보</title>
-    <updated>2021-12-03T18:08:03.169Z</updated>
+    <updated>2021-12-03T19:06:22.742Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[부꾸미]장기투자자, 지금 패션·명품株 사야하는 이유]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004679114&amp;office_id=008&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211204&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004679114&amp;office_id=008&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211204&amp;page=1"/>
+        <updated>2021-12-03T19:04:11.379Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004679114&amp;office_id=008&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211204&amp;page=1" title="[부꾸미]장기투자자, 지금 패션·명품株 사야하는 이유">[부꾸미]장기투자자, 지금 패션·명품株 사야하는 이유</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주식 매매 상위 종목 및 환율] 2021년 12월 3일자]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003657334&amp;office_id=023&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211204&amp;page=1</id>
@@ -60,12 +67,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0010870404&amp;office_id=003&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211204&amp;page=1"/>
         <updated>2021-12-03T15:03:57.803Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0010870404&amp;office_id=003&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211204&amp;page=1" title="신동주, 롯데쇼핑·롯데칠성 보통주 전량 매도…200억대 추정">신동주, 롯데쇼핑·롯데칠성 보통주 전량 매도…200억대 추정</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘부터 의무 격리…입국자들 날벼락·항공권 줄취소]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001625897&amp;office_id=057&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211204&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001625897&amp;office_id=057&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211204&amp;page=1"/>
-        <updated>2021-12-03T15:03:57.804Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0001625897&amp;office_id=057&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211204&amp;page=1" title="오늘부터 의무 격리…입국자들 날벼락·항공권 줄취소">오늘부터 의무 격리…입국자들 날벼락·항공권 줄취소</a>]]></content>
     </entry>
 </feed>
