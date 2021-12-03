@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-12-03T05:06:59.228Z</updated>
+    <updated>2021-12-03T06:08:36.843Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[이슈현장] 국내 오미크론 감염 6명…6일부터 4주간 방역강화]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000516899&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211203&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000516899&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211203&amp;page=1"/>
+        <updated>2021-12-03T06:07:38.665Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1주택자 양도세 비과세 기준 상향...시장 영향은?]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001672826&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211203&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001672826&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211203&amp;page=1"/>
+        <updated>2021-12-03T06:07:38.666Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[경제읽기] 오미크론 확산 우려에 방역강화…자영업자 '긴장']]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000516894&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211203&amp;page=1</id>
@@ -60,19 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000516883&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211203&amp;page=1"/>
         <updated>2021-12-03T04:07:54.064Z</updated>
         <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오미크론 확산 우려에…입국자 열흘간 자가 격리]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000516880&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211203&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000516880&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211203&amp;page=1"/>
-        <updated>2021-12-03T04:07:54.065Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[통계청, 10월 온라인쇼핑 거래액 21.7%↑…음식 배달·여행 등 증가]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0011169063&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211203&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011169063&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211203&amp;page=1"/>
-        <updated>2021-12-03T00:54:00.000Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
