@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-12-03T00:21:27.574Z</updated>
+    <updated>2021-12-03T01:51:17.454Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -146,13 +146,6 @@
         <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[원유마감]WTI 1.4% 상승…OPEC+ 1월 40만배럴 증산..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005762057&amp;office_id=421&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005762057&amp;office_id=421&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-03T07:33:00.000Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[단독]평균 13억 이상 자산가 '영리치'가 픽한 종목은?]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004678626&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004678626&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
@@ -179,5 +172,12 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005009641&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-12-03T07:22:00.000Z</updated>
         <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아하정보통신, '위드 코로나' 시대 수혜 기대-리서치알음]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004678676&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004678676&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-03T08:23:00.000Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
