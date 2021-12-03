@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-12-03T01:51:17.441Z</updated>
+    <updated>2021-12-03T02:24:22.990Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[현장연결] 중대본 "식당·카페도 방역패스 적용…미접종자 1명 예외"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000516868&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211203&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000516868&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211203&amp;page=1"/>
+        <updated>2021-12-03T11:21:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뉴스포커스] 4,944명 확진에 위중증 또 최대…방역 재강화]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000516866&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211203&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000516866&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211203&amp;page=1"/>
+        <updated>2021-12-03T10:52:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이슈앤 직설] 607.7조 ‘슈퍼예산안’ 본회의 통과…역대 최대 규모]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000266641&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211203&amp;page=1</id>
@@ -60,19 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001625740&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211203&amp;page=1"/>
         <updated>2021-12-03T09:34:00.000Z</updated>
         <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[핫이슈 키워드] 목사부부 거짓말·거리두기 조정안·윤핵관·이재명 조국 사태 사과]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000266625&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211203&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000266625&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211203&amp;page=1"/>
-        <updated>2021-12-03T09:33:00.000Z</updated>
-        <content type="html"><![CDATA[SBS Biz]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[차영주의 금요시장] 오미크론 ‘패닉’ 아닌 ‘기회’…지금 담아야 할 종목은?]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000266624&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211203&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000266624&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211203&amp;page=1"/>
-        <updated>2021-12-03T09:32:00.000Z</updated>
-        <content type="html"><![CDATA[SBS Biz]]></content>
     </entry>
 </feed>

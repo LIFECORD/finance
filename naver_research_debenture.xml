@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/research/debenture_list.naver</id>
     <title>네이버 금융 ─ 리서치 ─ 채권분석 리포트</title>
-    <updated>2021-12-03T01:51:17.489Z</updated>
+    <updated>2021-12-03T02:24:22.982Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/research/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[파월 의장과 오미크론 변이의 교집합]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/debenture/1638498159775.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/debenture/1638498159775.pdf"/>
+        <updated>2021-12-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[하나금융투자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오미크론 확산이 금리에 미칠 영향]]></title>
         <id>https://ssl.pstatic.net/imgstock/upload/research/debenture/1638413477870.pdf</id>
@@ -207,12 +214,5 @@
         <link href="https://ssl.pstatic.net/imgstock/upload/research/debenture/1634176733598.pdf"/>
         <updated>2021-10-14T00:00:00.000Z</updated>
         <content type="html"><![CDATA[이베스트증권]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10월 금통위: 일단 11월에는 기준금리 인상]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/debenture/1634018876241.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/debenture/1634018876241.pdf"/>
-        <updated>2021-10-14T00:13:16.386Z</updated>
-        <content type="html"><![CDATA[교보증권]]></content>
     </entry>
 </feed>

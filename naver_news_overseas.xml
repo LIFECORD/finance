@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-12-03T01:51:17.441Z</updated>
+    <updated>2021-12-03T02:24:22.974Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[中 당국 압박에... 디디추싱, 결국 "뉴욕증시 상장폐지"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003992624&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211203&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003992624&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211203&amp;page=1"/>
+        <updated>2021-12-03T02:22:45.912Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003992624&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211203&amp;page=1" title="中 당국 압박에... 디디추싱, 결국 &quot;뉴욕증시 상장폐지&quot;">中 당국 압박에... 디디추싱, 결국 "뉴욕증시 상장폐지"</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["구글 자체 스마트워치 이르면 내년 3월 출시"]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001001175&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211203&amp;page=1</id>
@@ -53,12 +60,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005099407&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211203&amp;page=1"/>
         <updated>2021-12-03T00:19:29.116Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005099407&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211203&amp;page=1" title="코스피 하락 반전…환율, 1170원대 중후반 등락">코스피 하락 반전…환율, 1170원대 중후반 등락</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[표]해외DR 가격(12월 2일)]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003992521&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211203&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003992521&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211203&amp;page=1"/>
-        <updated>2021-12-03T00:19:29.118Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003992521&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211203&amp;page=1" title="[표]해외DR 가격(12월 2일)">[표]해외DR 가격(12월 2일)</a>]]></content>
     </entry>
 </feed>

@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/research/invest_list.naver</id>
     <title>네이버 금융 ─ 리서치 ─ 투자정보 리포트</title>
-    <updated>2021-12-03T01:51:17.473Z</updated>
+    <updated>2021-12-03T02:24:22.983Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/research/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[악재를 상쇄하는 기대감]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/invest/1638497964723.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/invest/1638497964723.pdf"/>
+        <updated>2021-12-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[하나금융투자]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Global Issue & News]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/invest/1638497913516.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/invest/1638497913516.pdf"/>
+        <updated>2021-12-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[하나금융투자]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[케이프 모닝브리프]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/invest/1638497831124.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/invest/1638497831124.pdf"/>
+        <updated>2021-12-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[케이프투자증권]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OPEC+ 뒷문은 열어둔 결정]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/invest/1638497331746.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/invest/1638497331746.pdf"/>
+        <updated>2021-12-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[이베스트증권]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Qlipboard++ 주간리뷰 & 프리뷰]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/invest/1638497230696.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/invest/1638497230696.pdf"/>
+        <updated>2021-12-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[이베스트증권]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미래에셋증권 Daily 종합]]></title>
         <id>https://ssl.pstatic.net/imgstock/upload/research/invest/1638414441321.pdf</id>
@@ -178,41 +213,6 @@
         <id>https://ssl.pstatic.net/imgstock/upload/research/invest/1637804196820.pdf</id>
         <link href="https://ssl.pstatic.net/imgstock/upload/research/invest/1637804196820.pdf"/>
         <updated>2021-11-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[미래에셋증권]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미 증시, 금리 변동성 확대 속 나스닥 상승 뚜렷]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/invest/1637804058581.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/invest/1637804058581.pdf"/>
-        <updated>2021-11-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[미래에셋증권]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Global Issue & News]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/invest/1637803428282.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/invest/1637803428282.pdf"/>
-        <updated>2021-11-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[하나금융투자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[케이프 모닝브리프]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/invest/1637803345634.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/invest/1637803345634.pdf"/>
-        <updated>2021-11-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[케이프투자증권]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미래에셋증권 Daily 종합]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/invest/1637722046821.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/invest/1637722046821.pdf"/>
-        <updated>2021-11-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[미래에셋증권]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나스닥, 장 후반 반발 매수세 유입되며 낙폭 축소]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/invest/1637722015336.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/invest/1637722015336.pdf"/>
-        <updated>2021-11-24T00:00:00.000Z</updated>
         <content type="html"><![CDATA[미래에셋증권]]></content>
     </entry>
 </feed>
