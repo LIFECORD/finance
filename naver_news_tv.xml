@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-12-04T20:07:17.194Z</updated>
+    <updated>2021-12-04T21:06:09.283Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["성난 부동산 민심 잡자"...선거용 '고무줄 세법' 비난]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001673300&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211205&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001673300&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211205&amp;page=1"/>
+        <updated>2021-12-05T05:10:00.000Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엎친 데 덮친 '오미크론'..."내년 경제도 불확실"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001673297&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211205&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001673297&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211205&amp;page=1"/>
+        <updated>2021-12-05T05:02:00.000Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI·VR·온라인, 비대면 시대의 취업 준비]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001673267&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211205&amp;page=1</id>
@@ -59,20 +73,6 @@
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001626040&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211205&amp;page=1</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001626040&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211205&amp;page=1"/>
         <updated>2021-12-04T15:05:04.866Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오미크론 확산에 "해외출장 금지"·"재택근무 강화"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001673234&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211205&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001673234&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211205&amp;page=1"/>
-        <updated>2021-12-04T15:05:04.866Z</updated>
-        <content type="html"><![CDATA[YTN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[12월 4일 MBN 종합뉴스 클로징]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001626039&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211205&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001626039&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211205&amp;page=1"/>
-        <updated>2021-12-04T15:05:04.867Z</updated>
         <content type="html"><![CDATA[MBN]]></content>
     </entry>
 </feed>
