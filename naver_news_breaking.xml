@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS2D&amp;section_id=101&amp;section_id2=258</id>
     <title>네이버 금융 ─ 뉴스 ─ 실시간 속보</title>
-    <updated>2021-12-04T19:05:36.326Z</updated>
+    <updated>2021-12-04T20:07:17.162Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["OPEC, 일단 증산 유지했어도 시장공급 계속 조정" 사무총장]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0010870993&amp;office_id=003&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211205&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0010870993&amp;office_id=003&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211205&amp;page=1"/>
+        <updated>2021-12-04T20:04:55.259Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0010870993&amp;office_id=003&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211205&amp;page=1" title="&quot;OPEC, 일단 증산 유지했어도 시장공급 계속 조정&quot; 사무총장">"OPEC, 일단 증산 유지했어도 시장공급 계속 조정" 사무총장</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LX홀딩스, '날개 없는 추락'…일각에선 주가 의혹까지]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000119794&amp;office_id=629&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211205&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005764685&amp;office_id=421&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211205&amp;page=1"/>
         <updated>2021-12-04T15:04:00.137Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005764685&amp;office_id=421&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211205&amp;page=1" title="비트코인 20% 폭락…암호화폐 일제히 가격 붕괴(종합)">비트코인 20% 폭락…암호화폐 일제히 가격 붕괴(종합)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비트코인 선물시장서 대거 매도, 현물도 장중 20% 폭락(상보)]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005764673&amp;office_id=421&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211205&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005764673&amp;office_id=421&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211205&amp;page=1"/>
-        <updated>2021-12-04T15:04:00.139Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005764673&amp;office_id=421&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211205&amp;page=1" title="비트코인 선물시장서 대거 매도, 현물도 장중 20% 폭락(상보)">비트코인 선물시장서 대거 매도, 현물도 장중 20% 폭락(상보)</a>]]></content>
     </entry>
 </feed>

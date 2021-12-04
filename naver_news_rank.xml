@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-12-04T19:05:36.339Z</updated>
+    <updated>2021-12-04T20:07:17.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -11,5 +11,12 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000119794&amp;office_id=629&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-12-04T16:07:32.107Z</updated>
         <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["OPEC, 일단 증산 유지했어도 시장공급 계속 조정" 사무총장]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0010870993&amp;office_id=003&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0010870993&amp;office_id=003&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-05T04:24:00.000Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>

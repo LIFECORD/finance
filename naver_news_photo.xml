@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-12-04T19:05:36.352Z</updated>
+    <updated>2021-12-04T20:07:17.162Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["OPEC, 일단 증산 유지했어도 시장공급 계속 조정" 사무총장]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0010870993&amp;office_id=003&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211205&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0010870993&amp;office_id=003&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211205&amp;page=1"/>
+        <updated>2021-12-05T04:24:00.000Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LX홀딩스, '날개 없는 추락'…일각에선 주가 의혹까지]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000119794&amp;office_id=629&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211205&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005764665&amp;office_id=421&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211205&amp;page=1"/>
         <updated>2021-12-04T15:04:58.218Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“ O의 공포 금융시장 흔들다” 키워드 1위 ‘오미크론’ [주간 株토픽]]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000019497&amp;office_id=243&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211205&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000019497&amp;office_id=243&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211205&amp;page=1"/>
-        <updated>2021-12-04T15:04:58.220Z</updated>
-        <content type="html"><![CDATA[이코노미스트]]></content>
     </entry>
 </feed>
