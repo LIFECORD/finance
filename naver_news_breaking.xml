@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS2D&amp;section_id=101&amp;section_id2=258</id>
     <title>네이버 금융 ─ 뉴스 ─ 실시간 속보</title>
-    <updated>2021-12-04T05:08:18.039Z</updated>
+    <updated>2021-12-04T06:08:17.203Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[마켓인]中 VC, '기후변화 대응' 눈독…'투자 광폭 행보']]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005100154&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211204&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005100154&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211204&amp;page=1"/>
+        <updated>2021-12-04T06:06:08.700Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005100154&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211204&amp;page=1" title="[마켓인]中 VC, '기후변화 대응' 눈독…'투자 광폭 행보'">[마켓인]中 VC, '기후변화 대응' 눈독…'투자 광폭 행보'</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['멍거 빔' 맞은 코인 시장…비트코인, 이더리움 줄줄이 급락]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004679189&amp;office_id=008&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211204&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003657457&amp;office_id=023&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211204&amp;page=1"/>
         <updated>2021-12-04T04:06:37.563Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003657457&amp;office_id=023&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211204&amp;page=1" title="노부부의 황혼 이혼… 그 다음에 벌어지는 일들">노부부의 황혼 이혼… 그 다음에 벌어지는 일들</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오미크론 확산에 씨젠 랩지노믹스 진단키트주 주목받지만…주가는 롤러코스터]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004888790&amp;office_id=009&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211204&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004888790&amp;office_id=009&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211204&amp;page=1"/>
-        <updated>2021-12-04T03:04:04.956Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004888790&amp;office_id=009&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211204&amp;page=1" title="오미크론 확산에 씨젠 랩지노믹스 진단키트주 주목받지만…주가는 롤러코스터">오미크론 확산에 씨젠 랩지노믹스 진단키트주 주목받지만…주가는 롤러코스터</a>]]></content>
     </entry>
 </feed>
