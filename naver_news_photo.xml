@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-12-04T06:08:17.182Z</updated>
+    <updated>2021-12-04T07:06:28.180Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[이번주 ETF] ‘돈나무 누나’를 역방향 베팅한다면…‘SARK’]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005100168&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211204&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005100168&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211204&amp;page=1"/>
+        <updated>2021-12-04T07:05:23.385Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[멍거빔 쇼크.. "버블 심각" 경고에 비트코인 장중 5600만원까지 '출렁']]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004679201&amp;office_id=008&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211204&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004679201&amp;office_id=008&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211204&amp;page=1"/>
+        <updated>2021-12-04T07:05:23.390Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[CEO UP | 정일문 한국투자증권 대표] ‘순이익 1조’ 약속 지켜… 연임 가능성 ..]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000019490&amp;office_id=243&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211204&amp;page=1</id>
@@ -60,19 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004750263&amp;office_id=014&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211204&amp;page=1"/>
         <updated>2021-12-04T00:51:00.000Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이폰 수혜주, LG이노텍만 있나요 비에이치도 있어요]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005100131&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211204&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005100131&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211204&amp;page=1"/>
-        <updated>2021-12-04T00:31:00.000Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고개 드는 오미크론 ‘낙관론’…“공급망 문제 해결되는 중”]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005010289&amp;office_id=277&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211204&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005010289&amp;office_id=277&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211204&amp;page=1"/>
-        <updated>2021-12-04T00:12:00.000Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
 </feed>
