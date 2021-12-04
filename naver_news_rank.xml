@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-12-04T22:06:22.382Z</updated>
+    <updated>2021-12-04T23:06:42.363Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['오미크론 1주일'…개미, 하락 베팅 곱버스 담았는데 外人은 정..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005764773&amp;office_id=421&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005764773&amp;office_id=421&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-05T06:07:00.000Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LX홀딩스, '날개 없는 추락'…일각에선 주가 의혹까지]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000119794&amp;office_id=629&amp;mode=RANK&amp;typ=0</id>
@@ -13,23 +20,16 @@
         <content type="html"><![CDATA[더팩트]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["OPEC, 일단 증산 유지했어도 시장공급 계속 조정" 사무총장]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0010870993&amp;office_id=003&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0010870993&amp;office_id=003&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-05T04:24:00.000Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
+        <title type="html"><![CDATA['오미크론'에도 반도체株 '줍줍' 외국인…대장주 三電 1조 샀다]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005764774&amp;office_id=421&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005764774&amp;office_id=421&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-05T06:10:00.000Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['오미크론 1주일' 코스피 지지선 2800 확인…"롤러코스터 더..]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005764772&amp;office_id=421&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005764772&amp;office_id=421&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-05T06:07:00.000Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['오미크론 1주일'…개미, 하락 베팅 곱버스 담았는데 外人은 정..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005764773&amp;office_id=421&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005764773&amp;office_id=421&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-12-05T06:07:00.000Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
@@ -41,11 +41,11 @@
         <content type="html"><![CDATA[이코노미스트]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['오미크론'에도 반도체株 '줍줍' 외국인…대장주 三電 1조 샀다]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005764774&amp;office_id=421&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005764774&amp;office_id=421&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-05T06:10:00.000Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
+        <title type="html"><![CDATA["OPEC, 일단 증산 유지했어도 시장공급 계속 조정" 사무총장]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0010870993&amp;office_id=003&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0010870993&amp;office_id=003&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-05T04:24:00.000Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[내년도 IPO 풍년 이어진다…LG엔솔·마켓컬리 줄줄이 등판]]></title>
@@ -60,5 +60,75 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000761299&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-12-05T06:50:00.000Z</updated>
         <content type="html"><![CDATA[머니S]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[비트코인 한때 20% 폭락한 이유는 ‘왝더독’ 현상 때문]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005764798&amp;office_id=421&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005764798&amp;office_id=421&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-05T06:59:00.000Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[이번주 증시] 오미크론 공포에 휩싸인 코스피]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000640453&amp;office_id=031&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000640453&amp;office_id=031&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-05T07:01:00.000Z</updated>
+        <content type="html"><![CDATA[아이뉴스24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["ETF, 순매수 상위 종목 싹쓸이" 국민재테크로 다시 돈 몰린..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000761312&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000761312&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-05T07:23:00.000Z</updated>
+        <content type="html"><![CDATA[머니S]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“찬바람 부니 다시 관심” 리츠, 안정성·배당 두 토끼 기대]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000761308&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000761308&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-05T07:10:00.000Z</updated>
+        <content type="html"><![CDATA[머니S]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[토니모리 증자 앞두고 오너 일가는 청약권 대거 팔아치웠다]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000005151&amp;office_id=648&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000005151&amp;office_id=648&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-05T07:11:00.000Z</updated>
+        <content type="html"><![CDATA[비즈니스워치]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한때 성장주 대명사였는데…바이오株 어쩌다 추락했나 [한경우의 케..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004636723&amp;office_id=015&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004636723&amp;office_id=015&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-05T07:22:00.000Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[잘나가던 기술주, 왜 이래요? [월가시각]]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004679236&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004679236&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-05T07:25:00.000Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기아 EV6가 겨울에도 멀리 갈 수 있는 비결]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000005153&amp;office_id=648&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000005153&amp;office_id=648&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-05T07:41:00.000Z</updated>
+        <content type="html"><![CDATA[비즈니스워치]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사흘 동안 무려 1조…갑자기 삼성전자 쓸어담는 외국인, 왜?]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004888957&amp;office_id=009&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004888957&amp;office_id=009&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-05T07:37:00.000Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[찰리 멍거 한마디에 주식시장은 물론 비트코인까지 폭락]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005764815&amp;office_id=421&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005764815&amp;office_id=421&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-05T07:48:00.000Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
