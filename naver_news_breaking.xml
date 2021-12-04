@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS2D&amp;section_id=101&amp;section_id2=258</id>
     <title>네이버 금융 ─ 뉴스 ─ 실시간 속보</title>
-    <updated>2021-12-04T10:06:30.290Z</updated>
+    <updated>2021-12-04T11:05:51.104Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[비트코인 20% 폭락하는 등 암호화폐 일제 폭락(종합)]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005764685&amp;office_id=421&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211204&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005764685&amp;office_id=421&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211204&amp;page=1"/>
+        <updated>2021-12-04T11:03:41.893Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005764685&amp;office_id=421&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211204&amp;page=1" title="비트코인 20% 폭락하는 등 암호화폐 일제 폭락(종합)">비트코인 20% 폭락하는 등 암호화폐 일제 폭락(종합)</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[비트코인 선물시장서 대거 매도, 현물도 장중 20% 폭락(상보)]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005764673&amp;office_id=421&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211204&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004679189&amp;office_id=008&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211204&amp;page=1"/>
         <updated>2021-12-04T05:05:49.984Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004679189&amp;office_id=008&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211204&amp;page=1" title="'멍거 빔' 맞은 코인 시장…비트코인, 이더리움 줄줄이 급락">'멍거 빔' 맞은 코인 시장…비트코인, 이더리움 줄줄이 급락</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['중국판 배민' 메이퇀, 규제의 덫에 적자…"보수적 접근해야"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005100135&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211204&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005100135&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211204&amp;page=1"/>
-        <updated>2021-12-04T05:05:49.986Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005100135&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211204&amp;page=1" title="'중국판 배민' 메이퇀, 규제의 덫에 적자…&quot;보수적 접근해야&quot;">'중국판 배민' 메이퇀, 규제의 덫에 적자…"보수적 접근해야"</a>]]></content>
     </entry>
 </feed>
