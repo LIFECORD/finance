@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=404</id>
     <title>네이버 금융 ─ 뉴스 ─ 채권 선물</title>
-    <updated>2021-12-04T21:06:09.272Z</updated>
+    <updated>2021-12-04T22:06:22.364Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[펀드와치]오미크론 패닉장에 웃은 코스닥 인버스 펀드]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005100230&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211205&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005100230&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211205&amp;page=1"/>
+        <updated>2021-12-04T22:04:46.161Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005100230&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211205&amp;page=1" title="[펀드와치]오미크론 패닉장에 웃은 코스닥 인버스 펀드">[펀드와치]오미크론 패닉장에 웃은 코스닥 인버스 펀드</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이번주 ETF] ‘돈나무 누나’를 역방향 베팅한다면…‘SARK’]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005100168&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211205&amp;page=1</id>
@@ -39,12 +46,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005099275&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211205&amp;page=1"/>
         <updated>2021-12-04T15:04:32.092Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005099275&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211205&amp;page=1" title="국내 주식형 펀드 자금, 나흘 연속 순유입">국내 주식형 펀드 자금, 나흘 연속 순유입</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["내년 국내 채권금리 완만한 상승…투자성과 부진할 수도"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005099056&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211205&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005099056&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211205&amp;page=1"/>
-        <updated>2021-12-04T15:04:32.094Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005099056&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211205&amp;page=1" title="&quot;내년 국내 채권금리 완만한 상승…투자성과 부진할 수도&quot;">"내년 국내 채권금리 완만한 상승…투자성과 부진할 수도"</a>]]></content>
     </entry>
 </feed>

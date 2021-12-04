@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=402</id>
     <title>네이버 금융 ─ 뉴스 ─ 기업 종목분석</title>
-    <updated>2021-12-04T21:06:09.281Z</updated>
+    <updated>2021-12-04T22:06:22.361Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[내년도 IPO 풍년 이어진다…LG엔솔·마켓컬리 줄줄이 등판]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004888950&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211205&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004888950&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211205&amp;page=1"/>
+        <updated>2021-12-04T22:04:32.539Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004888950&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211205&amp;page=1" title="내년도 IPO 풍년 이어진다…LG엔솔·마켓컬리 줄줄이 등판">내년도 IPO 풍년 이어진다…LG엔솔·마켓컬리 줄줄이 등판</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[라온피플, 인공지능 R&D센터 확장투자 ‘미래 성장동력 확보’]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004750263&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211205&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005010225&amp;office_id=277&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211205&amp;page=1"/>
         <updated>2021-12-04T15:04:19.206Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005010225&amp;office_id=277&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211205&amp;page=1" title="오미크론에 FOMC까지 &quot;불확실성을 활용하라&quot;">오미크론에 FOMC까지 "불확실성을 활용하라"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원티드랩, 합격해야 돈 받는다는 '근거 있는 자신감']]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005100023&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211205&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005100023&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211205&amp;page=1"/>
-        <updated>2021-12-04T15:04:19.209Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005100023&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211205&amp;page=1" title="원티드랩, 합격해야 돈 받는다는 '근거 있는 자신감'">원티드랩, 합격해야 돈 받는다는 '근거 있는 자신감'</a>]]></content>
     </entry>
 </feed>
