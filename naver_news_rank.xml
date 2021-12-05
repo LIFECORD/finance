@@ -2,15 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-12-05T03:07:41.730Z</updated>
+    <updated>2021-12-05T04:08:28.009Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[코스피 주간 기관 순매도 1위 '삼성생명']]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005100321&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005100321&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-05T10:33:00.000Z</updated>
+        <title type="html"><![CDATA[삼성전자가 끌어올린 코스피...변수는 여전히 '오미크론']]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004679267&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004679267&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-05T10:53:00.000Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국내 주식 다시 사들이는 외국인…삼성전자만 1조 넘게 순매수]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000778314&amp;office_id=366&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000778314&amp;office_id=366&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-05T10:47:00.000Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['70%룰'…퇴직연금 넣었더니 걸려온 다급한 전화 [구은서의 연..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004636753&amp;office_id=015&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004636753&amp;office_id=015&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-05T11:24:00.000Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[마켓인] “시간·비용 절감”…HR테크 투자에 돈 몰린다]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005100366&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005100366&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-05T11:37:00.000Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[중국증시, 11월 수출입·물가지수 주목[강현우의 중국주식 분석]]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004636757&amp;office_id=015&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004636757&amp;office_id=015&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-05T11:53:00.000Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[이번주 증시] 오미크론 공포에 휩싸인 코스피]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000640453&amp;office_id=031&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000640453&amp;office_id=031&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-05T07:01:00.000Z</updated>
+        <content type="html"><![CDATA[아이뉴스24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고승범 금융위원장 "공매도 전면 재개, 언젠간 가야 할 길"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000640483&amp;office_id=031&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000640483&amp;office_id=031&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-05T00:01:00.000Z</updated>
+        <content type="html"><![CDATA[아이뉴스24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고승범 "공매도 전면 재개, MSCI 선진지수 편입 위해서도 필..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004679291&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004679291&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코스피 주간 개인 순매도 1위 '삼성전자']]></title>
@@ -20,38 +69,38 @@
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코스닥 주간 외국인 순매도 1위 '대주전자재료']]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005100326&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005100326&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-05T10:34:00.000Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
+        <title type="html"><![CDATA[고승범 금융위원장 "공매도 전면 재개, 언젠가 가야될 길"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005010442&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005010442&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코스닥 주간 기관 순매수 1위 '에스티팜']]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005100327&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005100327&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-05T10:34:00.000Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
+        <title type="html"><![CDATA[[VC 릴레이 분석] 굴지의 큰손들도 인정하는 퀀텀벤처스코리아…..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001920715&amp;office_id=016&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001920715&amp;office_id=016&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-05T00:01:00.000Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코스닥 주간 개인 순매수 1위 '셀트리온헬스케어']]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005100329&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005100329&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-05T10:34:00.000Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코스피 주간 개인 순매수 1위 'SK스퀘어']]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005100322&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005100322&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-05T10:33:00.000Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
+        <title type="html"><![CDATA[[VC 릴레이 분석] 퀀텀벤처스코리아, 금융투자로 이뤄내는 기술..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001920718&amp;office_id=016&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001920718&amp;office_id=016&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-05T00:02:00.000Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코스닥 주간 개인 순매도 1위 '에스티팜']]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005100330&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005100330&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-12-05T10:34:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코스피 주간 기관 순매도 1위 '삼성생명']]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005100321&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005100321&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-05T10:33:00.000Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
@@ -69,24 +118,24 @@
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[이번주 증시] 오미크론 공포에 휩싸인 코스피]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000640453&amp;office_id=031&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000640453&amp;office_id=031&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-05T07:01:00.000Z</updated>
-        <content type="html"><![CDATA[아이뉴스24]]></content>
+        <title type="html"><![CDATA[[금융위원장 100일]⑤고승범 "공매도 재개시기 향후 검토"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005100373&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005100373&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-05T00:01:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[국내 주식 다시 사들이는 외국인…삼성전자만 1조 넘게 순매수]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000778314&amp;office_id=366&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000778314&amp;office_id=366&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-05T10:47:00.000Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
+        <title type="html"><![CDATA[코스닥 주간 기관 순매수 1위 '에스티팜']]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005100327&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005100327&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-05T10:34:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코스피 주간 기관 순매수 1위 'SK하이닉스']]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005100320&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005100320&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-05T10:33:00.000Z</updated>
+        <title type="html"><![CDATA[코스닥 주간 외국인 순매도 1위 '대주전자재료']]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005100326&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005100326&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-05T10:34:00.000Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
@@ -97,11 +146,25 @@
         <content type="html"><![CDATA[매일경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[삼성전자가 끌어올린 코스피...변수는 여전히 '오미크론']]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004679267&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004679267&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-05T10:53:00.000Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
+        <title type="html"><![CDATA[코스닥 주간 개인 순매수 1위 '셀트리온헬스케어']]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005100329&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005100329&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-05T10:34:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[증시 조정에도 주가 상승률 '세자리'···공통점은 'NFT']]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000640479&amp;office_id=031&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000640479&amp;office_id=031&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-05T00:01:00.000Z</updated>
+        <content type="html"><![CDATA[아이뉴스24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코스피 주간 개인 순매수 1위 'SK스퀘어']]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005100322&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005100322&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-05T10:33:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 공모주 70%가 상장 후 10분 안에 최고점 찍었다]]></title>
@@ -111,73 +174,10 @@
         <content type="html"><![CDATA[이코노미스트]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['오미크론 1주일' 코스피 지지선 2800 확인…"롤러코스터 더..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005764772&amp;office_id=421&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005764772&amp;office_id=421&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-05T06:07:00.000Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잘나가던 기술주, 왜 이래요? [월가시각]]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004679236&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004679236&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-05T07:25:00.000Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코스피 주간 외국인 순매수 1위 '삼성전자']]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005100318&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005100318&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-05T10:32:00.000Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코스피 주간 외국인 순매도 1위 'SK스퀘어']]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005100319&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005100319&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-05T10:33:00.000Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간증시전망]3000선 공방…오미크론에서 美 FOMC로 시선이..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005100285&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005100285&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-05T09:34:00.000Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LX홀딩스, '날개 없는 추락'…일각에선 주가 의혹까지]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000119794&amp;office_id=629&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000119794&amp;office_id=629&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-04T16:07:32.107Z</updated>
-        <content type="html"><![CDATA[더팩트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[간접투자 3조6000억 유입…변동장에 머니무브 '가속']]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0002554354&amp;office_id=119&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0002554354&amp;office_id=119&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-05T09:58:00.000Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["4.2만달러 무너졌다"… 비트코인, 하루만에 22% 폭락]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000761335&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000761335&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-05T09:20:00.000Z</updated>
-        <content type="html"><![CDATA[머니S]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["OPEC, 일단 증산 유지했어도 시장공급 계속 조정" 사무총장]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0010870993&amp;office_id=003&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0010870993&amp;office_id=003&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-05T04:24:00.000Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한때 성장주 대명사였는데…바이오株 어쩌다 추락했나 [한경우의 케..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004636723&amp;office_id=015&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004636723&amp;office_id=015&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-05T07:22:00.000Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
+        <title type="html"><![CDATA[[이번 주 IPO] 12월 둘째 주 수요예측·청약 일정]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005010452&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005010452&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-05T00:09:00.000Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
 </feed>
