@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-12-05T21:06:03.411Z</updated>
+    <updated>2021-12-05T22:06:12.056Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이번주 뉴욕증시, 오미크론·테이퍼링 변수로 변동성↑  [출근전 꼭 글로벌 브리핑]]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001001501&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211206&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001001501&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211206&amp;page=1"/>
+        <updated>2021-12-05T22:04:25.589Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0001001501&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211206&amp;page=1" title="이번주 뉴욕증시, 오미크론·테이퍼링 변수로 변동성↑  [출근전 꼭 글로벌 브리핑]">이번주 뉴욕증시, 오미크론·테이퍼링 변수로 변동성↑  [출근전 꼭 글로벌 브리핑]</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[표]주간 해외 주요 증시 동향(11월 29일~12월 3일)]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003993208&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211206&amp;page=1</id>
@@ -46,12 +53,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003993023&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211206&amp;page=1"/>
         <updated>2021-12-05T15:04:21.799Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003993023&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211206&amp;page=1" title="[표]해외DR 가격(12월 3일)">[표]해외DR 가격(12월 3일)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[표]해외 주요 증시 동향(12월 3일)]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003993022&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211206&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003993022&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211206&amp;page=1"/>
-        <updated>2021-12-05T15:04:21.801Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003993022&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211206&amp;page=1" title="[표]해외 주요 증시 동향(12월 3일)">[표]해외 주요 증시 동향(12월 3일)</a>]]></content>
     </entry>
 </feed>
