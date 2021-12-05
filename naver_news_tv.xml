@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-12-05T19:05:55.162Z</updated>
+    <updated>2021-12-05T20:07:12.133Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[수출 실적 역대 최대?..."원자잿값 상승에 따른 통계 착시"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001673544&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211206&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001673544&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211206&amp;page=1"/>
+        <updated>2021-12-06T04:35:00.000Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[개미들, 삼성전자·하이닉스 팔고 中 전기차 ETF 샀다]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001673511&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211206&amp;page=1</id>
@@ -66,13 +73,6 @@
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001164109&amp;office_id=214&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211206&amp;page=1</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001164109&amp;office_id=214&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211206&amp;page=1"/>
         <updated>2021-12-05T15:05:02.058Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[스트레이트] 일산 1조원 대박, 퍼스트이개발의 진짜 주인은 누구?]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001164108&amp;office_id=214&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211206&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001164108&amp;office_id=214&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211206&amp;page=1"/>
-        <updated>2021-12-05T15:05:02.059Z</updated>
         <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>
