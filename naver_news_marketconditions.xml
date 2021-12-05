@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=401</id>
     <title>네이버 금융 ─ 뉴스 ─ 시황·전망</title>
-    <updated>2021-12-05T20:07:12.147Z</updated>
+    <updated>2021-12-05T21:06:03.365Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[이번주 증시 캘린더] IPO 4수생 툴젠·국내 첫 호텔 리츠 신한서부티엔디리츠 상장]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003993210&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211206&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003993210&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211206&amp;page=1"/>
+        <updated>2021-12-05T21:04:10.037Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003993210&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211206&amp;page=1" title="[이번주 증시 캘린더] IPO 4수생 툴젠·국내 첫 호텔 리츠 신한서부티엔디리츠 상장">[이번주 증시 캘린더] IPO 4수생 툴젠·국내 첫 호텔 리츠 신한서부티엔디리츠 상장</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하나대체운용, 美드림웍스 건물 3900억에 매각]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004889091&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211206&amp;page=1</id>
@@ -32,12 +39,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003993120&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211206&amp;page=1"/>
         <updated>2021-12-05T15:04:08.979Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003993120&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211206&amp;page=1" title="'지옥' 맛본 비트코인···NFT주 '긴장'">'지옥' 맛본 비트코인···NFT주 '긴장'</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[돌아온 외국인…한달새 4조6천억 쓸어담아]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004889022&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211206&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004889022&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211206&amp;page=1"/>
-        <updated>2021-12-05T15:04:08.980Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004889022&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211206&amp;page=1" title="돌아온 외국인…한달새 4조6천억 쓸어담아">돌아온 외국인…한달새 4조6천억 쓸어담아</a>]]></content>
     </entry>
 </feed>
