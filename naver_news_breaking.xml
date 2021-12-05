@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS2D&amp;section_id=101&amp;section_id2=258</id>
     <title>네이버 금융 ─ 뉴스 ─ 실시간 속보</title>
-    <updated>2021-12-05T16:08:31.616Z</updated>
+    <updated>2021-12-05T17:14:30.043Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["내 포트폴리오는 몇 점?"…증권사, 마이데이터 사업 본격화]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005100569&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211206&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005100569&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211206&amp;page=1"/>
+        <updated>2021-12-05T17:12:31.559Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005100569&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211206&amp;page=1" title="&quot;내 포트폴리오는 몇 점?&quot;…증권사, 마이데이터 사업 본격화">"내 포트폴리오는 몇 점?"…증권사, 마이데이터 사업 본격화</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[찬바람 부는 IPO 시장… "옥석가리기로 기회잡아야"]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005100567&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211206&amp;page=1</id>
@@ -46,12 +53,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001626178&amp;office_id=057&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211206&amp;page=1"/>
         <updated>2021-12-05T15:03:56.470Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0001626178&amp;office_id=057&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211206&amp;page=1" title="증여받은 시골 땅에 구옥 걸쳐 있어도 '중과'…예외 없는 종부세">증여받은 시골 땅에 구옥 걸쳐 있어도 '중과'…예외 없는 종부세</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[할아버지도 나스닥 하시네, 실버 서학개미 2배 늘었다]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003657563&amp;office_id=023&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211206&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003657563&amp;office_id=023&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211206&amp;page=1"/>
-        <updated>2021-12-05T15:03:56.470Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003657563&amp;office_id=023&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211206&amp;page=1" title="할아버지도 나스닥 하시네, 실버 서학개미 2배 늘었다">할아버지도 나스닥 하시네, 실버 서학개미 2배 늘었다</a>]]></content>
     </entry>
 </feed>

@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-12-05T16:08:31.614Z</updated>
+    <updated>2021-12-05T17:14:30.043Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[찬바람 부는 IPO 시장… "옥석가리기로 기회잡아야"]]></title>
+        <title type="html"><![CDATA["내 포트폴리오는 몇 점?"…증권사, 마이데이터 사업 본격화]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005100569&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211206&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005100569&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211206&amp;page=1"/>
+        <updated>2021-12-06T01:21:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IPO시장 찬바람…그래도 눈 여겨봐야 할 공모주는?]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005100567&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211206&amp;page=1</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005100567&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211206&amp;page=1"/>
         <updated>2021-12-05T16:07:13.448Z</updated>
@@ -66,13 +73,6 @@
         <id>https://finance.naver.com/news/news_read.naver?article_id=0002709509&amp;office_id=029&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211206&amp;page=1</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0002709509&amp;office_id=029&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211206&amp;page=1"/>
         <updated>2021-12-05T15:04:54.435Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이번주도 `테이퍼링·오미크론` 불안]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0002709508&amp;office_id=029&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211206&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0002709508&amp;office_id=029&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211206&amp;page=1"/>
-        <updated>2021-12-05T15:04:54.436Z</updated>
         <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
 </feed>
