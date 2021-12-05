@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS2D&amp;section_id=101&amp;section_id2=258</id>
     <title>네이버 금융 ─ 뉴스 ─ 실시간 속보</title>
-    <updated>2021-12-05T01:58:48.419Z</updated>
+    <updated>2021-12-05T02:31:08.815Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['70%룰'…퇴직연금 넣었더니 걸려온 다급한 전화 [구은서의 연금개미 백과사전]]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004636753&amp;office_id=015&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211205&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004636753&amp;office_id=015&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211205&amp;page=1"/>
+        <updated>2021-12-05T02:29:00.206Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004636753&amp;office_id=015&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211205&amp;page=1" title="'70%룰'…퇴직연금 넣었더니 걸려온 다급한 전화 [구은서의 연금개미 백과사전]">'70%룰'…퇴직연금 넣었더니 걸려온 다급한 전화 [구은서의 연금개미 백과사전]</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[표]주간 코스닥 기관·외국인·개인 순매수·도 상위종목(11월 29일~12월 3일)]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003993031&amp;office_id=011&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211205&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005100330&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211205&amp;page=1"/>
         <updated>2021-12-05T01:56:47.594Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005100330&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211205&amp;page=1" title="코스닥 주간 개인 순매도 1위 '에스티팜'">코스닥 주간 개인 순매도 1위 '에스티팜'</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코스닥 주간 개인 순매수 1위 '셀트리온헬스케어']]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005100329&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211205&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005100329&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211205&amp;page=1"/>
-        <updated>2021-12-05T01:56:47.595Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005100329&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211205&amp;page=1" title="코스닥 주간 개인 순매수 1위 '셀트리온헬스케어'">코스닥 주간 개인 순매수 1위 '셀트리온헬스케어'</a>]]></content>
     </entry>
 </feed>
