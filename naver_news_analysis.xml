@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=402</id>
     <title>네이버 금융 ─ 뉴스 ─ 기업 종목분석</title>
-    <updated>2021-12-05T06:09:23.303Z</updated>
+    <updated>2021-12-05T07:07:09.007Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[표]유가증권·코스닥 유무상증자 일정]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003993099&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211205&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003993099&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211205&amp;page=1"/>
+        <updated>2021-12-05T07:05:16.059Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003993099&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211205&amp;page=1" title="[표]유가증권·코스닥 유무상증자 일정">[표]유가증권·코스닥 유무상증자 일정</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[내년 스마트폰 수요 증가 수혜株는]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004679328&amp;office_id=008&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211205&amp;page=1</id>
@@ -39,12 +46,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005010462&amp;office_id=277&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211205&amp;page=1"/>
         <updated>2021-12-05T04:06:43.867Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005010462&amp;office_id=277&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211205&amp;page=1" title="[자금조달]'16년째 완전자본잠식' HDC아이파크몰, 300억 신종자본증권 발행">[자금조달]'16년째 완전자본잠식' HDC아이파크몰, 300억 신종자본증권 발행</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고승범 금융위원장 "공매도 전면 재개, 언젠가 가야될 길"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005010442&amp;office_id=277&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211205&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005010442&amp;office_id=277&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211205&amp;page=1"/>
-        <updated>2021-12-05T03:05:45.001Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005010442&amp;office_id=277&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211205&amp;page=1" title="고승범 금융위원장 &quot;공매도 전면 재개, 언젠가 가야될 길&quot;">고승범 금융위원장 "공매도 전면 재개, 언젠가 가야될 길"</a>]]></content>
     </entry>
 </feed>
