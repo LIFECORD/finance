@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-12-05T00:23:16.631Z</updated>
+    <updated>2021-12-05T01:58:48.418Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신규확진 주말에도 5천명대…내일부터 사적모임 제한]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000517085&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211205&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000517085&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211205&amp;page=1"/>
+        <updated>2021-12-05T10:42:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[기업기상도] 기회 잡아 해 뜬 기업 vs 바람 불고 흐린 기업]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000517075&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211205&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000517075&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211205&amp;page=1"/>
+        <updated>2021-12-05T09:51:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내년 성장률 3%대 초반 전망…은행 가계대출 문턱 더 높아진다]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001626063&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211205&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001626063&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211205&amp;page=1"/>
+        <updated>2021-12-05T09:27:00.000Z</updated>
+        <content type="html"><![CDATA[MBN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[비트코인 22% 폭락, 한때 4만 2천달러 붕괴…가상화폐 1조원 투매]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001626062&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211205&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001626062&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211205&amp;page=1"/>
+        <updated>2021-12-05T09:25:00.000Z</updated>
+        <content type="html"><![CDATA[MBN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어젯밤 9시까지 4,006명 확진…내일부터 일상회복 중단]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000517067&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211205&amp;page=1</id>
@@ -46,33 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001673265&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211205&amp;page=1"/>
         <updated>2021-12-04T15:05:04.854Z</updated>
         <content type="html"><![CDATA[YTN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[상암동 복덕방] 1주택자 양도세 비과세 기준 높였지만..."영향 제한적"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001673264&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211205&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001673264&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211205&amp;page=1"/>
-        <updated>2021-12-04T15:05:04.856Z</updated>
-        <content type="html"><![CDATA[YTN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[탐사보도 뉴스프리즘] "COP26 실패" 기후위기 극복 가능한가?]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000517065&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211205&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000517065&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211205&amp;page=1"/>
-        <updated>2021-12-04T15:05:04.865Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오미크론 확산에 "해외출장 금지"·"재택근무 강화"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001673245&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211205&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001673245&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211205&amp;page=1"/>
-        <updated>2021-12-04T15:05:04.865Z</updated>
-        <content type="html"><![CDATA[YTN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[화석연료 투자 여전…탄소감축 의지 부족한 국책은행]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0011169578&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211205&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011169578&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211205&amp;page=1"/>
-        <updated>2021-12-04T15:05:04.865Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
