@@ -2,42 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=402</id>
     <title>네이버 금융 ─ 뉴스 ─ 기업 종목분석</title>
-    <updated>2021-12-06T05:08:17.506Z</updated>
+    <updated>2021-12-06T06:09:37.641Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[삼전·하이닉스 소폭 강세…CLSA "삼전 목표가 25%↑"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004679618&amp;office_id=008&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211206&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004679618&amp;office_id=008&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211206&amp;page=1"/>
-        <updated>2021-12-06T05:06:25.202Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004679618&amp;office_id=008&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211206&amp;page=1" title="삼전·하이닉스 소폭 강세…CLSA &quot;삼전 목표가 25%↑&quot;">삼전·하이닉스 소폭 강세…CLSA "삼전 목표가 25%↑"</a>]]></content>
+        <title type="html"><![CDATA[HK이노엔 "코로나19 백신, 국내 1상 결과 분석 중"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004637176&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211206&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004637176&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211206&amp;page=1"/>
+        <updated>2021-12-06T06:07:48.047Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004637176&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211206&amp;page=1" title="HK이노엔 &quot;코로나19 백신, 국내 1상 결과 분석 중&quot;">HK이노엔 "코로나19 백신, 국내 1상 결과 분석 중"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[젠큐릭스, 진스웰BCT 美 특허 등록 완료]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004637119&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211206&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004637119&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211206&amp;page=1"/>
-        <updated>2021-12-06T05:06:25.203Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004637119&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211206&amp;page=1" title="젠큐릭스, 진스웰BCT 美 특허 등록 완료">젠큐릭스, 진스웰BCT 美 특허 등록 완료</a>]]></content>
+        <title type="html"><![CDATA[해성옵틱스 “19개월 만 OIS 사업 흑자전환 달성”]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004751035&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211206&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004751035&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211206&amp;page=1"/>
+        <updated>2021-12-06T06:07:48.050Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004751035&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211206&amp;page=1" title="해성옵틱스 “19개월 만 OIS 사업 흑자전환 달성”">해성옵틱스 “19개월 만 OIS 사업 흑자전환 달성”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[KB증권, M-able 미니 해외주식 소수점 매매 서비스 오픈]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004889454&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211206&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004889454&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211206&amp;page=1"/>
-        <updated>2021-12-06T05:06:25.204Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004889454&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211206&amp;page=1" title="KB증권, M-able 미니 해외주식 소수점 매매 서비스 오픈">KB증권, M-able 미니 해외주식 소수점 매매 서비스 오픈</a>]]></content>
+        <title type="html"><![CDATA[하나금융투자, '언택트 오디션'으로 사내모델 7명 선발]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004751029&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211206&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004751029&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211206&amp;page=1"/>
+        <updated>2021-12-06T06:07:48.052Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004751029&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211206&amp;page=1" title="하나금융투자, '언택트 오디션'으로 사내모델 7명 선발">하나금융투자, '언택트 오디션'으로 사내모델 7명 선발</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["넷플릭스 IP 독식 막는다"…9개 드라마 제작사 뭉쳤다]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004679608&amp;office_id=008&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211206&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004679608&amp;office_id=008&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211206&amp;page=1"/>
-        <updated>2021-12-06T05:06:25.206Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004679608&amp;office_id=008&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211206&amp;page=1" title="&quot;넷플릭스 IP 독식 막는다&quot;…9개 드라마 제작사 뭉쳤다">"넷플릭스 IP 독식 막는다"…9개 드라마 제작사 뭉쳤다</a>]]></content>
+        <title type="html"><![CDATA["IP 확보 위해 뭉쳤다"…드라마 제작 연합체 '크리에이터 얼라이언스' 출범]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004751024&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211206&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004751024&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211206&amp;page=1"/>
+        <updated>2021-12-06T06:07:48.053Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004751024&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211206&amp;page=1" title="&quot;IP 확보 위해 뭉쳤다&quot;…드라마 제작 연합체 '크리에이터 얼라이언스' 출범">"IP 확보 위해 뭉쳤다"…드라마 제작 연합체 '크리에이터 얼라이언스' 출범</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오미크론에도 재이륙하는 항공주…화물운임 상승에 날개다나]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004889438&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211206&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004889438&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211206&amp;page=1"/>
-        <updated>2021-12-06T05:06:25.207Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004889438&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211206&amp;page=1" title="오미크론에도 재이륙하는 항공주…화물운임 상승에 날개다나">오미크론에도 재이륙하는 항공주…화물운임 상승에 날개다나</a>]]></content>
+        <title type="html"><![CDATA[아이퀘스트 김순모 대표, SW 산업 발전 유공 대통령 표창 수상]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004637166&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211206&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004637166&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211206&amp;page=1"/>
+        <updated>2021-12-06T06:07:48.054Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004637166&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211206&amp;page=1" title="아이퀘스트 김순모 대표, SW 산업 발전 유공 대통령 표창 수상">아이퀘스트 김순모 대표, SW 산업 발전 유공 대통령 표창 수상</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[소프트캠프, 정부 산하기관에 원격근무 문서보안 시스템 공급]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004679679&amp;office_id=008&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211206&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004679679&amp;office_id=008&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211206&amp;page=1"/>
+        <updated>2021-12-06T06:07:48.055Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004679679&amp;office_id=008&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211206&amp;page=1" title="소프트캠프, 정부 산하기관에 원격근무 문서보안 시스템 공급">소프트캠프, 정부 산하기관에 원격근무 문서보안 시스템 공급</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CLSA "10만전자 간다"…삼전·하이닉스 목표가 대폭 올렸다]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004679672&amp;office_id=008&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211206&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004679672&amp;office_id=008&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211206&amp;page=1"/>
+        <updated>2021-12-06T06:07:48.057Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004679672&amp;office_id=008&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211206&amp;page=1" title="CLSA &quot;10만전자 간다&quot;…삼전·하이닉스 목표가 대폭 올렸다">CLSA "10만전자 간다"…삼전·하이닉스 목표가 대폭 올렸다</a>]]></content>
     </entry>
 </feed>
