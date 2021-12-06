@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-12-06T19:06:09.990Z</updated>
+    <updated>2021-12-06T20:07:28.752Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["가상화폐 대학살? vs 시세 조정" ...요동치는 코인]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001673962&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211207&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001673962&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211207&amp;page=1"/>
+        <updated>2021-12-07T04:49:00.000Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이재용 부회장, 이번엔 중동행..."9일 귀국 예정"]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001673957&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211207&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000345780&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211207&amp;page=1"/>
         <updated>2021-12-06T15:06:18.917Z</updated>
         <content type="html"><![CDATA[TV조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오미크론에 기업들 ‘방역 U턴’…“회식 금지·재택 확대”]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0011170477&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211207&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011170477&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211207&amp;page=1"/>
-        <updated>2021-12-06T15:06:18.918Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
