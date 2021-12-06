@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-12-06T20:07:28.751Z</updated>
+    <updated>2021-12-06T21:06:33.595Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[속보]오미크론 우려 속 뉴욕증시 급반등…다우 1.9%↑]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005101356&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211207&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005101356&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211207&amp;page=1"/>
+        <updated>2021-12-06T21:04:50.626Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005101356&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211207&amp;page=1" title="[속보]오미크론 우려 속 뉴욕증시 급반등…다우 1.9%↑">[속보]오미크론 우려 속 뉴욕증시 급반등…다우 1.9%↑</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['천슬라' 깨졌다…내부고발 악재에 주가 950달러 급락]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005101334&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211207&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001001763&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211207&amp;page=1"/>
         <updated>2021-12-06T15:05:39.667Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0001001763&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211207&amp;page=1" title="&quot;리비안, 40% 추가상승 가능…테슬라의 유일한 대항마&quot;">"리비안, 40% 추가상승 가능…테슬라의 유일한 대항마"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[표]아시아 주요 증시 동향(12월 6일)]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003993644&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211207&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003993644&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211207&amp;page=1"/>
-        <updated>2021-12-06T15:05:39.668Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003993644&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211207&amp;page=1" title="[표]아시아 주요 증시 동향(12월 6일)">[표]아시아 주요 증시 동향(12월 6일)</a>]]></content>
     </entry>
 </feed>
