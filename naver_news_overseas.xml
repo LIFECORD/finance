@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-12-06T02:27:31.165Z</updated>
+    <updated>2021-12-06T03:07:36.998Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['인·디·오'가 쥐락펴락할 세계 증시 [정인설의 워싱턴나우]]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004637089&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211206&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004637089&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211206&amp;page=1"/>
+        <updated>2021-12-06T03:05:49.809Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004637089&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211206&amp;page=1" title="'인·디·오'가 쥐락펴락할 세계 증시 [정인설의 워싱턴나우]">'인·디·오'가 쥐락펴락할 세계 증시 [정인설의 워싱턴나우]</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["美 연말 랠리 가능성 여전히 열려있다"]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001001604&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211206&amp;page=1</id>
@@ -46,19 +53,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005100719&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211206&amp;page=1"/>
         <updated>2021-12-06T00:20:38.908Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005100719&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211206&amp;page=1" title="환율, 1180원대 중반 상승…'오미크론'에 달러화 강세">환율, 1180원대 중반 상승…'오미크론'에 달러화 강세</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JP모건 "내년엔 이 6종목 주목하라"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001001529&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211206&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001001529&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211206&amp;page=1"/>
-        <updated>2021-12-06T00:20:38.914Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0001001529&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211206&amp;page=1" title="JP모건 &quot;내년엔 이 6종목 주목하라&quot;">JP모건 "내년엔 이 6종목 주목하라"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["美 내년엔 소형주가 대형주 앞설것"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001001525&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211206&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001001525&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211206&amp;page=1"/>
-        <updated>2021-12-06T00:20:38.917Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0001001525&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211206&amp;page=1" title="&quot;美 내년엔 소형주가 대형주 앞설것&quot;">"美 내년엔 소형주가 대형주 앞설것"</a>]]></content>
     </entry>
 </feed>
