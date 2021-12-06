@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-12-06T06:09:37.670Z</updated>
+    <updated>2021-12-06T07:07:51.789Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -13,11 +13,25 @@
         <content type="html"><![CDATA[머니S]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[특징주]리메드, 지분 26.5% 의무보유 해제에 ‘약세’]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005101056&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005101056&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-06T07:06:27.008Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[‘토뱅’의 2% 예금금리 약속, 두 달만에 깨졌다]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003657649&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003657649&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-12-06T04:35:00.000Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 아스플로, 반도체 투자 확대 기대감에 '급등']]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000761647&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000761647&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-06T07:06:27.017Z</updated>
+        <content type="html"><![CDATA[머니S]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[진단키트株 강세 이어질까…코로나19 변이 오미크론 확산세 관건]]></title>
@@ -165,19 +179,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005100601&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-12-06T07:29:00.000Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[e공시 눈에 띄네] 코스피-3일]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005010610&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005010610&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-06T07:22:00.000Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[특징주] 유티아이, 삼성전자 스마트폰 판매 호조… 폴더블 UT..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000761619&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000761619&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-06T06:08:21.187Z</updated>
-        <content type="html"><![CDATA[머니S]]></content>
     </entry>
 </feed>
