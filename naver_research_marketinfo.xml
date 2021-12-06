@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/research/market_info_list.naver</id>
     <title>네이버 금융 ─ 리서치 ─ 시황정보 리포트</title>
-    <updated>2021-12-06T01:55:03.749Z</updated>
+    <updated>2021-12-06T02:27:31.162Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/research/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[eBest Quant Daily]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/market/1638757063728.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/market/1638757063728.pdf"/>
+        <updated>2021-12-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[이베스트증권]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Start with IBKS] KOSPI는 오미크론발 불안이 완화되..]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/market/1638756179244.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/market/1638756179244.pdf"/>
+        <updated>2021-12-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[IBK투자증권]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[교보박스 브리핑]]></title>
         <id>https://ssl.pstatic.net/imgstock/upload/research/market/1638498887402.pdf</id>
@@ -200,19 +214,5 @@
         <link href="https://ssl.pstatic.net/imgstock/upload/research/market/1637287800754.pdf"/>
         <updated>2021-11-19T00:00:00.000Z</updated>
         <content type="html"><![CDATA[이베스트증권]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Start with IBKS] KOSPI는 박스권 등락 이후 인플레..]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/market/1637287088027.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/market/1637287088027.pdf"/>
-        <updated>2021-11-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[IBK투자증권]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[교보박스 브리핑]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/market/1637200332071.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/market/1637200332071.pdf"/>
-        <updated>2021-11-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[교보증권]]></content>
     </entry>
 </feed>

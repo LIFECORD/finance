@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-12-06T01:55:03.733Z</updated>
+    <updated>2021-12-06T02:27:31.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -90,11 +90,39 @@
         <content type="html"><![CDATA[서울경제]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[특징주] 진단키트株, 오미크론 확산 우려감에 강세]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001001557&amp;office_id=215&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001001557&amp;office_id=215&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-06T09:53:00.000Z</updated>
+        <content type="html"><![CDATA[한국경제TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주]화장품주 바닥쳤나?…아모레퍼시픽 4% 강세]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005010807&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005010807&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-06T10:36:00.000Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[이익 못 쫓아가는 주가···변동장에 '싼 종목' 속출]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003993214&amp;office_id=011&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003993214&amp;office_id=011&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-12-06T06:31:00.000Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 휘청인 암호화폐 시장에 비덴트 10%↓]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003993296&amp;office_id=011&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003993296&amp;office_id=011&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-06T09:55:00.000Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주]비트코인 급락에 가상화폐 관련주 '약세']]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005100815&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005100815&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-06T10:14:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코로나 이후, 부실위험 기업대출 22조 증가]]></title>
@@ -151,33 +179,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005765897&amp;office_id=421&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-12-06T06:10:00.000Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔비티, B2B '애디슨 오퍼월'의 레버리지 효과 본격화 -하나]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005100600&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005100600&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-06T07:27:00.000Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나19 재확산, 바이오주 상승 모멘텀 계속되나]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001001506&amp;office_id=215&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001001506&amp;office_id=215&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-06T07:17:00.000Z</updated>
-        <content type="html"><![CDATA[한국경제TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하이투자證 "엔비티, 실적 개선 및 성장성 가시화 전망"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0010872016&amp;office_id=003&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0010872016&amp;office_id=003&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-06T08:08:00.000Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["오스코텍, 기술료?로열티 증가로 글로벌 바이오텍 도약할 것"-..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004636973&amp;office_id=015&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004636973&amp;office_id=015&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-06T08:21:00.000Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
