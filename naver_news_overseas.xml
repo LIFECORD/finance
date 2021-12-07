@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-12-07T19:06:41.986Z</updated>
+    <updated>2021-12-07T20:08:19.054Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[파우치 "오미크론 증상 가벼운 건 거의 확실"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004637930&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211208&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004637930&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211208&amp;page=1"/>
+        <updated>2021-12-07T20:06:35.694Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004637930&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211208&amp;page=1" title="파우치 &quot;오미크론 증상 가벼운 건 거의 확실&quot;">파우치 "오미크론 증상 가벼운 건 거의 확실"</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[골드만 회장 "향후 몇년 현재의 높은 주식수익률 어렵다"]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005102185&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211208&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005102147&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211208&amp;page=1"/>
         <updated>2021-12-07T15:06:20.640Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005102147&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211208&amp;page=1" title="내년 中증시 테마는 '공동부유'…주목받는 종목은">내년 中증시 테마는 '공동부유'…주목받는 종목은</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[헝다 사태에 디디추싱 상폐까지…중국 주식 사도 되나요?]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005102146&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211208&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005102146&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211208&amp;page=1"/>
-        <updated>2021-12-07T15:06:20.641Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005102146&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211208&amp;page=1" title="헝다 사태에 디디추싱 상폐까지…중국 주식 사도 되나요?">헝다 사태에 디디추싱 상폐까지…중국 주식 사도 되나요?</a>]]></content>
     </entry>
 </feed>
