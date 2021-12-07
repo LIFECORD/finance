@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS2D&amp;section_id=101&amp;section_id2=258</id>
     <title>네이버 금융 ─ 뉴스 ─ 실시간 속보</title>
-    <updated>2021-12-07T13:20:40.390Z</updated>
+    <updated>2021-12-07T14:07:29.155Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[반환점 도는 12월 IPO… "시선은 일단 내년으로"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005102172&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211207&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005102172&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211207&amp;page=1"/>
+        <updated>2021-12-07T14:05:09.494Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005102172&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211207&amp;page=1" title="반환점 도는 12월 IPO… &quot;시선은 일단 내년으로&quot;">반환점 도는 12월 IPO… "시선은 일단 내년으로"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MKM파트너스, 스타벅스 투자의견 중립→구매…목표가 130달러]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001002050&amp;office_id=215&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211207&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001002050&amp;office_id=215&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211207&amp;page=1"/>
+        <updated>2021-12-07T14:05:09.494Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0001002050&amp;office_id=215&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211207&amp;page=1" title="MKM파트너스, 스타벅스 투자의견 중립→구매…목표가 130달러">MKM파트너스, 스타벅스 투자의견 중립→구매…목표가 130달러</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[12월 들어 상승중인 해운주…내년 전망은 '글쎄']]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005102165&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211207&amp;page=1</id>
@@ -60,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000019639&amp;office_id=243&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211207&amp;page=1"/>
         <updated>2021-12-07T12:09:08.781Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000019639&amp;office_id=243&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211207&amp;page=1" title="1주일 새 30억원 뭉칫돈 몰린 금 펀드…투자해도 괜찮을까">1주일 새 30억원 뭉칫돈 몰린 금 펀드…투자해도 괜찮을까</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["NFT 대세 아니었어?"…출렁이는 가상화폐 시장에 조정 받는 관련주]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004890297&amp;office_id=009&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211207&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004890297&amp;office_id=009&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211207&amp;page=1"/>
-        <updated>2021-12-07T12:09:08.783Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004890297&amp;office_id=009&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211207&amp;page=1" title="&quot;NFT 대세 아니었어?&quot;…출렁이는 가상화폐 시장에 조정 받는 관련주">"NFT 대세 아니었어?"…출렁이는 가상화폐 시장에 조정 받는 관련주</a>]]></content>
     </entry>
 </feed>

@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-12-07T13:20:40.369Z</updated>
+    <updated>2021-12-07T14:07:29.150Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[양도세 비과세 9억→12억원 조치 내일 시행]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000517516&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211207&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000517516&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211207&amp;page=1"/>
+        <updated>2021-12-07T14:06:18.570Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[경상수지 18개월째 흑자...흑자 폭은 40% 감소]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001674370&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211207&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001674370&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211207&amp;page=1"/>
+        <updated>2021-12-07T14:06:18.571Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[12억 이하 주택 양도세 비과세, 내일부터 시행]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001674367&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211207&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001674367&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211207&amp;page=1"/>
+        <updated>2021-12-07T14:06:18.573Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[새 일자리 절반은 고령층...청년에 수조 썼지만 효과↓]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001674366&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211207&amp;page=1</id>
@@ -53,26 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0011171298&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211207&amp;page=1"/>
         <updated>2021-12-07T13:19:31.001Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제2금융권도 대출문턱 높아져…불법 사금융 기승]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000345872&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211207&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000345872&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211207&amp;page=1"/>
-        <updated>2021-12-07T13:19:31.004Z</updated>
-        <content type="html"><![CDATA[TV조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[CSI] "충전카드 남은 돈은?"…잔액 '꿀꺽'하는 셀프빨래방]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000345870&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211207&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000345870&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211207&amp;page=1"/>
-        <updated>2021-12-07T13:19:31.005Z</updated>
-        <content type="html"><![CDATA[TV조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[백운기의 뉴스와이드] 이재명, '문 정부와 차별화'? / 윤석열-김종인-이준석 삼각편대]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001626726&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211207&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001626726&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211207&amp;page=1"/>
-        <updated>2021-12-07T13:19:31.008Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
     </entry>
 </feed>
