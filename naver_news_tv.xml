@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-12-07T20:08:19.065Z</updated>
+    <updated>2021-12-07T21:06:44.188Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["충전소 찾아 1시간 반"...멀고 먼 수소시대]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001674444&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211208&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001674444&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211208&amp;page=1"/>
+        <updated>2021-12-08T05:55:00.000Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[첫 6천명대 진입 예상…오미크론 확산 우려]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000517519&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211208&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000517519&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211208&amp;page=1"/>
+        <updated>2021-12-08T05:27:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["영끌로 샀는데 1억 넘게 빠져" 상승세 꺾였나]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000938189&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211208&amp;page=1</id>
@@ -60,19 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000517511&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211208&amp;page=1"/>
         <updated>2021-12-07T15:07:00.716Z</updated>
         <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[고용브리핑365] 대기업 '인사혁신' 바람]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000517507&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211208&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000517507&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211208&amp;page=1"/>
-        <updated>2021-12-07T15:07:00.716Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['2021 TV조선 경영대상 시상식' 개최]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000345878&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211208&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000345878&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211208&amp;page=1"/>
-        <updated>2021-12-07T15:07:00.718Z</updated>
-        <content type="html"><![CDATA[TV조선]]></content>
     </entry>
 </feed>
