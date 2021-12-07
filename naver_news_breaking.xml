@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS2D&amp;section_id=101&amp;section_id2=258</id>
     <title>네이버 금융 ─ 뉴스 ─ 실시간 속보</title>
-    <updated>2021-12-07T16:09:32.881Z</updated>
+    <updated>2021-12-07T17:19:13.261Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[마켓인]‘에듀테크보다 페어런트테크’…해외 VC 우르르 투자]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005102190&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211208&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005102190&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211208&amp;page=1"/>
+        <updated>2021-12-07T17:17:00.855Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005102190&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211208&amp;page=1" title="[마켓인]‘에듀테크보다 페어런트테크’…해외 VC 우르르 투자">[마켓인]‘에듀테크보다 페어런트테크’…해외 VC 우르르 투자</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[골드만 회장 "향후 몇년 현재의 높은 주식수익률 어렵다"]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005102185&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211208&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005102174&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211208&amp;page=1"/>
         <updated>2021-12-07T15:05:53.403Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005102174&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211208&amp;page=1" title="&quot;오미크론 별거 아니네&quot;…반등한 증시, 경기민감株 주목">"오미크론 별거 아니네"…반등한 증시, 경기민감株 주목</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UBS, 테슬라 목표가 1000달러…"경쟁자 없다"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001002051&amp;office_id=215&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211208&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001002051&amp;office_id=215&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211208&amp;page=1"/>
-        <updated>2021-12-07T15:05:53.408Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0001002051&amp;office_id=215&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211208&amp;page=1" title="UBS, 테슬라 목표가 1000달러…&quot;경쟁자 없다&quot;">UBS, 테슬라 목표가 1000달러…"경쟁자 없다"</a>]]></content>
     </entry>
 </feed>
