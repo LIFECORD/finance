@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=404</id>
     <title>네이버 금융 ─ 뉴스 ─ 채권 선물</title>
-    <updated>2021-12-07T09:08:10.722Z</updated>
+    <updated>2021-12-07T10:08:26.012Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[나스닥 레버리지·인버스 ETF 나온다…'국내 최초']]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005102139&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211207&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005102139&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211207&amp;page=1"/>
+        <updated>2021-12-07T10:06:46.585Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005102139&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211207&amp;page=1" title="나스닥 레버리지·인버스 ETF 나온다…'국내 최초'">나스닥 레버리지·인버스 ETF 나온다…'국내 최초'</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[삼성 글로벌 반도체 펀드, 반도체 기업에 집중 투자…두달 수익률 12%]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004890155&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211207&amp;page=1</id>
