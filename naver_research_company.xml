@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/research/company_list.naver</id>
     <title>네이버 금융 ─ 리서치 ─ 종목분석 리포트</title>
-    <updated>2021-12-06T21:06:33.625Z</updated>
+    <updated>2021-12-07T08:10:02.637Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/research/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[더 큰 바다로 나간다]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/company/1638844432843.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1638844432843.pdf"/>
+        <updated>2021-12-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[제놀루션]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4Q21 본격적인 이익 증가 기대]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/company/1638844380954.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1638844380954.pdf"/>
+        <updated>2021-12-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[아이에스동서]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[타는 목마름으로]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/company/1638844318902.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1638844318902.pdf"/>
+        <updated>2021-12-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[에이비엘바이오]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[성장하는 디지털 광고대행사]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/company/1638842276627.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1638842276627.pdf"/>
+        <updated>2021-12-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[이엠넷]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[본업을 뛰어넘을 신사업의 성장 가능성]]></title>
         <id>https://ssl.pstatic.net/imgstock/upload/research/company/1638779576364.pdf</id>
@@ -186,33 +214,5 @@
         <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1638776589875.pdf"/>
         <updated>2021-12-06T00:00:00.000Z</updated>
         <content type="html"><![CDATA[원텍]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KIOSK & 무인자동화기기 사업]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/company/1638776550426.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1638776550426.pdf"/>
-        <updated>2021-12-06T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[엘리비젼]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에너지 전환(전력화)으로 인한 수혜 기대]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/company/1638776488291.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1638776488291.pdf"/>
-        <updated>2021-12-06T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[엔에스컴퍼니]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바이오 빅데이터 기반 펩타이드 신약후보물질..]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/company/1638776412960.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1638776412960.pdf"/>
-        <updated>2021-12-06T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[엔솔바이오사이언스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[환경규제 수혜 업체]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/company/1638776370860.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1638776370860.pdf"/>
-        <updated>2021-12-06T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[에스제이켐]]></content>
     </entry>
 </feed>
