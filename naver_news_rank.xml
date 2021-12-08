@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-12-08T08:08:44.879Z</updated>
+    <updated>2021-12-08T09:07:02.928Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[[특징주] "확진자 급증...재택치료 대폭 개선할 것"...원격..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003994420&amp;office_id=011&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003994420&amp;office_id=011&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-08T06:08:21.086Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[특징주] EDGC, 오미크론 PCR 검사 불가능 소식에…전장 ..]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001922312&amp;office_id=016&amp;mode=RANK&amp;typ=0</id>
@@ -25,6 +18,13 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004752493&amp;office_id=014&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-12-08T07:06:17.673Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주] "확진자 급증...재택치료 대폭 개선할 것"...원격..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003994420&amp;office_id=011&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003994420&amp;office_id=011&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-08T06:08:21.086Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[특징주] 컴투스, 닥터나우와 원격의료 서비스 MOU 체결에 상..]]></title>

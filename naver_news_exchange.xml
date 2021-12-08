@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=429</id>
     <title>네이버 금융 ─ 뉴스 ─ 환율</title>
-    <updated>2021-12-08T08:08:44.855Z</updated>
+    <updated>2021-12-08T09:07:02.937Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[文 정부의 무리한 '신재생 드라이브'···中 업체만 배불렸다]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003994553&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211208&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003994553&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211208&amp;page=1"/>
+        <updated>2021-12-08T09:05:35.306Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003994553&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211208&amp;page=1" title="文 정부의 무리한 '신재생 드라이브'···中 업체만 배불렸다">文 정부의 무리한 '신재생 드라이브'···中 업체만 배불렸다</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["2022년을 수소·암모니아 발전의 원년으로"]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003993852&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211208&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004634438&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211208&amp;page=1"/>
         <updated>2021-12-07T15:06:39.476Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004634438&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211208&amp;page=1" title="오미크론에 원·달러 환율도 '화들짝'…&quot;당분간 상승세 전망&quot;">오미크론에 원·달러 환율도 '화들짝'…"당분간 상승세 전망"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["투자·세제 지원, 규제 개혁···기업 친환경 전환 뒷받침해야"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003990860&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211208&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003990860&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211208&amp;page=1"/>
-        <updated>2021-12-07T15:06:39.478Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003990860&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211208&amp;page=1" title="&quot;투자·세제 지원, 규제 개혁···기업 친환경 전환 뒷받침해야&quot;">"투자·세제 지원, 규제 개혁···기업 친환경 전환 뒷받침해야"</a>]]></content>
     </entry>
 </feed>
