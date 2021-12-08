@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-12-08T11:05:55.920Z</updated>
+    <updated>2021-12-08T12:11:33.625Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[카카오모빌리티, 650억원에 GS파크24 인수 결정]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005102938&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211208&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005102938&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211208&amp;page=1"/>
+        <updated>2021-12-08T12:10:19.467Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[시그널] 韓기업 신용도 회복 빨라진다···"오미크론 영향 제한적"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003994615&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211208&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003994615&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211208&amp;page=1"/>
+        <updated>2021-12-08T12:10:19.470Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신한서부티엔디리츠, 10일 코스피 상장]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0002555548&amp;office_id=119&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211208&amp;page=1</id>
@@ -60,19 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005102925&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211208&amp;page=1"/>
         <updated>2021-12-08T11:04:47.530Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[거래소 “세림비앤지·에스에이티이엔지, 9일 코스닥 상장”]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005102924&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211208&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005102924&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211208&amp;page=1"/>
-        <updated>2021-12-08T10:05:47.647Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여당, 이번엔 "대출 규제 완화"… 코인 과세 이어 가계빚 정책도 유턴?]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000645661&amp;office_id=469&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211208&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000645661&amp;office_id=469&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211208&amp;page=1"/>
-        <updated>2021-12-08T10:05:47.648Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
 </feed>
