@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-12-08T02:28:11.478Z</updated>
+    <updated>2021-12-08T03:07:31.542Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003994266&amp;office_id=011&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-12-08T10:18:00.000Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 골드퍼시픽, 제넨셀 오미크론 코로나19 효과 특허 출..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004752276&amp;office_id=014&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004752276&amp;office_id=014&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-08T10:55:00.000Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[특징주] 컴투스, 닥터나우와 원격의료 서비스 MOU 체결에 상..]]></title>
@@ -83,13 +90,6 @@
         <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[특징주] 2차전지주, LG엔솔 IPO 효과·美 전기차주 상승세..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003994244&amp;office_id=011&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003994244&amp;office_id=011&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-08T09:55:00.000Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[뉴스새벽배송]오미크론 우려 완화에 상승랠리…나스닥, 3% ‘급..]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005102264&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005102264&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
@@ -146,6 +146,13 @@
         <content type="html"><![CDATA[한국경제TV]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA['금융위기' 적중 레이 달리오, "미중갈등 악화시 새 경제위기"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001002151&amp;office_id=215&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001002151&amp;office_id=215&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-08T11:00:00.000Z</updated>
+        <content type="html"><![CDATA[한국경제TV]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['손안의 금융비서' 첫발 뗀 미래·NH·키움·하나, 돈맥 짚을수..]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005770838&amp;office_id=421&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005770838&amp;office_id=421&amp;mode=RANK&amp;typ=0"/>
@@ -160,24 +167,17 @@
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[삼일제약 “보유 부동산 가치 상승…500억 매각 기대”]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005102537&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005102537&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-08T11:30:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['오미크론'에 휘둘리는 항공株…지금 사도 될까?]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005770827&amp;office_id=421&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005770827&amp;office_id=421&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-12-08T06:05:00.000Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다가오는 배당株 '마지막 탑승일'…종목·시기 어떻게 살까?]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000120348&amp;office_id=629&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000120348&amp;office_id=629&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-08T00:21:03.160Z</updated>
-        <content type="html"><![CDATA[더팩트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중견 ‘신흥’ 2세 경영자 이용익의 묘한 ‘이중포석’]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000005189&amp;office_id=648&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000005189&amp;office_id=648&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-08T07:11:00.000Z</updated>
-        <content type="html"><![CDATA[비즈니스워치]]></content>
     </entry>
 </feed>
