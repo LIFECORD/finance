@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-12-08T18:08:05.766Z</updated>
+    <updated>2021-12-08T19:06:24.976Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[부꾸미]매년 2배 수익내는 투자 고수의 내년도 추천 업종은?]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004680999&amp;office_id=008&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211209&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004680999&amp;office_id=008&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211209&amp;page=1"/>
+        <updated>2021-12-09T03:30:00.000Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주식 매매 상위 종목 및 환율] 2021년 12월 8일자]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003658413&amp;office_id=023&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211209&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000120582&amp;office_id=629&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211209&amp;page=1"/>
         <updated>2021-12-08T15:05:57.386Z</updated>
         <content type="html"><![CDATA[더팩트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JP모건, 2022년 코로나 종식…세계경제 완전 회복]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001002332&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211209&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001002332&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211209&amp;page=1"/>
-        <updated>2021-12-08T15:05:57.389Z</updated>
-        <content type="html"><![CDATA[한국경제TV]]></content>
     </entry>
 </feed>
