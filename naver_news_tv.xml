@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-12-08T20:07:34.587Z</updated>
+    <updated>2021-12-08T21:06:33.308Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오후 9시 기준 5,114명 확진…역대 두번째 규모]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000517691&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211209&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000517691&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211209&amp;page=1"/>
+        <updated>2021-12-09T05:23:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[갑자기 젖소로 변하는 여성들…논란된 우유 광고]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000938439&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211209&amp;page=1</id>
@@ -66,13 +73,6 @@
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000345964&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211209&amp;page=1</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000345964&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211209&amp;page=1"/>
         <updated>2021-12-08T15:06:04.460Z</updated>
-        <content type="html"><![CDATA[TV조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1인 가구 '짙어진 그늘'…일자리·소득 낮고 아픈 사람 많다]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000345963&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211209&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000345963&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211209&amp;page=1"/>
-        <updated>2021-12-08T15:06:04.463Z</updated>
         <content type="html"><![CDATA[TV조선]]></content>
     </entry>
 </feed>
