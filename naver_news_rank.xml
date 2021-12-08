@@ -2,23 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-12-08T19:06:24.979Z</updated>
+    <updated>2021-12-08T20:07:34.560Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[미래에셋증권, 고용부 산하 5개 기관 퇴직연금 통합운영 협약]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004680992&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004680992&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-08T16:06:55.013Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['역대급 대어' LG엔솔 막 오른 상장, LG화학 같이 웃을까]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005102967&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005102967&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-08T16:06:55.011Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[오미크론 급등락에도…한달새 40% 뛴 탄소배출권 ETF]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005102977&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
@@ -27,11 +13,11 @@
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[신한금투 '복병'된 젠투 손실금…4분기 실적 충격으로 이어질까]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000120582&amp;office_id=629&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000120582&amp;office_id=629&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-08T16:06:55.007Z</updated>
-        <content type="html"><![CDATA[더팩트]]></content>
+        <title type="html"><![CDATA[미래에셋증권, 고용부 산하 5개 기관 퇴직연금 통합운영 협약]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004680992&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004680992&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-08T16:06:55.013Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“부자 되는 법 배우고 푸짐한 경품도 받아가세요”]]></title>
@@ -41,16 +27,23 @@
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[신한금투 '복병'된 젠투 손실금…4분기 실적 충격으로 이어질까]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000120582&amp;office_id=629&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000120582&amp;office_id=629&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-08T16:06:55.007Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['역대급 대어' LG엔솔 막 오른 상장, LG화학 같이 웃을까]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005102967&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005102967&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-08T16:06:55.011Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[주식 매매 상위 종목 및 환율] 2021년 12월 8일자]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003658413&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003658413&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-09T03:03:00.000Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주요경제지표] 2021년 12월 8일자]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003658411&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003658411&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-12-09T03:03:00.000Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
@@ -60,5 +53,33 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004680999&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-12-09T03:30:00.000Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주요경제지표] 2021년 12월 8일자]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003658411&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003658411&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-09T03:03:00.000Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["채널 일원화" "산업별 특성 고려" 국내 ESG 공시 확산하려..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004681003&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004681003&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-09T04:19:00.000Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[확진자 7000명 쏟아진 날, 코스피는 삼천 넘었다…이유는?]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004681008&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004681008&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-09T04:34:00.000Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NEW, 메타버스에 부각될 VFX 자회사-하나금투]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004752753&amp;office_id=014&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004752753&amp;office_id=014&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-09T04:58:00.000Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
     </entry>
 </feed>
