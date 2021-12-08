@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-12-08T16:08:32.134Z</updated>
+    <updated>2021-12-08T17:16:52.173Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[갑자기 젖소로 변하는 여성들…논란된 우유 광고]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000938439&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211209&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000938439&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211209&amp;page=1"/>
+        <updated>2021-12-09T01:21:00.000Z</updated>
+        <content type="html"><![CDATA[SBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["서울 아파트값 '하락 진입' 직전"..."일시적인 현상"]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001674864&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211209&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000345963&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211209&amp;page=1"/>
         <updated>2021-12-08T15:06:04.463Z</updated>
         <content type="html"><![CDATA[TV조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[직장·학교 때문에 수도권으로…“주거비 부담↑”]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0011172082&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211209&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011172082&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211209&amp;page=1"/>
-        <updated>2021-12-08T15:06:04.464Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
