@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/research/company_list.naver</id>
     <title>네이버 금융 ─ 리서치 ─ 종목분석 리포트</title>
-    <updated>2021-12-08T06:09:46.707Z</updated>
+    <updated>2021-12-08T07:07:37.504Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/research/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정기 사장단 인사 발표의 시사점]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/company/1638946947811.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1638946947811.pdf"/>
+        <updated>2021-12-08T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[삼성전자]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[해외 방산 수주 기대 속 신사업 투자 긍정적]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/company/1638945470737.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1638945470737.pdf"/>
+        <updated>2021-12-08T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[한화시스템]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[더 큰 바다로 나간다]]></title>
         <id>https://ssl.pstatic.net/imgstock/upload/research/company/1638844432843.pdf</id>
@@ -200,19 +214,5 @@
         <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1638778500139.pdf"/>
         <updated>2021-12-06T00:00:00.000Z</updated>
         <content type="html"><![CDATA[유비온]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IT 인프라 솔루션 기업]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/company/1638778459546.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1638778459546.pdf"/>
-        <updated>2021-12-06T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[유니포인트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[K-뷰티 시장의 신성]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/company/1638776589875.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1638776589875.pdf"/>
-        <updated>2021-12-06T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[원텍]]></content>
     </entry>
 </feed>

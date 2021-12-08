@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-12-08T06:09:46.704Z</updated>
+    <updated>2021-12-08T07:07:37.502Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001922312&amp;office_id=016&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-12-08T06:08:21.073Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주] "확진자 급증...재택치료 대폭 개선할 것"...원격..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003994420&amp;office_id=011&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003994420&amp;office_id=011&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-08T06:08:21.086Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 나노엔텍, ‘SK텔레콤 자회사’ 원격진료 수혜 부각↑]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004752493&amp;office_id=014&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004752493&amp;office_id=014&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-08T07:06:17.673Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[특징주] 컴투스, 닥터나우와 원격의료 서비스 MOU 체결에 상..]]></title>
@@ -32,13 +46,6 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000762499&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-12-08T06:08:21.084Z</updated>
         <content type="html"><![CDATA[머니S]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[특징주] "확진자 급증...재택치료 대폭 개선할 것"...원격..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003994420&amp;office_id=011&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003994420&amp;office_id=011&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-08T06:08:21.086Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[파우치 “오미크론 델타보다 확실히 덜 심각” 세계증시 일제 급등]]></title>
@@ -97,18 +104,18 @@
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[특징주] '메타버스 원격의료 추진' 컴투스 7.4% ↑]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0002986640&amp;office_id=030&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0002986640&amp;office_id=030&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-08T06:08:21.109Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[역대급 수주에도 맥 못추는 조선주···"유가 살아나야 랠리 온다..]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003994161&amp;office_id=011&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003994161&amp;office_id=011&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-12-08T06:31:00.000Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주] '메타버스 원격의료 추진' 컴투스 7.4% ↑]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0002986640&amp;office_id=030&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0002986640&amp;office_id=030&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-08T06:08:21.109Z</updated>
+        <content type="html"><![CDATA[전자신문]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[길어지는 박스피에… 증권가도 밸런스게임? "현금" VS "경기민..]]></title>
@@ -123,6 +130,13 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004752444&amp;office_id=014&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-12-08T06:08:21.112Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[드림텍, 50억 규모 자사주 취득 신탁계약 체결]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001922325&amp;office_id=016&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001922325&amp;office_id=016&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-08T07:06:17.695Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[뉴스새벽배송]오미크론 우려 완화에 상승랠리…나스닥, 3% ‘급..]]></title>
@@ -165,19 +179,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003994157&amp;office_id=011&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-12-08T06:18:00.000Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코스피200 편입 종목 대차잔고 3배 급증…공매도 우려 확대]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0002555204&amp;office_id=119&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0002555204&amp;office_id=119&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-08T05:01:00.000Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나스닥·S&P 3월 이후 최대폭 상승···모처럼 웃은 기술주 [..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001002074&amp;office_id=215&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001002074&amp;office_id=215&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-08T07:12:00.000Z</updated>
-        <content type="html"><![CDATA[한국경제TV]]></content>
     </entry>
 </feed>
