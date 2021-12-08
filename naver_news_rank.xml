@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-12-08T01:56:04.122Z</updated>
+    <updated>2021-12-08T02:28:11.478Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[특징주] NFT 테마 'FSN' 장초반 상승]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0002986543&amp;office_id=030&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0002986543&amp;office_id=030&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-08T10:14:00.000Z</updated>
+        <content type="html"><![CDATA[전자신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 위메이드, '다크에덴' 개발사 위믹스 플랫폼 합류 소..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003994266&amp;office_id=011&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003994266&amp;office_id=011&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-08T10:18:00.000Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 컴투스, 닥터나우와 원격의료 서비스 MOU 체결에 상..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000641068&amp;office_id=031&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000641068&amp;office_id=031&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-08T10:09:00.000Z</updated>
+        <content type="html"><![CDATA[아이뉴스24]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주가 100만원 갈까… 효성첨단소재, 올들어 380% '폭등']]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000762259&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
@@ -62,6 +83,13 @@
         <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[특징주] 2차전지주, LG엔솔 IPO 효과·美 전기차주 상승세..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003994244&amp;office_id=011&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003994244&amp;office_id=011&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-08T09:55:00.000Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[뉴스새벽배송]오미크론 우려 완화에 상승랠리…나스닥, 3% ‘급..]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005102264&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005102264&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
@@ -87,6 +115,13 @@
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005770855&amp;office_id=421&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005770855&amp;office_id=421&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-12-08T06:44:00.000Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 이오플로우, 450억원 규모 계약체결 소식에 강세]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005771259&amp;office_id=421&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005771259&amp;office_id=421&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-08T10:04:00.000Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
@@ -144,40 +179,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000005189&amp;office_id=648&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-12-08T07:11:00.000Z</updated>
         <content type="html"><![CDATA[비즈니스워치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ETF 폭발적 성장..운용사 시장 점유율 '지각변동']]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004680476&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004680476&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-08T04:34:00.000Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한송네오텍, 한국투자파트너스와 벨기에 바이오사 공동 투자]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005102297&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005102297&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-08T08:41:00.000Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이틀 연속 세계증시 급등시킨 파우치 소장의 입]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005770893&amp;office_id=421&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005770893&amp;office_id=421&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-08T07:16:00.000Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美 증시, 오미크론 우려 완화에 상승…나스닥 3%↑]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0010876709&amp;office_id=003&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0010876709&amp;office_id=003&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-08T06:25:00.000Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신한금투 "이오플로우, 인도네시아에 450억 독점계약 주목"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0010876810&amp;office_id=003&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0010876810&amp;office_id=003&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-08T08:25:00.000Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
