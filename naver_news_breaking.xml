@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS2D&amp;section_id=101&amp;section_id2=258</id>
     <title>네이버 금융 ─ 뉴스 ─ 실시간 속보</title>
-    <updated>2021-12-09T17:17:25.932Z</updated>
+    <updated>2021-12-09T18:08:50.174Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우크라이나 갈등에…날개 꺾인 러시아 펀드]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005103837&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211210&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005103837&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211210&amp;page=1"/>
+        <updated>2021-12-09T18:06:47.102Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005103837&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211210&amp;page=1" title="우크라이나 갈등에…날개 꺾인 러시아 펀드">우크라이나 갈등에…날개 꺾인 러시아 펀드</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[마켓인]흥행 먹구름 VS 오히려 좋아…미니스톱 인수전 새국면]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005103836&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211210&amp;page=1</id>
@@ -60,12 +67,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001002604&amp;office_id=215&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211210&amp;page=1"/>
         <updated>2021-12-09T15:04:38.269Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0001002604&amp;office_id=215&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211210&amp;page=1" title="제프리스, 사우스웨스트에어라인스 매수→보류…목표가 45달러">제프리스, 사우스웨스트에어라인스 매수→보류…목표가 45달러</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍콩 IPO 앞둔 '센스타임', 美 투자 블랙리스트 오른다]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004638848&amp;office_id=015&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211210&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004638848&amp;office_id=015&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211210&amp;page=1"/>
-        <updated>2021-12-09T15:04:38.273Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004638848&amp;office_id=015&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211210&amp;page=1" title="홍콩 IPO 앞둔 '센스타임', 美 투자 블랙리스트 오른다">홍콩 IPO 앞둔 '센스타임', 美 투자 블랙리스트 오른다</a>]]></content>
     </entry>
 </feed>
