@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-12-09T08:09:12.247Z</updated>
+    <updated>2021-12-09T09:06:40.174Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[[특징주] 서울옥션, 아마존 'NFT 마켓' 투자…디지털아트 N..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001922844&amp;office_id=016&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001922844&amp;office_id=016&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-09T06:08:05.609Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[특징주] 카카오뱅크, 넷마블의 지분 전량 처분 소식에 5%↓]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000762920&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000762920&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-12-09T07:06:18.209Z</updated>
         <content type="html"><![CDATA[머니S]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 서울옥션, 아마존 'NFT 마켓' 투자…디지털아트 N..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001922844&amp;office_id=016&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001922844&amp;office_id=016&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-09T06:08:05.609Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[특징주] 경남제약, 오미크론 등 변이 검사 유효성 확인… 23..]]></title>
