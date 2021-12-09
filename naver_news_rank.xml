@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-12-09T20:09:28.446Z</updated>
+    <updated>2021-12-09T21:06:06.449Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003658768&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-12-10T03:05:00.000Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['퇴직연금 디폴트옵션' 국회 본회의 통과]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004638864&amp;office_id=015&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004638864&amp;office_id=015&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-10T01:39:00.000Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[마켓인]흥행 먹구름 VS 오히려 좋아…미니스톱 인수전 새국면]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005103836&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005103836&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-10T01:31:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[미 주간 실업수당 청구 18만4000건…52년만 최저]]></title>
@@ -27,24 +41,10 @@
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[마켓인]흥행 먹구름 VS 오히려 좋아…미니스톱 인수전 새국면]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005103836&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005103836&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-10T01:31:00.000Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['퇴직연금 디폴트옵션' 국회 본회의 통과]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004638864&amp;office_id=015&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004638864&amp;office_id=015&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-10T01:39:00.000Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주식 매매 상위 종목 및 환율] 2021년 12월 9일자]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003658764&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003658764&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-10T03:05:00.000Z</updated>
+        <title type="html"><![CDATA[‘ETF의 아버지’ 배재규, 한투운용 새 수장에]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003658749&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003658749&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-10T03:04:00.000Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
@@ -55,17 +55,73 @@
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘ETF의 아버지’ 배재규, 한투운용 새 수장에]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003658749&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003658749&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-10T03:04:00.000Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[불확실성 커지는 내년 재테크, 홈런보다는 안타 노려라]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003658765&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003658765&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-12-10T03:05:00.000Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주식 매매 상위 종목 및 환율] 2021년 12월 9일자]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003658764&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003658764&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-10T03:05:00.000Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["올해 마지막 상장 리츠" 신한서부티엔디리츠, 오늘 코스피 입성]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000763067&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000763067&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-10T05:16:00.000Z</updated>
+        <content type="html"><![CDATA[머니S]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지분 매각 소식에…'급락' 카뱅 vs '급등' 넷마블, 엇갈린 ..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004681602&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004681602&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-10T05:11:00.000Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['유전자 가위' 툴젠, 오늘 코스닥 입성… 부진 만회할까]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000763068&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000763068&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-10T05:16:00.000Z</updated>
+        <content type="html"><![CDATA[머니S]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[2021년 증시 10대 뉴스③]서학개미로 변신한 동학개미]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005103839&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005103839&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-10T05:01:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["테크핀 증권사 DNA 강화" 카카오페이증권, 공동대표 체제로]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000763077&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000763077&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-10T05:40:00.000Z</updated>
+        <content type="html"><![CDATA[머니S]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이재용은 왜 37살 MZ세대 상무를 선택했나]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004681606&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004681606&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-10T05:30:00.000Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔씨소프트, 4·4분기 영업익 컨센서스 하회 전망-IBK]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004753470&amp;office_id=014&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004753470&amp;office_id=014&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-10T05:35:00.000Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[컴투스, P2E가 내년 게임 체인저-한투]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004753471&amp;office_id=014&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004753471&amp;office_id=014&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-10T05:36:00.000Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
     </entry>
 </feed>
