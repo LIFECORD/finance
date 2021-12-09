@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-12-09T02:27:16.816Z</updated>
+    <updated>2021-12-09T03:07:17.152Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[특징주]풍국주정, 의료용 가스 사업 영위 자회사 '선도사업' ..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005012768&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005012768&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-09T11:12:00.000Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["채널 일원화" "산업별 특성 고려" 국내 ESG 공시 확산하려..]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004681003&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
@@ -48,11 +55,11 @@
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[특징주] 한컴라이프케어, 코로나發 의료용 산소 부족..제2 요..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004752911&amp;office_id=014&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004752911&amp;office_id=014&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-09T09:57:00.000Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+        <title type="html"><![CDATA[[특징주] 티비씨 +14.91%↑..."윤석열 가상 다자대결 4..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0002986864&amp;office_id=030&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0002986864&amp;office_id=030&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-09T11:30:00.000Z</updated>
+        <content type="html"><![CDATA[전자신문]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[주가 낮아진 삼성전자·현대차·LG화학 매수적기 [이종우 증시 맥..]]></title>
@@ -69,6 +76,13 @@
         <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[특징주] 올릭스, 엠큐렉스 코로나19 변이 대응 백신 등 파이..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000762805&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000762805&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-09T10:36:00.000Z</updated>
+        <content type="html"><![CDATA[머니S]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA["12월 美 FOMC 기준금리 상향 테이퍼링 종료시점 당길 것"]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005103007&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005103007&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
@@ -83,11 +97,11 @@
         <content type="html"><![CDATA[데일리안]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[특징주] 올릭스, 엠큐렉스 코로나19 변이 대응 백신 등 파이..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000762805&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000762805&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-09T10:36:00.000Z</updated>
-        <content type="html"><![CDATA[머니S]]></content>
+        <title type="html"><![CDATA[[특징주] 한컴라이프케어, 코로나發 의료용 산소 부족..제2 요..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004752911&amp;office_id=014&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004752911&amp;office_id=014&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-09T09:57:00.000Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[삼익악기 김종섭 회장, 경영권 강화 손쉬운 재단 활용법]]></title>
@@ -104,18 +118,25 @@
         <content type="html"><![CDATA[서울경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[특징주] 동양, 윤석열 전국 교통 인프로 구축 대선 공약에 건..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000762783&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000762783&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-09T09:57:00.000Z</updated>
-        <content type="html"><![CDATA[머니S]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[뉴욕증시]오미크론 딛고 3거래일 연속 강세…나스닥 0.6%↑]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005103008&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005103008&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-12-09T07:11:00.000Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주]하이브, 오미크론 우려 축소에 5%대 상승]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005103323&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005103323&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-09T11:03:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 'NFT' 관련...갤럭시아머니트리 +9.76% 상승]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0002986867&amp;office_id=030&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0002986867&amp;office_id=030&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-09T11:36:00.000Z</updated>
+        <content type="html"><![CDATA[전자신문]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[의약품 불순물 이슈 또 터졌다, 제약바이오사 '발 동동']]></title>
@@ -146,38 +167,17 @@
         <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[특징주] 동양, 윤석열 전국 교통 인프로 구축 대선 공약에 건..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000762783&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000762783&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-09T09:57:00.000Z</updated>
+        <content type="html"><![CDATA[머니S]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[자산운용사 분기 순익 역대 최대치…전년比 35%↑]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001922456&amp;office_id=016&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001922456&amp;office_id=016&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-12-09T07:14:00.000Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['반도체'만 바라본 자동차…내년은 달라질까]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000005208&amp;office_id=648&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000005208&amp;office_id=648&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-09T07:16:00.000Z</updated>
-        <content type="html"><![CDATA[비즈니스워치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[e공시 눈에 띄네]코스닥-8일]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005012523&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005012523&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-09T07:09:00.000Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[클릭 e종목]"한솔케미칼, 반도체와 배터리 동시 투자 종목"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005012535&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005012535&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-09T07:38:00.000Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["혈액만으로 암 확인?"…불붙은 암 진단키트 경쟁]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000005206&amp;office_id=648&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000005206&amp;office_id=648&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-09T07:06:00.000Z</updated>
-        <content type="html"><![CDATA[비즈니스워치]]></content>
     </entry>
 </feed>
