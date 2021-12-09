@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-12-09T19:05:55.072Z</updated>
+    <updated>2021-12-09T20:09:28.446Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[구독자 188만명 유튜버 슈카 “재테크의 첫단추는 자산배분”]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003658768&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003658768&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-10T03:05:00.000Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미 주간 실업수당 청구 18만4000건…52년만 최저]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001002610&amp;office_id=215&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001002610&amp;office_id=215&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-12-10T01:14:00.000Z</updated>
         <content type="html"><![CDATA[한국경제TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“금리 3.3% 예금 쿠폰·갤플립 행운 잡자” 뜨거웠던 경품행사]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003658748&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003658748&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-10T03:04:00.000Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[마켓인]흥행 먹구름 VS 오히려 좋아…미니스톱 인수전 새국면]]></title>
@@ -27,20 +41,6 @@
         <content type="html"><![CDATA[한국경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구독자 188만명 유튜버 슈카 “재테크의 첫단추는 자산배분”]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003658768&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003658768&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-10T03:05:00.000Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“금리 3.3% 예금 쿠폰·갤플립 행운 잡자” 뜨거웠던 경품행사]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003658748&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003658748&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-10T03:04:00.000Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[주식 매매 상위 종목 및 환율] 2021년 12월 9일자]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003658764&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003658764&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
@@ -48,16 +48,16 @@
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘ETF의 아버지’ 배재규, 한투운용 새 수장에]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003658749&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003658749&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
+        <title type="html"><![CDATA[[주요경제지표] 2021년 12월 9일자]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003658750&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003658750&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-12-10T03:04:00.000Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[주요경제지표] 2021년 12월 9일자]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003658750&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003658750&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
+        <title type="html"><![CDATA[‘ETF의 아버지’ 배재규, 한투운용 새 수장에]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003658749&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003658749&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-12-10T03:04:00.000Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>

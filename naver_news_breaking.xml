@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS2D&amp;section_id=101&amp;section_id2=258</id>
     <title>네이버 금융 ─ 뉴스 ─ 실시간 속보</title>
-    <updated>2021-12-09T19:05:55.071Z</updated>
+    <updated>2021-12-09T20:09:28.449Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[ESG펀드부터 액티브ETF까지…내년 핫한 펀드는?]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004681597&amp;office_id=008&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211210&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004681597&amp;office_id=008&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211210&amp;page=1"/>
+        <updated>2021-12-09T20:07:20.213Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004681597&amp;office_id=008&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211210&amp;page=1" title="ESG펀드부터 액티브ETF까지…내년 핫한 펀드는?">ESG펀드부터 액티브ETF까지…내년 핫한 펀드는?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[구독자 188만명 유튜버 슈카 “재테크의 첫단추는 자산배분”]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003658768&amp;office_id=023&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211210&amp;page=1</id>
@@ -53,12 +60,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005103836&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211210&amp;page=1"/>
         <updated>2021-12-09T17:15:01.832Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005103836&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211210&amp;page=1" title="[마켓인]흥행 먹구름 VS 오히려 좋아…미니스톱 인수전 새국면">[마켓인]흥행 먹구름 VS 오히려 좋아…미니스톱 인수전 새국면</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미 주간 실업수당 청구 18만4000건…52년만 최저]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001002610&amp;office_id=215&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211210&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001002610&amp;office_id=215&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211210&amp;page=1"/>
-        <updated>2021-12-09T17:15:01.833Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0001002610&amp;office_id=215&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211210&amp;page=1" title="미 주간 실업수당 청구 18만4000건…52년만 최저">미 주간 실업수당 청구 18만4000건…52년만 최저</a>]]></content>
     </entry>
 </feed>
