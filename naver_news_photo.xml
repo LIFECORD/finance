@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-12-09T16:09:32.548Z</updated>
+    <updated>2021-12-09T17:17:25.936Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[마켓인]흥행 먹구름 VS 오히려 좋아…미니스톱 인수전 새국면]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005103836&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211210&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005103836&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211210&amp;page=1"/>
+        <updated>2021-12-10T01:31:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미 주간 실업수당 청구 18만4000건…52년만 최저]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001002610&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211210&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001002610&amp;office_id=215&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211210&amp;page=1"/>
+        <updated>2021-12-10T01:14:00.000Z</updated>
+        <content type="html"><![CDATA[한국경제TV]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[내년 퇴직연금 디폴트옵션 도입…수익률 높이고 금융사간 경쟁 심화]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0002710378&amp;office_id=029&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211210&amp;page=1</id>
@@ -60,19 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0002556029&amp;office_id=119&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211210&amp;page=1"/>
         <updated>2021-12-09T15:05:40.375Z</updated>
         <content type="html"><![CDATA[데일리안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[거래소, 아셈스 등 3개사 코스닥 상장예심 통과]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0002556027&amp;office_id=119&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211210&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0002556027&amp;office_id=119&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211210&amp;page=1"/>
-        <updated>2021-12-09T15:05:40.376Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아마존, 이탈리아서 '반독점' 혐의로 1.5조원 벌금 철퇴]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004638841&amp;office_id=015&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211210&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004638841&amp;office_id=015&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211210&amp;page=1"/>
-        <updated>2021-12-09T15:05:40.378Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
