@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=429</id>
     <title>네이버 금융 ─ 뉴스 ─ 환율</title>
-    <updated>2021-12-09T05:08:39.801Z</updated>
+    <updated>2021-12-09T06:09:21.313Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한미, 반도체 미래 공급망 리스크 대응방안 모색]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003994986&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211209&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003994986&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211209&amp;page=1"/>
+        <updated>2021-12-09T06:07:58.493Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003994986&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211209&amp;page=1" title="한미, 반도체 미래 공급망 리스크 대응방안 모색">한미, 반도체 미래 공급망 리스크 대응방안 모색</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TV홈쇼핑이 유통업체 수수료 가장 높다]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003994928&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211209&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003992674&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211209&amp;page=1"/>
         <updated>2021-12-08T15:05:43.705Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003992674&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211209&amp;page=1" title="산업부 내년 예산 11조7,312억원···올해보다 4.9%↑">산업부 내년 예산 11조7,312억원···올해보다 4.9%↑</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신재생 손실규모 '火電 수익 30배' 달하기도···"에너지믹스 다시 짜야"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003991394&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211209&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003991394&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211209&amp;page=1"/>
-        <updated>2021-12-08T15:05:43.706Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003991394&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211209&amp;page=1" title="신재생 손실규모 '火電 수익 30배' 달하기도···&quot;에너지믹스 다시 짜야&quot;">신재생 손실규모 '火電 수익 30배' 달하기도···"에너지믹스 다시 짜야"</a>]]></content>
     </entry>
 </feed>
