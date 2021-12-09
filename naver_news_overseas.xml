@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-12-09T13:17:39.325Z</updated>
+    <updated>2021-12-09T14:06:45.906Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[홍콩 IPO 앞둔 '센스타임', 美 투자 블랙리스트 오른다]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004638848&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211209&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004638848&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211209&amp;page=1"/>
+        <updated>2021-12-09T14:05:04.347Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004638848&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211209&amp;page=1" title="홍콩 IPO 앞둔 '센스타임', 美 투자 블랙리스트 오른다">홍콩 IPO 앞둔 '센스타임', 美 투자 블랙리스트 오른다</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아마존, 이탈리아서 '반독점' 혐의로 1.5조원 벌금 철퇴]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004638841&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211209&amp;page=1</id>
@@ -60,12 +67,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005103570&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211209&amp;page=1"/>
         <updated>2021-12-09T07:05:49.685Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005103570&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211209&amp;page=1" title="[외환마감]국내증시 상승…환율, 사흘째 하락 1170원대 초중반">[외환마감]국내증시 상승…환율, 사흘째 하락 1170원대 초중반</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["또 최고가" 애플 주식에 몰린 돈 3400조원…한국 GDP의 2배]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004681383&amp;office_id=008&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211209&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004681383&amp;office_id=008&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211209&amp;page=1"/>
-        <updated>2021-12-09T07:05:49.687Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004681383&amp;office_id=008&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211209&amp;page=1" title="&quot;또 최고가&quot; 애플 주식에 몰린 돈 3400조원…한국 GDP의 2배">"또 최고가" 애플 주식에 몰린 돈 3400조원…한국 GDP의 2배</a>]]></content>
     </entry>
 </feed>
