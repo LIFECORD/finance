@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-12-10T21:05:56.361Z</updated>
+    <updated>2021-12-10T22:05:45.019Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴욕증시]40년래 최악 인플레에도…S&P 지수 신고점 깼다]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005104585&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211211&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005104585&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211211&amp;page=1"/>
+        <updated>2021-12-10T22:04:07.233Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005104585&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211211&amp;page=1" title="[뉴욕증시]40년래 최악 인플레에도…S&amp;P 지수 신고점 깼다">[뉴욕증시]40년래 최악 인플레에도…S&amp;P 지수 신고점 깼다</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[속보]인플레 폭등에도 미 증시 반등…나스닥 0.7%↑]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005104581&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211211&amp;page=1</id>
@@ -60,12 +67,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001002885&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211211&amp;page=1"/>
         <updated>2021-12-10T15:04:27.621Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0001002885&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211211&amp;page=1" title="골드만삭스, 사우스웨스트항공 중립→매도... 목표가 36달러">골드만삭스, 사우스웨스트항공 중립→매도... 목표가 36달러</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[표]아시아 주요 증시 동향(12월 10일)]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003995590&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211211&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003995590&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211211&amp;page=1"/>
-        <updated>2021-12-10T15:04:27.622Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003995590&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211211&amp;page=1" title="[표]아시아 주요 증시 동향(12월 10일)">[표]아시아 주요 증시 동향(12월 10일)</a>]]></content>
     </entry>
 </feed>
