@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-12-10T00:21:48.938Z</updated>
+    <updated>2021-12-10T01:51:08.278Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -132,17 +132,17 @@
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[신한금투 "LG전자, 12월에 살 만하다"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003995247&amp;office_id=011&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003995247&amp;office_id=011&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-10T08:39:00.000Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA["中 생산자물가지수서 찾은 희망…내년 경기 회복 가능성 有"]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005103881&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005103881&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-12-10T07:03:00.000Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원티드랩, AI 채용 매칭 플랫폼으로 차별화된 성장 -한국]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005103892&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005103892&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-10T07:34:00.000Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
@@ -174,10 +174,10 @@
         <content type="html"><![CDATA[비즈니스워치]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[신한금투 "LG전자, 12월에 살 만하다"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003995247&amp;office_id=011&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003995247&amp;office_id=011&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-10T08:39:00.000Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
+        <title type="html"><![CDATA[[뉴스+]탈석탄 내건 국민연금, 관련 주식 비중 살펴보니]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005103887&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005103887&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-10T07:24:00.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>

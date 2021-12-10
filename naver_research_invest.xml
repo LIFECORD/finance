@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/research/invest_list.naver</id>
     <title>네이버 금융 ─ 리서치 ─ 투자정보 리포트</title>
-    <updated>2021-12-10T00:21:48.921Z</updated>
+    <updated>2021-12-10T01:51:08.290Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/research/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[호랑이 기운]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/invest/1639100954304.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/invest/1639100954304.pdf"/>
+        <updated>2021-12-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[하나금융투자]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Global Issue & News]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/invest/1639100909749.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/invest/1639100909749.pdf"/>
+        <updated>2021-12-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[하나금융투자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미래에셋증권 Daily 종합]]></title>
         <id>https://ssl.pstatic.net/imgstock/upload/research/invest/1639018542966.pdf</id>
@@ -200,19 +214,5 @@
         <link href="https://ssl.pstatic.net/imgstock/upload/research/invest/1638412936505.pdf"/>
         <updated>2021-12-02T00:00:00.000Z</updated>
         <content type="html"><![CDATA[케이프투자증권]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미래에셋증권 Daily 종합]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/invest/1638324284962.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/invest/1638324284962.pdf"/>
-        <updated>2021-12-01T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[미래에셋증권]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미 증시, 오미크론 우려 완화 불구 파월 의장 발언으..]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/invest/1638324253274.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/invest/1638324253274.pdf"/>
-        <updated>2021-12-01T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[미래에셋증권]]></content>
     </entry>
 </feed>
