@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-12-10T08:08:19.526Z</updated>
+    <updated>2021-12-10T09:07:28.321Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[[특징주] 포스코, 물적분할 결정에 4%대 하락]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0002556268&amp;office_id=119&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0002556268&amp;office_id=119&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-10T07:06:05.703Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[특징주] 카카오페이, 경영진은 899억 차익.. 주가는 '급락..]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005013578&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005013578&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-12-10T07:06:05.702Z</updated>
         <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 포스코, 물적분할 결정에 4%대 하락]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0002556268&amp;office_id=119&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0002556268&amp;office_id=119&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-10T07:06:05.703Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[특징주] '헝가리 투자에도'…에코프로비엠, 상승랠리 끝났나]]></title>
@@ -38,13 +38,6 @@
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001923188&amp;office_id=016&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001923188&amp;office_id=016&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-12-10T10:47:00.000Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[특징주] 카카오페이, 경영진 보유 지분 매각에 급락세]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001923349&amp;office_id=016&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001923349&amp;office_id=016&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-10T07:06:05.693Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
     <entry>
@@ -179,5 +172,12 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001002625&amp;office_id=215&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-12-10T07:14:00.000Z</updated>
         <content type="html"><![CDATA[한국경제TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[삼성자산운용 서봉균 신임 대표 내정]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003658825&amp;office_id=023&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003658825&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-10T11:41:00.000Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>

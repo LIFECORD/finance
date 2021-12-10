@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-12-10T08:08:19.549Z</updated>
+    <updated>2021-12-10T09:07:28.308Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코스피 3,010.23 코스닥 1,011.57]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0011173502&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211210&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011173502&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211210&amp;page=1"/>
+        <updated>2021-12-10T09:06:21.833Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“오늘부터 국세 납세증명서 방문 없이 바로 전송”]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0011173501&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211210&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011173501&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211210&amp;page=1"/>
+        <updated>2021-12-10T09:06:21.834Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["연말 하루 3만명 확진도 가능…행동패턴 바꿔야"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000517982&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211210&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000517982&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211210&amp;page=1"/>
+        <updated>2021-12-10T09:06:21.838Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신규확진 사흘째 7천명대…또 병상 확보 행정명령]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000517980&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211210&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000517980&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211210&amp;page=1"/>
+        <updated>2021-12-10T09:06:21.838Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서울, 전세·매매지수 동반 하락…전국 아파트 ‘팔자’ 많아]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0011173488&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211210&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011173488&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211210&amp;page=1"/>
+        <updated>2021-12-10T09:06:21.839Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코스피 3010선 마감‥LG전자·기아차·현대차 상승세]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001165313&amp;office_id=214&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211210&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001165313&amp;office_id=214&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211210&amp;page=1"/>
+        <updated>2021-12-10T09:06:21.840Z</updated>
+        <content type="html"><![CDATA[MBC]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[현장의재구성] 청소년 방역패스 반발 확산에 당국의 반응은?]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000517975&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211210&amp;page=1</id>
@@ -32,47 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001627463&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211210&amp;page=1"/>
         <updated>2021-12-10T07:06:20.181Z</updated>
         <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MBN프레스룸] CCTV 속 '폭발' 순간]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001627454&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211210&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001627454&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211210&amp;page=1"/>
-        <updated>2021-12-10T07:06:20.183Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[경제 토론] ‘묻고 더블로 가’ 50조? 100조?…대선주자 손실보상 ‘쩐의 전쟁’]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000267487&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211210&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000267487&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211210&amp;page=1"/>
-        <updated>2021-12-10T07:06:20.184Z</updated>
-        <content type="html"><![CDATA[SBS Biz]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코스피,  단기 급등 따른 숨고르기…개인·기관 매수에 3천선 지지]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000267486&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211210&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000267486&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211210&amp;page=1"/>
-        <updated>2021-12-10T07:06:20.185Z</updated>
-        <content type="html"><![CDATA[SBS Biz]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MBN 프레스룸] 12월 10일 오늘의 큐시트]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001627452&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211210&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001627452&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211210&amp;page=1"/>
-        <updated>2021-12-10T07:06:20.187Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[프레스룸 날씨]오후까지 곳곳 비 조금…주말, 미세먼지 '나쁨']]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001627451&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211210&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001627451&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211210&amp;page=1"/>
-        <updated>2021-12-10T07:06:20.188Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[영상] 한달새 10명! 졸음운전 사망사고 급증…환기 필수]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0011173450&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211210&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011173450&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211210&amp;page=1"/>
-        <updated>2021-12-10T07:06:20.190Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
