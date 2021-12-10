@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-12-10T04:08:21.081Z</updated>
+    <updated>2021-12-10T05:07:23.144Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미국 전기차 '3대장' 테슬라·리비안·루시드 주가 일제히 급락]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004639014&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211210&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004639014&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211210&amp;page=1"/>
+        <updated>2021-12-10T05:05:45.534Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004639014&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211210&amp;page=1" title="미국 전기차 '3대장' 테슬라·리비안·루시드 주가 일제히 급락">미국 전기차 '3대장' 테슬라·리비안·루시드 주가 일제히 급락</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美 사장님들의 주식 매도 행진…"주가 고점 신호"]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005104183&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211210&amp;page=1</id>
@@ -46,19 +53,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005104003&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211210&amp;page=1"/>
         <updated>2021-12-10T00:19:59.018Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005104003&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211210&amp;page=1" title="환율, 나흘만에 상승 전환…1170원대 후반대 등락">환율, 나흘만에 상승 전환…1170원대 후반대 등락</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["왓츠앱서 암호화폐 주고받기 가능해진다"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001002649&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211210&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001002649&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211210&amp;page=1"/>
-        <updated>2021-12-10T00:19:59.031Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0001002649&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211210&amp;page=1" title="&quot;왓츠앱서 암호화폐 주고받기 가능해진다&quot;">"왓츠앱서 암호화폐 주고받기 가능해진다"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["40년 만에 최악의 인플레이션...美 CPI 7.0% 상승 전망"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001002647&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211210&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001002647&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211210&amp;page=1"/>
-        <updated>2021-12-10T00:19:59.032Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0001002647&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211210&amp;page=1" title="&quot;40년 만에 최악의 인플레이션...美 CPI 7.0% 상승 전망&quot;">"40년 만에 최악의 인플레이션...美 CPI 7.0% 상승 전망"</a>]]></content>
     </entry>
 </feed>
