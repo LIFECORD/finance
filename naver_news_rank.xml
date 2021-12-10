@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-12-10T02:24:09.367Z</updated>
+    <updated>2021-12-10T03:07:38.364Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 팜스토리, 美 뉴로보 경구용 코로나 치료제 임상결과 ..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001923188&amp;office_id=016&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001923188&amp;office_id=016&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-10T10:47:00.000Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주]LG이노텍, 내년도 실적 기대감 힘입어 주가 강세]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003995362&amp;office_id=011&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003995362&amp;office_id=011&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-10T10:59:00.000Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미 주간 실업수당 청구 18만4000건…52년만 최저]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001002610&amp;office_id=215&amp;mode=RANK&amp;typ=0</id>
@@ -25,6 +39,13 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003658765&amp;office_id=023&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-12-10T03:05:00.000Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 에스와이, '이동식 음압병동' 단기간 대규모 공급 부..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004753659&amp;office_id=014&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004753659&amp;office_id=014&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-10T10:47:00.000Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[마켓인]흥행 먹구름 VS 오히려 좋아…미니스톱 인수전 새국면]]></title>
@@ -158,26 +179,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005013206&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-12-10T07:28:00.000Z</updated>
         <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴욕증시, 나흘 만에 하락 전환…나스닥 1.71%↓]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000120845&amp;office_id=629&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000120845&amp;office_id=629&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-10T07:31:00.000Z</updated>
-        <content type="html"><![CDATA[더팩트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[결정적 한끗]⑤오징어땅콩, 46년째 '국민간식'된 비결]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000005238&amp;office_id=648&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000005238&amp;office_id=648&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-10T07:01:00.000Z</updated>
-        <content type="html"><![CDATA[비즈니스워치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴스+]탈석탄 내건 국민연금, 관련 주식 비중 살펴보니]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005103887&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005103887&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-10T07:24:00.000Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
