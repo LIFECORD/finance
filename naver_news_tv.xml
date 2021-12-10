@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-12-10T22:05:45.027Z</updated>
+    <updated>2021-12-10T23:06:30.706Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[보험사 "실손보험료 20% 인상"…금융당국 "지나치다"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000939000&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211211&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000939000&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211211&amp;page=1"/>
+        <updated>2021-12-11T07:29:00.000Z</updated>
+        <content type="html"><![CDATA[SBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[월급의 절반이 중간에서 ‘지금도’ 사라진다]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0011173832&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211211&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011173832&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211211&amp;page=1"/>
+        <updated>2021-12-11T07:00:00.000Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[경제 이어 교육까지…코로나19로 생긴 불평등]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0011173825&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211211&amp;page=1</id>
@@ -60,19 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000346156&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211211&amp;page=1"/>
         <updated>2021-12-10T15:05:06.564Z</updated>
         <content type="html"><![CDATA[TV조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["전세 안 빠져 이사 못가"…서울 전세 공급, 수요 넘어섰다]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000346155&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211211&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000346155&amp;office_id=448&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211211&amp;page=1"/>
-        <updated>2021-12-10T15:05:06.565Z</updated>
-        <content type="html"><![CDATA[TV조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나19가 만든 불평등, 경제 넘어 교육까지]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0011173641&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211211&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011173641&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211211&amp;page=1"/>
-        <updated>2021-12-10T15:05:06.567Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
