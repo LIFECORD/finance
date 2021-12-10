@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS2D&amp;section_id=101&amp;section_id2=258</id>
     <title>네이버 금융 ─ 뉴스 ─ 실시간 속보</title>
-    <updated>2021-12-10T20:06:59.126Z</updated>
+    <updated>2021-12-10T21:05:56.356Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[웰링턴자산운용 "인플레이션 1년 이상 지속된다…내년 금리인상 1~2번에 그칠 것"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004639281&amp;office_id=015&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211211&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004639281&amp;office_id=015&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211211&amp;page=1"/>
+        <updated>2021-12-10T21:03:50.496Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004639281&amp;office_id=015&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211211&amp;page=1" title="웰링턴자산운용 &quot;인플레이션 1년 이상 지속된다…내년 금리인상 1~2번에 그칠 것&quot;">웰링턴자산운용 "인플레이션 1년 이상 지속된다…내년 금리인상 1~2번에 그칠 것"</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["이때만 기다렸다" 개미들 삼전 2조 매도 폭탄…외국인 '줍줍']]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004682004&amp;office_id=008&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211211&amp;page=1</id>
@@ -60,12 +67,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001002900&amp;office_id=215&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211211&amp;page=1"/>
         <updated>2021-12-10T16:07:37.184Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0001002900&amp;office_id=215&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211211&amp;page=1" title="기록적인 인플레 지표에도 증시 상승출발·머스크 주식 또 팔았다 [뉴욕증시 나우]">기록적인 인플레 지표에도 증시 상승출발·머스크 주식 또 팔았다 [뉴욕증시 나우]</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SK證, 조직개편·인사 단행…IB 총괄 신설]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0010883386&amp;office_id=003&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211211&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0010883386&amp;office_id=003&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211211&amp;page=1"/>
-        <updated>2021-12-10T15:04:00.789Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0010883386&amp;office_id=003&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211211&amp;page=1" title="SK證, 조직개편·인사 단행…IB 총괄 신설">SK證, 조직개편·인사 단행…IB 총괄 신설</a>]]></content>
     </entry>
 </feed>

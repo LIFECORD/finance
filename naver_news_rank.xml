@@ -2,22 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-12-10T20:06:59.179Z</updated>
+    <updated>2021-12-10T21:05:56.360Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[웰링턴 "인플레, 생각보다 길겠지만…내년 투자환경 긍정적"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001002905&amp;office_id=215&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001002905&amp;office_id=215&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-11T03:00:00.000Z</updated>
-        <content type="html"><![CDATA[한국경제TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[포스코, 결국 '물적분할' 택했다…소액주주 '최정우 비난' 봇물]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000121074&amp;office_id=629&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000121074&amp;office_id=629&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-10T16:08:27.741Z</updated>
-        <content type="html"><![CDATA[더팩트]]></content>
+        <title type="html"><![CDATA[[부꾸미]LG엔솔 기업가치 112조원? 청약하면 몇 주 받을까]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004682002&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004682002&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-11T03:30:00.000Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[주식 매매 상위 종목 및 환율] 2021년 12월 10일자]]></title>
@@ -27,11 +20,18 @@
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[부꾸미]LG엔솔 기업가치 112조원? 청약하면 몇 주 받을까]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004682002&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004682002&amp;office_id=008&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-11T03:30:00.000Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
+        <title type="html"><![CDATA[포스코, 결국 '물적분할' 택했다…소액주주 '최정우 비난' 봇물]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000121074&amp;office_id=629&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000121074&amp;office_id=629&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-10T16:08:27.741Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[웰링턴 "인플레, 생각보다 길겠지만…내년 투자환경 긍정적"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001002905&amp;office_id=215&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001002905&amp;office_id=215&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-11T03:00:00.000Z</updated>
+        <content type="html"><![CDATA[한국경제TV]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["이때만 기다렸다" 개미들 삼전 2조 매도 폭탄…외국인 '줍줍']]></title>
@@ -46,5 +46,12 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000646141&amp;office_id=469&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-12-11T04:31:00.000Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[웰링턴자산운용 "인플레이션 1년 이상 지속된다…내년 금리인상 1..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004639281&amp;office_id=015&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004639281&amp;office_id=015&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-11T05:29:00.000Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
