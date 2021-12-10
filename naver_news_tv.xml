@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-12-10T01:51:08.301Z</updated>
+    <updated>2021-12-10T02:24:09.359Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[산업부, 전기안전대상 개최…"체계적 전기안전관리 시스템 구축"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001627399&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211210&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001627399&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211210&amp;page=1"/>
+        <updated>2021-12-10T11:07:00.000Z</updated>
+        <content type="html"><![CDATA[MBN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방통위-중기부, 중소·벤처기업 지원 광고마케팅 MOU 체결]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001627390&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211210&amp;page=1</id>
@@ -41,7 +48,7 @@
         <content type="html"><![CDATA[MBN]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["3일에 300만 원"…반려동물 병원비, 부르는 게 값?]]></title>
+        <title type="html"><![CDATA["3일에 3백" "부르는 게 값"…수의사법 개정, 달라질까?]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000938812&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211210&amp;page=1</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000938812&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211210&amp;page=1"/>
         <updated>2021-12-10T10:07:00.000Z</updated>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000267430&amp;office_id=374&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211210&amp;page=1"/>
         <updated>2021-12-10T09:41:00.000Z</updated>
         <content type="html"><![CDATA[SBS Biz]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[예상보다 8년 빨리 온 인구 감소…50년 후 '3천만 대한민국']]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001627359&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211210&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001627359&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211210&amp;page=1"/>
-        <updated>2021-12-10T09:38:00.000Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
     </entry>
 </feed>

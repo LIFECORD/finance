@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-12-10T01:51:08.278Z</updated>
+    <updated>2021-12-10T02:24:09.367Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -60,6 +60,13 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005775971&amp;office_id=421&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-12-10T07:08:00.000Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특징주] 뉴프렉스, 페이스북 '호라이즌 월드' 오픈… 오큘러스..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000763214&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000763214&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-10T10:22:00.000Z</updated>
+        <content type="html"><![CDATA[머니S]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뉴욕증시 하락마감 나스닥 1.71% 후퇴, 오늘 코스피는?]]></title>
@@ -130,13 +137,6 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005103882&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-12-10T07:05:00.000Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신한금투 "LG전자, 12월에 살 만하다"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003995247&amp;office_id=011&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003995247&amp;office_id=011&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-10T08:39:00.000Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["中 생산자물가지수서 찾은 희망…내년 경기 회복 가능성 有"]]></title>
