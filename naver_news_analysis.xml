@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=402</id>
     <title>네이버 금융 ─ 뉴스 ─ 기업 종목분석</title>
-    <updated>2021-12-10T11:06:12.119Z</updated>
+    <updated>2021-12-10T12:10:37.667Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[세계 최대 PEF 블랙스톤, 韓재진출.. 초대 회장에 하영구 前은행연합회 회장]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004753907&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211210&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004753907&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211210&amp;page=1"/>
+        <updated>2021-12-10T12:08:43.057Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004753907&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211210&amp;page=1" title="세계 최대 PEF 블랙스톤, 韓재진출.. 초대 회장에 하영구 前은행연합회 회장">세계 최대 PEF 블랙스톤, 韓재진출.. 초대 회장에 하영구 前은행연합회 회장</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LG전자, 내년 이익 개선 유력…전장사업 급성장할 것-신한금융투자]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004753900&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211210&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004639144&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211210&amp;page=1"/>
         <updated>2021-12-10T09:05:34.913Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004639144&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211210&amp;page=1" title="신성이엔지, 흑자전환 기대에 14% 급등">신성이엔지, 흑자전환 기대에 14% 급등</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[표]장외주식 거래현황(12/10)]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005104467&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211210&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005104467&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211210&amp;page=1"/>
-        <updated>2021-12-10T08:06:36.756Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005104467&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211210&amp;page=1" title="[표]장외주식 거래현황(12/10)">[표]장외주식 거래현황(12/10)</a>]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-12-10T11:06:12.118Z</updated>
+    <updated>2021-12-10T12:10:37.687Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[골드만삭스, 사우스웨스트항공 중립→매도... 목표가 36달러]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001002885&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211210&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001002885&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211210&amp;page=1"/>
+        <updated>2021-12-10T12:08:50.663Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0001002885&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211210&amp;page=1" title="골드만삭스, 사우스웨스트항공 중립→매도... 목표가 36달러">골드만삭스, 사우스웨스트항공 중립→매도... 목표가 36달러</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[표]아시아 주요 증시 동향(12월 10일)]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003995590&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211210&amp;page=1</id>
@@ -32,12 +39,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005104443&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211210&amp;page=1"/>
         <updated>2021-12-10T08:06:42.859Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005104443&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211210&amp;page=1" title="[외환마감]美 물가지표 대기, 국내증시 하락…환율, 나흘만에 1180원대">[외환마감]美 물가지표 대기, 국내증시 하락…환율, 나흘만에 1180원대</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["이런 전례가 없었다" 미 CEO들 자사주 대거 매도 이유가?]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004891946&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211210&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004891946&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211210&amp;page=1"/>
-        <updated>2021-12-10T07:05:40.249Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004891946&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211210&amp;page=1" title="&quot;이런 전례가 없었다&quot; 미 CEO들 자사주 대거 매도 이유가?">"이런 전례가 없었다" 미 CEO들 자사주 대거 매도 이유가?</a>]]></content>
     </entry>
 </feed>
