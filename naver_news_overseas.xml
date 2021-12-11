@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-12-11T01:51:49.563Z</updated>
+    <updated>2021-12-11T02:28:04.869Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["이러니 애플 걱정은 쓸데없지"…시총 3조달러 임박]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004639309&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211211&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004639309&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211211&amp;page=1"/>
+        <updated>2021-12-11T02:26:06.118Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004639309&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211211&amp;page=1" title="&quot;이러니 애플 걱정은 쓸데없지&quot;…시총 3조달러 임박">"이러니 애플 걱정은 쓸데없지"…시총 3조달러 임박</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美 소비자물가 급등에도 S&P '사상최고' 또 경신]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003995641&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211211&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001002890&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211211&amp;page=1"/>
         <updated>2021-12-10T15:04:27.617Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0001002890&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211211&amp;page=1" title="베트남 '新농업강국의 꿈', 한국 농업 장인들 초청 'K-농업기술 전수 · 교류'">베트남 '新농업강국의 꿈', 한국 농업 장인들 초청 'K-농업기술 전수 · 교류'</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美CDC '베트남, 코로나19 감염 위험 높아'…고위험 여행국가 재 지정 [KVINA]]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001002889&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211211&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001002889&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211211&amp;page=1"/>
-        <updated>2021-12-10T15:04:27.618Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0001002889&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211211&amp;page=1" title="美CDC '베트남, 코로나19 감염 위험 높아'…고위험 여행국가 재 지정 [KVINA]">美CDC '베트남, 코로나19 감염 위험 높아'…고위험 여행국가 재 지정 [KVINA]</a>]]></content>
     </entry>
 </feed>

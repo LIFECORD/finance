@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-12-11T01:51:49.598Z</updated>
+    <updated>2021-12-11T02:28:04.911Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[나흘째 7천명 안팎 확진…사망자 또 최대치]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000518079&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211211&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000518079&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211211&amp;page=1"/>
+        <updated>2021-12-11T11:12:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뉴스초점] 신규확진 6,977명…사망자 또 최대치]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000518078&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211211&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000518078&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211211&amp;page=1"/>
+        <updated>2021-12-11T11:00:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[성인 5명 중 1명 "삶이 외롭다"…고립감 심화]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000518073&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211211&amp;page=1</id>
@@ -60,19 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000518045&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211211&amp;page=1"/>
         <updated>2021-12-11T09:15:00.000Z</updated>
         <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“탄소중립 대전환 94조 투자·규제 혁신”…산업계 “경제 위축”]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0011173840&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211211&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0011173840&amp;office_id=056&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211211&amp;page=1"/>
-        <updated>2021-12-11T07:33:00.000Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[보험사 "실손보험료 20% 인상"…금융당국 "지나치다"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000939000&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211211&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000939000&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211211&amp;page=1"/>
-        <updated>2021-12-11T07:29:00.000Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>
