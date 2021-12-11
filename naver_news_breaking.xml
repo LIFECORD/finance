@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS2D&amp;section_id=101&amp;section_id2=258</id>
     <title>네이버 금융 ─ 뉴스 ─ 실시간 속보</title>
-    <updated>2021-12-11T06:07:27.720Z</updated>
+    <updated>2021-12-11T07:06:54.006Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[韓 양극재株, 수요 호조에 가격 인상 기대감 반영될까?]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005013805&amp;office_id=277&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211211&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005013805&amp;office_id=277&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211211&amp;page=1"/>
+        <updated>2021-12-11T07:04:32.706Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005013805&amp;office_id=277&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211211&amp;page=1" title="韓 양극재株, 수요 호조에 가격 인상 기대감 반영될까?">韓 양극재株, 수요 호조에 가격 인상 기대감 반영될까?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에프엔에스테크, 디스플레이·반도체 균형에다 '친환경'까지]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005104700&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211211&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005104677&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211211&amp;page=1"/>
         <updated>2021-12-11T05:04:32.947Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005104677&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211211&amp;page=1" title="[금나와라 뚝딱]내년 IPO 시장 뛰어갈까 쉬어갈까">[금나와라 뚝딱]내년 IPO 시장 뛰어갈까 쉬어갈까</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[별별 금융상품]내년에도 친환경·바이오 테마 ETF 통할까]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000005256&amp;office_id=648&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211211&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000005256&amp;office_id=648&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211211&amp;page=1"/>
-        <updated>2021-12-11T05:04:32.947Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000005256&amp;office_id=648&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211211&amp;page=1" title="[별별 금융상품]내년에도 친환경·바이오 테마 ETF 통할까">[별별 금융상품]내년에도 친환경·바이오 테마 ETF 통할까</a>]]></content>
     </entry>
 </feed>
