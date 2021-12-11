@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-12-11T22:06:16.431Z</updated>
+    <updated>2021-12-11T23:06:52.538Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[반환 미군기지 시민 품으로…내년 3월 첫 개방]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000518171&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211212&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000518171&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211212&amp;page=1"/>
+        <updated>2021-12-12T07:40:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["100원만 있어도 주주가 된다"...최저·최고가 주식은?]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001676047&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211212&amp;page=1</id>
@@ -66,13 +73,6 @@
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001627668&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211212&amp;page=1</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001627668&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211212&amp;page=1"/>
         <updated>2021-12-11T15:04:57.460Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[종합뉴스 날씨]휴일, 오후부터 미세먼지 차츰 해소…찬바람에 낮 기온 뚝↓]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001627666&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211212&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001627666&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211212&amp;page=1"/>
-        <updated>2021-12-11T15:04:57.461Z</updated>
         <content type="html"><![CDATA[MBN]]></content>
     </entry>
 </feed>
