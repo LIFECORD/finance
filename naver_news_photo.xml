@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-12-11T07:06:54.037Z</updated>
+    <updated>2021-12-11T08:08:17.626Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘내년’-'상장'-'LG에너지솔루션'으로 이어진 주식 키워드 [주간 株토픽]]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000019824&amp;office_id=243&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211211&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000019824&amp;office_id=243&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211211&amp;page=1"/>
+        <updated>2021-12-11T08:07:00.427Z</updated>
+        <content type="html"><![CDATA[이코노미스트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[자산운용업계, ETF 급성장에 CEO 교체 바람]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0010883829&amp;office_id=003&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211211&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0010883829&amp;office_id=003&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211211&amp;page=1"/>
+        <updated>2021-12-11T08:07:00.431Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[韓 양극재株, 수요 호조에 가격 인상 기대감 반영될까?]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005013805&amp;office_id=277&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211211&amp;page=1</id>
@@ -60,19 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003995675&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211211&amp;page=1"/>
         <updated>2021-12-11T05:05:33.722Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서학개미, 18년간 160배 급증...절반이 미국, 올해 1위 종목은?]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0010883698&amp;office_id=003&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211211&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0010883698&amp;office_id=003&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211211&amp;page=1"/>
-        <updated>2021-12-11T05:05:33.725Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[금나와라 뚝딱]내년 IPO 시장 뛰어갈까 쉬어갈까]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005104677&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211211&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005104677&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211211&amp;page=1"/>
-        <updated>2021-12-11T05:05:33.726Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
