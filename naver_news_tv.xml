@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-12-11T18:07:08.123Z</updated>
+    <updated>2021-12-11T19:05:55.893Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[닷새째 7천명 안팎 확진 예상…오미크론 확산 우려]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000518138&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211212&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000518138&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211212&amp;page=1"/>
+        <updated>2021-12-12T03:25:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["오미크론 확진자 증상 가벼워...부스터 샷, 예방 효과 높여"]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001675993&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211212&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001165441&amp;office_id=214&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211212&amp;page=1"/>
         <updated>2021-12-11T15:04:57.466Z</updated>
         <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["60년대 이후 처음"…남해안 굴 집단폐사 왜?]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001627661&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211212&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001627661&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211212&amp;page=1"/>
-        <updated>2021-12-11T15:04:57.468Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
     </entry>
 </feed>
