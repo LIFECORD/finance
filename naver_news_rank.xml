@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-12-11T13:15:00.804Z</updated>
+    <updated>2021-12-11T14:05:38.148Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
     <entry>
@@ -13,11 +13,25 @@
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[금나와라 뚝딱]내년 IPO 시장 뛰어갈까 쉬어갈까]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005104677&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005104677&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-11T06:06:12.916Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[지지부진 증시에 개미 이탈…위력 줄어들까]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0010883872&amp;office_id=003&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0010883872&amp;office_id=003&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-12-11T11:04:51.291Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[별별 금융상품]내년에도 친환경·바이오 테마 ETF 통할까]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000005256&amp;office_id=648&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000005256&amp;office_id=648&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-11T05:05:27.386Z</updated>
+        <content type="html"><![CDATA[비즈니스워치]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[韓 양극재株, 수요 호조에 가격 인상 기대감 반영될까?]]></title>
@@ -27,18 +41,25 @@
         <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[금나와라 뚝딱]내년 IPO 시장 뛰어갈까 쉬어갈까]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005104677&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005104677&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-11T06:06:12.916Z</updated>
+        <title type="html"><![CDATA[에프엔에스테크, 디스플레이·반도체 균형에다 '친환경'까지]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005104700&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005104700&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-11T07:05:31.604Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘내년’-'상장'-'LG에너지솔루션'으로 이어진 주식 키워드 [..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000019824&amp;office_id=243&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000019824&amp;office_id=243&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-11T09:05:30.232Z</updated>
-        <content type="html"><![CDATA[이코노미스트]]></content>
+        <title type="html"><![CDATA[[뒷북경제]중국산에 잠식당하는 탄소중립]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003995675&amp;office_id=011&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003995675&amp;office_id=011&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-11T07:05:31.583Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[해외주식투자, 2년 새 5배 증가...절반이 미국, 최다거래 종..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005104696&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005104696&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-11T07:05:31.587Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[서학개미, 18년간 160배 급증...절반이 미국, 올해 1위 ..]]></title>
@@ -55,39 +76,11 @@
         <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[해외주식투자, 2년 새 5배 증가...절반이 미국, 최다거래 종..]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005104696&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005104696&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-11T07:05:31.587Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에프엔에스테크, 디스플레이·반도체 균형에다 '친환경'까지]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005104700&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005104700&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-11T07:05:31.604Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[별별 금융상품]내년에도 친환경·바이오 테마 ETF 통할까]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000005256&amp;office_id=648&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000005256&amp;office_id=648&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-11T05:05:27.386Z</updated>
-        <content type="html"><![CDATA[비즈니스워치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비야디, 전기차 호실적에도 주가는 '지지부진'…빼야 할까?]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005104688&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005104688&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-11T07:05:31.581Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[또 오른 애플 주가…시총 3조달러 눈앞]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000641876&amp;office_id=031&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000641876&amp;office_id=031&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-11T07:05:31.584Z</updated>
-        <content type="html"><![CDATA[아이뉴스24]]></content>
+        <title type="html"><![CDATA[‘내년’-'상장'-'LG에너지솔루션'으로 이어진 주식 키워드 [..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000019824&amp;office_id=243&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000019824&amp;office_id=243&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-11T09:05:30.232Z</updated>
+        <content type="html"><![CDATA[이코노미스트]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[점도표 대폭 상향 예상한 더들리 전 뉴욕 연은 총재…기준금리 인..]]></title>
@@ -97,11 +90,11 @@
         <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[뒷북경제]중국산에 잠식당하는 탄소중립]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003995675&amp;office_id=011&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003995675&amp;office_id=011&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-11T07:05:31.583Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
+        <title type="html"><![CDATA[비야디, 전기차 호실적에도 주가는 '지지부진'…빼야 할까?]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005104688&amp;office_id=018&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005104688&amp;office_id=018&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-11T07:05:31.581Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[증권가, LG전자 주목하는 이유는]]></title>
@@ -111,6 +104,13 @@
         <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[또 오른 애플 주가…시총 3조달러 눈앞]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000641876&amp;office_id=031&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000641876&amp;office_id=031&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-11T07:05:31.584Z</updated>
+        <content type="html"><![CDATA[아이뉴스24]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[LG전자, 12월이 매수 적기… 증권가 "최근 10년 동안 연말..]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000763570&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000763570&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
@@ -118,25 +118,32 @@
         <content type="html"><![CDATA[머니S]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["시장의 시선, 오미크론에서 연준으로"]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005013780&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005013780&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-11T11:49:00.000Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
+        <title type="html"><![CDATA['풍년에 흘리는 눈물'…쌀 과잉생산에 애타는 농민]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001627663&amp;office_id=057&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001627663&amp;office_id=057&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-11T13:13:39.408Z</updated>
+        <content type="html"><![CDATA[MBN]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[증시 흔든 '3대 악재' 전환 국면…FOMC 쏠린 투자 전략은?]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005013787&amp;office_id=277&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005013787&amp;office_id=277&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-11T05:05:27.389Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
+        <title type="html"><![CDATA[베트남 하노이시, 오토바이 도심 운행 금지 추진 [KVINA]]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001002968&amp;office_id=215&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001002968&amp;office_id=215&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-11T14:04:19.229Z</updated>
+        <content type="html"><![CDATA[한국경제TV]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[주간 추천주] "키워드는 IT"…LG전자·LG이노텍 '러브콜']]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000641873&amp;office_id=031&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000641873&amp;office_id=031&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-11T00:01:00.000Z</updated>
-        <content type="html"><![CDATA[아이뉴스24]]></content>
+        <title type="html"><![CDATA[오징어게임, 올해 베트남에서 가장 많이 구글링된 영화 [KVIN..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001002966&amp;office_id=215&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001002966&amp;office_id=215&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-11T14:04:19.230Z</updated>
+        <content type="html"><![CDATA[한국경제TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[레고, 10억달러 규모 베트남 공장 건설 [KVINA]]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001002965&amp;office_id=215&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001002965&amp;office_id=215&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-11T14:04:19.232Z</updated>
+        <content type="html"><![CDATA[한국경제TV]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ESG채권, 탄소배출 많은 업종서 비중 높아]]></title>
@@ -158,13 +165,6 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004639301&amp;office_id=015&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-12-11T09:18:00.000Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['풍년에 흘리는 눈물'…쌀 과잉생산에 애타는 농민]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001627663&amp;office_id=057&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001627663&amp;office_id=057&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-11T13:13:39.408Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[기업공시 12월 10일]나노브릭, 주당 1.2주 배정하는 무상..]]></title>
