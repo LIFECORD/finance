@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-12-11T20:06:45.686Z</updated>
+    <updated>2021-12-11T21:06:23.378Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[퇴직연금 판 바뀐다...수익률 따라 증권사로 ‘머니무브’]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0002556543&amp;office_id=119&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211212&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0002556543&amp;office_id=119&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211212&amp;page=1"/>
+        <updated>2021-12-12T06:01:00.000Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['슈퍼개미/ 꿈꾼 개인전문투자자, 2년새 8배 급증… "등록 신중해야"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000763616&amp;office_id=417&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211212&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000763616&amp;office_id=417&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211212&amp;page=1"/>
+        <updated>2021-12-12T05:57:00.000Z</updated>
+        <content type="html"><![CDATA[머니S]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[빅3 대형운용사 CEO 교체..키워드는 'ETF'·'부동산']]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004682116&amp;office_id=008&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211212&amp;page=1</id>
@@ -60,19 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000763570&amp;office_id=417&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211212&amp;page=1"/>
         <updated>2021-12-11T15:04:50.383Z</updated>
         <content type="html"><![CDATA[머니S]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘내년’-'상장'-'LG에너지솔루션'으로 이어진 주식 키워드 [주간 株토픽]]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000019824&amp;office_id=243&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211212&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000019824&amp;office_id=243&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211212&amp;page=1"/>
-        <updated>2021-12-11T15:04:50.384Z</updated>
-        <content type="html"><![CDATA[이코노미스트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자산운용업계, ETF 급성장에 CEO 교체 바람]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0010883829&amp;office_id=003&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211212&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0010883829&amp;office_id=003&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211212&amp;page=1"/>
-        <updated>2021-12-11T15:04:50.386Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
