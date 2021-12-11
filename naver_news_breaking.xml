@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS2D&amp;section_id=101&amp;section_id2=258</id>
     <title>네이버 금융 ─ 뉴스 ─ 실시간 속보</title>
-    <updated>2021-12-11T09:06:51.532Z</updated>
+    <updated>2021-12-11T10:06:24.862Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지지부진 증시에 개미 이탈…위력 줄어들까]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0010883872&amp;office_id=003&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211211&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0010883872&amp;office_id=003&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211211&amp;page=1"/>
+        <updated>2021-12-11T10:04:07.125Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0010883872&amp;office_id=003&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211211&amp;page=1" title="지지부진 증시에 개미 이탈…위력 줄어들까">지지부진 증시에 개미 이탈…위력 줄어들까</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[점도표 대폭 상향 예상한 더들리 전 뉴욕 연은 총재…기준금리 인상 임박했나]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005013815&amp;office_id=277&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211211&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000641876&amp;office_id=031&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211211&amp;page=1"/>
         <updated>2021-12-11T06:05:21.965Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0000641876&amp;office_id=031&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211211&amp;page=1" title="또 오른 애플 주가…시총 3조달러 눈앞">또 오른 애플 주가…시총 3조달러 눈앞</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이번주 ETF] 다 같은 탄소배출권이 아니라고?…KEUA vs KCCA]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005104695&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211211&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005104695&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211211&amp;page=1"/>
-        <updated>2021-12-11T06:05:21.965Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005104695&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211211&amp;page=1" title="[이번주 ETF] 다 같은 탄소배출권이 아니라고?…KEUA vs KCCA">[이번주 ETF] 다 같은 탄소배출권이 아니라고?…KEUA vs KCCA</a>]]></content>
     </entry>
 </feed>
