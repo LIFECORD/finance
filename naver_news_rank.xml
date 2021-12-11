@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=RANK</id>
     <title>네이버 금융 ─ 뉴스 ─ 많이 본 뉴스</title>
-    <updated>2021-12-11T21:06:23.370Z</updated>
+    <updated>2021-12-11T22:06:16.420Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[증권사별 '주간 추천 종목' 얼마나 올랐나…상승률 비교해보니]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000121135&amp;office_id=629&amp;mode=RANK&amp;typ=0</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000121135&amp;office_id=629&amp;mode=RANK&amp;typ=0"/>
-        <updated>2021-12-11T16:07:04.607Z</updated>
-        <content type="html"><![CDATA[더팩트]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[빅3 대형운용사 CEO 교체..키워드는 'ETF'·'부동산']]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004682116&amp;office_id=008&amp;mode=RANK&amp;typ=0</id>
@@ -20,10 +13,38 @@
         <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[증권사별 '주간 추천 종목' 얼마나 올랐나…상승률 비교해보니]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000121135&amp;office_id=629&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000121135&amp;office_id=629&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-11T16:07:04.607Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['슈퍼개미/ 꿈꾼 개인전문투자자, 2년새 8배 급증… "등록 신..]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000763616&amp;office_id=417&amp;mode=RANK&amp;typ=0</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000763616&amp;office_id=417&amp;mode=RANK&amp;typ=0"/>
         <updated>2021-12-12T05:57:00.000Z</updated>
         <content type="html"><![CDATA[머니S]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[IPO 결산]대어급 풍년에 신기록 쏟아져…공모금액 20조 '사..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005778733&amp;office_id=421&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005778733&amp;office_id=421&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-12T06:07:00.000Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[IPO 결산]'대장주 세대교체'…금융·게임·조선·진단키트 '새..]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005778730&amp;office_id=421&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005778730&amp;office_id=421&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-12T06:05:00.000Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[새해초부터 공모주 열풍 재점화…'공룡급' LG엔솔 등 줄줄이]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005778736&amp;office_id=421&amp;mode=RANK&amp;typ=0</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005778736&amp;office_id=421&amp;mode=RANK&amp;typ=0"/>
+        <updated>2021-12-12T06:11:00.000Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
