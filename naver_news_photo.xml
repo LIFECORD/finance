@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-12-11T08:08:17.626Z</updated>
+    <updated>2021-12-11T09:06:51.560Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[점도표 대폭 상향 예상한 더들리 전 뉴욕 연은 총재…기준금리 인상 임박했나]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005013815&amp;office_id=277&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211211&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005013815&amp;office_id=277&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211211&amp;page=1"/>
+        <updated>2021-12-11T09:05:37.400Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LG전자, 12월이 매수 적기… 증권가 "최근 10년 동안 연말연초 주가 7번 올라"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000763570&amp;office_id=417&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211211&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000763570&amp;office_id=417&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211211&amp;page=1"/>
+        <updated>2021-12-11T09:05:37.402Z</updated>
+        <content type="html"><![CDATA[머니S]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘내년’-'상장'-'LG에너지솔루션'으로 이어진 주식 키워드 [주간 株토픽]]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000019824&amp;office_id=243&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211211&amp;page=1</id>
@@ -60,19 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005104695&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211211&amp;page=1"/>
         <updated>2021-12-11T06:06:19.233Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비야디, 전기차 호실적에도 주가는 '지지부진'…빼야 할까?]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005104688&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211211&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005104688&amp;office_id=018&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211211&amp;page=1"/>
-        <updated>2021-12-11T05:05:33.720Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뒷북경제]중국산에 잠식당하는 탄소중립]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003995675&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211211&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003995675&amp;office_id=011&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211211&amp;page=1"/>
-        <updated>2021-12-11T05:05:33.722Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
