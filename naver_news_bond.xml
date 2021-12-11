@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=404</id>
     <title>네이버 금융 ─ 뉴스 ─ 채권 선물</title>
-    <updated>2021-12-11T05:06:45.424Z</updated>
+    <updated>2021-12-11T06:07:27.716Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[이번주 ETF] 다 같은 탄소배출권이 아니라고?…KEUA vs KCCA]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005104695&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211211&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005104695&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211211&amp;page=1"/>
+        <updated>2021-12-11T06:05:54.248Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005104695&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211211&amp;page=1" title="[이번주 ETF] 다 같은 탄소배출권이 아니라고?…KEUA vs KCCA">[이번주 ETF] 다 같은 탄소배출권이 아니라고?…KEUA vs KCCA</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[비야디, 전기차 호실적에도 주가는 '지지부진'…빼야 할까?]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005104688&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211211&amp;page=1</id>
@@ -32,12 +39,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005103908&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211211&amp;page=1"/>
         <updated>2021-12-10T15:04:33.359Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005103908&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211211&amp;page=1" title="국내 주식형 펀드 자금, 2거래일 만에 순유출 전환">국내 주식형 펀드 자금, 2거래일 만에 순유출 전환</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[표]주가지수선물 투자자별 매매동향(12/9)]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005103645&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211211&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005103645&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211211&amp;page=1"/>
-        <updated>2021-12-10T15:04:33.360Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005103645&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211211&amp;page=1" title="[표]주가지수선물 투자자별 매매동향(12/9)">[표]주가지수선물 투자자별 매매동향(12/9)</a>]]></content>
     </entry>
 </feed>
