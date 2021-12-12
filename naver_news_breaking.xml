@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS2D&amp;section_id=101&amp;section_id2=258</id>
     <title>네이버 금융 ─ 뉴스 ─ 실시간 속보</title>
-    <updated>2021-12-12T16:08:22.075Z</updated>
+    <updated>2021-12-12T17:14:32.262Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[잘 나가는 게임주…진짜 보석 어디?]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005105075&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211213&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005105075&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211213&amp;page=1"/>
+        <updated>2021-12-12T17:12:21.910Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005105075&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211213&amp;page=1" title="잘 나가는 게임주…진짜 보석 어디?">잘 나가는 게임주…진짜 보석 어디?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연말 배당주 막차 탈 시간…언제 사고 언제 팔까]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005105073&amp;office_id=018&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211213&amp;page=1</id>
@@ -46,12 +53,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003659119&amp;office_id=023&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211213&amp;page=1"/>
         <updated>2021-12-12T15:04:18.480Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003659119&amp;office_id=023&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211213&amp;page=1" title="홍콩 투자 개미들은 물렸다... 순매수 상위 5개 종목 봤더니">홍콩 투자 개미들은 물렸다... 순매수 상위 5개 종목 봤더니</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정부·국회, 카드 수수료 인하안 막판 조율중]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0002710574&amp;office_id=029&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211213&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0002710574&amp;office_id=029&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211213&amp;page=1"/>
-        <updated>2021-12-12T15:04:18.480Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0002710574&amp;office_id=029&amp;mode=LSS2D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211213&amp;page=1" title="정부·국회, 카드 수수료 인하안 막판 조율중">정부·국회, 카드 수수료 인하안 막판 조율중</a>]]></content>
     </entry>
 </feed>
