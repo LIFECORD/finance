@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=401</id>
     <title>네이버 금융 ─ 뉴스 ─ 시황·전망</title>
-    <updated>2021-12-11T23:06:52.540Z</updated>
+    <updated>2021-12-12T00:23:21.223Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오미크론에도 회복하던 코스피…변수도 '산적' [주간전망]]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004639523&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211212&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004639523&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211212&amp;page=1"/>
+        <updated>2021-12-12T00:21:23.994Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004639523&amp;office_id=015&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211212&amp;page=1" title="오미크론에도 회복하던 코스피…변수도 '산적' [주간전망]">오미크론에도 회복하던 코스피…변수도 '산적' [주간전망]</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주린이를 위한 공모주 청약 A to Z [코주부 베이직-4-]]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003995634&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211212&amp;page=1</id>
@@ -46,12 +53,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003995578&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211212&amp;page=1"/>
         <updated>2021-12-11T15:04:03.614Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003995578&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211212&amp;page=1" title="미워도 다시한번···中펀드 찾는 동학개미">미워도 다시한번···中펀드 찾는 동학개미</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[표] 주요 증시 지표 (12월 10일)]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004892112&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211212&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004892112&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211212&amp;page=1"/>
-        <updated>2021-12-11T15:04:03.616Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004892112&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=401&amp;date=20211212&amp;page=1" title="[표] 주요 증시 지표 (12월 10일)">[표] 주요 증시 지표 (12월 10일)</a>]]></content>
     </entry>
 </feed>

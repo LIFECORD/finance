@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-12-11T23:06:52.538Z</updated>
+    <updated>2021-12-12T00:23:21.229Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[추가접종 간격 3개월로 단축…내일부터 사전예약]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000518183&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211212&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000518183&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211212&amp;page=1"/>
+        <updated>2021-12-12T09:05:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내년도 전기·가스요금 동결할 듯…물가안정에 총력]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000518179&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211212&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000518179&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211212&amp;page=1"/>
+        <updated>2021-12-12T08:37:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[반환 미군기지 시민 품으로…내년 3월 첫 개방]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000518171&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211212&amp;page=1</id>
@@ -59,20 +73,6 @@
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001627670&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211212&amp;page=1</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0001627670&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211212&amp;page=1"/>
         <updated>2021-12-11T15:04:57.458Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] '신변보호' 여성 "성폭력·감금"…경찰, 자필 진술서만 받고 풀어줬다]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001627669&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211212&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001627669&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211212&amp;page=1"/>
-        <updated>2021-12-11T15:04:57.459Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[12월 11일 MBN 종합뉴스 클로징]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001627668&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211212&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001627668&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211212&amp;page=1"/>
-        <updated>2021-12-11T15:04:57.460Z</updated>
         <content type="html"><![CDATA[MBN]]></content>
     </entry>
 </feed>
