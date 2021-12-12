@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=429</id>
     <title>네이버 금융 ─ 뉴스 ─ 환율</title>
-    <updated>2021-12-12T08:07:31.308Z</updated>
+    <updated>2021-12-12T09:06:27.987Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[산업데이터 사용·수익권 인정···소유권 분쟁도 해소]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0003995884&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211212&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003995884&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211212&amp;page=1"/>
+        <updated>2021-12-12T09:05:00.223Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003995884&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211212&amp;page=1" title="산업데이터 사용·수익권 인정···소유권 분쟁도 해소">산업데이터 사용·수익권 인정···소유권 분쟁도 해소</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[충남 천안 농장서 AI 의심사례 확인]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0003995840&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211212&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003994986&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211212&amp;page=1"/>
         <updated>2021-12-11T15:04:36.873Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003994986&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211212&amp;page=1" title="한미, 반도체 미래 공급망 리스크 대응방안 모색">한미, 반도체 미래 공급망 리스크 대응방안 모색</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TV홈쇼핑이 유통업체 수수료 가장 높다]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0003994928&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211212&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0003994928&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211212&amp;page=1"/>
-        <updated>2021-12-11T15:04:36.875Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003994928&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=429&amp;date=20211212&amp;page=1" title="TV홈쇼핑이 유통업체 수수료 가장 높다">TV홈쇼핑이 유통업체 수수료 가장 높다</a>]]></content>
     </entry>
 </feed>
