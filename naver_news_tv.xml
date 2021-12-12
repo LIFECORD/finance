@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-12-12T13:14:46.351Z</updated>
+    <updated>2021-12-12T14:06:14.300Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['연초 물가' 제압 나선 정부..."내년도 전기·가스 요금 동결"]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001676249&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211212&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001676249&amp;office_id=052&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211212&amp;page=1"/>
+        <updated>2021-12-12T14:05:08.203Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[12월 12일 MBN 종합뉴스 클로징]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0001627803&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211212&amp;page=1</id>
@@ -67,12 +74,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000939216&amp;office_id=055&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211212&amp;page=1"/>
         <updated>2021-12-12T12:08:53.993Z</updated>
         <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[152명 탄 여객선서 불 '아찔'…집회 막히자 소 2마리 두고 가]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001627796&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211212&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001627796&amp;office_id=057&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211212&amp;page=1"/>
-        <updated>2021-12-12T12:08:53.994Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
     </entry>
 </feed>

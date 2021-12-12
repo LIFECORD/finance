@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSTD&amp;section_id=101&amp;section_id2=258&amp;type=1</id>
     <title>네이버 금융 ─ 뉴스 ─ 포토뉴스</title>
-    <updated>2021-12-12T13:14:46.346Z</updated>
+    <updated>2021-12-12T14:06:14.300Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[표] 주간 주요 증시 지표]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004892747&amp;office_id=009&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211212&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004892747&amp;office_id=009&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211212&amp;page=1"/>
+        <updated>2021-12-12T14:05:01.090Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SGI서울보증, `고가 전세` 대출보증 중단 안 한다..."현행처럼 제공"]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0002710622&amp;office_id=029&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211212&amp;page=1</id>
@@ -66,13 +73,6 @@
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004639713&amp;office_id=015&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211212&amp;page=1</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0004639713&amp;office_id=015&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211212&amp;page=1"/>
         <updated>2021-12-12T10:05:22.706Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올 두배 오른 탄소배출권…내년 더 뜨거워진다]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004639702&amp;office_id=015&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211212&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004639702&amp;office_id=015&amp;mode=LSTD&amp;type=1&amp;section_id=101&amp;section_id2=258&amp;section_id3=&amp;date=20211212&amp;page=1"/>
-        <updated>2021-12-12T10:05:22.707Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
