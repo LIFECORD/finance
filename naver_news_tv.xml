@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=TV&amp;section_id=tv</id>
     <title>네이버 금융 ─ 뉴스 ─ TV뉴스</title>
-    <updated>2021-12-12T01:56:25.963Z</updated>
+    <updated>2021-12-12T02:27:55.799Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[검사건수 감소 영향에 확진자 6천명대…위중증 최다치]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0000518194&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211212&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000518194&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211212&amp;page=1"/>
+        <updated>2021-12-12T11:08:00.000Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴스초점] 신규확진 6천명대…국내 오미크론 확진자 누적 90명]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000518193&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211212&amp;page=1</id>
@@ -66,13 +73,6 @@
         <id>https://finance.naver.com/news/news_read.naver?article_id=0000518155&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211212&amp;page=1</id>
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0000518155&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211212&amp;page=1"/>
         <updated>2021-12-12T04:33:00.000Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["대부업도 금리인하 요구권"…녹록지 않은 현실]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0000518150&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211212&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0000518150&amp;office_id=422&amp;mode=TV&amp;type=2&amp;section_id=115&amp;section_id2=292&amp;section_id3=&amp;date=20211212&amp;page=1"/>
-        <updated>2021-12-12T04:10:00.000Z</updated>
         <content type="html"><![CDATA[연합뉴스TV]]></content>
     </entry>
 </feed>

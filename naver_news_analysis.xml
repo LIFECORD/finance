@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=402</id>
     <title>네이버 금융 ─ 뉴스 ─ 기업 종목분석</title>
-    <updated>2021-12-12T01:56:26.013Z</updated>
+    <updated>2021-12-12T02:27:55.813Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["카카오페이 단기 고점인가?"…신임 대표까지 경영진 8명 자사주 900억 매각]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0004892547&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211212&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004892547&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211212&amp;page=1"/>
+        <updated>2021-12-12T02:26:05.578Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004892547&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211212&amp;page=1" title="&quot;카카오페이 단기 고점인가?&quot;…신임 대표까지 경영진 8명 자사주 900억 매각">"카카오페이 단기 고점인가?"…신임 대표까지 경영진 8명 자사주 900억 매각</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["5년치 연봉 하루만에 벌수도"…LG엔솔 따상 가면 직원 1인당 4억4000만원 차익]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0004892542&amp;office_id=009&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211212&amp;page=1</id>
@@ -53,12 +60,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005013787&amp;office_id=277&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211212&amp;page=1"/>
         <updated>2021-12-11T15:04:10.495Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005013787&amp;office_id=277&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211212&amp;page=1" title="증시 흔든 '3대 악재' 전환 국면…FOMC 쏠린 투자 전략은?">증시 흔든 '3대 악재' 전환 국면…FOMC 쏠린 투자 전략은?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국거래소, 독거노인 등 저소득 취약계층에 연탄 10만장 후원]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0004753964&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211212&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0004753964&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211212&amp;page=1"/>
-        <updated>2021-12-11T15:04:10.497Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0004753964&amp;office_id=014&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=402&amp;date=20211212&amp;page=1" title="한국거래소, 독거노인 등 저소득 취약계층에 연탄 10만장 후원">한국거래소, 독거노인 등 저소득 취약계층에 연탄 10만장 후원</a>]]></content>
     </entry>
 </feed>
