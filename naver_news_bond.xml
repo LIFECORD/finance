@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=404</id>
     <title>네이버 금융 ─ 뉴스 ─ 채권 선물</title>
-    <updated>2021-12-13T00:21:45.362Z</updated>
+    <updated>2021-12-13T01:54:13.139Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[금융결제원, 정보보호 관리체계 인증 획득]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0005105390&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211213&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005105390&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211213&amp;page=1"/>
+        <updated>2021-12-13T01:52:37.426Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005105390&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211213&amp;page=1" title="금융결제원, 정보보호 관리체계 인증 획득">금융결제원, 정보보호 관리체계 인증 획득</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국내 주식형 펀드 자금, 이틀 연속 순유출]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005105105&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211213&amp;page=1</id>
@@ -53,12 +60,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0005104688&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211213&amp;page=1"/>
         <updated>2021-12-12T15:04:51.654Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005104688&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211213&amp;page=1" title="비야디, 전기차 호실적에도 주가는 '지지부진'…빼야 할까?">비야디, 전기차 호실적에도 주가는 '지지부진'…빼야 할까?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[표]주가지수선물 투자자별 매매동향(12/10)]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0005104454&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211213&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0005104454&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211213&amp;page=1"/>
-        <updated>2021-12-12T15:04:51.656Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0005104454&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=404&amp;date=20211213&amp;page=1" title="[표]주가지수선물 투자자별 매매동향(12/10)">[표]주가지수선물 투자자별 매매동향(12/10)</a>]]></content>
     </entry>
 </feed>

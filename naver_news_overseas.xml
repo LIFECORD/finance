@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/news/news_list.naver?mode=LSS3D&amp;section_id=101&amp;section_id2=258&amp;section_id3=403</id>
     <title>네이버 금융 ─ 뉴스 ─ 해외증시</title>
-    <updated>2021-12-13T00:21:45.357Z</updated>
+    <updated>2021-12-13T01:54:13.091Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["보유현금 어디쓰나 했더니"…美 상장사 자사주 매입 역대최고]]></title>
+        <id>https://finance.naver.com/news/news_read.naver?article_id=0001003149&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211213&amp;page=1</id>
+        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001003149&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211213&amp;page=1"/>
+        <updated>2021-12-13T01:52:31.347Z</updated>
+        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0001003149&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211213&amp;page=1" title="&quot;보유현금 어디쓰나 했더니&quot;…美 상장사 자사주 매입 역대최고">"보유현금 어디쓰나 했더니"…美 상장사 자사주 매입 역대최고</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[환율, 하루 만에 하락 전환…1170원대 후반 등락]]></title>
         <id>https://finance.naver.com/news/news_read.naver?article_id=0005105227&amp;office_id=018&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211213&amp;page=1</id>
@@ -46,12 +53,5 @@
         <link href="https://finance.naver.com/news/news_read.naver?article_id=0003995946&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211213&amp;page=1"/>
         <updated>2021-12-12T23:04:35.525Z</updated>
         <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0003995946&amp;office_id=011&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211213&amp;page=1" title="[표]주간 해외 주요 증시 동향(12월 6~10일)">[표]주간 해외 주요 증시 동향(12월 6~10일)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴욕증시, FOMC 결과 촉각...산타랠리 분수령 [출근전 꼭 글로벌브리핑]]]></title>
-        <id>https://finance.naver.com/news/news_read.naver?article_id=0001003063&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211213&amp;page=1</id>
-        <link href="https://finance.naver.com/news/news_read.naver?article_id=0001003063&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211213&amp;page=1"/>
-        <updated>2021-12-12T22:04:09.380Z</updated>
-        <content type="html"><![CDATA[<a href="/news/news_read.naver?article_id=0001003063&amp;office_id=215&amp;mode=LSS3D&amp;type=0&amp;section_id=101&amp;section_id2=258&amp;section_id3=403&amp;date=20211213&amp;page=1" title="뉴욕증시, FOMC 결과 촉각...산타랠리 분수령 [출근전 꼭 글로벌브리핑]">뉴욕증시, FOMC 결과 촉각...산타랠리 분수령 [출근전 꼭 글로벌브리핑]</a>]]></content>
     </entry>
 </feed>

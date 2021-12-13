@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finance.naver.com/research/company_list.naver</id>
     <title>네이버 금융 ─ 리서치 ─ 종목분석 리포트</title>
-    <updated>2021-12-13T00:21:45.373Z</updated>
+    <updated>2021-12-13T01:54:13.132Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finance.naver.com/research/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오래 기다리셨습니다]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/company/1639360187188.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1639360187188.pdf"/>
+        <updated>2021-12-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[에이비엘바이오]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[큰 도약, S&I건설 인수]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/company/1639360120225.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1639360120225.pdf"/>
+        <updated>2021-12-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[자이에스앤디]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[현대엔지니어링 상장 공시 코멘트]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/company/1639359971546.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1639359971546.pdf"/>
+        <updated>2021-12-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[현대건설]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[22년 턴어라운드 전망]]></title>
+        <id>https://ssl.pstatic.net/imgstock/upload/research/company/1639359887639.pdf</id>
+        <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1639359887639.pdf"/>
+        <updated>2021-12-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[마이크로디지탈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[분자진단 분석 플랫폼 개발을 통해 진단 솔루..]]></title>
         <id>https://ssl.pstatic.net/imgstock/upload/research/company/1639101945143.pdf</id>
@@ -186,33 +214,5 @@
         <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1638842276627.pdf"/>
         <updated>2021-12-07T00:00:00.000Z</updated>
         <content type="html"><![CDATA[이엠넷]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[본업을 뛰어넘을 신사업의 성장 가능성]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/company/1638779576364.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1638779576364.pdf"/>
-        <updated>2021-12-06T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[휴벡셀]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3D VR 사업 전문업체]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/company/1638779521746.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1638779521746.pdf"/>
-        <updated>2021-12-06T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[피엔아이컴퍼니]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[동물용 DNA 의약품 전문업체]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/company/1638779483457.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1638779483457.pdf"/>
-        <updated>2021-12-06T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[플럼라인생명과학]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다양한 다중진단 면역측정기술 기반 체외 진..]]></title>
-        <id>https://ssl.pstatic.net/imgstock/upload/research/company/1638779432077.pdf</id>
-        <link href="https://ssl.pstatic.net/imgstock/upload/research/company/1638779432077.pdf"/>
-        <updated>2021-12-06T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[프로테옴텍]]></content>
     </entry>
 </feed>
